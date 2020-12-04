@@ -1,0 +1,2766 @@
+# sent_id = Ch3.gold:1
+# text = Afsengaq neghtuq pagunghaghmeng.
+# gloss = A mouse ate crowberries.
+# labels = complete-dep anno-hayley
+1	afsengaq	afsengaq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=afsengagh*(N)^[Abs.Sg]|Gloss=a-vole
+2	neghtuq	negh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=negh(V)^[Ind.Intr]^[3Sg]|Gloss=it-ate
+3	pagunghaghmeng	pagunghagh	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=pagunghagh*(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-crowberry
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch3.gold:2
+# text = Kaamgek iflaak.
+# gloss = The boots are lost.
+# labels = complete-dep anno-hayley
+1	Kaamgek	kaamg	NOUN	_	Case=Abs|Number=Dual	2	nsubj	_	Analysis=kameg(N)^[Abs.Du]|Gloss=skin-boot
+2	iflaak	ifla	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=3|Valency=1	0	root	_	Analysis=ifla(V)^[Ind.Intr]^[3Du]|Gloss=they-are-lost
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch3.gold:3
+# text = Kaamgek iflaak.
+# gloss = He/she lost the boots.
+# labels = complete-dep anno-hayley
+1	Kaamgek	kaamg	NOUN	_	Case=Abs|Number=Dual	2	obj	_	Analysis=kameg(N)^[Abs.Du]|Gloss=skin-boot
+2	iflaak	ifla	VERB	_	Mood=Ind|Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=ifla(V)^[Ind.Trns]^[3Sg.3Du]|Gloss=he-lost-them
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch3.gold:4
+# text = Aqiigukung.
+# gloss = We went on a long trip.
+# labels = complete-dep anno-hayley
+1	Aqiigukung	aqii	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=1|Valency=1	0	root	_	Analysis=aqii(V)^[Ind.Intr]^[1Du]|Gloss=we-went-on-a-trip
+2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch3.gold:5
+# text = Uupameng esghaatut.
+# gloss = They seen sea peaches.
+# labels = complete-dep anno-hayley
+1	Uupameng	uupa	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=uupa(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-sea-peach
+2	esghaatut	esghaat	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=esghaate(V)^[Ind.Intr]^[3Pl]|Gloss=they-saw-something
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch3.gold:6
+# text = Ukaziq alinguq kaviighmeng.
+# gloss = The rabbit became afraid of foxes.
+# labels = complete-dep anno-hayley
+1	ukaziq	ukaziq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=ukazigh(N)^[Abs.Sg]|Gloss=the-hare
+2	alinguq	aling	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=alinge(V)^[Ind.Intr]^[3Sg]|Gloss=it-became-afraid
+3	kaviighmeng	kaviigh	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=kaviigh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-fox
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch3.gold:7
+# text = Laluramka kaatuq Sivungaghmeng.
+# gloss = The white person arried from Savoonga.
+# labels = complete-dep anno-hayley
+1	Laluramka	Laluramka	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=Laluramke(N)^[Abs.Sg]|Gloss=the-white-person
+2	kaatuq	kaat	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=kaate(V)^[Ind.Intr]^[3Sg]|Gloss=he-arrived
+3	Sivungaghmeng	Sivungagh	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=Sivungagh(N)^[Abl_Mod.Sg]|Gloss=from-Savoonga
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch3.gold:8
+# text = Aqelqat aghulaat.
+# gloss = The guests danced.
+# labels = complete-dep anno-hayley
+1	Aqelqat	aqelqa	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=aqelqagh(N)^[Abs.Pl]|Gloss=the-guests
+2	aghulaat	aghula	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=aghula(V)^[Ind.Intr]^[3Pl]|Gloss=they-danced
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch3.gold:9
+# text = Tafsi taakuq.
+# gloss = The belt is long.
+# labels = complete-dep anno-hayley
+1	tafsi	tafsi	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=tafsi(N)^[Abs.Sg]|Gloss=belt
+2	taakuq	taak	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=taake(V)^[Ind.Intr]^[3Sg]|Gloss=it-is-long
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch3.gold:10
+# text = Neghtusi ulghaaghmeng.
+# gloss = You all ate sea lion.
+# labels = complete-dep anno-hayley
+1	Neghtusi	negh	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=2|Valency=1	0	root	_	Analysis=negh(V)^[Ind.Intr]^[2Pl]|Gloss=you-all-ate
+2	ulghaaghmeng	ulghaagh	NOUN	_	Case=Abl|Number=Sing	1	obl:mod	_	Analysis=ulghaagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-sea-lion
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch3.gold:11
+# text = Naayvameng tagiiq yaywaali.
+# gloss = The orphan came from the lake.
+# labels = complete-dep anno-hayley
+1	Naayvameng	naayva	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=naayvagh(N)^[Abl_Mod.Sg]|Gloss=from-the-lake
+2	tagiiq	tagi	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=tagi(V)^[Ind.Intr]^[3Sg]|Gloss=he-came
+3	yaywaali	yaywaali	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=yaywaali(N)^[Abs.Sg]|Gloss=the-orphan
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch3.gold:12
+# text = Aghnak qiighwtuk.
+# gloss = The two girls coughed.
+# labels = complete-dep anno-hayley
+1	Aghnak	aghna	NOUN	_	Case=Abs|Number=Dual	2	nsubj	_	Analysis=aghnagh(N)^[Abs.Du]|Gloss=the-two-women
+2	qiighwtuk	qiighw	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=3|Valency=1	0	root	_	Analysis=qiighw(V)^[Ind.Intr]^[3Du]|Gloss=they-coughed
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch3.gold:13
+# text = Gaaghtut kayumeng.
+# gloss = They cooked sculpin.
+# labels = complete-dep anno-hayley
+1	Gaaghtut	gaagh	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=gaagh(V)^[Ind.Intr]^[3Pl]|Gloss=they-cooked
+2	kayumeng	kayu	NOUN	_	Case=Abl|Number=Sing	1	obl:mod	_	Analysis=kayu(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-sculpin
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch3.gold:14
+# text = Qikmit nagatut anipameng.
+# gloss = The dogs heard owls.
+# labels = complete-dep anno-hayley
+1	Qikmit	qikmi	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=qikmigh(N)^[Abs.Pl]|Gloss=the-dogs
+2	nagatut	nagat	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=nagate(V)^[Ind.Intr]^[3Pl]|Gloss=they-listened
+3	anipameng	anipa	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=anipa(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-owl
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch3.gold:15
+# text = Qavaghtunga.
+# gloss = I slept.
+# labels = complete-dep anno-hayley
+1	Qavaghtunga	qavagh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	Analysis=qavagh(V)^[Ind.Intr]^[1Sg]|Gloss=I-slept.
+2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch3.gold:16
+# text = Taghnughhaat aanut mangteghameng.
+# gloss = The children went out of the house.
+# labels = complete-dep anno-hayley
+1	Taghnughhaat	taghnughha	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Pl]|Gloss=the-children
+2	aanut	aan	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=aane(V)^[Ind.Intr]^[3Pl]|Gloss=they-went-out
+3	mangteghameng	mangtegha	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=mangteghagh(N)^[Abl_Mod.Sg]|Gloss=from-the-house
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:1
+# text = Iiska mekestaaghhaaguq.
+# gloss = My eye is small.
+# labels = complete-dep anno-hayley
+1	Iiska	iis	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=iye(N)^[Abs.1SgPoss.Sg]|Gloss=my-eye
+2	mekestaaghhaaguq	mekestaaghhaa	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=mekestaaghhaa(V)^[Ind.Intr]^[3Sg]|Gloss=it-is-small
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:2
+# text = Apalguunga.
+# gloss = I have a grandfather.
+# labels = complete-dep anno-hayley
+1	Apalguunga	lgu	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	Analysis=apa(N)^–lgu(N→V)^[Ind.Intr]^[1Sg]|Gloss=I-have-a-grandfather
+2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:3
+# text = Ataka angyaghllalguuq.
+# gloss = My father has a large boat.
+# labels = complete-dep anno-hayley
+1	Ataka	ata	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=ata(N)^[Abs.1SgPoss.Sg]|Gloss=my-father
+2	angyaghllalguuq	lgu	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=angyagh(N)^–ghllag(N→N)^–lgu(N→V)^[Ind.Intr]^[3Sg]|Gloss=he-has-a-large-boat
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:4
+# text = Naan qulmesiitelguuq.
+# gloss = Your mother has a cooking pot.
+# labels = complete-dep anno-hayley
+1	Naan	naa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	nsubj	_	Analysis=naa(N)^[Abs.2SgPoss.Sg]|Gloss=your-mother
+2	qulmesiitelguuq	lgu	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=qulmesiite(N)^–lgu(N→V)^[Ind.Intr]^[3Sg]|Gloss=she-has-a-cooking-pot
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:5
+# text = Panigten aghnaghaghllaguut.
+# gloss = Your daughters are big girls.
+# labels = complete-dep anno-hayley
+1	Panigten	panig	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=2	2	nsubj	_	Analysis=panig(N)^[Abs.2SgPoss.Pl]|Gloss=your-daughters
+2	aghnaghaghllaguut	aghnagha	NOUN	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=aghnaghagh*(N)^–ghllag(N→N)^~:(ng)u(N→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-big-girls
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:6
+# text = Ighneghenka gguteghllalguut.
+# gloss = My sons have large teeth.
+# labels = complete-dep anno-hayley
+1	Ighneghenka	ighnegh	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=ighnegh(N)^[Abs.1SgPoss.Pl]|Gloss=my-sons
+2	gguteghllalguut	lgu	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=ggute(N)^–ghllag(N→N)^–lgu(N→V)^[Ind.Intr]^[3Pl]|Gloss=they-have-large-teeth
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:7
+# text = Gguutka seghleghuuq.
+# gloss = My tooth is bad.
+# labels = complete-dep anno-hayley
+1	Gguutka	gguut	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=ggute(N)^[Abs.1SgPoss.Sg]|Gloss=my-tooth
+2	seghleghuuq	seghleghu	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=seghleghu(V)^[Ind.Intr]^[3Sg]|Gloss=it-is-bad
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:8
+# text = Qiighwenka taakut.
+# gloss = My white hairs are long.
+# labels = complete-dep anno-hayley
+1	Qiighwenka	qiighw	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=qiighw(N)^[Abs.1SgPoss.Pl]|Gloss=my-grey-hair
+2	taakut	taak	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=taake(V)^[Ind.Intr]^[3Pl]|Gloss=they-are-long
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:9
+# text = Nengyuqa pinightuq.
+# gloss = My grandmother is good.
+# labels = complete-dep anno-hayley
+1	Nengyuqa	nengyu	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=nengyugh(N)^[Abs.1SgPoss.Sg]|Gloss=my-grandmother
+2	pinightuq	pinigh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=pinigh(V)^[Ind.Intr]^[3Sg]|Gloss=she-is-good
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:10
+# text = Eltughaanka qikmilguut.
+# gloss = My grandchildren have a dog.
+# labels = complete-dep anno-hayley
+1	Eltughaanka	eltugha	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=eltughagh*(N)^[Abs.1SgPoss.Pl]|Gloss=my-grandchildren
+2	qikmilguut	lgu	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=qikmigh(N)^–lgu(N→V)^[Ind.Intr]^[3Pl]|Gloss=they-have-a-dog
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:11
+# text = Nuyaqa takestaaghhaaguq.
+# gloss = My hair is short.
+# labels = complete-dep anno-hayley
+1	Nuyaqa	nuya	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=nuyagh(N)^[Abs.1SgPoss.Sg]|Gloss=my-hair
+2	takestaaghhaaguq	takestaaghhaa	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=takestaaghhaa(V)^[Ind.Intr]^[3Sg]|Gloss=it-is-short
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:12
+# text = Aghnaghllaget tagiit mangteghameng.
+# gloss = The large women came from the house.
+# labels = complete-dep anno-hayley
+1	Aghnaghllaget	aghna	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=aghnagh(N)^–ghllag(N→N)^[Abs.Pl]|Gloss=the-large-women
+2	tagiit	tagi	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=tagi(V)^[Ind.Intr]^[3Pl]|Gloss=they-came
+3	mangteghameng	mangtegha	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=mangteghagh(N)^[Abl_Mod.Sg]|Gloss=from-the-house
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:13
+# text = Qulmesiitka eslequq meghmeng.
+# gloss = My cooking pot became full of water.
+# labels = complete-dep anno-hayley
+1	Qulmesiitka	qulmesiit	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=qulmesiite(N)^[Abs.1SgPoss.Sg]|Gloss=my-cooking-pot
+2	eslequq	esleq	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=esleqe(V)^[Ind.Intr]^[3Sg]|Gloss=it-became-full
+3	meghmeng	megh	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=megh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-water
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:14
+# text = Yavlun pinightuq.
+# gloss = Your sweetheart is good.
+# labels = complete-dep anno-hayley
+1	Yavlun	yavlu	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	nsubj	_	Analysis=yavlu(N)^[Abs.2SgPoss.Sg]|Gloss=your-sweetheart
+2	pinightuq	pinigh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=pinigh(V)^[Ind.Intr]^[3Sg]|Gloss=he-is-good
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:15
+# text = Nanevgaq qiighwllalguuq.
+# gloss = The old man has a big white hair.
+# labels = complete-dep anno-hayley
+1	nanevgaq	nanevgaq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=nanevgagh(N)^[Abs.Sg]|Gloss=the-old-man
+2	qiighwllalguuq	lgu	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=qiighw(N)^–ghllag(N→N)^–lgu(N→V)^[Ind.Intr]^[3Sg]|Gloss=he-has-big-grey-hair
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:16
+# text = Laluramkek iyataghtuk.
+# gloss = The two white people are hungry.
+# labels = complete-dep anno-hayley
+1	Laluramkek	Laluramke	NOUN	_	Case=Abs|Number=Dual	2	nsubj	_	Analysis=Laluramke(N)^[Abs.Du]|Gloss=the-two-white-people
+2	iyataghtuk	iyatagh	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=3|Valency=1	0	root	_	Analysis=iyatagh(V)^[Ind.Intr]^[3Du]|Gloss=they-are-hungry
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:17
+# text = Nunan anigulguuq.
+# gloss = Your land had snow.
+# labels = complete-dep anno-hayley
+1	Nunan	nuna	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	nsubj	_	Analysis=nuna(N)^[Abs.2SgPoss.Sg]|Gloss=your-land
+2	anigulguuq	lgu	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=anigu(N)^–lgu(N→V)^[Ind.Intr]^[3Sg]|Gloss=it-had-snow
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:18
+# text = Kaviighet riigteghllalguut.
+# gloss = The foxes have a big den.
+# labels = complete-dep anno-hayley
+1	Kaviighet	kaviigh	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=kaviigh(N)^[Abs.Pl]|Gloss=the-foxes
+2	riigteghllalguut	lgu	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=riigte(N)^–ghllag(N→N)^–lgu(N→V)^[Ind.Intr]^[3Pl]|Gloss=they-have-a-big-den
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:19
+# text = Mekelghiighet neghtut neghsameng.
+# gloss = The boys ate seal.
+# labels = complete-dep anno-hayley
+1	Mekelghiighet	mekelghiigh	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=mekelghiigh(N)^[Abs.Pl]|Gloss=the-boys
+2	neghtut	negh	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=negh(V)^[Ind.Intr]^[3Pl]|Gloss=they-ate
+3	neghsameng	neghsa	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=neghsagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-seal
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:20
+# text = Nengyugka nagatuk qikmighllagmeng.
+# gloss = My grandmothers heard a big dog.
+# labels = complete-dep anno-hayley
+1	Nengyugka	nengyu	NOUN	_	Case=Abs|Number=Dual|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=nengyugh(N)^[Abs.1SgPoss.Du]|Gloss=my-grandmothers
+2	nagatuk	nagat	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=3|Valency=1	0	root	_	Analysis=nagate(V)^[Ind.Intr]^[3Du]|Gloss=they-listened
+3	qikmighllagmeng	qikmi	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=qikmigh(N)^–ghllag(N→N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-a-big-dog
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:21
+# text = Aawhllaget kuuvut.
+# gloss = The big bloods spilled.
+# labels = complete-dep anno-hayley
+1	Aawhllaget	aa	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=aaw(N)^–ghllag(N→N)^[Abs.Pl]|Gloss=the-big-bloods
+2	kuuvut	kuuv	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=kuuve(V)^[Ind.Intr]^[3Pl]|Gloss=they-spilled
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:22
+# text = Yaywaali iiggeghllalguuq.
+# gloss = The orphan has a big hand.
+# labels = complete-dep anno-hayley
+1	yaywaali	yaywaali	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=yaywaali(N)^[Abs.Sg]|Gloss=the-orphan
+2	iiggeghllalguuq	lgu	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=iigge(N)^–ghllag(N→N)^–lgu(N→V)^[Ind.Intr]^[3Sg]|Gloss=he-has-a-big-hand
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:23
+# text = Qikmiiguq.
+# gloss = It is a dog.
+# labels = complete-dep anno-hayley
+1	Qikmiiguq	qikmi	NOUN	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=qikmigh(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Sg]|Gloss=it-is-a-dog
+2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:24
+# text = Ungaziq nunanguuq.
+# gloss = Chaplino is a land.
+# labels = complete-dep anno-hayley
+1	Ungaziq	Ungaziq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=Ungazigh(N)^[Abs.Sg]|Gloss=Chaplino
+2	nunanguuq	nuna	NOUN	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=nuna(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Sg]|Gloss=it-is-a-land
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:25
+# text = Kaamgegken taakuk.
+# gloss = Your boots are long.
+# labels = complete-dep anno-hayley
+1	Kaamgegken	kaamg	NOUN	_	Case=Abs|Number=Dual|Number[psor]=Sing|Person[psor]=2	2	nsubj	_	Analysis=kameg(N)^[Abs.2SgPoss.Du]|Gloss=your-boots
+2	taakuk	taak	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=3|Valency=1	0	root	_	Analysis=taake(V)^[Ind.Intr]^[3Du]|Gloss=they-are-long
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:26
+# text = Sikigllaget tagiit riigtemeng.
+# gloss = The big squirrels came from the den.
+# labels = complete-dep anno-hayley
+1	Sikigllaget	siki	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=sikig(N)^–ghllag(N→N)^[Abs.Pl]|Gloss=the-big-squirrels
+2	tagiit	tagi	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=tagi(V)^[Ind.Intr]^[3Pl]|Gloss=they-came
+3	riigtemeng	riigte	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=riigte(N)^[Abl_Mod.Sg]|Gloss=from-the-den
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:27
+# text = Ukaziq neghtuq vegmeng.
+# gloss = The rabbit ate grass.
+# labels = complete-dep anno-hayley
+1	ukaziq	ukaziq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=ukazigh(N)^[Abs.Sg]|Gloss=the-hare
+2	neghtuq	negh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=negh(V)^[Ind.Intr]^[3Sg]|Gloss=it-ate
+3	vegmeng	veg	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=veg(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-grass
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:28
+# text = Aqelqat Laluramkenguut.
+# gloss = The guests are white people.
+# labels = complete-dep anno-hayley
+1	Aqelqat	aqelqa	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=aqelqagh(N)^[Abs.Pl]|Gloss=the-guests
+2	Laluramkenguut	Laluramke	NOUN	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=Laluramke(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-white-people
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:29
+# text = Yugllak uginguuq.
+# gloss = The man is a husband.
+# labels = complete-dep anno-hayley
+1	Yugllak	yu	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=yug(N)^–ghllag(N→N)^[Abs.Sg]|Gloss=the-big-man
+2	uginguuq	ugi	NOUN	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=ugi(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Sg]|Gloss=he-is-a-husband
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch4.gold:30
+# text = Ighneghten aghulaqut naayvaghllagmeng.
+# gloss = Your sons left from the big lake.
+# labels = incomplete
+1	Ighneghten	Ighnegh	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=2	2	nsubj	_	Analysis=ighnegh(N)^[Abs.2SgPoss.Pl]|Gloss=your-sons
+2	aghulaqut	aghulaq	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=aghulaqe(V)^[Ind.Intr]^[3Pl]|Gloss=they-left
+3	naayvaghllagmeng.	naayva	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=naayvagh(N)^–ghllag(N→N)^[Abl_Mod.Sg]|Gloss=from-the-big-lake
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:1
+# text = Tukuqa neghsameng gaaghaquq.
+# gloss = My host is cooking seal.
+# labels = complete-dep anno-hayley
+1	Tukuqa	tuku	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	Analysis=tukugh(N)^[Abs.1SgPoss.Sg]|Gloss=my-host
+2	neghsameng	neghsa	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=neghsagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-seal
+3	gaaghaquq	gaagh	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=gaagh(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=he-is-cooking
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:2
+# text = Apan naayghamun mayughyugtuq.
+# gloss = Your grandfather wants to climb to the mountain.
+# labels = complete-dep anno-hayley
+1	Apan	apa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	nsubj	_	Analysis=apa(N)^[Abs.2SgPoss.Sg]|Gloss=your-grandfather
+2	naayghamun	naaygha	NOUN	_	Case=All|Number=Sing	3	obl	_	Analysis=naayghagh(N)^[All.Sg]|Gloss=to-the-mountain
+3	mayughyugtuq	yug	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=mayugh(V)^@~fyug(V→V)^[Ind.Intr]^[3Sg]|Gloss=he-wants-to-climb
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:3
+# text = Unaami aghulaqsugtunga naayvamun.
+# gloss = I want to leave to the lake tomorrow.
+# labels = complete-dep anno-hayley
+1	unaami	unaami	PART	_	_	2	obl	_	Analysis=unaami(PTCL)|Gloss=tomorrow
+2	aghulaqsugtunga	sug	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	Analysis=aghulaqe(V)^@~fyug(V→V)^[Ind.Intr]^[1Sg]|Gloss=I-want-to-leave
+3	naayvamun	naayva	NOUN	_	Case=All|Number=Sing	2	obl	_	Analysis=naayvagh(N)^[All.Sg]|Gloss=to-the-lake
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:4
+# text = Kufi kuuvellequq qulmesiitmeng.
+# gloss = The coffee will spill from the cooking pot.
+# labels = complete-dep anno-hayley
+1	kufi	kufi	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=kufi(N)^[Abs.Sg]|Gloss=the-coffee
+2	kuuvellequq	kuuve	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Fut|Valency=1	0	root	_	Analysis=kuuve(V)^@lleqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=it-will-spill
+3	qulmesiitmeng	qulmesiit	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=qulmesiite(N)^[Abl_Mod.Sg]|Gloss=from-the-cooking-pot
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:5
+# text = Aanaqukung eslamun.
+# gloss = We both are going outside.
+# labels = complete-dep anno-hayley
+1	Aanaqukung	aan	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Dual|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	Analysis=aane(V)^~(g)aqe(V→V)^[Ind.Intr]^[1Du]|Gloss=we-both-are-going-out
+2	eslamun	esla	NOUN	_	Case=All|Number=Sing	1	obl	_	Analysis=esla(N)^[All.Sg]|Gloss=outside
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:6
+# text = Aanaqukung eslamun.
+# gloss = We both are going to go outside.
+# labels = complete-dep anno-hayley
+1	Aanaqukung	aa	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=1|Valency=1	0	root	_	Analysis=aane(V)^@~fnaqe(V→V)^[Ind.Intr]^[1Du]|Gloss=we-both-are-going-to-go-out
+2	eslamun	esla	NOUN	_	Case=All|Number=Sing	1	obl	_	Analysis=esla(N)^[All.Sg]|Gloss=outside
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:7
+# text = Aghnaghaat yughaghvigmeng tagiiqut.
+# gloss = The girls are coming from the church.
+# labels = complete-dep anno-hayley
+1	Aghnaghaat	aghnagha	NOUN	_	Case=Abs|Number=Plur	3	nsubj	_	Analysis=aghnaghagh*(N)^[Abs.Pl]|Gloss=the-girls
+2	yughaghvigmeng	yughaghvig	NOUN	_	Case=Abl|Number=Sing	3	obl	_	Analysis=yughaghvig(N)^[Abl_Mod.Sg]|Gloss=from-the-church
+3	tagiiqut	tagi	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=tagi(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-coming
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:8
+# text = Yuget elngaatall aqavzigmeng inghuyugtut nunivagmi.
+# gloss = The men really want to pick cloudberries in the tundra.
+# labels = complete-dep anno-hayley
+1	Yuget	yug	NOUN	_	Case=Abs|Number=Plur	4	nsubj	_	Analysis=yug(N)^[Abs.Pl]|Gloss=the-men
+2	elngaatall	elngaatall	PART	_	_	4	advmod	_	Analysis=elngaatall(PTCL)|Gloss=very-much
+3	aqavzigmeng	aqavzig	NOUN	_	Case=Abl|Number=Sing	4	obl:mod	_	Analysis=aqavzig(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-cloudberry
+4	inghuyugtut	yug	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=inghu(V)^@~fyug(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-want-to-pick-berries
+5	nunivagmi	nunivag	NOUN	_	Case=Loc|Number=Sing	4	obl	_	Analysis=nunivag(N)^[Loc.Sg]|Gloss=in-the-tundra
+6	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:9
+# text = Nayaka qepghaghllequq igaghvigmi.
+# gloss = My sister will work at the school.
+# labels = complete-dep anno-hayley
+1	Nayaka	naya	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=nayag(N)^[Abs.1SgPoss.Sg]|Gloss=my-sister
+2	qepghaghllequq	qepghagh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Fut|Valency=1	0	root	_	Analysis=qepghagh(V)^@lleqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=she-will-work
+3	igaghvigmi	igaghvig	NOUN	_	Case=Loc|Number=Sing	2	obl	_	Analysis=igaghvig(N)^[Loc.Sg]|Gloss=at-the-school
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:10
+# text = Aakan umughqaagaquq.
+# gloss = Your older sister is having sleep paralysis.
+# labels = complete-dep anno-hayley
+1	Aakaan	aaka	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	nsubj	_	Analysis=aakagh*(N)^[Abs.2SgPoss.Sg]|Gloss=your-older-sister
+2	umughqaagaquq	umughqaa	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=umughqaa(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=she-is-having-sleep-paralysis
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:11
+# text = Kaannaqut ighneghten.
+# gloss = Your sons are going to arrive.
+# labels = complete-dep anno-hayley
+1	Kaannaqut	kaa	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Fut|Valency=1	0	root	_	Analysis=kaate(V)^@~fnaqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-going-to-arrive
+2	ighneghten	ighnegh	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=2	1	nsubj	_	Analysis=ighnegh(N)^[Abs.2SgPoss.Pl]|Gloss=your-sons
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:12
+# text = Ingaghsugtunga.
+# gloss = I want to lay down.
+# labels = complete-dep anno-hayley
+1	Ingaghsugtunga	sug	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	Analysis=ingaghte(V)^@~fyug(V→V)^[Ind.Intr]^[1Sg]|Gloss=I-want-to-lie-down
+2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:13
+# text = Ngelqameng neghellequnga unaami.
+# gloss = I will eat cormorant tomorrow.
+# labels = complete-dep anno-hayley
+1	Ngelqameng	ngelqa	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=ngelqagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-cormorant
+2	neghellequnga	neghe	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Fut|Valency=1	0	root	_	Analysis=neghe(V)^@lleqe(V→V)^[Ind.Intr]^[1Sg]|Gloss=I-will-eat
+3	unaami	unaami	PART	_	_	2	advmod	_	Analysis=unaami(PTCL)|Gloss=tomorrow
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:14
+# text = Tumenka takestaaghhaagut.
+# gloss = My footsteps are short.
+# labels = complete-dep anno-hayley
+1	Tumenka	tume	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=tume(N)^[Abs.1SgPoss.Pl]|Gloss=my-footprints
+2	takestaaghhaagut	takestaaghhaa	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=takestaaghhaa(V)^[Ind.Intr]^[3Pl]|Gloss=they-are-short
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:15
+# text = Ukigaquq yavluka naayghaghmeng.
+# gloss = My sweetheart is climbing down from the mountain.
+# labels = complete-dep anno-hayley
+1	Ukigaquq	ukig	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=ukig(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=he-is-climbing-down
+2	yavluka	yavlu	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	1	nsubj	_	Analysis=yavlu(N)^[Abs.1SgPoss.Sg]|Gloss=my-sweetheart
+3	naayghaghmeng	naayghagh	NOUN	_	Case=Abl|Number=Sing	1	obl	_	Analysis=naayghagh*(N)^[Abl_Mod.Sg]|Gloss=from-the-mountain
+4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:16
+# text = Estugaq Sivuqami mekestaaghhaaguq.
+# gloss = The store at Gambell is small.
+# labels = complete-dep anno-hayley
+1	estugaq	estugaq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=estugagh(N)^[Abs.Sg]|Gloss=the-store
+2	Sivuqami	Sivuqa	NOUN	_	Case=Loc|Number=Sing	1	nmod	_	Analysis=Sivuqagh(N)^[Loc.Sg]|Gloss=at-Gambell
+3	mekestaaghhaaguq	mekestaaghhaa	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=mekestaaghhaa(V)^[Ind.Intr]^[3Sg]|Gloss=it-is-small
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch5.gold:17
+# text = Qikmigka papegllalguuk.
+# gloss = My two dogs have big tails.
+# labels = complete-dep anno-hayley
+1	Qikmigka	qikmi	NOUN	_	Case=Abs|Number=Dual|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=qikmigh(N)^[Abs.1SgPoss.Du]|Gloss=my-two-dogs
+2	papegllalguuk	lgu	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=3|Valency=1	0	root	_	Analysis=papeg(N)^–ghllag(N→N)^–lgu(N→V)^[Ind.Intr]^[3Du]|Gloss=they-have-big-tails
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:1
+# text = Qikmiqa neghaquq anipameng.
+# gloss = My dog is eating an owl.
+# labels = complete-dep anno-hayley
+1	Qikmiqa	qikmi	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=qikmigh(N)^[Abs.1SgPoss.Sg]|Gloss=my-dog
+2	neghaquq	negh	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=negh(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=it-is-eating
+3	anipameng	anipa	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=anipa(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-an-owl
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:2
+# text = Aghnaghllagem ighneghi neghellequt akuutameng aqavzilegmeng.
+# gloss = The large woman's sons will eat a mixture that has cloudberries.
+# labels = complete-dep anno-hayley
+1	Aghnaghllagem	aghna	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	Analysis=aghnagh(N)^–ghllag(N→N)^[Rel.Sg]|Gloss=the-large-woman's
+2	ighneghi	ighnegh	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Analysis=ighnegh(N)^[Abs.3SgPoss.Pl]|Gloss=her-sons
+3	neghellequt	neghe	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Fut|Valency=1	0	root	_	Analysis=neghe(V)^@lleqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-will-eat
+4	akuutameng	akuuta	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=akuutagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-mixture
+5	aqavzilegmeng	aqavzi	NOUN	_	Case=Abl|Number=Sing	4	nmod:arg	_	Analysis=aqavzig(N)^–leg(N→N)^[Abl_Mod.Sg]|Gloss=the-one-having-cloudberry
+6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:3
+# text = Yugem qikmii siguteghllalguut.
+# gloss = The man's dogs have big ears.
+# labels = complete-dep anno-hayley
+1	Yugem	yug	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	Analysis=yug(N)^[Rel.Sg]|Gloss=the-man's
+2	qikmii	qikmi	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Analysis=qikmigh(N)^[Abs.3SgPoss.Pl]|Gloss=his-dogs
+3	siguteghllalguut	lgu	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=sigute(N)^–ghllag(N→N)^–lgu(N→V)^[Ind.Intr]^[3Pl]|Gloss=they-have-big-ears
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:4
+# text = Atughnaqunga suflugameng.
+# gloss = I am going to use a gun.
+# labels = complete-dep anno-hayley
+1	Atughnaqunga	atugh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Fut|Valency=1	0	root	_	Analysis=atugh(V)^@~fnaqe(V→V)^[Ind.Intr]^[1Sg]|Gloss=I-am-going-to-use
+2	suflugameng	sufluga	NOUN	_	Case=Abl|Number=Sing	1	obl:mod	_	Analysis=suflugagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-gun
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:5
+# text = Apeghtughistem nulaa iflaaq.
+# gloss = The teacher's tea bag became lost.
+# labels = complete-dep anno-hayley
+1	Apeghtughistem	apeghtughiste	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	Analysis=apeghtughiste(N)^[Rel.Sg]|Gloss=the-teacher's
+2	nulaa	nulaa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Analysis=nulugh(N)^[Abs.3SgPoss.Sg]|Gloss=his-teabag
+3	iflaaq	ifla	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=ifla(V)^[Ind.Intr]^[3Sg]|Gloss=it-became-lost
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:6
+# text = Aqelqat igleghtaqut Sivuqaghmeng Sivungaghmun.
+# gloss = The guests are travelling from Gambell to Savoonga.
+# labels = complete-dep anno-hayley
+1	Aqelqat	aqelqa	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=aqelqagh(N)^[Abs.Pl]|Gloss=the-guests
+2	igleghtaqut	igleght	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=igleghte(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-traveling
+3	Sivuqaghmeng	Sivuqagh	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=Sivuqagh(N)^[Abl_Mod.Sg]|Gloss=from-Gambell
+4	Sivungaghmun	Sivungagh	NOUN	_	Case=All|Number=Sing	2	obl	_	Analysis=Sivungagh(N)^[All.Sg]|Gloss=to-Savoonga
+5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:7
+# text = Siivanlleghet nulughaqut naayvami.
+# gloss = The elders are fishing at the lake.
+# labels = complete-dep anno-hayley
+1	Siivanlleghet	siivanllegh	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=siivanllegh(N)^[Abs.Pl]|Gloss=the-elders
+2	nulughaqut	nulugh	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=nulugh(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-fishing
+3	naayvami	naayva	NOUN	_	Case=Loc|Number=Sing	2	obl	_	Analysis=naayvagh(N)^[Loc.Sg]|Gloss=at-the-lake
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:8
+# text = Esghaataqukut ighaleqetaaghmeng.
+# gloss = We are seeing stars.
+# labels = complete-dep anno-hayley
+1	Esghaataqukut	esghaat	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	Analysis=esghaate(V)^~(g)aqe(V→V)^[Ind.Intr]^[1Pl]|Gloss=we-are-seeing-something
+2	ighaleqetaaghmeng	ighaleqetaagh	NOUN	_	Case=Abl|Number=Sing	1	obl:mod	_	Analysis=ighaleqetaagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-star
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:9
+# text = Mekelghiighem nengyaa kakiiquq.
+# gloss = The boy's grandmother is sewing.
+# labels = complete-dep anno-hayley
+1	Mekelghiighem	mekelghiigh	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	Analysis=mekelghiigh(N)^[Rel.Sg]|Gloss=the-boy's
+2	nengyaa	nengyaa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Analysis=nengyugh(N)^[Abs.3SgPoss.Sg]|Gloss=his-grandmother
+3	kakiiquq	kaki	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=kaki(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=she-is-sewing
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:10
+# text = Yughaghtet taghnughhiit aghulayugtut.
+# gloss = The ministers' children want to dance.
+# labels = complete-dep anno-hayley
+1	Yughaghtet	yughaghte	NOUN	_	Case=Gen|Number=Plur	2	nmod	_	Analysis=yughaghte(N)^[Rel.Pl]|Gloss=the-ministers'
+2	taghnughhiit	taghnughhiit	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Plur|Person[psor]=3	3	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.3PlPoss.Pl]|Gloss=their-children
+3	aghulayugtut	yug	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=aghula(V)^@~fyug(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-want-to-dance
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:11
+# text = Teghikusat aanaqut riigteghllagmeng.
+# gloss = The animals are going to go out of the big den.
+# labels = complete-dep anno-hayley
+1	Teghikusat	teghikusa	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=teghikusagh(N)^[Abs.Pl]|Gloss=the-animals
+2	aanaqut	aa	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Fut|Valency=1	0	root	_	Analysis=aane(V)^@~fnaqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-going-to-go-out
+3	riigteghllagmeng	riigte	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=riigte(N)^–ghllag(N→N)^[Abl_Mod.Sg]|Gloss=from-the-big-den
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:12
+# text = Teghikusat aanaqut riigteghllagmeng.
+# gloss = The animals are going out of the big den.
+# labels = complete-dep anno-hayley
+1	Teghikusat	teghikusa	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=teghikusagh(N)^[Abs.Pl]|Gloss=the-animals
+2	aanaqut	aan	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=aane(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-going-out
+3	riigteghllagmeng	riigte	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=riigte(N)^–ghllag(N→N)^[Abl_Mod.Sg]|Gloss=from-the-big-den
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:13
+# text = Laluramka akuziiquq Yupigestun.
+# gloss = The white person is speaking Yupik.
+# labels = complete-dep anno-hayley
+1	Laluramka	Laluramka	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=Laluramke(N)^[Abs.Sg]|Gloss=the-white-person
+2	akuziiquq	akuzi	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=akuzi(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=he-is-speaking
+3	Yupigestun	Yupig	NOUN	_	Case=Equ|Number=Plur	2	obl	_	Analysis=Yupig(N)^[Equ.Pl]|Gloss=like-a-Yupik
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:14
+# text = Panigegka mesuunanaquk.
+# gloss = My daughters are both going to comb their hair.
+# labels = complete-dep anno-hayley
+1	Panigegka	panig	NOUN	_	Case=Abs|Number=Dual|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=panig(N)^[Abs.1SgPoss.Du]|Gloss=my-two-daughters
+2	mesuunanaquk	mesuuna	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=3|Tense=Fut|Valency=1	0	root	_	Analysis=mesuuna(V)^@~fnaqe(V→V)^[Ind.Intr]^[3Du]|Gloss=they-are-going-to-comb
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:15
+# text = Apanga qayumeng meghaquq.
+# gloss = Her grandfather is drinking a hot beverage.
+# labels = complete-dep anno-hayley
+1	Apanga	apa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Analysis=apa(N)^[Abs.3SgPoss.Sg]|Gloss=her-grandfather
+2	qayumeng	qayu	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=qayugh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-hot-beverage
+3	meghaquq	megh	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=megh(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=he-is-drinking
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:16
+# text = Ighneghten manigmeng neghtut.
+# gloss = Your sons ate eggs.
+# labels = complete-dep anno-hayley
+1	Ighneghten	ighnegh	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=2	3	nsubj	_	Analysis=ighnegh(N)^[Abs.2SgPoss.Pl]|Gloss=your-sons
+2	manigmeng	manig	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=manig(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-eggs
+3	neghtut	negh	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=negh(V)^[Ind.Intr]^[3Pl]|Gloss=they-ate
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:17
+# text = Aatghit taakut.
+# gloss = Their names are long.
+# labels = complete-dep anno-hayley
+1	Aatghit	aatgh	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Plur|Person[psor]=3	2	nsubj	_	Analysis=ategh(N)^[Abs.3PlPoss.Pl]|Gloss=their-names
+2	taakut	taak	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=taake(V)^[Ind.Intr]^[3Pl]|Gloss=they-are-long
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:18
+# text = Yugem yavlunga qepghaghllequq unaami.
+# gloss = The man's girlfriend will work tomorrow.
+# labels = complete-dep anno-hayley
+1	Yugem	yug	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	Analysis=yug(N)^[Rel.Sg]|Gloss=the-man's
+2	yavlunga	yavlu	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Analysis=yavlu(N)^[Abs.3SgPoss.Sg]|Gloss=his-sweetheart
+3	qepghaghllequq	qepghagh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Fut|Valency=1	0	root	_	Analysis=qepghagh(V)^@lleqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=she-will-work
+4	unaami	unaami	PART	_	_	3	advmod	_	Analysis=unaami(PTCL)|Gloss=tomorrow
+5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:19
+# text = Esghaatunga lalalameng vegaaghmi.
+# gloss = I saw some dew on the grass.
+# labels = complete-dep anno-hayley
+1	Esghaatunga	esghaat	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	Analysis=esghaate(V)^[Ind.Intr]^[1Sg]|Gloss=I-saw-something
+2	lalalameng	lalala	NOUN	_	Case=Abl|Number=Sing	1	obl:mod	_	Analysis=lalala(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-dew
+3	vegaaghmi	vegaagh	NOUN	_	Case=Loc|Number=Sing	2	nmod	_	Analysis=vegaagh(N)^[Loc.Sg]|Gloss=on-the-grass
+4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:20
+# text = Mekelghiighet naangat mangteghami qavaghaquq.
+# gloss = The boys' mother is sleeping in the house.
+# labels = complete-dep anno-hayley
+1	Mekelghiighet	mekelghiigh	NOUN	_	Case=Gen|Number=Plur	2	nmod	_	Analysis=mekelghiigh(N)^[Rel.Pl]|Gloss=the-boys'
+2	naangat	naa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Plur|Person[psor]=3	4	nsubj	_	Analysis=naa(N)^[Abs.3PlPoss.Sg]|Gloss=their-mother
+3	mangteghami	mangtegha	NOUN	_	Case=Loc|Number=Sing	4	obl	_	Analysis=mangteghagh(N)^[Loc.Sg]|Gloss=in-the-house
+4	qavaghaquq	qavagh	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=qavagh(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=she-is-sleeping
+5	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:21
+# text = Sikughllagmeng atughnaqunga.
+# gloss = I am going to use a large needle.
+# labels = complete-dep anno-hayley
+1	Sikughllagmeng	siku	NOUN	_	Case=Abl|Number=Sing	2	nsubj	_	Analysis=sikugh*(N)^–ghllag(N→N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-a-large-needle
+2	atughnaqunga	atugh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Fut|Valency=1	0	root	_	Analysis=atugh(V)^@~fnaqe(V→V)^[Ind.Intr]^[1Sg]|Gloss=I-am-going-to-use
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:22
+# text = Tengegkayuk kaannaquq Sivuqaghmeng.
+# gloss = A plane is going to arrive from Gambell.
+# labels = complete-dep anno-hayley
+1	tengegkayuk	tengegkayuk	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=tengegkayug(N)^[Abs.Sg]|Gloss=a-plane
+2	kaannaquq	kaa	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Fut|Valency=1	0	root	_	Analysis=kaate(V)^@~fnaqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=it-is-going-to-arrive
+3	Sivuqaghmeng	Sivuqagh	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=Sivuqagh(N)^[Abl_Mod.Sg]|Gloss=from-Gambell
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:23
+# text = Naayvam sikunga seghleghuuq.
+# gloss = The lake's ice is bad.
+# labels = complete-dep anno-hayley
+1	Naayvam	naayva	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	Analysis=naayvagh(N)^[Rel.Sg]|Gloss=the-lake's
+2	sikunga	siku	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Analysis=siku(N)^[Abs.3SgPoss.Sg]|Gloss=its-ice
+3	seghleghuuq	seghleghu	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=seghleghu(V)^[Ind.Intr]^[3Sg]|Gloss=it-is-bad
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:24
+# text = Karaket aglaghaqut.
+# gloss = The Koryaks are going home.
+# labels = complete-dep anno-hayley
+1	Karaket	Karake	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=Karake(N)^[Abs.Pl]|Gloss=the-Koryaks
+2	aglaghaqut	aglagh	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=aglagh(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-going-home
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:25
+# text = Yugem walguyaagkek iflaak.
+# gloss = The man's snow shoes are lost.
+# labels = complete-dep anno-hayley
+1	Yugem	yug	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	Analysis=yug(N)^[Rel.Sg]|Gloss=the-man's
+2	walguyaagkek	walguyaag	NOUN	_	Case=Abs|Number=Dual|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Analysis=walguyaag(N)^[Abs.3SgPoss.Du]|Gloss=his-snowshoes
+3	iflaak	ifla	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=3|Valency=1	0	root	_	Analysis=ifla(V)^[Ind.Intr]^[3Du]|Gloss=they-are-lost
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:26
+# text = Yugem walguyaagkek iflaak.
+# gloss = She lost the man's snow shoes.
+# labels = complete-dep anno-hayley
+1	Yugem	yug	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	Analysis=yug(N)^[Rel.Sg]|Gloss=the-man's
+2	walguyaagkek	walguyaag	NOUN	_	Case=Abs|Number=Dual|Number[psor]=Sing|Person[psor]=3	3	obj	_	Analysis=walguyaag(N)^[Abs.3SgPoss.Du]|Gloss=his-snowshoes
+3	iflaak	ifla	VERB	_	Mood=Ind|Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=ifla(V)^[Ind.Trns]^[3Sg.3Du]|Gloss=she-lost-them
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch6.gold:27
+# text = Apeghtughistet nuliighit pagunghaghmeng inghwaaqut.
+# gloss = The teachers' wives are picking crowberries.
+# labels = complete-dep anno-hayley
+1	Apeghtughistet	apeghtughiste	NOUN	_	Case=Gen|Number=Plur	2	nmod	_	Analysis=apeghtughiste(N)^[Rel.Pl]|Gloss=the-teachers'
+2	nuliighit	nuliigh	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Plur|Person[psor]=3	4	nsubj	_	Analysis=nuliigh(N)^[Abs.3PlPoss.Pl]|Gloss=their-wives
+3	pagunghaghmeng	pagunghagh	NOUN	_	Case=Abl|Number=Sing	4	obl:mod	_	Analysis=pagunghagh*(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-crowberry
+4	inghwaaqut	inghwa	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=inghu(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-picking-them
+5	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:1
+# text = Gaaghyugaqa ayveghem kemekraga.
+# gloss = I want to cook the walrus's meat.
+# labels = complete-dep anno-hayley
+1	Gaaghyugaqa	yug	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Valency=2	0	root	_	Analysis=gaagh(V)^@~fyug(V→V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-want-to-cook-it
+2	ayveghem	ayvegh	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	Analysis=ayvegh(N)^[Rel.Sg]|Gloss=the-walrus's
+3	kemekraga	kemekrag	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	obj	_	Analysis=kemekrag(N)^[Abs.3SgPoss.Sg]|Gloss=its-meat
+4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:2
+# text = Pagunghaat aavgii.
+# gloss = She divided the crowberries in two.
+# labels = complete-dep anno-hayley
+1	Pagunghaat	pagungha	NOUN	_	Case=Abs|Number=Plur	2	obj	_	Analysis=pagunghagh*(N)^[Abs.Pl]|Gloss=the-crowberries
+2	aavgii	aavg	VERB	_	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=aveg(V)^[Ind.Trns]^[3Sg.3Pl]|Gloss=she-divided-them
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:3
+# text = Neghsaq guunnaqaqa.
+# gloss = I am going to shoot the seal.
+# labels = complete-dep anno-hayley
+1	neghsaq	neghsaq	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=neghsagh(N)^[Abs.Sg]|Gloss=the-seal
+2	guunnaqaqa	guu	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Fut|Valency=2	0	root	_	Analysis=guute(V)^@~fnaqe(V→V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-am-going-to-shoot-it
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:4
+# text = Qikmima paapga takestaaghhaaguq.
+# gloss = My dog's tail is short.
+# labels = complete-dep anno-hayley
+1	Qikmima	qikmi	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nmod	_	Analysis=qikmigh(N)^[Rel.1SgPoss.Sg]|Gloss=my-dog's
+2	paapga	paapg	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Analysis=papeg(N)^[Abs.3SgPoss.Sg]|Gloss=its-tail
+3	takestaaghhaaguq	takestaaghhaa	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=takestaaghhaa(V)^[Ind.Intr]^[3Sg]|Gloss=it-is-short
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:5
+# text = Qikmima apeghtughisteka qilugaqaa.
+# gloss = My dog is barking at my teacher.
+# labels = complete-dep anno-hayley
+1	Qikmima	qikmi	NOUN	_	Case=Erg|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	Analysis=qikmigh(N)^[Rel.1SgPoss.Sg]|Gloss=my-dog
+2	apeghtughisteka	apeghtughiste	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	obj	_	Analysis=apeghtughiste(N)^[Abs.1SgPoss.Sg]|Gloss=my-teacher
+3	qilugaqaa	qilug	VERB	_	Aspect=Prog|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|Valency=2	0	root	_	Analysis=qilug(V)^~(g)aqe(V→V)^[Ind.Trns]^[3Sg.3Sg]|Gloss=it-is-barking-at-him
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:6
+# text = Yughaghtem nulighhan anengaa aghulaqsugtuq Sivuqaghmeng.
+# gloss = The minister's wife's older brother wants to leave from Gambell.
+# labels = complete-dep anno-hayley
+1	Yughaghtem	yughaghte	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	Analysis=yughaghte(N)^[Rel.Sg]|Gloss=the-minister's
+2	nulighhan	nulighh	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nmod	_	Analysis=nulighh(N)^[Rel.3SgPoss.Sg]|Gloss=his-wife's
+3	anengaa	anenga	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	Analysis=anengagh(N)^[Abs.3SgPoss.Sg]|Gloss=her-older-brother
+4	aghulaqsugtuq	sug	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=aghulaqe(V)^@~fyug(V→V)^[Ind.Intr]^[3Sg]|Gloss=he-wants-to-leave
+5	Sivuqaghmeng	Sivuqagh	NOUN	_	Case=Abl|Number=Sing	4	obl	_	Analysis=Sivuqagh(N)^[Abl_Mod.Sg]|Gloss=from-Gambell
+6	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:7
+# text = Qulmesiin lliiqa egllugnun.
+# gloss = I placed the cooking pot onto the stove.
+# labels = complete-dep anno-hayley
+1	qulmesiin	qulmesiin	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=qulmesiite(N)^[Abs.Sg]|Gloss=the-cooking-pot
+2	lliiqa	lli	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Valency=2	0	root	_	Analysis=lli(V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-placed-it
+3	egllugnun	egllug	NOUN	_	Case=All|Number=Plur	2	obl	_	Analysis=egllug(N)^[All.Pl]|Gloss=to-the-stove
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:8
+# text = Apeghtughistegpek liilleqii taghnughhaat aatghit.
+# gloss = Your teacher will learn the childrens' names.
+# labels = complete-dep anno-hayley
+1	Apeghtughistegpek	apeghtughiste	NOUN	_	Case=Erg|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	nsubj	_	Analysis=apeghtughiste(N)^[Rel.2SgPoss.Sg]|Gloss=your-teacher
+2	liilleqii	lii	VERB	_	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Fut|Valency=2	0	root	_	Analysis=liite(V)^@lleqe(V→V)^[Ind.Trns]^[3Sg.3Pl]|Gloss=he-will-learn-them
+3	taghnughhaat	taghnughha	NOUN	_	Case=Gen|Number=Plur	4	nmod	_	Analysis=taghnughhagh*(N)^[Rel.Pl]|Gloss=the-children's
+4	aatghit	aatgh	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Plur|Person[psor]=3	2	obj	_	Analysis=ategh(N)^[Abs.3PlPoss.Pl]|Gloss=their-names
+5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:9
+# text = Qergesa qelpeghtaqa.
+# gloss = I opened a window.
+# labels = complete-dep anno-hayley
+1	qergesa	qergesa	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=qergese(N)^[Abs.Sg]|Gloss=window
+2	qelpeghtaqa	qelpeght	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Valency=2	0	root	_	Analysis=qelpeghte(V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-opened-it
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:10
+# text = Amik uumgaa.
+# gloss = He closed the door.
+# labels = complete-dep anno-hayley
+1	amik	amik	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=amig(N)^[Abs.Sg]|Gloss=door
+2	uumgaa	uumg	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=umeg(V)^[Ind.Trns]^[3Sg.3Sg]|Gloss=he-closed-it
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:11
+# text = Esghaghlleqamken.
+# gloss = I will see you.
+# labels = complete-dep anno-hayley
+1	Esghaghlleqamken	esghagh	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=2|Person[subj]=1|Tense=Fut|Valency=2	0	root	_	Analysis=esghagh(V)^@lleqe(V→V)^[Ind.Trns]^[1Sg.2Sg]|Gloss=I-will-see-you
+2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:12
+# text = Aghnalqwaaghem tugaa nanevgam suflugaa eflugameng.
+# gloss = The old woman took the old man's rifle from the floor.
+# labels = complete-dep anno-hayley
+1	Aghnalqwaaghem	aghnalqwaagh	NOUN	_	Case=Erg|Number=Sing	2	nsubj	_	Analysis=aghnalqwaagh(N)^[Rel.Sg]|Gloss=the-old-lady
+2	tugaa	tug	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=tugu(V)^[Ind.Trns]^[3Sg.3Sg]|Gloss=she-took-it
+3	nanevgam	nanevga	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	Analysis=nanevgagh(N)^[Rel.Sg]|Gloss=the-old-man's
+4	suflugaa	sufluga	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	Analysis=suflugagh(N)^[Abs.3SgPoss.Sg]|Gloss=his-rifle
+5	eflugameng	efluga	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=eflugagh(N)^[Abl_Mod.Sg]|Gloss=from-floor
+6	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:13
+# text = Laalighfiknaqaqa apaka.
+# gloss = I am going to visit my grandfather.
+# labels = complete-dep anno-hayley
+1	Laalighfiknaqaqa	laalighfik	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Fut|Valency=2	0	root	_	Analysis=laalighfike(V)^@~fnaqe(V→V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-am-going-to-visit-him
+2	apaka	apa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	1	obj	_	Analysis=apa(N)^[Abs.1SgPoss.Sg]|Gloss=my-grandfather
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:14
+# text = Naagpek sikwaan iiynga mekestaaghhaaguq.
+# gloss = Your mother's needle's eye is small.
+# labels = complete-dep anno-hayley
+1	Naagpek	naa	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	nmod	_	Analysis=naa(N)^[Rel.2SgPoss.Sg]|Gloss=your-mother's
+2	sikwaan	sikwaan	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nmod	_	Analysis=sikugh*(N)^[Rel.3SgPoss.Sg]|Gloss=her-needle's
+3	iiynga	iiy	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	Analysis=iye(N)^[Abs.3SgPoss.Sg]|Gloss=its-eye
+4	mekestaaghhaaguq	mekestaaghhaa	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=mekestaaghhaa(V)^[Ind.Intr]^[3Sg]|Gloss=it-is-small
+5	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:15
+# text = Ighivgaq asagma ighneghan atuqaa angyasqughhaan.
+# gloss = My aunt's son used your small boat yesterday.
+# labels = complete-dep anno-hayley
+1	ighivgaq	ighivgaq	PART	_	_	4	advmod	_	Analysis=ighivgaq(PTCL)|Gloss=yesterday
+2	asagma	asag	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nmod	_	Analysis=asag(N)^[Rel.1SgPoss.Sg]|Gloss=my-aunt's
+3	ighneghan	ighnegh	NOUN	_	Case=Erg|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	Analysis=ighnegh(N)^[Rel.3SgPoss.Sg]|Gloss=her-son
+4	atuqaa	atuq	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=atuqe(V)^[Ind.Trns]^[3Sg.3Sg]|Gloss=he-used-it
+5	angyasqughhaan	angya	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	4	obj	_	Analysis=angyagh(N)^–squghhagh*(N→N)^[Abs.2SgPoss.Sg]|Gloss=your-small-boat
+6	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:16
+# text = Nallukaqa panigpek ugingan aatgha.
+# gloss = I don't know your daughter's husband's name.
+# labels = complete-dep anno-hayley
+1	Nallukaqa	nalluk	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Valency=2	0	root	_	Analysis=nalluke(V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-do-not-know-it
+2	panigpek	pani	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	nmod	_	Analysis=panig(N)^[Rel.2SgPoss.Sg]|Gloss=your-daughter's
+3	ugingan	ugi	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nmod	_	Analysis=ugi(N)^[Rel.3SgPoss.Sg]|Gloss=her-husband's
+4	aatgha	aatgh	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	obj	_	Analysis=ategh(N)^[Abs.3SgPoss.Sg]|Gloss=his-name
+5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:17
+# text = Tipelegnun llinaqaqa taghnughhaghma neqnga.
+# gloss = I am going to place my child's food on the table.
+# labels = complete-dep anno-hayley
+1	Tipelegnun	tipele	NOUN	_	Case=All|Number=Dual	2	obl	_	Analysis=tipele(N)^[All.Du]|Gloss=to-the-table
+2	llinaqaqa	lli	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Fut|Valency=2	0	root	_	Analysis=lli(V)^@~fnaqe(V→V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-am-going-to-place-it
+3	taghnughhaghma	taghnughhagh	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nmod	_	Analysis=taghnughhagh*(N)^[Rel.1SgPoss.Sg]|Gloss=my-child's
+4	neqnga	neqe	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	Analysis=neqe(N)^[Abs.3SgPoss.Sg]|Gloss=his-food
+5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:18
+# text = Igamsiqayugvikamken.
+# gloss = I am thankful for you.
+# labels = complete-dep anno-hayley
+1	Igamsiqayugvikamken	igamsiqayugvik	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=2|Person[subj]=1|Valency=2	0	root	_	Analysis=igamsiqayugvike(V)^[Ind.Trns]^[1Sg.2Sg]|Gloss=I-am-thankful-for-you
+2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:19
+# text = Tengegkayuget kaanneghitut.
+# gloss = The plane didn't arrive.
+# labels = complete-dep anno-hayley
+1	Tengegkayuget	tengegkayug	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=tengegkayug(N)^[Abs.Pl]|Gloss=the-plane
+2	kaanneghitut	kaa	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Polarity=Neg|Valency=1	0	root	_	Analysis=kaate(V)^@–nghite(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-did-not-arrive
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:20
+# text = Ngelqam kemekraga neghenghitaqa.
+# gloss = I didn't eat the cormorant's meat.
+# labels = complete-dep anno-hayley
+1	Ngelqam	ngelqa	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	Analysis=ngelqagh(N)^[Rel.Sg]|Gloss=the-cormorant's
+2	kemekraga	kemekrag	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	Analysis=kemekrag(N)^[Abs.3SgPoss.Sg]|Gloss=its-meat
+3	neghenghitaqa	neghe	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg|Valency=2	0	root	_	Analysis=neghe(V)^@–nghite(V→V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-did-not-eat-it
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch7.gold:21
+# text = Mangteghaghllangllaghyugtukut.
+# gloss = We want to make a big house.
+# labels = complete-dep anno-hayley
+1	Mangteghaghllangllaghyugtukut.	yug	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Valency=1	0	root	_	Analysis=mangteghagh(N)^–ghllag(N→N)^–ngllagh(N→V)^@~fyug(V→V)^[Ind.Intr]^[1Pl]|Gloss=we-want-to-make-a-big-house
+2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch8.gold:1
+# text = Sanaqsin?
+# gloss = What are you going to do?
+# labels = complete-dep anno-hayley
+1	Sanaqsin	sa	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Tense=Fut|Valency=1	0	root	_	Analysis=sa(V)^@~fnaqe(V→V)^[Intrg.Intr.2Sg]|Gloss=what-are-you-going-to-do?
+2	?	?	PUNCT	_	_	1	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:2
+# text = Sameng neghelleqesta unaami?
+# gloss = What will we eat tomorrow?
+# labels = complete-dep anno-hayley
+1	sameng	sameng	PRON	_	PronType=Int	2	obj	_	Analysis=sameng(WH)|Gloss=what
+2	neghelleqesta	neghe	VERB	_	Mood=Int|Number[subj]=Plur|Person[subj]=1|Tense=Fut|Valency=1	0	root	_	Analysis=neghe(V)^@lleqe(V→V)^[Intrg.Intr]^[1Pl]|Gloss=will-we-eat?
+3	unaami	unaami	PART	_	_	2	advmod	_	Analysis=unaami(PTCL)|Gloss=tomorrow
+4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:3
+# text = Qavngaq kaatetsi Sivuqaghmun?
+# gloss = When did you all arrive at Gambell?
+# labels = complete-dep anno-hayley
+1	qavngaq	qavngaq	ADV	_	PronType=Int	2	advmod	_	Analysis=qavngaq(WH)|Gloss=when
+2	kaatetsi	kaate	VERB	_	Mood=Int|Number[subj]=Plur|Person[subj]=2|Valency=1	0	root	_	Analysis=kaate(V)^[Intrg.Intr.2Pl]|Gloss=did-you-arrive?
+3	Sivuqaghmun	Sivuqagh	NOUN	_	Case=All|Number=Sing	2	obl	_	Analysis=Sivuqagh(N)^[All.Sg]|Gloss=at-Gambell
+4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:4
+# text = Naken tukfighsiki alquughtaten?
+# gloss = Where did you buy your spoons from?
+# labels = complete-dep anno-hayley
+1	naken	naken	ADV	_	PronType=Int	2	advmod	_	Analysis=naken(WH)|Gloss=where
+2	tukfighsiki	tukfigh	VERB	_	Mood=Int|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	0	root	_	Analysis=tukfigh(V)^[Intrg.Trns]^[2Sg.3Pl]|Gloss=did-you-buy-them?
+3	alquughtaten	alquughta	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=2	2	obj	_	Analysis=alquutagh(N)^[Abs.2SgPoss.Pl]|Gloss=your-spoons
+4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:5
+# text = Sangavek iyataghsin?
+# gloss = Why are you hungry?
+# labels = complete-dep anno-hayley
+1	sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
+2	iyataghsin	iyatagh	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Analysis=iyatagh(V)^[Intrg.Intr.2Sg]|Gloss=are-you-hungry?
+3	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:6
+# text = Qakun kayusighlleqsikung?
+# gloss = When will you help us both?
+# labels = complete-dep anno-hayley
+1	qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
+2	kayusighlleqsikung	kayusigh	VERB	_	Mood=Int|Number[obj]=Dual|Number[subj]=Sing|Person[obj]=1|Person[subj]=2|Tense=Fut|Valency=2	0	root	_	Analysis=kayusigh(V)^@lleqe(V→V)^[Intrg.Trns]^[2Sg.1Du]|Gloss=will-you-help-us-both?
+3	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:7
+# text = Sangavek meghnughsin?
+# gloss = Why are you tired?
+# labels = complete-dep anno-hayley
+1	sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
+2	meghnughsin	meghnugh	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Analysis=meghnugh(V)^[Intrg.Intr.2Sg]|Gloss=are-you-tired?
+3	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:8
+# text = Qafsinaneng ighnelguzin?
+# gloss = How many sons do you have?
+# labels = complete-dep anno-hayley
+1	Qafsinaneng	qafsina	DET	_	Case=Abl|Number=Plur|PronType=Int	2	nmod	_	Analysis=qafsina(WH)^[Abl_Mod.Pl]|Gloss=how-many
+2	ighnelguzin	lgu	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Analysis=ighnegh(N)^–lgu(N→V)^[Intrg.Intr.2Sg]|Gloss=do-you-have-sons?
+3	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:9
+# text = Qavngaq liisigu panigma aatgha?
+# gloss = When did you learn my daughter's name?
+# labels = complete-dep anno-hayley
+1	qavngaq	qavngaq	ADV	_	PronType=Int	2	advmod	_	Analysis=qavngaq(WH)|Gloss=when
+2	liisigu	lii	VERB	_	Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	0	root	_	Analysis=liite(V)^[Intrg.Trns]^[2Sg.3Sg]|Gloss=did-you-learn-it?
+3	panigma	panig	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nmod	_	Analysis=panig(N)^[Rel.1SgPoss.Sg]|Gloss=my-daughter's
+4	aatgha	aatgh	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	Analysis=ategh(N)^[Abs.3SgPoss.Sg]|Gloss=her-name
+5	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:10
+# text = Qawaagniighsin?
+# gloss = Did you hunt birds?
+# labels = complete-dep anno-hayley
+1	Qawaagniighsin	qawaagniigh	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Analysis=qawaagniigh(V)^[Intrg.Intr.2Sg]|Gloss=did-you-hunt-birds?
+2	?	?	PUNCT	_	_	1	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:11
+# text = Navek aghulaqsin?
+# gloss = Where did you leave to?
+# labels = complete-dep anno-hayley
+1	navek	navek	ADV	_	PronType=Int	2	advmod	_	Analysis=navek(WH)|Gloss=where
+2	aghulaqsin	aghulaq	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Analysis=aghulaqe(V)^[Intrg.Intr.2Sg]|Gloss=did-you-leave?
+3	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:12
+# text = Tengegkayugmeng nagatestaak?
+# gloss = Did you hear a plane?
+# labels = complete-dep anno-hayley
+1	Tengegkayugmeng	tengegkayug	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=tengegkayug(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-an-airplane
+2	nagatestaak	nagaqugh	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Analysis=nagaqugh(V)^[Intrg.Intr.2Sg]|Gloss=did-you-hear?
+3	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:13
+# text = Esghaghsiki Quyillgaat?
+# gloss = Did you see the Chukchi people?
+# labels = complete-dep anno-hayley
+1	Esghaghsiki	Esghagh	VERB	_	Mood=Int|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	0	root	_	Analysis=esghagh(V)^[Intrg.Trns]^[2Sg.3Pl]|Gloss=did-you-see-them?
+2	Quyillgaat	Quyillg	NOUN	_	Case=Abs|Number=Plur	1	obj	_	Analysis=Quyilleg(N)^[Abs.Pl]|Gloss=the-Chukchi-people
+3	?	?	PUNCT	_	_	1	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:14
+# text = Qakun igleghlleqestung?
+# gloss = When will we take off?
+# labels = complete-dep anno-hayley
+1	qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
+2	igleghlleqestung	iglegh	VERB	_	Mood=Int|Number[subj]=Dual|Person[subj]=1|Tense=Fut|Valency=1	0	root	_	Analysis=igleghte(V)^@lleqe(V→V)^[Intrg.Intr]^[1Du]|Gloss=will-we-go?
+3	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:15
+# text = Kinanguzin?
+# gloss = Who are you?
+# labels = complete-dep anno-hayley
+1	Kinanguzin	kina	PRON	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|PronType=Int|Valency=1	0	root	_	Analysis=kina(WH)^~:(ng)u(N→V)^[Intrg.Intr.2Sg]|Gloss=who-are-you?
+2	?	?	PUNCT	_	_	1	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:16
+# text = Kinkungutsi?
+# gloss = Who are you all?
+# labels = complete-dep anno-hayley
+1	Kinkungutsi	kinku	PRON	_	Mood=Int|Number[subj]=Plur|Person[subj]=2|PronType=Int|Valency=1	0	root	_	Analysis=kinku(WH)^~:(ng)u(N→V)^[Intrg.Intr.2Pl]|Gloss=who-are-you-all?
+2	?	?	PUNCT	_	_	1	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:17
+# text = Naken inghuziki pagunghaat?
+# gloss = Where did you pick the crowberries from?
+# labels = complete-dep anno-hayley
+1	naken	naken	ADV	_	PronType=Int	2	advmod	_	Analysis=naken(WH)|Gloss=where
+2	inghuziki	inghu	VERB	_	Mood=Int|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	0	root	_	Analysis=inghu(V)^[Intrg.Trns]^[2Sg.3Pl]|Gloss=did-you-pick-them?
+3	pagunghaat	pagungha	NOUN	_	Case=Abs|Number=Plur	2	obj	_	Analysis=pagunghagh*(N)^[Abs.Pl]|Gloss=the-crowberries
+4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:18
+# text = Sangan aallgetsi?
+# gloss = Why did you all sweep?
+# labels = complete-dep anno-hayley
+1	sangan	sangan	ADV	_	PronType=Int	2	advmod	_	Analysis=sangan(WH)|Gloss=why
+2	aallgetsi	aallg	VERB	_	Mood=Int|Number[subj]=Plur|Person[subj]=2|Valency=1	0	root	_	Analysis=alleg(V)^[Intrg.Intr.2Pl]|Gloss=did-you-all-sweep?
+3	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:19
+# text = Sangan qulmesiitka tuguzigu?
+# gloss = Why did you take my cooking pot?
+# labels = complete-dep anno-hayley
+1	sangan	sangan	ADV	_	PronType=Int	3	advmod	_	Analysis=sangan(WH)|Gloss=why
+2	qulmesiitka	qulmesiit	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	obj	_	Analysis=qulmesiite(N)^[Abs.1SgPoss.Sg]|Gloss=my-cooking-pot
+3	tuguzigu	tugu	VERB	_	Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	0	root	_	Analysis=tugu(V)^[Intrg.Trns]^[2Sg.3Sg]|Gloss=did-you-take-it?
+4	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:20
+# text = Qakun umeglleqsikek qergesek?
+# gloss = When will you close the window?
+# labels = complete-dep anno-hayley
+1	qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
+2	umeglleqsikek	umeg	VERB	_	Mood=Int|Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Fut|Valency=2	0	root	_	Analysis=umeg(V)^@lleqe(V→V)^[Intrg.Trns]^[2Sg.3Du]|Gloss=will-you-close-them?
+3	qergesek	qergese	NOUN	_	Case=Abs|Number=Dual	2	obj	_	Analysis=qergese(N)^[Abs.Du]|Gloss=the-window
+4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:21
+# text = Aghveliighsiin?
+# gloss = Did you cook whale?
+# labels = complete-dep anno-hayley
+1	Aghveliighsiin	liigh	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Analysis=aghvegh(N)^–liigh(N→V)^[Intrg.Intr.2Sg]|Gloss=did-you-cook-whale?
+2	?	?	PUNCT	_	_	1	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:22
+# text = Angyangllaghyugsiin?
+# gloss = Do you want to make a boat?
+# labels = complete-dep anno-hayley
+1	Angyangllaghyugsiin	yug	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Analysis=angyagh(N)^–ngllagh(N→V)^@~fyug(V→V)^[Intrg.Intr.2Sg]|Gloss=do-you-want-to-make-a-boat?
+2	?	?	PUNCT	_	_	1	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:23
+# text = Qakun tukfighlleqsikek walguyaagegka?
+# gloss = When will you buy my pair of snow shoes?
+# labels = complete-dep anno-hayley
+1	qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
+2	tukfighlleqsikek	tukfigh	VERB	_	Mood=Int|Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Fut|Valency=2	0	root	_	Analysis=tukfigh(V)^@lleqe(V→V)^[Intrg.Trns]^[2Sg.3Du]|Gloss=will-you-buy-them?
+3	walguyaagegka	walguyaag	NOUN	_	Case=Abs|Number=Dual|Number[psor]=Sing|Person[psor]=1	2	obj	_	Analysis=walguyaag(N)^[Abs.1SgPoss.Du]|Gloss=my-snowshoes
+4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:24
+# text = Qikmighllalguziin?
+# gloss = Do you have a large dog?
+# labels = complete-dep anno-hayley
+1	Qikmighllalguziin	lgu	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Analysis=qikmigh(N)^–ghllag(N→N)^–lgu(N→V)^[Intrg.Intr.2Sg]|Gloss=do-you-have-a-large-dog?
+2	?	?	PUNCT	_	_	1	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:25
+# text = Naken ukigestek?
+# gloss = Where did you two climb down from?
+# labels = complete-dep anno-hayley
+1	naken	naken	ADV	_	PronType=Int	2	advmod	_	Analysis=naken(WH)|Gloss=where
+2	ukigestek	ukig	VERB	_	Mood=Int|Number[subj]=Dual|Person[subj]=2|Valency=1	0	root	_	Analysis=ukig(V)^[Intrg.Intr.2Du]|Gloss=did-you-two-climb-down?
+3	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:26
+# text = Navek mayughestek?
+# gloss = Where did you two climb to?
+# labels = complete-dep anno-hayley
+1	navek	navek	ADV	_	PronType=Int	2	advmod	_	Analysis=navek(WH)|Gloss=where
+2	mayughestek	mayugh	VERB	_	Mood=Int|Number[subj]=Dual|Person[subj]=2|Valency=1	0	root	_	Analysis=mayugh(V)^[Intrg.Intr.2Du]|Gloss=did-you-two-climb?
+3	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:27
+# text = Nani esghaghsigu kaviighem riigtenga?
+# gloss = Where did you see the fox's den?
+# labels = complete-dep anno-hayley
+1	nani	nani	ADV	_	PronType=Int	2	advmod	_	Analysis=nani(WH)|Gloss=where
+2	esghaghsigu	esghagh	VERB	_	Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	0	root	_	Analysis=esghagh(V)^[Intrg.Trns]^[2Sg.3Sg]|Gloss=did-you-see-it?
+3	kaviighem	kaviigh	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	Analysis=kaviigh(N)^[Rel.Sg]|Gloss=the-fox's
+4	riigtenga	riigte	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	Analysis=riigte(N)^[Abs.3SgPoss.Sg]|Gloss=its-den
+5	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:28
+# text = Sangita nalluksiki taghnughhaghma aatghit?
+# gloss = Why don't you know my childrens' names?
+# labels = complete-dep anno-hayley
+1	sangita	sangita	ADV	_	PronType=Int	2	advmod	_	Analysis=sangita(WH)|Gloss=why
+2	nalluksiki	nalluk	VERB	_	Mood=Int|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	0	root	_	Analysis=nalluke(V)^[Intrg.Trns]^[2Sg.3Pl]|Gloss=do-you-not-know-them?
+3	taghnughhaghma	taghnughhagh	NOUN	_	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=1	4	nmod	_	Analysis=taghnughhagh*(N)^[Rel.1SgPoss.Pl]|Gloss=my-children's
+4	aatghit	aatgh	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Plur|Person[psor]=3	2	obj	_	Analysis=ategh(N)^[Abs.3PlPoss.Pl]|Gloss=their-names
+5	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:29
+# text = Nani qavaghestek ighivgaq?
+# gloss = Where did you both sleep at last night?
+# labels = complete-dep anno-hayley
+1	nani	nani	ADV	_	PronType=Int	2	advmod	_	Analysis=nani(WH)|Gloss=where
+2	qavaghestek	qavagh	VERB	_	Mood=Int|Number[subj]=Dual|Person[subj]=2|Valency=1	0	root	_	Analysis=qavagh(V)^[Intrg.Intr.2Du]|Gloss=did-you-both-sleep?
+3	ighivgaq	ighivgaq	PART	_	_	2	advmod	_	Analysis=ighivgaq(PTCL)|Gloss=yesterday
+4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:30
+# text = Navek llinaqsigu neqeka?
+# gloss = Where are you going to place my food?
+# labels = complete-dep anno-hayley
+1	navek	navek	ADV	_	PronType=Int	2	advmod	_	Analysis=navek(WH)|Gloss=where
+2	llinaqsigu	lli	VERB	_	Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Fut|Valency=2	0	root	_	Analysis=lli(V)^@~fnaqe(V→V)^[Intrg.Trns]^[2Sg.3Sg]|Gloss=are-you-going-to-place-it?
+3	neqeka	neqe	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	obj	_	Analysis=neqe(N)^[Abs.1SgPoss.Sg]|Gloss=my-food
+4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:31
+# text = Qavngaq laalighsigu apeghtughisten?
+# gloss = When did you visit your teacher?
+# labels = complete-dep anno-hayley
+1	qavngaq	qavngaq	ADV	_	PronType=Int	2	advmod	_	Analysis=qavngaq(WH)|Gloss=when
+2	laalighsigu	laaligh	VERB	_	Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	0	root	_	Analysis=laalighte(V)^[Intrg.Trns]^[2Sg.3Sg]|Gloss=did-you-visit-him?
+3	apeghtughisten	apeghtughiste	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	obj	_	Analysis=apeghtughiste(N)^[Abs.2SgPoss.Sg]|Gloss=your-teacher
+4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:32
+# text = Sangavek kaanneghisin ighivgaq?
+# gloss = Why didn't you arrive yesterday?
+# labels = complete-dep anno-hayley
+1	sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
+2	kaanneghisin	kaa	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Polarity=Neg|Valency=1	0	root	_	Analysis=kaate(V)^@–nghite(V→V)^[Intrg.Intr.2Sg]|Gloss=did-you-not-arrive?
+3	ighivgaq	ighivgaq	PART	_	_	2	advmod	_	Analysis=ighivgaq(PTCL)|Gloss=yesterday
+4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:33
+# text = Qafsinaneng nanughmeng esghaatetsi?
+# gloss = How many polar bears did you all see?
+# labels = complete-dep anno-hayley
+1	Qafsinaneng	qafsina	DET	_	Case=Abl|Number=Plur|PronType=Int	2	nmod	_	Analysis=qafsina(WH)^[Abl_Mod.Pl]|Gloss=how-many
+2	nanughmeng	nanugh	NOUN	_	Case=Abl|Number=Plur	3	obl	_	Analysis=nanugh*(N)^[Abl_Mod.Pl]|Gloss=by-the-means-of-polar-bears
+3	esghaatetsi	esghaate	VERB	_	Mood=Int|Number[subj]=Plur|Person[subj]=2|Valency=1	0	root	_	Analysis=esghaate(V)^[Intrg.Intr.2Pl]|Gloss=did-you-all-see?
+4	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch8.gold:34
+# text = Qakun kayusighlleqsinga?
+# gloss = When will you help me?
+# labels = complete-dep anno-hayley
+1	qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
+2	kayusighlleqsinga	kayusigh	VERB	_	Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=2|Tense=Fut|Valency=2	0	root	_	Analysis=kayusigh(V)^@lleqe(V→V)^[Intrg.Trns]^[2Sg.1Sg]|Gloss=will-you-help-me?
+3	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:1
+# text = Sameng atan ivaghta?
+# gloss = What did your father look for?
+# labels = complete-dep anno-hayley
+1	sameng	sameng	PRON	_	PronType=Int	3	obj	_	Analysis=sameng(WH)|Gloss=what
+2	atan	ata	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	nsubj	_	Analysis=ata(N)^[Abs.2SgPoss.Sg]|Gloss=your-father
+3	ivaghta	ivagh	VERB	_	Number[subj]=Sing|Person[subj]=3	0	root	_	Analysis=ivagh(V)^[Intrg.Intr]^[3Sg]|Gloss=did-he-look-for?
+4	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:2
+# text = Kinangaawa?
+# gloss = Who is he?
+# labels = complete-dep anno-hayley
+1	Kinangaawa	kina	PRON	_	Number[subj]=Sing|Person[subj]=3|PronType=Int	0	root	_	Analysis=kina(WH)^~:(ng)u(N→V)^[Intrg.Intr]^[3Sg]|Gloss=who-is-he?
+2	?	?	PUNCT	_	_	1	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:3
+# text = Kinkungaawat aqelqat?
+# gloss = Who are the guests?
+# labels = complete-dep anno-hayley
+1	Kinkungaawat	kinku	PRON	_	Mood=Int|Number[subj]=Plur|Person[subj]=3|PronType=Int|Valency=1	0	root	_	Analysis=kinku(WH)^~:(ng)u(N→V)^[Intrg.Intr]^[3Pl]|Gloss=who-are-they?
+2	aqelqat	aqelqa	NOUN	_	Case=Abs|Number=Plur	1	nsubj	_	Analysis=aqelqagh(N)^[Abs.Pl]|Gloss=the-guests
+3	?	?	PUNCT	_	_	1	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:4
+# text = Kitum qiyastaten?
+# gloss = Who let you cry?
+# labels = complete-dep anno-hayley
+1	Kitum	kitu	PRON	_	Case=Erg|Number=Sing|PronType=Int	2	nsubj	_	Analysis=kitu(WH)^[Rel.Sg]|Gloss=who
+2	qiyastaten	st	VERB	_	Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=3|Valency=2	0	root	_	Analysis=qiya(V)^+(te)ste(CmpdVbl)^[Intrg.Trns]^[3Sg.2Sg]|Gloss=he-made-you-cry
+3	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:5
+# text = Nengyughpek ighivgaq ungipaghaatagu ighneghaan?
+# gloss = Did your grandmother tell your son a story yesterday?
+# labels = complete-dep anno-hayley
+1	Nengyughpek	nengyu	NOUN	_	Case=Erg|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	nsubj	_	Analysis=nengyugh(N)^[Rel.2SgPoss.Sg]|Gloss=your-grandmother
+2	ighivgaq	ighivgaq	PART	_	_	3	advmod	_	Analysis=ighivgaq(PTCL)|Gloss=yesterday
+3	ungipaghaatagu	ungipaghaat	VERB	_	Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=ungipaghaate(V)^[Intrg.Trns]^[3Sg.3Sg]|Gloss=did-she-tell-a-story-to-him?
+4	ighneghaan	ighneghqa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	obj	_	Analysis=ighneghqagh(N)^[Abs.2SgPoss.Sg]|Gloss=your-stepson
+5	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:6
+# text = Neghegkaawaa?
+# gloss = Has she eaten?
+# labels = complete-dep anno-hayley
+1	Neghegkaawaa	Neghe	VERB	_	Number[subj]=Sing|Person[subj]=3	0	root	_	Analysis=neghe(V)^@~–(g)kau(V→V)^[Intrg.Intr]^[3Sg]|Gloss=has-she-eaten?
+2	?	?	PUNCT	_	_	1	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:7
+# text = Nani yughaghtem payeghtagu nuzin?
+# gloss = Where did the minister meet your child's spouse's parent?
+# labels = complete-dep anno-hayley
+1	nani	nani	ADV	_	PronType=Int	3	advmod	_	Analysis=nani(WH)|Gloss=where
+2	yughaghtem	yughaghte	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Analysis=yughaghte(N)^[Rel.Sg]|Gloss=the-minister
+3	payeghtagu	payegh	VERB	_	Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=payegh(V)^[Intrg.Trns]^[3Sg.3Sg]|Gloss=did-she-meet-him?
+4	nuzin	nuzi	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	obj	_	Analysis=nuzigh(N)^[Abs.2SgPoss.Sg]|Gloss=your-child's-spouse's-parent
+5	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:8
+# text = Naliita qikmima amqeghtaten?
+# gloss = Which one of my dogs bit you?
+# labels = complete-dep anno-hayley
+1	Naliita	nali	DET	_	Case=Erg|Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Int	2	nmod	_	Analysis=naligh(WH)^[Rel.3PlPoss.Sg]|Gloss=which-one-of-them
+2	qikmima	qikmi	NOUN	_	Case=Erg|Number=Plur|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	Analysis=qikmigh(N)^[Rel.1SgPoss.Pl]|Gloss=my-dogs
+3	amqeghtaten	amqegh	VERB	_	Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=3|Valency=2	0	root	_	Analysis=amqeghte(V)^[Intrg.Trns]^[3Sg.2Sg]|Gloss=did-it-bit-you?
+4	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:9
+# text = Sangama apeghtughistem esghaghyugtanga?
+# gloss = Why does the teacher want to see me?
+# labels = complete-dep anno-hayley
+1	sangama	sangama	ADV	_	PronType=Int	3	advmod	_	Analysis=sangama(WH)|Gloss=why
+2	apeghtughistem	apeghtughiste	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Analysis=apeghtughiste(N)^[Rel.Sg]|Gloss=the-teacher
+3	esghaghyugtanga	yug	VERB	_	Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Valency=2	0	root	_	Analysis=esghagh(V)^@~fyug(V→V)^[Intrg.Trns]^[3Sg.1Sg]|Gloss=does-he-want-to-see-me?
+4	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:10
+# text = Qavngaq naayvaq sikwaa?
+# gloss = When did the lake freeze?
+# labels = complete-dep anno-hayley
+1	qavngaq	qavngaq	ADV	_	PronType=Int	3	advmod	_	Analysis=qavngaq(WH)|Gloss=when
+2	naayvaq	naayvaq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=naayvagh(N)^[Abs.Sg]|Gloss=the-lake
+3	sikwaa	sik	VERB	_	Number[subj]=Sing|Person[subj]=3	0	root	_	Analysis=siku(V)^[Intrg.Intr]^[3Sg]|Gloss=did-it-freeze?
+4	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:11
+# text = Navek naagpek lliiki neqekraget?
+# gloss = Where did your mother place the pilot bread?
+# labels = complete-dep anno-hayley
+1	navek	navek	ADV	_	PronType=Int	3	advmod	_	Analysis=navek(WH)|Gloss=where
+2	naagpek	naa	NOUN	_	Case=Erg|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	nsubj	_	Analysis=naa(N)^[Rel.2SgPoss.Sg]|Gloss=your-mother
+3	lliiki	lli	VERB	_	Mood=Int|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=lli(V)^[Intrg.Trns]^[3Sg.3Pl]|Gloss=did-she-place-them?
+4	neqekraget	neqekrag	NOUN	_	Case=Abs|Number=Plur	3	obj	_	Analysis=neqekrag(N)^[Abs.Pl]|Gloss=the-bread
+5	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:12
+# text = Kitum kakilleqagu nasaperan?
+# gloss = Who will sew your hat?
+# labels = complete-dep anno-hayley
+1	Kitum	kitu	PRON	_	Case=Erg|Number=Sing|PronType=Int	2	nsubj	_	Analysis=kitu(WH)^[Rel.Sg]|Gloss=who
+2	kakilleqagu	kaki	VERB	_	Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Fut|Valency=2	0	root	_	Analysis=kaki(V)^@lleqe(V→V)^[Intrg.Trns]^[3Sg.3Sg]|Gloss=will-he-sew-it?
+3	nasaperan	nasapera	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	obj	_	Analysis=nasaperagh(N)^[Abs.2SgPoss.Sg]|Gloss=your-hat
+4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:13
+# text = Sangan ighneqa ugpeqenghitagu?
+# gloss = Why did't she believe my son?
+# labels = complete-dep anno-hayley
+1	sangan	sangan	ADV	_	PronType=Int	3	advmod	_	Analysis=sangan(WH)|Gloss=why
+2	ighneqa	ighne	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	obj	_	Analysis=ighnegh(N)^[Abs.1SgPoss.Sg]|Gloss=my-son
+3	ugpeqenghitagu	ugpeqe	VERB	_	Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Polarity=Neg|Valency=2	0	root	_	Analysis=ugpeqe(V)^@–nghite(V→V)^[Intrg.Trns]^[3Sg.3Sg]|Gloss=did-she-not-believe-him?
+4	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:14
+# text = Naliita taghnughhaghpek qaamtagu keneq?
+# gloss = Which of your children extinguish the fire?
+# labels = complete-dep anno-hayley
+1	Naliita	nali	DET	_	Case=Erg|Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Int	2	nmod	_	Analysis=naligh(WH)^[Rel.3PlPoss.Sg]|Gloss=which-one-of-them
+2	taghnughhaghpek	taghnughha	NOUN	_	Case=Erg|Number=Plur|Number[psor]=Sing|Person[psor]=2	3	nsubj	_	Analysis=taghnughhagh*(N)^[Rel.2SgPoss.Pl]|Gloss=your-children
+3	qaamtagu	qaamt	VERB	_	Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=qaamte(V)^[Intrg.Trns]^[3Sg.3Sg]|Gloss=did-he-extinguish-it?
+4	keneq	keneq	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Analysis=kenegh(N)^[Abs.Sg]|Gloss=fire
+5	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:15
+# text = Qakun naallghulleqsikek eglluk?
+# gloss = When will you adjust the stove?
+# labels = complete-dep anno-hayley
+1	qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
+2	naallghulleqsikek	naallghu	VERB	_	Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Fut	0	root	_	Analysis=naallghute(V)^@lleqe(V→V)^[Intrg.Trns]^[2Sg.3Du]|Gloss=will-you-adjust-them?
+3	eglluk	egllu	NOUN	_	Case=Abs|Number=Dual	2	obj	_	Analysis=egllu(N)^[Abs.Du]|Gloss=the-stove
+4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:16
+# text = Sangami Nome-emun aghviqaawa?
+# gloss = Why did he travel to Nome?
+# labels = complete-dep anno-hayley
+1	sangami	sangami	ADV	_	PronType=Int	3	advmod	_	Analysis=sangami(WH)|Gloss=why
+2	Nome-emun	Nome	NOUN	_	Case=All|Number=Sing	3	obl	_	Analysis=Nome(N)^[All.Sg]|Gloss=to-Nome
+3	aghviqaawa	aghvi	VERB	_	Number[subj]=Sing|Person[subj]=3	0	root	_	Analysis=aghvigh(V)^@~–(g)kau(V→V)^[Intrg.Intr]^[3Sg]|Gloss=did-he-go-to-the-mainland?
+4	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:17
+# text = Naten siku ughugtestagu?
+# gloss = How did she let the ice melt?
+# labels = complete-dep anno-hayley
+1	naten	naten	ADV	_	PronType=Int	3	advmod	_	Analysis=naten(WH)|Gloss=how
+2	siku	siku	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Analysis=siku(N)^[Abs.Sg]|Gloss=the-ice
+3	ughugtestagu	test	VERB	_	Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=ughug(V)^+(te)ste(CmpdVbl)^[Intrg.Trns]^[3Sg.3Sg]|Gloss=she-let-it-melt
+4	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:18
+# text = Sangaawa?
+# gloss = What is it?
+# labels = complete-dep anno-hayley
+1	Sangaawa	sa	NOUN	_	Number[subj]=Sing|Person[subj]=3	0	root	_	Analysis=sa(N)^~:(ng)u(N→V)^[Intrg.Intr]^[3Sg]|Gloss=what-is-it?
+2	?	?	PUNCT	_	_	1	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:19
+# text = Sangavek iknaqsin?
+# gloss = Why are you strong?
+# labels = complete-dep anno-hayley
+1	sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
+2	iknaqsin	iknaq	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Analysis=iknaqe(V)^[Intrg.Intr.2Sg]|Gloss=are-you-strong?
+3	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:20
+# text = Naliit alquutama naalkaki?
+# gloss = Which of my spoons did he find?
+# labels = complete-dep anno-hayley
+1	Naliit	nali	DET	_	Case=Abs|Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Int	2	nmod	_	Analysis=naligh(WH)^[Abs.3PlPoss.Sg]|Gloss=which-one-of-them
+2	alquutama	alquuta	NOUN	_	Case=Erg|Number=Plur|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	Analysis=alquutagh(N)^[Rel.1SgPoss.Pl]|Gloss=my-spoons
+3	naalkaki	naalk	VERB	_	Mood=Int|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=naalke(V)^[Intrg.Trns]^[3Sg.3Pl]|Gloss=did-he-find-them?
+4	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch9.gold:21
+# text = Mekelghiighem qikmimun aghnaghaq qilugtestaa.
+# gloss = The boy let the dog bark at the girl.
+# labels = complete-dep anno-hayley
+1	Mekelghiighem	mekelghiigh	NOUN	_	Case=Erg|Number=Sing	4	nsubj	_	Analysis=mekelghiigh(N)^[Rel.Sg]|Gloss=the-boy
+2	qikmimun	qikmi	NOUN	_	Case=All|Number=Sing	4	nsubj	_	Analysis=qikmigh(N)^[All.Sg]|Gloss=the-dog
+3	aghnaghaq	aghnaghaq	NOUN	_	Case=Abs|Number=Sing	4	obj	_	Analysis=aghnaghagh*(N)^[Abs.Sg]|Gloss=the-girl
+4	qilugtestaa	test	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=qilug(V)^+(te)ste(CmpdVbl)^[Ind.Trns]^[3Sg.3Sg]|Gloss=he-let-it-bark-at-her
+5	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch9.gold:22
+# text = Kitumun naallghutestesiki mangteghaghpek qergesengi?
+# gloss = Who did he let the house's windows adjust?
+# labels = complete-dep anno-hayley
+1	kitumun	kitumun	PRON	_	PronType=Int	2	nsubj	_	Analysis=kitumun(WH)|Gloss=who
+2	naallghutestesiki	ste	VERB	_	Mood=Int|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	0	root	_	Analysis=naallghute(V)^+(te)ste(CmpdVbl)^[Intrg.Trns]^[2Sg.3Pl]|Gloss=he-had-one-adjust-them
+3	mangteghaghpek	mangteghagh	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2	4	nmod	_	Analysis=mangteghagh(N)^[Rel.2SgPoss.Sg]|Gloss=your-house's
+4	qergesengi	qergese	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=3	2	obj	_	Analysis=qergese(N)^[Abs.3SgPoss.Pl]|Gloss=its-window
+5	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch10.gold:1
+# text = Igaghyaghqaq egtigu.
+# gloss = Throw the paper away.
+# labels = complete-dep anno-hayley
+1	igaghyaghqaq	igaghyaghqaq	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=igaghyaghqagh(N)^[Abs.Sg]|Gloss=writing-paper
+2	egtigu	egt	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	Analysis=egte(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=throw-it-away
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:2
+# text = Neghi ququngameng.
+# gloss = Eat some willow leaves.
+# labels = complete-dep anno-hayley
+1	Neghi	negh	VERB	_	Mood=Opt|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	Analysis=negh(V)^[Opt.Pres.Intr.2Sg]|Gloss=eat-it
+2	ququngameng	ququnga	NOUN	_	Case=Abl|Number=Sing	1	obj	_	Analysis=ququngagh(N)^[Abl_Mod.Sg]|Gloss=willow-leaves
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:3
+# text = Pugimaaltung kiiwegni.
+# gloss = Let's both swim in the river.
+# labels = complete-dep anno-hayley
+1	Pugimaaltung	Pugimaa	VERB	_	Mood=Opt|Number[subj]=Dual|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	Analysis=pugimagh(V)^[Opt.Pres.Intr]^[1Du]|Gloss=let's-swim
+2	kiiwegni	kiiw	NOUN	_	Case=Loc|Number=Dual	1	obl	_	Analysis=kiiw(N)^[Loc.Du]|Gloss=in-the-river
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:4
+# text = Tugugu qayuusiq tipelegneng.
+# gloss = Take the cup from the table.
+# labels = complete-dep anno-hayley
+1	Tugugu	tugu	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	Analysis=tugu(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=take-it
+2	qayuusiq	qayuusiq	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=qayuusigh(N)^[Abs.Sg]|Gloss=the-cup
+3	tipelegneng	tipele	NOUN	_	Case=Abl|Number=Dual	1	obl	_	Analysis=tipele(N)^[Abl_Mod.Du]|Gloss=from-the-table
+4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:5
+# text = Lliki alquutat qulmesiitmun.
+# gloss = Place the spoons to the cooking pot.
+# labels = complete-dep anno-hayley
+1	Lliki	Lli	VERB	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	0	root	_	Analysis=lli(V)^[Opt.Pres.Trns]^[2Sg.3Pl]|Gloss=place-them
+2	alquutat	alquuta	NOUN	_	Case=Abs|Number=Plur	1	obj	_	Analysis=alquutagh(N)^[Abs.Pl]|Gloss=the-spoons
+3	qulmesiitmun	qulmesiit	NOUN	_	Case=All|Number=Sing	1	obl	_	Analysis=qulmesiite(N)^[All.Sg]|Gloss=to-the-cooking-pot
+4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:6
+# text = Kayusighnga.
+# gloss = Help me.
+# labels = complete-dep anno-hayley
+1	Kayusighnga	Kayusigh	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=2	0	root	_	Analysis=kayusigh(V)^[Opt.Pres.Trns]^[2Sg.1Sg]|Gloss=help-me
+2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:7
+# text = Unaami aghviilta.
+# gloss = Let's travel out of the island tomorrow.
+# labels = complete-dep anno-hayley
+1	unaami	unaami	PART	_	_	2	advmod	_	Analysis=unaami(PTCL)|Gloss=tomorrow
+2	aghviilta	aghvi	VERB	_	Mood=Opt|Number[subj]=Plur|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	Analysis=aghvigh(V)^[Opt.Pres.Intr]^[1Pl]|Gloss=let's-travel-out-of-the-island
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:8
+# text = Qayuulta kufimeng.
+# gloss = Lets drink coffee.
+# labels = complete-dep anno-hayley
+1	Qayuulta	Qayu	VERB	_	Mood=Opt|Number[subj]=Plur|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	Analysis=qayugh(V)^[Opt.Pres.Intr]^[1Pl]|Gloss=let's-drink
+2	kufimeng	kufi	NOUN	_	Case=Abl|Number=Sing	1	obj	_	Analysis=kufi(N)^[Abl_Mod.Sg]|Gloss=coffee
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:9
+# text = Tagitiki nekreget mangteghamun.
+# gloss = Bring the hooks to the house.
+# labels = complete-dep anno-hayley
+1	Tagitiki	Tagit	VERB	_	Mood=Opt|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	Analysis=tagite(V)^[Opt.Pres.Trns]^[2Sg.3Pl]|Gloss=bring-them
+2	nekreget	nekreg	NOUN	_	Case=Abs|Number=Plur	1	obj	_	Analysis=nekreg(N)^[Abs.Pl]|Gloss=the-hooks
+3	mangteghamun	mangtegha	NOUN	_	Case=All|Number=Sing	1	obl	_	Analysis=mangteghagh(N)^[All.Sg]|Gloss=to-the-house
+4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:10
+# text = Neghefqaavek quugmeng.
+# gloss = Don't eat drift wood.
+# labels = complete-dep anno-hayley
+1	Neghefqaavek	neghe	VERB	_	Mood=Opt|Number[subj]=Sing|Person[subj]=2|Polarity=Neg|Tense=Pres|Valency=1	0	root	_	Analysis=neghe(V)^[Opt.Neg.Pres.Intr]^[2Sg]|Gloss=do-not-eat
+2	quugmeng	quug	NOUN	_	Case=Abl|Number=Sing	1	obj	_	Analysis=quug(N)^[Abl_Mod.Sg]|Gloss=wood
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:11
+# text = Laalighfikiikut.
+# gloss = They visited us.
+# labels = complete-dep anno-hayley
+1	Laalighfikiikut	laalighfik	VERB	_	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Valency=2	0	root	_	Analysis=laalighfike(V)^[Ind.Trns]^[3Sg.1Pl]|Gloss=they-visited-us
+2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:12
+# text = Aakw kuuvefqaan.
+# gloss = Don't spill the blood.
+# labels = complete-dep anno-hayley
+1	aakw	aakw	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=aaw(N)^[Abs.Sg]|Gloss=blood
+2	kuuvefqaan	kuuve	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=3|Person[subj]=2|Polarity=Neg|Tense=Pres|Valency=2	0	root	_	Analysis=kuuve(V)^[Opt.Neg.Pres.Trns]^[2Sg.3Sg]|Gloss=do-not-spill-it
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:13
+# text = Unkusegka atuqefqaagkenka.
+# gloss = Don't use my set of fox trap.
+# labels = complete-dep anno-hayley
+1	Unkusegka	unkuse	NOUN	_	Case=Abs|Number=Dual|Number[psor]=Sing|Person[psor]=1	2	obj	_	Analysis=unkuse(N)^[Abs.1SgPoss.Du]|Gloss=my-set-of-animal-traps
+2	atuqefqaagkenka	atuqe	VERB	_	Mood=Opt|Number[obj]=Dual|Number[subj]=Sing,Dual,Plur|Person[obj]=3|Person[subj]=2|Polarity=Neg|Tense=Pres|Valency=2	0	root	_	Analysis=atuqe(V)^[Opt.Neg.Pres.Trns]^[2Sg.3Du]|Gloss=do-not-use-them
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:14
+# text = Pumsufqaama.
+# gloss = Don't pinch me.
+# labels = complete-dep anno-hayley
+1	Pumsufqaama	pumsu	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=1|Person[subj]=2|Polarity=Neg|Tense=Pres|Valency=2	0	root	_	Analysis=pumsug(V)^[Opt.Neg.Pres.Trns]^[2Sg.1Sg]|Gloss=do-not-pinch-me
+2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:15
+# text = Ukigelta esnamun.
+# gloss = Let's climb down to the shore.
+# labels = complete-dep anno-hayley
+1	Ukigelta	Ukig	VERB	_	Mood=Opt|Number[subj]=Plur|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	Analysis=ukig(V)^[Opt.Pres.Intr]^[1Pl]|Gloss=let's-go-down
+2	esnamun	esna	NOUN	_	Case=All|Number=Sing	1	obl	_	Analysis=esnagh(N)^[All.Sg]|Gloss=to-the-beach
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:16
+# text = Amaa guutigu.
+# gloss = Shoot the wolf.
+# labels = complete-dep anno-hayley
+1	amaa	amaa	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=amaa(N)^[Abs.Sg]|Gloss=the-wolf
+2	guutigu	guut	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	Analysis=guute(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=wolf
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:17
+# text = Keneq qaamtigu.
+# gloss = Extinguish the fire. or Shut off the light.
+# labels = complete-dep anno-hayley
+1	keneq	keneq	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=kenegh(N)^[Abs.Sg]|Gloss=fire
+2	qaamtigu	qaamt	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	Analysis=qaamte(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=extinguish-it
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:18
+# text = Qergesek umegkek.
+# gloss = Close the window.
+# labels = complete-dep anno-hayley
+1	Qergesek	qergese	NOUN	_	Case=Abs|Number=Dual	2	obj	_	Analysis=qergese(N)^[Abs.Du]|Gloss=the-window
+2	umegkek	umeg	VERB	_	Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	0	root	_	Analysis=umeg(V)^[Opt.Pres.Trns]^[2Sg.3Du]|Gloss=close-them
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:19
+# text = Amiget qelpeghtiki.
+# gloss = Open the doors.
+# labels = complete-dep anno-hayley
+1	Amiget	Amig	NOUN	_	Case=Abs|Number=Plur	2	obj	_	Analysis=amig(N)^[Abs.Pl]|Gloss=the-door
+2	qelpeghtiki	qelpeght	VERB	_	Mood=Opt|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	Analysis=complete-dep anno-hayley(V)^[Opt.Pres.Trns]^[2Sg.3Pl]|Gloss=open-them
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:20
+# text = Tuqutefqaan puugzaq.
+# gloss = Don't kill the beluga.
+# labels = complete-dep anno-hayley
+1	Tuqutefqaan	tuqute	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=3|Person[subj]=2|Polarity=Neg|Tense=Pres|Valency=2	0	root	_	Analysis=tuqute(V)^[Opt.Neg.Pres.Trns]^[2Sg.3Sg]|Gloss=do-not-kill-it
+2	puugzaq	puugzaq	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=puugzagh(N)^[Abs.Sg]|Gloss=the-beluga
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:21
+# text = Kaamwaaghmeng neghefqaavek.
+# gloss = Don't eat coltsfoot.
+# labels = complete-dep anno-hayley
+1	Kaamwaaghmeng	kaamwaagh	NOUN	_	Case=Abl|Number=Sing	2	obj	_	Analysis=kaamwaagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-coltsfoot
+2	neghefqaavek	neghe	VERB	_	Mood=Opt|Number[subj]=Sing|Person[subj]=2|Polarity=Neg|Tense=Pres|Valency=1	0	root	_	Analysis=neghe(V)^[Opt.Neg.Pres.Intr]^[2Sg]|Gloss=do-not-eat
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:22
+# text = Tagitiki quuget esnameng.
+# gloss = Bring the wood over from the beach.
+# labels = complete-dep anno-hayley
+1	Tagitiki	Tagit	VERB	_	Mood=Opt|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	Analysis=tagite(V)^[Opt.Pres.Trns]^[2Sg.3Pl]|Gloss=bring-them
+2	quuget	quug	NOUN	_	Case=Abs|Number=Plur	1	obj	_	Analysis=quug(N)^[Abs.Pl]|Gloss=the-wood
+3	esnameng	esna	NOUN	_	Case=Abl|Number=Sing	1	obl	_	Analysis=esnagh(N)^[Abl_Mod.Sg]|Gloss=from-the-beach
+4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:23
+# text = Latakaagunga yughaghtemun.
+# gloss = I wrote a letter to the ministers.
+# labels = complete-dep anno-hayley
+1	Latakaagunga	lata	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	Analysis=lata(V)^@~–(g)kau(V→V)^[Ind.Intr]^[1Sg]|Gloss=I-wrote-a-letter
+2	yughaghtemun	yughaghte	NOUN	_	Case=All|Number=Sing	1	obl	_	Analysis=yughaghte(N)^[All.Sg]|Gloss=to-the-minister
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:24
+# text = Kaaskaagut.
+# gloss = We have arrived.
+# labels = complete-dep anno-hayley
+1	Kaaskaagut	kaas	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=kaate(V)^@~–(g)kau(V→V)^[Ind.Intr]^[3Pl]|Gloss=we-have-arrived
+2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch10.gold:25
+# text = Taaghtam aghnamun qayunghitesqaa kufi.
+# gloss = The doctor prevented the woman to drink the coffee.
+# labels = complete-dep anno-hayley
+1	Taaghtam	Taaghta	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Analysis=taaghta(N)^[Rel.Sg]|Gloss=the-doctor
+2	aghnamun	aghna	NOUN	_	Case=All|Number=Sing	3	nsubj	_	Analysis=aghnagh(N)^[All.Sg]|Gloss=the-woman
+3	qayunghitesqaa	sq	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Polarity=Neg|Valency=2	0	root	_	Analysis=qayugh(V)^@–nghite(V→V)^~sf:(e)sqe(CmpdVbl)^[Ind.Trns]^[3Sg.3Sg]|Gloss=he-told-one-not-to-drink-it
+4	kufi	kufi	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Analysis=kufi(N)^[Abs.Sg]|Gloss=coffee
+5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:1
+# text = Naagpek sagnegha pagunghalighnaqaqa.
+# gloss = I am going to add crowberries in your mother's bowl.
+# labels = complete-dep anno-hayley
+1	Naagpek	naa	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	nmod	_	Analysis=naa(N)^[Rel.2SgPoss.Sg]|Gloss=your-mother's
+2	sagnegha	sagnegh	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	Analysis=sagnegh(N)^[Abs.3SgPoss.Sg]|Gloss=her-bowl
+3	pagunghalighnaqaqa	ligh	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Fut|Valency=2	0	root	_	Analysis=pagunghagh*(N)^–ligh(N→V)^@~fnaqe(V→V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-am-going-to-put-crowberries-in-it
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:2
+# text = Taghnughhaq qinuyulghii iitghumaaq apami mangteghaanun.
+# gloss = The sick child went into his grandfather's house.
+# labels = complete-dep anno-hayley
+1	taghnughhaq	taghnughhaq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Sg]|Gloss=the-child
+2	qinuyulghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	nmod	_	Analysis=qinuyug(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-is-sick
+3	iitghumaaq	iitgh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=itegh(V)^@~:(i/u)ma(V→V)^[Ind.Intr]^[3Sg]|Gloss=she-went-in
+4	apami	apa	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	5	nmod	_	Analysis=apa(N)^[Rel.4SgPoss.Sg]|Gloss=his-grandfather's
+5	mangteghaanun	mangtegha	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	Analysis=mangteghagh(N)^[All.3SgPoss.Sg]|Gloss=to-his-house
+6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:3
+# text = Yugem inimakanga veglluk eslami.
+# gloss = The man hung the towel outdoors.
+# labels = complete-dep anno-hayley
+1	Yugem	yug	NOUN	_	Case=Erg|Number=Sing	2	nsubj	_	Analysis=yug(N)^[Rel.Sg]|Gloss=the-man
+2	inimakanga	ini	VERB	_	Mood=Ptc|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=ini(V)^@~:(i/u)ma(V→V)^[Ptcp.Trns]^[3Sg.3Sg]|Gloss=he-hung-it
+3	veglluk	veglluk	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=vegllug(N)^[Abs.Sg]|Gloss=the-towel
+4	eslami	esla	NOUN	_	Case=Loc|Number=Sing	2	obl	_	Analysis=esla(N)^[Loc.Sg]|Gloss=outdoors
+5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:4
+# text = Aqelqat aghulaqumalghiit Ungazimun.
+# gloss = The guest left to Chaplino.
+# labels = complete-dep anno-hayley
+1	Aqelqat	aqelqa	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=aqelqagh(N)^[Abs.Pl]|Gloss=the-guests
+2	aghulaqumalghiit	aghulaq	VERB	_	Mood=Ptc|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=aghulaqe(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Pl]|Gloss=they-left
+3	Ungazimun	Ungazi	NOUN	_	Case=All|Number=Sing	2	obl	_	Analysis=Ungazigh(N)^[All.Sg]|Gloss=to-Chaplino
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:5
+# text = Aghnam avaqutaminun sangighqiisqumakangi sagneghet.
+# gloss = The woman let her children wash the dishes.
+# labels = complete-dep anno-hayley
+1	Aghnam	aghna	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Analysis=aghnagh(N)^[Rel.Sg]|Gloss=the-woman
+2	avaqutaminun	avaquta	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	3	nsubj	_	Analysis=avaqutagh(N)^[All.4SgPoss.Sg]|Gloss=her-child
+3	sangighqiisqumakangi	iisq	VERB	_	Mood=Ptc|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=sangighqugh(V)^~sf:(e)sqe(CmpdVbl)^@~:(i/u)ma(V→V)^[Ptcp.Trns]^[3Sg.3Pl]|Gloss=she-asked-one-to-wash-them
+4	sagneghet	sagnegh	NOUN	_	Case=Abs|Number=Plur	3	obj	_	Analysis=sagnegh(N)^[Abs.Pl]|Gloss=the-dishes
+5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:6
+# text = Siqinghem ghevesimakanga veglluk kavilnguq.
+# gloss = The sun made the red towel fade.
+# labels = complete-dep anno-hayley
+1	Siqinghem	siqingh	NOUN	_	Case=Erg|Number=Sing	2	nsubj	_	Analysis=siqinegh(N)^[Rel.Sg]|Gloss=the-sun
+2	ghevesimakanga	sii	VERB	_	Mood=Ptc|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=gheve(V)^+sigh(V→V)^@~:(i/u)ma(V→V)^[Ptcp.Trns]^[3Sg.3Sg]|Gloss=it-caused-it-to-fade
+3	veglluk	veglluk	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=vegllug(N)^[Abs.Sg]|Gloss=the-towel
+4	kavilnguq	nguq	NOUN	_	Case=Abs|Number=Sing	3	nmod	_	Analysis=kavite(V)^@ngugh(V→N)^[Abs.Sg]|Gloss=one-that-is-red
+5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:7
+# text = Para ughugumaaq.
+# gloss = The butter melted.
+# labels = complete-dep anno-hayley
+1	para	para	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=para(N)^[Abs.Sg]|Gloss=the-butter
+2	ughugumaaq	ughug	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=ughug(V)^@~:(i/u)ma(V→V)^[Ind.Intr]^[3Sg]|Gloss=it-melted
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:8
+# text = Tengegkayuget sukalnguut nalugnaqut naayvam qaayngakun.
+# gloss = The fast plane is going to land on top of the lake.
+# labels = complete-dep anno-hayley
+1	Tengegkayuget	tengegkayug	NOUN	_	Case=Abs|Number=Plur	3	nsubj	_	Analysis=tengegkayug(N)^[Abs.Pl]|Gloss=the-airplane
+2	sukalnguut	ngu	NOUN	_	Case=Abs|Number=Plur	1	nmod	_	Analysis=sukate(V)^@ngugh(V→N)^[Abs.Pl]|Gloss=one-that-is-fast
+3	nalugnaqut	nalug	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Fut|Valency=1	0	root	_	Analysis=nalug(V)^@~fnaqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-going-to-land
+4	naayvam	naayva	NOUN	_	Case=Erg|Number=Sing	5	nmod	_	Analysis=naayvagh(N)^[Rel.Sg]|Gloss=the-lake
+5	qaayngakun	qaay	NOUN	_	Case=Per|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	Analysis=qaye(N)^[Prl.3SgPoss.Sg]|Gloss=to-its-top
+6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:9
+# text = Gaaghutaa ugini nanuum kemekraganeng.
+# gloss = She cooked polar bear meat for her husband.
+# labels = complete-dep anno-hayley
+1	Gaaghutaa	gaagh	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=gaagh(V)^@~:(u)te(V→V)^[Ind.Trns]^[3Sg.3Sg]|Gloss=she-cooked-for-him
+2	ugini	ugi	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	1	obj	_	Analysis=ugi(N)^[Abs.4SgPoss.Sg]|Gloss=her-husband
+3	nanuum	nanu	NOUN	_	Case=Erg|Number=Sing	4	nmod	_	Analysis=nanugh*(N)^[Rel.Sg]|Gloss=polar-bear
+4	kemekraganeng	kemekrag	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	obl:mod	_	Analysis=kemekrag(N)^[Abl_Mod.3SgPoss.Sg]|Gloss=by-the-means-of-its-meat
+5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:10
+# text = Qergesek qelpeghsimaak.
+# gloss = The window has been opened.
+# labels = complete-dep anno-hayley
+1	Qergesek	qergese	NOUN	_	Case=Abs|Number=Dual	2	nsubj	_	Analysis=qergese(N)^[Abs.Du]|Gloss=the-window
+2	qelpeghsimaak	qelpeghs	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=3|Valency=1	0	root	_	Analysis=qelpeghte(V)^@~:(i/u)ma(V→V)^[Ind.Intr]^[3Du]|Gloss=they-have-been-opened
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:11
+# text = Quyillget mayuulleqiit salngaget naayghamun.
+# gloss = The Chukchis will climb up the mountain brining the boxes.
+# labels = complete-dep anno-hayley
+1	Quyillget	Quyillg	NOUN	_	Case=Erg|Number=Plur	2	nsubj	_	Analysis=Quyilleg(N)^[Rel.Pl]|Gloss=the-Chukchis
+2	mayuulleqiit	mayu	VERB	_	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Fut|Valency=2	0	root	_	Analysis=mayugh(V)^@~:(u)te(V→V)^@lleqe(V→V)^[Ind.Trns]^[3Pl.3Pl]|Gloss=they-will-climb-with-them
+3	salngaget	salngag	NOUN	_	Case=Abs|Number=Plur	2	obj	_	Analysis=salngag(N)^[Abs.Pl]|Gloss=the-boxes
+4	naayghamun	naaygha	NOUN	_	Case=All|Number=Sing	2	obl	_	Analysis=naayghagh(N)^[All.Sg]|Gloss=to-the-mountain
+5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:12
+# text = Estugam eflugaa aallgumaaq.
+# gloss = The store's floor has been swept.
+# labels = complete-dep anno-hayley
+1	Estugam	estuga	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	Analysis=estugagh(N)^[Rel.Sg]|Gloss=the-store's
+2	eflugaa	efluga	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Analysis=eflugagh(N)^[Abs.3SgPoss.Sg]|Gloss=its-floor
+3	aallgumaaq	aallg	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=alleg(V)^@~:(i/u)ma(V→V)^[Ind.Intr]^[3Sg]|Gloss=it-has-been-swept
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:13
+# text = Siivanlleghem mekelghiighmun paaghtestii alquutat.
+# gloss = The elder let the boy lick clean the spoons.
+# labels = complete-dep anno-hayley
+1	Siivanlleghem	siivanllegh	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Analysis=siivanllegh(N)^[Rel.Sg]|Gloss=the-elder
+2	mekelghiighmun	mekelghiigh	NOUN	_	Case=All|Number=Sing	3	nsubj	_	Analysis=mekelghiigh(N)^[All.Sg]|Gloss=the-boy
+3	paaghtestii	test	VERB	_	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=paagh(V)^+(te)ste(CmpdVbl)^[Ind.Trns]^[3Sg.3Pl]|Gloss=she-let-one-lick-clean-them
+4	alquutat	alquuta	NOUN	_	Case=Abs|Number=Plur	3	obj	_	Analysis=alquutagh(N)^[Abs.Pl]|Gloss=the-spoons
+5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:14
+# text = Esghaatunga Purekimeng teflilegmeng esnami.
+# gloss = I seen a black person with dirty mouth (food particles) at the beach.
+# labels = complete-dep anno-hayley
+1	Esghaatunga	esghaat	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	Analysis=esghaate(V)^[Ind.Intr]^[1Sg]|Gloss=I-saw-something
+2	Purekimeng	Pureki	NOUN	_	Case=Abl|Number=Sing	1	obl:mod	_	Analysis=Pureki(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-a-black-person
+3	teflilegmeng	leg	NOUN	_	Case=Abl|Number=Sing	2	nmod	_	Analysis=tefli(N)^–leg(N→N)^[Abl_Mod.Sg]|Gloss=the-one-with-food-particles
+4	esnami	esna	NOUN	_	Case=Loc|Number=Sing	1	obl	_	Analysis=esnagh(N)^[Loc.Sg]|Gloss=at-the-beach
+5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:15
+# text = Awataghpak ghhuughumaken.
+# gloss = It turns out you had blown the float.
+# labels = complete-dep anno-hayley
+1	awataghpak	awataghpak	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=awataghpag(N)^[Abs.Sg]|Gloss=the-sealskin-float
+2	ghhuughumaken	ghhuugh	VERB	_	Mood=Ptc|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	0	root	_	Analysis=ghhuugh(V)^@~:(i/u)ma(V→V)^[Ptcp.Trns]^[2Sg.3Sg]|Gloss=you-have-blown-it
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:16
+# text = Akitutaqukung igaghvigmi quunpeng.
+# gloss = We always answer each other at the school.
+# labels = complete-dep anno-hayley
+1	Akitutaqukung	akit	VERB	_	Aspect=Hab|Mood=Ind|Number[subj]=Dual|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	Analysis=akite(V)^@~:(u)te(V→V)^~(g)aqe(V→V)^[Ind.Intr]^[1Du]|Gloss=we-always-answer-each-other
+2	igaghvigmi	igaghvig	NOUN	_	Case=Loc|Number=Sing	1	obl	_	Analysis=igaghvig(N)^[Loc.Sg]|Gloss=at-the-school
+3	quunpeng	quunpeng	PART	_	_	1	advmod	_	Analysis=quunpeng(PTCL)|Gloss=always
+4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:17
+# text = Apeghtughistem tuunelleqii tuquuqat taaghtamun suflugalegmun naavngalghiimeng.
+# gloss = The teacher will give the nails to the doctor with a broken gun.
+# labels = complete-dep anno-hayley
+1	Apeghtughistem	Apeghtughiste	NOUN	_	Case=Erg|Number=Sing	2	nsubj	_	Analysis=Apeghtughiste(N)^[Rel.Sg]|Gloss=the-teacher
+2	tuunelleqii	tuune	VERB	_	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Fut|Valency=2	0	root	_	Analysis=tuune(V)^@lleqe(V→V)^[Ind.Trns]^[3Sg.3Pl]|Gloss=he-will-give-them
+3	tuquuqat	tuquuqa	NOUN	_	Case=Abs|Number=Plur	2	obj	_	Analysis=tuquuqagh(N)^[Abs.Pl]|Gloss=the-nails
+4	taaghtamun	taaghta	NOUN	_	Case=All|Number=Sing	2	obl	_	Analysis=taaghta(N)^[All.Sg]|Gloss=to-the-doctor
+5	suflugalegmun	sufluga	NOUN	_	Case=All|Number=Sing	4	nmod	_	Analysis=suflugagh(N)^–leg(N→N)^[All.Sg]|Gloss=to-the-one-with-a-gun
+6	naavngalghiimeng	lghii	NOUN	_	Case=Abl|Number=Sing	5	nmod	_	Analysis=naave(V)^~fnga(V→V)^@–lghii(V→N)^[Abl_Mod.Sg]|Gloss=the-one-that-is-broken
+7	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:18
+# text = Atiimaaq tukumtung eltughaa.
+# gloss = Our host's grandchild has been named.
+# labels = complete-dep anno-hayley
+1	Atiimaaq	ati	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=atigh(V)^@~:(i/u)ma(V→V)^[Ind.Intr]^[3Sg]|Gloss=he-has-been-named
+2	tukumtung	tuku	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Dual|Person[psor]=1	3	nmod	_	Analysis=tukugh(N)^[Rel.1DuPoss.Sg]|Gloss=our-host's
+3	eltughaa	eltugha	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	nsubj	_	Analysis=eltughagh*(N)^[Abs.3SgPoss.Sg]|Gloss=his-grandchild
+4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:19
+# text = Karakem Quyillegtilghiim neghyugaa nefkuuraq.
+# gloss = The Koryak who is speaking Chukchi wants to eat the dried meat.
+# labels = complete-dep anno-hayley
+1	Karakem	Karake	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Analysis=Karake(N)^[Rel.Sg]|Gloss=the-Koryak
+2	Quyillegtilghiim	lghii	NOUN	_	Case=Erg|Number=Sing	1	nmod	_	Analysis=quyillegti(V)^@–lghii(V→N)^[Rel.Sg]|Gloss=the-one-that-is-speaking-Chukchi
+3	neghyugaa	yug	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=negh(V)^@~fyug(V→V)^[Ind.Trns]^[3Sg.3Sg]|Gloss=he-wants-to-eat-it
+4	nefkuuraq	nefkuuraq	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Analysis=nefkuuragh(N)^[Abs.Sg]|Gloss=dried-meat
+5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch11.gold:20
+# text = Aghnaghaam aghmilghiim atuqnaqaa vegllugen.
+# gloss = The girl who is washing her face will use your towel.
+# labels = complete-dep anno-hayley
+1	Aghnaghaam	aghnagha	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Analysis=aghnaghagh*(N)^[Rel.Sg]|Gloss=the-girl
+2	aghmilghiim	lghii	NOUN	_	Case=Erg|Number=Sing	1	nmod	_	Analysis=aghmig(V)^@–lghii(V→N)^[Rel.Sg]|Gloss=the-one-that-is-washing-her-face
+3	atuqnaqaa	atuq	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Fut|Valency=2	0	root	_	Analysis=atuqe(V)^@~fnaqe(V→V)^[Ind.Trns]^[3Sg.3Sg]|Gloss=she-is-going-to-use-it
+4	vegllugen	vegllug	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	obj	_	Analysis=vegllug(N)^[Abs.2SgPoss.Sg]|Gloss=your-towel
+5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch12.gold:1
+# text = Allakaghmeng aanumalghiit mangteghameng.
+# gloss = They had gone out of the house separately.
+# labels = complete-dep anno-hayley
+1	Allakaghmeng	allakagh	ADV	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	2	advmod	_	Analysis=allakagh*(QUANTQUAL)^[4Pl]|Gloss=separately-from-others
+2	aanumalghiit	aan	VERB	_	Mood=Ptc|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1	0	root	_	Analysis=aane(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Pl]|Gloss=they-went-out
+3	mangteghameng	mangtegha	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=mangteghagh(N)^[Abl_Mod.Sg]|Gloss=from-the-house
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch12.gold:2
+# text = Neghaqa perara ellnginaan.
+# gloss = I ate the meat aspic only.
+# labels = complete-dep anno-hayley
+1	Neghaqa	negh	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Valency=2	0	root	_	Analysis=negh(V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-ate-it
+2	perara	perara	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=perara(N)^[Abs.Sg]|Gloss=the-meat-aspic
+3	ellnginaan	ellngina	ADV	_	Number[subj]=Sing|Person[subj]=3	1	advmod	_	Analysis=ellnginagh*(QUANTQUAL)^[3Sg]|Gloss=only
+4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch12.gold:3
+# text = Sangavek atightughaqsin ingaghngaghpek eflugami?
+# gloss = Why are you reading laying on your back on the floor?
+# labels = complete-dep anno-hayley
+1	sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
+2	atightughaqsin	atightugh	VERB	_	Aspect=Prog|Mood=Int|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=1	0	root	_	Analysis=atightugh(V)^~(g)aqe(V→V)^[Intrg.Intr.2Sg]|Gloss=are-you-reading?
+3	ingaghngaghpek	nga	VERB	_	Number[subj]=Sing|Person[subj]=2	2	advcl	_	Analysis=ingagh*(POS)^~fnga(POS→STATIVE)^[2Sg]|Gloss=lying-down
+4	eflugami	efluga	NOUN	_	Case=Loc|Number=Sing	3	obl	_	Analysis=eflugagh(N)^[Loc.Sg]|Gloss=on-the-floor
+5	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch12.gold:4
+# text = Aghnalqwaaghaq kakilghii atkugmeng avaqutami mangteghaanituq.
+# gloss = The old woman sewing a parka is in her child's house.
+# labels = complete-dep anno-hayley unsure-8-12
+1	aghnalqwaaghaq	aghnalqwaaghaq	NOUN	_	Case=Abs|Number=Sing	5	nsubj	_	Analysis=aghnalqwaagh(N)^[Abs.Sg]|Gloss=the-old-lady
+2	kakilghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	nmod	_	Analysis=kaki(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-is-sewing
+3	atkugmeng	atkug	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=atkug(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-a-parka
+4	avaqutami	avaquta	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	5	nmod	_	Analysis=avaqutagh(N)^[Rel.4SgPoss.Sg]|Gloss=her-child's
+5	mangteghaanituq	t	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=mangteghagh(N)^[Loc.3SgPoss.Sg]^ete^[Ind.Intr]^[3Sg]|Gloss=she-is-in-the-house
+6	.	.	PUNCT	_	_	5	punct	_	Analysis=.
+
+# sent_id = Ch12.gold:5
+# text = Qefliqelghiim yugem seghleghunii tanpeq atuqnaqegkeni.
+# gloss = The mad man said the dried walrus skin he was going to use is bad.
+# labels = complete-dep anno-hayley unsure-10-13
+1	Qefliqelghiim	lghii	NOUN	_	Case=Erg|Number=Sing	2	nmod	_	Analysis=qefliqe(V)^@–lghii(V→N)^[Rel.Sg]|Gloss=the-one-that-is-mad
+2	yugem	yug	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Analysis=yug(N)^[Rel.Sg]|Gloss=the-man
+3	seghleghunii	ni	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	Analysis=seghleghu(V)^@~fni(CmpdVbl)^[Ind.Trns]^[3Sg.3Sg]|Gloss=he-said-it-was-bad
+4	tanpeq	tanpeq	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Analysis=tanpegh(N)^[Abs.Sg]|Gloss=the-dried-walrus
+5	atuqnaqegkeni	gke	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes|Tense=Fut	4	nmod	_	Analysis=atuqe(V)^@~fnaqe(V→V)^@~–(g)ke(V→N)^[Abs.4SgPoss.Sg]|Gloss=the-one-he-is-going-to-use
+6	.	.	PUNCT	_	_	3	root	_	Analysis=.
+
+# sent_id = Ch12.gold:6
+# text = Ighneghma qughsatkumun qazigyat neghumaniit.
+# gloss = My sons said the king polar bear ate the spotted seals.
+# labels = complete-dep anno-hayley
+1	Ighneghma	ighnegh	NOUN	_	Case=Erg|Number=Plur|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	Analysis=ighnegh(N)^[Rel.1SgPoss.Pl]|Gloss=my-sons
+2	qughsatkumun	qughsatku	NOUN	_	Case=All|Number=Sing	4	nsubj	_	Analysis=qughsatku(N)^[All.Sg]|Gloss=the-king-polar-bear
+3	qazigyat	qazigya	NOUN	_	Case=Abs|Number=Plur	4	obj	_	Analysis=qazigyagh(N)^[Abs.Pl]|Gloss=the-spotted-seals
+4	neghumaniit	ni	VERB	_	Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	Analysis=negh(V)^@~:(i/u)ma(V→V)^@~fni(CmpdVbl)^[Ind.Trns]^[3Pl.3Pl]|Gloss=they-said-it-has-eaten-them
+5	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch12.gold:7
+# text = Ullghitak mumigngalghiik tukfighlleqagka.
+# gloss = I will buy the vehicle that is upside down.
+# labels = complete-dep anno-hayley
+1	Ullghitak	ullghita	NOUN	_	Case=Abs|Number=Dual	3	obj	_	Analysis=ullghitagh(N)^[Abs.Du]|Gloss=the-vehicle
+2	mumigngalghiik	lghii	NOUN	_	Case=Abs|Number=Dual	1	nmod	_	Analysis=mumig(POS)^~fnga(POS→STATIVE)^@–lghii(V→N)^[Abs.Du]|Gloss=the-one-that-is-turned-over
+3	tukfighlleqagka	tukfigh	VERB	_	Mood=Ind|Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Fut|Valency=2	0	root	_	Analysis=tukfigh(V)^@lleqe(V→V)^[Ind.Trns]^[1Sg.3Du]|Gloss=I-will-buy-them
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch12.gold:8
+# text = Ilangquq salngagegnituq.
+# gloss = The fresh ice is in the box.
+# labels = complete-dep anno-hayley
+1	ilangquq	ilangquq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=ilangqugh(N)^[Abs.Sg]|Gloss=the-freshwater-ice
+2	salngagegnituq	it	VERB	_	Case=Loc|Mood=Ind|Number=Dual|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=salngag(N)^[Loc.Du]^ete^[Ind.Intr]^[3Sg]|Gloss=it-is-in-the-box
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch12.gold:9
+# text = Atkugen kavilnguq whaantuq.
+# gloss = Your red parka is here.
+# labels = complete-dep anno-hayley
+1	Atkugen	atkug	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	nsubj	_	Analysis=atkug(N)^[Abs.2SgPoss.Sg]|Gloss=your-parka
+2	kavilnguq	nguq	NOUN	_	Case=Abs|Number=Sing	1	acl	_	Analysis=kavite(V)^@ngugh(V→N)^[Abs.Sg]|Gloss=the-red-one
+3	whaantuq	whaant	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=whaante(V)^[Ind.Intr]^[3Sg]|Gloss=it-is-here
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch12.gold:10
+# text = Naaka kakiiq ellnginaghmi.
+# gloss = My mother sewed alone.
+# labels = complete-dep anno-hayley
+1	Naaka	naa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=naa(N)^[Abs.1SgPoss.Sg]|Gloss=my-mother
+2	kakiiq	kaki	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=kaki(V)^[Ind.Intr]^[3Sg]|Gloss=she-sewed-it
+3	ellnginaghmi	ellnginagh	ADV	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	2	advmod	_	Analysis=ellnginagh*(QUANTQUAL)^[4Sg]|Gloss=alone
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch12.gold:11
+# text = Qerngaghmeng mekelghiighet mataghmeng pugimaghaqut.
+# gloss = The boys are swimming together with their clothes off.
+# labels = complete-dep anno-hayley
+1	Qerngaghmeng	qerngagh	ADV	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	4	advmod	_	Analysis=qerngagh*(QUANTQUAL)^[4Pl]|Gloss=together
+2	mekelghiighet	mekelghiigh	NOUN	_	Case=Abs|Number=Plur	4	nsubj	_	Analysis=mekelghiigh(N)^[Abs.Pl]|Gloss=the-boys
+3	mataghmeng	matagh	ADV	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	4	advmod	_	Analysis=matagh*(POS→QUANTQUAL)^[4Pl]|Gloss=undressed
+4	pugimaghaqut	pugimagh	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=pugimagh(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-swimming
+5	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch12.gold:12
+# text = Agniqelghii aghnaghumeng neghegkayuguuq.
+# gloss = The woman that is mad can eat sea apples.
+# labels = complete-dep anno-hayley
+1	Agniqelghii	lghii	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=agniqe(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-is-mad
+2	aghnaghumeng	aghnaghu	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=aghnaghugh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-sea-apple
+3	neghegkayuguuq	neghe	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=neghe(V)^@~–(g)kayugu(V→V)^[Ind.Intr]^[3Sg]|Gloss=she-can-eat
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch13.gold:1
+# text = Neghtunga pangeghfagilgama.
+# gloss = I ate before I went to Chukotka.
+# labels = complete-dep anno-hayley
+1	Neghtunga	negh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	Analysis=negh(V)^[Ind.Intr]^[1Sg]|Gloss=I-ate
+2	pangeghfagilgama	pangegh	VERB	_	Mood=Prc|Number[subj]=Sing|Person[subj]=1|Valency=1	1	advcl	_	Analysis=pangeghte(V)^[Prec.Intr]^[1Sg]|Gloss=before-I-went-to-Chukotka
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch13.gold:2
+# text = Sangavek iyataghsin negheghnaaghpek?
+# gloss = Why are you hungry even though you ate?
+# labels = complete-dep anno-hayley
+1	sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
+2	iyataghsin	iyatagh	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Analysis=iyatagh(V)^[Intrg.Intr.2Sg]|Gloss=are-you-hungry
+3	negheghnaaghpek	neghe	VERB	_	Mood=Cnc|Number[subj]=Sing|Person[subj]=2|Valency=1	2	advcl	_	Analysis=neghe(V)^[Conc.Intr]^[2Sg]|Gloss=even-though-you-ate
+4	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch13.gold:3
+# text = Ungipaateghngaaghpenga puywaaqa nuliighpek aatgha.
+# gloss = Even though you told me, I forgot your wife's name.
+# labels = complete-dep anno-hayley
+1	Ungipaateghngaaghpenga	ungipaate	VERB	_	Mood=Cnc|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=2|Valency=2	2	advcl	_	Analysis=ungipaate(V)^[Conc.Trns]^[2Sg.1Sg]|Gloss=even-though-you-told-me
+2	puywaaqa	puywa	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Valency=2	0	root	_	Analysis=puygu(V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-forgot-it
+3	nuliighpek	nulii	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=2	4	nmod	_	Analysis=nuliigh(N)^[Rel.2SgPoss.Sg]|Gloss=your-wife's
+4	aatgha	aatgh	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	Analysis=ategh(N)^[Abs.3SgPoss.Sg]|Gloss=her-name
+5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch13.gold:4
+# text = Quginakanka uyviinghet kaatfagilgata.
+# gloss = I am spooked out from the evil-doing shamans before they arrive.
+# labels = complete-dep anno-hayley
+1	Quginakanka	k	VERB	_	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Valency=2	0	root	_	Analysis=quginag(EMO)^~–ke(EMO→V)^[Ind.Trns]^[1Sg.3Pl]|Gloss=I-am-spooked-from-them-
+2	uyviinghet	uyviingh	NOUN	_	Case=Abs|Number=Plur	1	obj	_	Analysis=uyviinegh(N)^[Abs.Pl]|Gloss=the-evil-doing-shamans
+3	kaatfagilgata	kaat	VERB	_	Mood=Prc|Number[subj]=Plur|Person[subj]=3|Valency=1	1	advcl	_	Analysis=kaate(V)^[Prec.Intr]^[3Pl]|Gloss=before-they-arrive
+4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch13.gold:5
+# text = Esghaatunga retwhatmeng siilumeng.
+# gloss = I seen a brass canon.
+# labels = complete-dep anno-hayley
+1	Esghaatunga	esghaat	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	Analysis=esghaate(V)^[Ind.Intr]^[1Sg]|Gloss=I-saw-something
+2	retwhatmeng	retwhat	NOUN	_	Case=Abl|Number=Sing	1	obl:mod	_	Analysis=retwhate(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-a-cannon
+3	siilumeng	siilu	NOUN	_	Case=Abl|Number=Sing	1	obl:mod	_	Analysis=siilu(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-brass
+4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch13.gold:6
+# text = Qikmilguyugtunga kalilmeng.
+# gloss = I want to have a dog of dalmation.
+# labels = complete-dep anno-hayley
+1	Qikmilguyugtunga	yug	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	Analysis=qikmigh(N)^–lgu(N→V)^@~fyug(V→V)^[Ind.Intr]^[1Sg]|Gloss=I-want-to-have-a-dog
+2	kalilmeng	kalil	NOUN	_	Case=Abl|Number=Sing	1	obl:mod	_	Analysis=kalile(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-a-dalmation-dog
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch13.gold:7
+# text = Qavngaq kiyaghtetsi Ungazimi?
+# gloss = When did you live at Chaplino?
+# labels = complete-dep anno-hayley
+1	qavngaq	qavngaq	ADV	_	PronType=Int	2	advmod	_	Analysis=qavngaq(WH)|Gloss=when
+2	kiyaghtetsi	kiyaghte	VERB	_	Mood=Int|Number[subj]=Plur|Person[subj]=2|Valency=1	0	root	_	Analysis=kiyaghte(V)^[Intrg.Intr.2Pl]|Gloss=did-you-live?
+3	Ungazimi	Ungazi	NOUN	_	Case=Loc|Number=Sing	2	obl	_	Analysis=Ungazigh(N)^[Loc.Sg]|Gloss=at-Chaplino
+4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch13.gold:8
+# text = Mekelghiiq aanumalghii mangteghameng amsikaghngaghngaaghmi.
+# gloss = The boy apparently went out of the house even though he was naked.
+# labels = complete-dep anno-hayley
+1	mekelghiiq	mekelghiiq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=mekelghiigh(N)^[Abs.Sg]|Gloss=the-boy
+2	aanumalghii	aan	VERB	_	Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	Analysis=aane(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=he-evidently-went-out
+3	mangteghameng	mangtegha	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=mangteghagh(N)^[Abl_Mod.Sg]|Gloss=from-the-house
+4	amsikaghngaghngaaghmi	nga	VERB	_	Mood=Cnc|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Valency=1	2	advcl	_	Analysis=amsikagh*(POS)^~fnga(POS→STATIVE)^[Conc.Intr]^[4Sg]|Gloss=even-though-he-was-naked
+5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch13.gold:9
+# text = Sarigpek amqeghhneghitaanga qilugngaaghminga.
+# gloss = Your setter dog didn't bite me, even though it barked at me.
+# labels = complete-dep anno-hayley
+1	Sarigpek	sari	NOUN	_	Case=Erg|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	nsubj	_	Analysis=sari(N)^[Rel.2SgPoss.Sg]|Gloss=your-dog
+2	amqeghhneghitaanga	amqeghh	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Polarity=Neg|Valency=2	0	root	_	Analysis=amqeghte(V)^@–nghite(V→V)^[Ind.Trns]^[3Sg.1Sg]|Gloss=it-did-not-bite-me
+3	qilugngaaghminga	qilug	VERB	_	Mood=Cnc|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Reflex[subj]=Yes|Valency=2	2	advcl	_	Analysis=qilug(V)^[Conc.Trns]^[4Sg.1Sg]|Gloss=even-though-it-barked-at-me
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:1
+# text = Taghnughhaq qapragllequq aqumgamakuni.
+# gloss = The child will move around if he will remain sitting.
+# labels = complete-dep anno-hayley
+1	taghnughhaq	taghnughhaq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Sg]|Gloss=the-child
+2	qapragllequq	qaprag	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Fut|Valency=1	0	root	_	Analysis=qaprag(V)^@lleqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=he-will-move-around
+3	aqumgamakuni	aqumga	VERB	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Tense=Past|Valency=1	2	advcl	_	Analysis=aqumga(V)^@~:(i/u)ma(V→V)^[Cond.Intr]^[4Sg]|Gloss=if-he-remains-sitting
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:2
+# text = Ighneqa qiyaaq aghyuughyavgu.
+# gloss = My son cried when you scolded him.
+# labels = complete-dep anno-hayley
+1	Ighneqa	ighne	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=ighnegh(N)^[Abs.1SgPoss.Sg]|Gloss=my-son
+2	qiyaaq	qiya	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=qiya(V)^[Ind.Intr]^[3Sg]|Gloss=he-cried
+3	aghyuughyavgu	aghyuugh	VERB	_	Mood=Cn1|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Reflex[obj]=Yes|Valency=2	2	advcl	_	Analysis=aghyuugh(V)^[Cnsq1.Trns]^[2Sg.4Sg]|Gloss=when-you-scolded-him
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:3
+# text = Iikwan elqwaaghniighhaakut.
+# gloss = Let's pick seaweed when it becomes low tide.
+# labels = complete-dep anno-hayley
+1	Iikwan	ii	VERB	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=3|Valency=1	2	advcl	_	Analysis=iiw(V)^[Cond.Intr]^[3Sg]|Gloss=when-the-tide-goes-down
+2	elqwaaghniighhaakut	nii	VERB	_	Mood=Opt|Number[subj]=Plur|Person[subj]=1|Tense=Fut|Valency=1	0	root	_	Analysis=elqwaagh(N)^@~fniigh(N→V)^[Opt.Fut.Intr]^[1Pl]|Gloss=let's-pick-seaweed
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:4
+# text = Avaqutanka naghaaghaqut eslami anuqlighngaan.
+# gloss = My children are playing out, outside even though it is windy.
+# labels = complete-dep anno-hayley
+1	Avaqutanka	avaquta	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=avaqutagh(N)^[Abs.1SgPoss.Pl]|Gloss=my-children
+2	naghaaghaqut	naghaagh	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=naghaagh(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-playing
+3	eslami	esla	NOUN	_	Case=Loc|Number=Sing	2	obl	_	Analysis=esla(N)^[Loc.Sg]|Gloss=outside
+4	anuqlighngaan	anuqli	VERB	_	Mood=Cnc|Number[subj]=Sing|Person[subj]=3|Valency=1	2	advcl	_	Analysis=anuqligh(V)^[Conc.Intr]^[3Sg]|Gloss=even-though-it-is-windy
+5	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:5
+# text = Tagiiqngan alikaqa.
+# gloss = When he/she/it came, I was afraid of it.
+# labels = complete-dep anno-hayley
+1	Tagiiqngan	tagi	VERB	_	Mood=Cn2|Number[subj]=Sing|Person[subj]=3|Valency=1	2	advcl	_	Analysis=tagi(V)^[Cnsq2.Intr]^[3Sg]|Gloss=when-it-came
+2	alikaqa	alik	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Valency=2	0	root	_	Analysis=alike(V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-was-afraid-of-it
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:6
+# text = Iyataamakuvek neghigu ighaluqaq.
+# gloss = If you are hungry, eat the aged auklet.
+# labels = complete-dep anno-hayley
+1	Iyataamakuvek	iyata	VERB	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=2|Tense=Past|Valency=1	2	advcl	_	Analysis=iyatagh(V)^@~:(i/u)ma(V→V)^[Cond.Intr]^[2Sg]|Gloss=if-you-are-hungry
+2	neghigu	negh	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	Analysis=neghe(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=eat-it
+3	ighaluqaq	ighaluqaq	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=ighaluqagh(N)^[Abs.Sg]|Gloss=the-aged-auklet
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:7
+# text = Piyugtukung eslallugughteghngaan qayughllak ullghitagpung naavumaftuk.
+# gloss = We walked even though it was raining, because it turns out our vehicle broke.
+# labels = complete-dep anno-hayley
+1	Piyugtukung	piyug	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=1|Valency=1	0	root	_	Analysis=piyug(V)^[Ind.Intr]^[1Du]|Gloss=we-walked
+2	eslallugughteghngaan	eslallugughte	VERB	_	Mood=Cnc|Number[subj]=Sing|Person[subj]=3|Valency=1	1	advcl	_	Analysis=eslallugughte(V)^[Conc.Intr]^[3Sg]|Gloss=even-though-it-rained
+3	qayughllak	qayughllak	PART	_	_	5	mark	_	Analysis=qayughllak(PTCL)|Gloss=because
+4	ullghitagpung	ullghita	NOUN	_	Case=Abs|Number=Dual|Number[psor]=Dual|Person[psor]=1	5	nsubj	_	Analysis=ullghitagh(N)^[Abs.1DuPoss.Du]|Gloss=our-vehicle
+5	naavumaftuk	naavuma	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=3|Valency=1	1	advcl	_	Analysis=naavuma(V)^+(pete)fte(V→V)^[Ind.Intr]^[3Du]|Gloss=they-were-broken
+6	.	.	PUNCT	_	_	5	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:8
+# text = Aghvightesugiinkut iikwan.
+# gloss = He wants us to cross when it becomes low tide.
+# labels = complete-dep anno-hayley
+1	Aghvightesugiinkut	tesug	VERB	_	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Valency=2	0	root	_	Analysis=aghvigh(V)^+(te)sug(CmpdVbl)^[Ind.Trns]^[3Sg.1Pl]|Gloss=he-wants-us-to-cross
+2	iikwan	ii	VERB	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=3|Valency=1	1	advcl	_	Analysis=iiw(V)^[Cond.Intr]^[3Sg]|Gloss=when-the-tide-goes-down
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:9
+# text = Esghaghyagu quyaaq.
+# gloss = When he seen it, she became happy.
+# labels = complete-dep anno-hayley
+1	Esghaghyagu	esghagh	VERB	_	Mood=Cn1|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	2	advcl	_	Analysis=esghagh(V)^[Cnsq1.Trns]^[3Sg.3Sg]|Gloss=when-he-saw-it
+2	quyaaq	quya	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=quya(V)^[Ind.Intr]^[3Sg]|Gloss=she-became-happy
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:10
+# text = Esghaghyamigu quyaaq.
+# gloss = When he seen her, he became happy.
+# labels = complete-dep anno-hayley
+1	Esghaghyamigu	esghagh	VERB	_	Mood=Cn1|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Reflex[subj]=Yes|Valency=2	2	advcl	_	Analysis=esghagh(V)^[Cnsq1.Trns]^[4Sg.3Sg]|Gloss=when-he-saw-her
+2	quyaaq	quya	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=quya(V)^[Ind.Intr]^[3Sg]|Gloss=he-became-happy
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:11
+# text = Esghaghyatni quyaaq.
+# gloss = When she seen him, he became happy.
+# labels = complete-dep anno-hayley
+1	Esghaghyatni	esghagh	VERB	_	Mood=Cn1|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Reflex[obj]=Yes|Valency=2	2	advcl	_	Analysis=esghagh(V)^[Cnsq1.Trns]^[3Sg.4Sg]|Gloss=when-she-saw-her
+2	quyaaq	quya	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=quya(V)^[Ind.Intr]^[3Sg]|Gloss=he-became-happy
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:12
+# text = Qavaghniinga laalightaqngavnga.
+# gloss = I became sleepy while you were visiting me.
+# labels = complete-dep anno-hayley
+1	Qavaghniinga	qavaghni	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	Analysis=qavaghni(V)^[Ind.Intr]^[1Sg]|Gloss=I-became-sleepy
+2	laalightaqngavnga	laalight	VERB	_	Mood=Cn2|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=2|Valency=2	1	advcl	_	Analysis=laalighte(V)^[Cnsq2.Trns]^[2Sg.1Sg]|Gloss=while-you-were-visiting-me
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:13
+# text = Taghnughhaq qiyaaq naanga aanyan.
+# gloss = The child cried when her mother went out.
+# labels = complete-dep anno-hayley
+1	taghnughhaq	taghnughhaq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Sg]|Gloss=the-child
+2	qiyaaq	qiya	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=qiya(V)^[Ind.Intr]^[3Sg]|Gloss=he-cried
+3	naanga	naa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	Analysis=naa(N)^[Abs.3SgPoss.Sg]|Gloss=his-mother
+4	aanyan	aan	VERB	_	Mood=Cn1|Number[subj]=Sing|Person[subj]=3|Valency=1	2	advcl	_	Analysis=aane(V)^[Cnsq1.Intr]^[3Sg]|Gloss=when-she-went-out
+5	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:14
+# text = Neghenghilkuvek iyataghllequten.
+# gloss = If you don't eat, you will get hungy.
+# labels = complete-dep anno-hayley
+1	Neghenghilkuvek	neghe	VERB	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=2|Polarity=Neg|Valency=1	2	advcl	_	Analysis=neghe(V)^@–nghite(V→V)^[Cond.Intr]^[2Sg]|Gloss=if-you-do-not-eat
+2	iyataghllequten	iyatagh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Fut|Valency=1	0	root	_	Analysis=iyatagh(V)^@lleqe(V→V)^[Ind.Intr]^[2Sg]|Gloss=you-will-be-hungry
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:15
+# text = Qepghanghitunga iflayamkun repaka.
+# gloss = I didn't work, when I lost my hammer.
+# labels = complete-dep anno-hayley
+1	Qepghanghitunga	qepgha	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Valency=1	0	root	_	Analysis=qepghagh(V)^@–nghite(V→V)^[Ind.Intr]^[1Sg]|Gloss=I-did-not-work
+2	iflayamkun	ifla	VERB	_	Mood=Cn1|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Valency=2	1	advcl	_	Analysis=ifla(V)^[Cnsq1.Trns]^[1Sg.3Sg]|Gloss=when-I-lost-it
+3	repaka	repa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	obj	_	Analysis=repa(N)^[Abs.1SgPoss.Sg]|Gloss=my-hammer
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:16
+# text = Quyallequnga kayusiquvnga.
+# gloss = I will be happy, if you help me.
+# labels = complete-dep anno-hayley
+1	Quyallequnga	quya	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Fut|Valency=1	0	root	_	Analysis=quya(V)^@lleqe(V→V)^[Ind.Intr]^[1Sg]|Gloss=I-will-be-happy
+2	kayusiquvnga	kayusi	VERB	_	Mood=Cnd|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=2|Valency=2	1	advcl	_	Analysis=kayusigh(V)^[Cond.Trns]^[2Sg.1Sg]|Gloss=if-you-help-me
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:17
+# text = Taghnughhaat quyaat atangat kaasan.
+# gloss = The children became happy when their father arrived.
+# labels = complete-dep anno-hayley
+1	Taghnughhaat	taghnughha	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Pl]|Gloss=the-children
+2	quyaat	quya	VERB	_	Mood=Int|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=quya(V)^[Intrg.Intr]^[3Pl]|Gloss=they-became-happy
+3	atangat	ata	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Plur|Person[psor]=3	4	nsubj	_	Analysis=ata(N)^[Abs.3PlPoss.Sg]|Gloss=their-father
+4	kaasan	kaa	VERB	_	Mood=Cn1|Number[subj]=Sing|Person[subj]=3|Valency=1	2	advcl	_	Analysis=kaate(V)^[Cnsq1.Intr]^[3Sg]|Gloss=when-he-arrived
+5	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:18
+# text = Esla seghleghuyan aanenghitunga.
+# gloss = When the weather was bad, I didn't go out.
+# labels = complete-dep anno-hayley
+1	esla	esla	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=esla(N)^[Abs.Sg]|Gloss=the-weather
+2	seghleghuyan	seghleghu	VERB	_	Mood=Cn1|Number[subj]=Sing|Person[subj]=3|Valency=1	3	advcl	_	Analysis=seghleghu(V)^[Cnsq1.Intr]^[3Sg]|Gloss=when-it-was-bad
+3	aanenghitunga	aane	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Valency=1	0	root	_	Analysis=aane(V)^@–nghite(V→V)^[Ind.Intr]^[1Sg]|Gloss=I-did-not-go-out
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:19
+# text = Aanigatuq qayughllak alingelghii qikmimeng.
+# gloss = She hasn't gone out because she is afraid of dogs.
+# labels = complete-dep anno-hayley
+1	Aanigatuq	aan	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Pres|Valency=1	0	root	_	Analysis=aane(V)^@~:(ng)igate(V→V)^[Ind.Intr]^[3Sg]|Gloss=she-has-not-gone-out
+2	qayughllak	qayughllak	PART	_	_	3	advmod	_	Analysis=qayughllak(PTCL)|Gloss=because
+3	alingelghii	alinge	VERB	_	Number[subj]=Sing|Person[subj]=3	1	advcl	_	Analysis=alinge(V)^[Ptcp.Intr]^[3Sg]|Gloss=she-is-afraid
+4	qikmimeng	qikmi	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=qikmigh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-dogs
+5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:20
+# text = Piyukuvek qergesek qelpeghtikek.
+# gloss = If you like, open the window.
+# labels = complete-dep anno-hayley
+1	Piyukuvek	piyu	VERB	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=2|Valency=1	3	advcl	_	Analysis=piyug(V)^[Cond.Intr]^[2Sg]|Gloss=if-you-want
+2	qergesek	qergese	NOUN	_	Case=Abs|Number=Dual	3	obj	_	Analysis=qergese(N)^[Abs.Du]|Gloss=the-window
+3	qelpeghtikek	qelpeght	VERB	_	Mood=Opt|Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	Analysis=qelpeghte(V)^[Opt.Pres.Trns]^[2Sg.3Du]|Gloss=open-them
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:21
+# text = Qefliqutamken iflayavgu suflugaqa.
+# gloss = I got mad at you when you lost my gun.
+# labels = complete-dep anno-hayley
+1	Qefliqutamken	qefliq	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=2|Person[subj]=1|Valency=2	0	root	_	Analysis=qefliqe(V)^@~:(u)te(V→V)^[Ind.Trns]^[1Sg.2Sg]|Gloss=I-got-mad-at-you
+2	iflayavgu	ifla	VERB	_	Mood=Cn1|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	1	advcl	_	Analysis=ifla(V)^[Cnsq1.Trns]^[2Sg.3Sg]|Gloss=when-you-lost-it
+3	suflugaqa	sufluga	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	obj	_	Analysis=suflugagh(N)^[Abs.1SgPoss.Sg]|Gloss=my-gun
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:22
+# text = Qaviigatukung qikmiten qilunghata.
+# gloss = We don't sleep whenever your dogs bark.
+# labels = complete-dep anno-hayley
+1	Qaviigatukung	qavi	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=1|Polarity=Neg|Tense=Pres|Valency=1	0	root	_	Analysis=qavagh(V)^@~:(ng)igate(V→V)^[Ind.Intr]^[1Du]|Gloss=we-do-not-sleep
+2	qikmiten	qikmi	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=2	3	nsubj	_	Analysis=qikmigh(N)^[Abs.2SgPoss.Pl]|Gloss=your-dogs
+3	qilunghata	qilu	VERB	_	Mood=Ctm|Number[subj]=Plur|Person[subj]=3|Valency=1	1	advcl	_	Analysis=qilug(V)^[Ctmp.Intr]^[3Pl]|Gloss=whenever-they-bark
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:23
+# text = Aanegkufsi esghaallequsi ighaleqetaaghmeng.
+# gloss = If you all go out, you will all see stars.
+# labels = complete-dep anno-hayley
+1	Aanegkufsi	aane	VERB	_	Mood=Cnd|Number[subj]=Plur|Person[subj]=2|Valency=1	2	advcl	_	Analysis=aane(V)^[Cond.Intr]^[2Pl]|Gloss=if-you-go-out
+2	esghaallequsi	esghaa	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=2|Tense=Fut|Valency=1	0	root	_	Analysis=esghaate(V)^@lleqe(V→V)^[Ind.Intr]^[2Pl]|Gloss=you-will-see-something
+3	ighaleqetaaghmeng	ighaleqetaagh	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=ighaleqetaagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-star
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:24
+# text = Iyataghyamta neghtukut ighaluqaghmengllu akuutamengllu.
+# gloss = When we became hungry, we ate aged auklet and berry mixture.
+# labels = complete-dep anno-hayley
+1	Iyataghyamta	iyatagh	VERB	_	Mood=Cn1|Number[subj]=Plur|Person[subj]=1|Valency=1	2	advcl	_	Analysis=iyatagh(V)^[Cnsq1.Intr]^[1Pl]|Gloss=when-we-became-hungry
+2	neghtukut	negh	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Valency=1	0	root	_	Analysis=negh(V)^[Ind.Intr]^[1Pl]|Gloss=we-ate
+3	ighaluqaghmengllu	ighaluqagh	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=ighaluqagh*(N)^[Abl_Mod.Sg]^=llu|Gloss=by-the-means-of-aged-auklet
+4	akuutamengllu	akuuta	NOUN	_	Case=Abl|Number=Sing	3	conj	_	Analysis=akuutagh(N)^[Abl_Mod.Sg]^=llu|Gloss=by-the-means-of-berry-mixture-too
+5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:25
+# text = Akuzingigalkuvek Yupigestun ungipaatinga Laluramkestun.
+# gloss = If you don't speak in Yupik, tell me in English.
+# labels = complete-dep anno-hayley
+1	Akuzingigalkuvek	akuzi	VERB	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=2|Polarity=Neg|Tense=Pres|Valency=1	3	advcl	_	Analysis=akuzi(V)^@~:(ng)igate(V→V)^[Cond.Intr]^[2Sg]|Gloss=if-you-do-not-speak
+2	Yupigestun	Yupig	NOUN	_	Case=Equ|Number=Plur	1	obl	_	Analysis=Yupig(N)^[Equ.Pl]|Gloss=in-the-Yupik-language
+3	ungipaatinga	ungipaat	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	Analysis=ungipaate(V)^[Opt.Pres.Trns]^[2Sg.1Sg]|Gloss=tell-me
+4	Laluramkestun	Laluramke	NOUN	_	Case=Equ|Number=Plur	3	obl	_	Analysis=Laluramke(N)^[Equ.Pl]|Gloss=in-English
+5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:26
+# text = Siivanlleghet nekevut aghulayugyameng.
+# gloss = The elders stood up when they wanted to dance.
+# labels = complete-dep anno-hayley
+1	Siivanlleghet	siivanllegh	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=siivanllegh(N)^[Abs.Pl]|Gloss=the-elders
+2	nekevut	nekev	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=nekeve(V)^[Ind.Intr]^[3Pl]|Gloss=they-stood-up
+3	aghulayugyameng	yug	VERB	_	Mood=Cn1|Number[subj]=Plur|Person[subj]=3|Reflex=Yes|Valency=1	2	advcl	_	Analysis=aghula(V)^@~fyug(V→V)^[Cnsq1.Intr]^[4Pl]|Gloss=when-they-wanted-to-dance
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:27
+# text = Pinighsaghlleqagka eglluk naavumakagkenka.
+# gloss = I will fix the stove if it has broke.
+# labels = complete-dep anno-hayley
+1	Pinighsaghlleqagka	pinighsagh	VERB	_	Mood=Ind|Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Fut|Valency=2	0	root	_	Analysis=pinighsagh(V)^@lleqe(V→V)^[Ind.Trns]^[1Sg.3Du]|Gloss=I-will-fix-them
+2	eglluk	egllu	NOUN	_	Case=Abs|Number=Dual	1	obj	_	Analysis=egllu(N)^[Abs.Du]|Gloss=the-stove
+3	naavumakagkenka	naavuma	VERB	_	Mood=Cnd|Number[subj]=Dual|Person[subj]=3|Valency=1	1	advcl	_	Analysis=naavuma(V)^[Cond.Intr]^[3Du]|Gloss=when-they-are-broken
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch14.gold:28
+# text = Qepghaghaqunga qavaneghpek.
+# gloss = I work whenever you sleep.
+# labels = complete-dep anno-hayley
+1	Qepghaghaqunga	qepghagh	VERB	_	Aspect=Hab|Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	Analysis=qepghagh(V)^~(g)aqe(V→V)^[Ind.Intr]^[1Sg]|Gloss=I-work
+2	qavaneghpek	qava	VERB	_	Mood=Ctm|Number[subj]=Sing|Person[subj]=2|Valency=1	1	advcl	_	Analysis=qavagh(V)^[Ctmp.Intr]^[2Sg]|Gloss=whenever-you-sleep
+3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch15.gold:1
+# text = Aakaqa estugaghtuq yavluni tasluqluku tukfighinaluni laluwaaymeng.
+# gloss = My sister went to the store holding her boyfriend's hand in order to buy onions.
+# labels = complete-dep anno-hayley
+1	Aakaqa	aaka	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=aakagh*(N)^[Abs.1SgPoss.Sg]|Gloss=my-sister
+2	estugaghtuq	t	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=estugagh(N)^+te(N→V)^[Ind.Intr]^[3Sg]|Gloss=she-went-to-a-store
+3	yavluni	yavlu	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	4	obj	_	Analysis=yavlu(N)^[Abs.4SgPoss.Sg]|Gloss=her-sweetheart
+4	tasluqluku	tasluq	VERB	_	Mood=Sbr|Number[obj]=Sing|Person[obj]=3|Valency=2	2	advcl	_	Analysis=tasluqe(V)^[Sbrd.Trns]^[_.3Sg]|Gloss=holding-hands-with-him
+5	tukfighinaluni	tukfigh	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Valency=1	2	advcl	_	Analysis=tukfigh(V)^~i(V→V)^@~fna(V→V)^[Sbrd.Intr]^[4Sg]|Gloss=in-order-to-buy-something
+6	laluwaaymeng	laluwaay	NOUN	_	Case=Abl|Number=Sing	5	obl:mod	_	Analysis=laluwaaye(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-dried-onion
+7	.	.	PUNCT	_	_	5	punct	_	Analysis=.
+
+# sent_id = Ch15.gold:2
+# text = Nanevgaq piyugluni aghulaqumalghii naayvamun eltughani maliglluku.
+# gloss = The old man walked, then left to the lake following his grandchild.
+# labels = complete-dep anno-hayley
+1	nanevgaq	nanevgaq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=nanevgagh(N)^[Abs.Sg]|Gloss=the-old-man
+2	piyugluni	piyug	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Valency=1	3	advcl	_	Analysis=piyug(V)^[Sbrd.Intr]^[4Sg]|Gloss=walking
+3	aghulaqumalghii	aghulaq	VERB	_	Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	Analysis=aghulaqe(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=he-left
+4	naayvamun	naayva	NOUN	_	Case=All|Number=Sing	3	obl	_	Analysis=naayvagh(N)^[All.Sg]|Gloss=to-the-lake
+5	eltughani	eltugha	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	6	obj	_	Analysis=eltughagh*(N)^[Abs.4SgPoss.Sg]|Gloss=his-grandchild
+6	maliglluku	malig	VERB	_	Mood=Sbr|Number[obj]=Sing|Person[obj]=3|Valency=2	3	advcl	_	Analysis=maligte(V)^[Sbrd.Trns]^[_.3Sg]|Gloss=accompaying-him
+7	.	.	PUNCT	_	_	6	punct	_	Analysis=.
+
+# sent_id = Ch15.gold:3
+# text = Iyataghyama neghaqa satelgam kemekraga gaaghpenaan.
+# gloss = When I got hunry, I ate the crane's meat without cooking it.
+# labels = complete-dep anno-hayley
+1	Iyataghyama	iyatagh	VERB	_	Mood=Cn1|Number[subj]=Sing|Person[subj]=1|Valency=1	2	advcl	_	Analysis=iyatagh(V)^[Cnsq1.Intr]^[1Sg]|Gloss=when-I-got-hungry
+2	neghaqa	negh	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Valency=2	0	root	_	Analysis=negh(V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-ate-it
+3	satelgam	satelga	NOUN	_	Case=Gen|Number=Sing	4	nmod	_	Analysis=satelgagh(N)^[Rel.Sg]|Gloss=the-crane's
+4	kemekraga	kemekrag	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	Analysis=kemekrag(N)^[Abs.3SgPoss.Sg]|Gloss=its-meat
+5	gaaghpenaan	gaa	VERB	_	Mood=Sbr|Number[obj]=Sing|Person[obj]=3|Polarity=Neg|Valency=2	2	advcl	_	Analysis=gaagh(V)^@–nghite(V→V)^[Sbrd.Trns]^[_.3Sg]|Gloss=without-cooking-it
+6	.	.	PUNCT	_	_	5	punct	_	Analysis=.
+
+# sent_id = Ch15.gold:4
+# text = Apama atanga kiyaghtaqngan Ungazimi yuget nenglulguftut mangteghangunateng.
+# gloss = While my grandfather's father was living in Chukotka, people had semisubterranean houses, not having (regular) houses.
+# labels = complete-dep anno-hayley
+1	Apama	apa	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nmod	_	Analysis=apa(N)^[Rel.1SgPoss.Sg]|Gloss=grandfather's
+2	atanga	ata	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Analysis=ata(N)^[Abs.3SgPoss.Sg]|Gloss=his-father
+3	kiyaghtaqngan	kiyaght	VERB	_	Mood=Cn2|Number[subj]=Sing|Person[subj]=3|Valency=1	6	advcl	_	Analysis=kiyaghte(V)^[Cnsq2.Intr]^[3Sg]|Gloss=while-he-was-living
+4	Ungazimi	Ungazi	NOUN	_	Case=Loc|Number=Sing	3	obl	_	Analysis=Ungazigh(N)^[Loc.Sg]|Gloss=in-Chukotka
+5	yuget	yug	NOUN	_	Case=Abs|Number=Plur	6	nsubj	_	Analysis=yug(N)^[Abs.Pl]|Gloss=the-people
+6	nenglulguftut	lgu	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=nenglu(N)^–lgu(N→V)^+(pete)fte(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-had-semisubterranean-houses
+7	mangteghangunateng	ngu	VERB	_	Mood=Sbr|Number[subj]=Plur|Person[subj]=3|Reflex=Yes|Valency=1	6	advcl	_	Analysis=mangteghagh(N)^~:(ng)ite(N→V)^[Sbrd.Intr]^[4Pl]|Gloss=not-having-houses
+8	.	.	PUNCT	_	_	7	punct	_	Analysis=.
+
+# sent_id = Ch15.gold:5
+# text = Aghnalqwaaghem ungipaataanga an'gighniluten.
+# gloss = The old woman told me you had played outside.
+# labels = complete-dep anno-hayley
+1	Aghnalqwaaghem	aghnalqwaagh	NOUN	_	Case=Erg|Number=Sing	2	nsubj	_	Analysis=aghnalqwaagh(N)^[Rel.Sg]|Gloss=the-old-lady
+2	ungipaataanga	ungipaat	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Valency=2	0	root	_	Analysis=ungipaate(V)^[Ind.Trns]^[3Sg.1Sg]|Gloss=she-told-me
+3	an'gighniluten	ni	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=2|Valency=1	2	advcl	_	Analysis=an'gigh(V)^@~fni(CmpdVbl)^[Sbrd.Intr]^[2Sg]|Gloss=saying-that-you-are-playing-outside
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch15.gold:6
+# text = Aarragkiighluku atkuni taghnughhasqughhaq aanuq esghaghnaluki aqelqat kaallghiit tengegkayugteggun.
+# gloss = After quickly putting on his parka, the little child went out in order to see the guests arriving by plane.
+# labels = complete-dep anno-hayley
+1	Aarragkiighluku	aa	VERB	_	Mood=Sbr|Number[obj]=Sing|Person[obj]=3|Valency=2	4	advcl	_	Analysis=aate(V)^@~f–ragkiigh(V→V)^[Sbrd.Trns]^[_.3Sg]|Gloss=quickly-putting-on-it
+2	atkuni	atku	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	1	obj	_	Analysis=atkug(N)^[Abs.4SgPoss.Sg]|Gloss=his-parka
+3	taghnughhasqughhaq	taghnughha	NOUN	_	Case=Abs|Number=Sing	4	nsubj	_	Analysis=taghnughhagh*(N)^–squghhagh*(N→N)^[Abs.Sg]|Gloss=the-little-child
+4	aanuq	aan	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=aane(V)^[Ind.Intr]^[3Sg]|Gloss=he-went-out
+5	esghaghnaluki	esghagh	VERB	_	Mood=Sbr|Number[obj]=Plur|Person[obj]=3|Valency=2	4	advcl	_	Analysis=esghagh(V)^@~fna(V→V)^[Sbrd.Trns]^[_.3Pl]|Gloss=in-order-to-see-them
+6	aqelqat	aqelqa	NOUN	_	Case=Abs|Number=Plur	5	obj	_	Analysis=aqelqagh(N)^[Abs.Pl]|Gloss=the-guests
+7	kaallghiit	llghii	NOUN	_	Case=Abs|Number=Plur	6	nmod	_	Analysis=kaate(V)^@–lghii(V→N)^[Abs.Pl]|Gloss=the-one-that-arrived
+8	tengegkayugteggun	tengegkayug	NOUN	_	Case=Per|Number=Plur	7	obl	_	Analysis=tengegkayug(N)^[Prl.Pl]|Gloss=by-plane
+9	.	.	PUNCT	_	_	5	punct	_	Analysis=.
+
+# sent_id = Ch15.gold:7
+# text = Meghnughngaaghmeng yuget igleghtaqut yaavumaluteng ivenruutek naavumayayek.
+# gloss = Even though they are tired, the men are going while rowing, when the outboard motor broke.
+# labels = complete-dep anno-hayley
+1	Meghnughngaaghmeng	meghnu	VERB	_	Mood=Cnc|Number[subj]=Plur|Person[subj]=3|Reflex=Yes|Valency=1	3	advcl	_	Analysis=meghnugh(V)^[Conc.Intr]^[4Pl]|Gloss=even-though-they-are-tired
+2	yuget	yug	NOUN	_	Case=Abs|Number=Plur	3	nsubj	_	Analysis=yug(N)^[Abs.Pl]|Gloss=the-men
+3	igleghtaqut	igleght	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=igleghte(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-going
+4	yaavumaluteng	yaav	VERB	_	Mood=Sbr|Number[subj]=Plur|Person[subj]=3|Reflex=Yes|Tense=Past|Valency=1	3	advcl	_	Analysis=yaave(V)^@~:(i/u)ma(V→V)^[Sbrd.Intr]^[4Pl]|Gloss=rowing
+5	ivenruutek	ivenruute	NOUN	_	Case=Abs|Number=Dual	6	nsubj	_	Analysis=ivenruute(N)^[Abs.Du]|Gloss=the-outboard-motor
+6	naavumayayek	naavuma	VERB	_	Mood=Cn1|Number[subj]=Dual|Person[subj]=3|Valency=1	3	advcl	_	Analysis=naavuma(V)^[Cnsq1.Intr]^[3Du]|Gloss=when-they-broke
+7	.	.	PUNCT	_	_	6	punct	_	Analysis=.
+
+# sent_id = Ch15.gold:8
+# text = Naagpek tugusugii aatkaten eflugameng llilukillu aqumutagnun.
+# gloss = Your mom wants you to take your clothes from the floor and also placing them on chairs.
+# labels = complete-dep anno-hayley
+1	Naagpek	naa	NOUN	_	Case=Erg|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	nsubj	_	Analysis=naa(N)^[Rel.2SgPoss.Sg]|Gloss=your-mother
+2	tugusugii	sug	VERB	_	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=tugu(V)^+(te)sug(CmpdVbl)^[Ind.Trns]^[3Sg.3Pl]|Gloss=she-wants-one-to-take-them
+3	aatkaten	aatka	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=2	2	obj	_	Analysis=aatkagh(N)^[Abs.2SgPoss.Pl]|Gloss=your-clothes
+4	eflugameng	efluga	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=eflugagh(N)^[Abl_Mod.Sg]|Gloss=from-the-floor
+5	llilukillu	lli	VERB	_	Mood=Sbr|Number[obj]=Plur|Person[obj]=3|Valency=2	2	advcl	_	Analysis=lli(V)^[Sbrd.Trns]^[_.3Pl]^\=llu|Gloss=also-placing-them
+6	aqumutagnun	aqumuta	NOUN	_	Case=All|Number=Dual	5	obl	_	Analysis=aqumutagh(N)^[All.Du]|Gloss=on-the-chairs
+7	.	.	PUNCT	_	_	5	punct	_	Analysis=.
+
+# sent_id = Ch15.gold:9
+# text = Quyillget neghaqut quyngimeng Laluramket neghumaluki uukaghmeng.
+# gloss = The Chukchi people are eating reindeer while the Englishmen are eating cod.
+# labels = complete-dep anno-hayley
+1	Quyillget	Quyillg	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=Quyilleg(N)^[Abs.Pl]|Gloss=the-Chukchi-people
+2	neghaqut	negh	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=negh(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-eating
+3	quyngimeng	quyngi	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=quyngigh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-reindeer
+4	Laluramket	Laluramke	NOUN	_	Case=Abs|Number=Plur	5	nsubj	_	Analysis=Laluramke(N)^[Abs.Pl]|Gloss=the-white-people
+5	neghumaluki	negh	VERB	_	Mood=Sbr|Number[obj]=Plur|Person[obj]=3|Tense=Past|Valency=2	2	advcl	_	Analysis=negh(V)^@~:(i/u)ma(V→V)^[Sbrd.Trns]^[_.3Pl]|Gloss=while-they-are-eating
+6	uukaghmeng	uukagh	NOUN	_	Case=Abl|Number=Sing	5	obl:mod	_	Analysis=uukagh*(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-codfish
+7	.	.	PUNCT	_	_	5	punct	_	Analysis=.
+
+# sent_id = Ch15.gold:10
+# text = Ungipaataanga yuget kiyaghhneghinniluki guyguni taghnughhaawaqngami.
+# gloss = He told me that they never lived in lumberhouses when he was being a child.
+# labels = complete-dep anno-hayley
+1	Ungipaataanga	ungipaat	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Valency=2	0	root	_	Analysis=ungipaate(V)^[Ind.Trns]^[3Sg.1Sg]|Gloss=he-told-me
+2	yuget	yug	NOUN	_	Case=Abs|Number=Plur	3	nsubj	_	Analysis=yug(N)^[Abs.Pl]|Gloss=people
+3	kiyaghhneghinniluki	ni	VERB	_	Mood=Sbr|Number[obj]=Plur|Person[obj]=3|Polarity=Neg|Valency=2	1	advcl	_	Analysis=kiyaghte(V)^@–nghite(V→V)^@~fni(CmpdVbl)^[Sbrd.Trns]^[_.3Pl]|Gloss=saying-that-they-were-not-living
+4	guyguni	guygu	NOUN	_	Case=Loc|Number=Plur	3	obl	_	Analysis=guygu(N)^[Loc.Pl]|Gloss=in-summer-houses
+5	taghnughhaawaqngami	taghnughha	NOUN	_	Mood=Cn2|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Valency=1	1	advcl	_	Analysis=taghnughhagh*(N)^~:(ng)u(N→V)^[Cnsq2.Intr]^[4Sg]|Gloss=while-he-was-a-child
+6	.	.	PUNCT	_	_	5	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:1
+# text = Qawaak espagna guutigu.
+# gloss = Shoot the bird that is up there.
+# labels = complete-dep anno-hayley
+1	qawaak	qawaak	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Analysis=qawaag(N)^[Abs.Sg]|Gloss=bird
+2	espagna	pagna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	1	nmod	_	Analysis=[Anaphor]^paagna(DEM.PRO.Abs.Sg)|Gloss=the-one-up-there
+3	guutigu	guut	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	Analysis=guute(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=shoot-it
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:2
+# text = Sangaawa pugimalghii un'gani?
+# gloss = What is the thing that swam down there in the water?
+# labels = complete-dep anno-hayley
+1	Sangaawa	sa	NOUN	_	Number[subj]=Sing|Person[subj]=3	0	root	_	Analysis=sa(N)^~:(ng)u(N→V)^[Intrg.Intr]^[3Sg]|Gloss=what-is-it?
+2	pugimalghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	nmod	_	Analysis=pugimagh(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-swam
+3	un'gani	un'gani	ADV	_	Case=Loc	2	advmod	_	Analysis=un'gani(DEM.ADV.Loc)|Gloss=down-there-at-the-water
+4	?	?	PUNCT	_	_	1	punct	_	Analysis=?
+
+# sent_id = Ch16.gold:3
+# text = Tagitiki salngaget uugken llilukillu kiwavek.
+# gloss = Bring the boxes that are down toward exit, placing them in there.
+# labels = complete-dep anno-hayley
+1	Tagitiki	tagit	VERB	_	Mood=Opt|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	Analysis=tagite(V)^[Opt.Pres.Trns]^[2Sg.3Pl]|Gloss=bring-them-to-me
+2	salngaget	salngag	NOUN	_	Case=Abs|Number=Plur	1	obj	_	Analysis=salngag(N)^[Abs.Pl]|Gloss=the-boxes
+3	uugken	uugken	ADV	_	_	1	advmod	_	Analysis=uugken(DEM.ADV.Abl_Mod)|Gloss=the-one-down-toward-exit
+4	llilukillu	lli	VERB	_	Mood=Sbr|Number[obj]=Plur|Person[obj]=3|Valency=2	1	advcl	_	Analysis=lli(V)^[Sbrd.Trns]^[_.3Pl]^\=llu|Gloss=placing-them-in-there
+5	kiwavek	kiwavek	ADV	_	Case=All	4	advmod	_	Analysis=kiwavek(DEM.ADV.All)|Gloss=the-one-in-there
+6	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:4
+# text = Sangan whani aqlaghata?
+# gloss = Why is it cold here?
+# labels = complete-dep anno-hayley
+1	sangan	sangan	ADV	_	PronType=Int	3	advmod	_	Analysis=sangan(WH)|Gloss=why
+2	whani	whani	ADV	_	Case=Loc	3	advmod	_	Analysis=whani(DEM.ADV.Loc)|Gloss=right-here
+3	aqlaghata	aqlagha	VERB	_	Number[subj]=Sing|Person[subj]=3	0	root	_	Analysis=aqlaghate(V)^[Intrg.Intr]^[3Sg]|Gloss=is-it-cold?
+4	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch16.gold:5
+# text = Qavanghitunga qayughllak paamna iglagtulghii.
+# gloss = I did not sleep because someone up there was noisy.
+# labels = complete-dep anno-hayley
+1	Qavanghitunga	qava	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Valency=1	0	root	_	Analysis=qavagh(V)^@–nghite(V→V)^[Ind.Intr]^[1Sg]|Gloss=I-did-not-sleep
+2	qayughllak	qayughllak	PART	_	_	4	mark	_	Analysis=qayughllak(PTCL)|Gloss=because
+3	paamna	paamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	4	nsubj	_	Analysis=paamna(DEM.PRO.Abs.Sg)|Gloss=that-one-up-there-not-in-sight'
+4	iglagtulghii	iglagtu	VERB	_	Number[subj]=Sing|Person[subj]=3	1	advcl	_	Analysis=iglagtu(V)^[Ptcp.Intr]^[3Sg]|Gloss=he-used-a-loud-voice
+5	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:6
+# text = Naama ungipaataanga atanga esghaanniluku kayngemeng kiyaghtaqngami imani.
+# gloss = My mother told me, saying that her father saw brown bears while living here.
+# labels = complete-dep anno-hayley
+1	Naama	naa	NOUN	_	Case=Erg|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=naa(N)^[Rel.1SgPoss.Sg]|Gloss=my-mother
+2	ungipaataanga	ungipaat	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Valency=2	0	root	_	Analysis=ungipaate(V)^[Ind.Trns]^[3Sg.1Sg]|Gloss=she-told-me
+3	atanga	ata	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	Analysis=ata(N)^[Abs.3SgPoss.Sg]|Gloss=her-father
+4	esghaanniluku	ni	VERB	_	Mood=Sbr|Number[obj]=Sing|Person[obj]=3|Valency=2	2	advcl	_	Analysis=esghaate(V)^@~fni(CmpdVbl)^[Sbrd.Trns]^[_.3Sg]|Gloss=saying-tha-he-saw-something
+5	kayngemeng	kaynge	NOUN	_	Case=Abl|Number=Sing	4	obl	_	Analysis=kaynge(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-brown-bear
+6	kiyaghtaqngami	kiyaght	VERB	_	Mood=Cn2|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Valency=1	4	advcl	_	Analysis=kiyaghte(V)^[Cnsq2.Intr]^[4Sg]|Gloss=living
+7	imani	imani	ADV	_	Case=Loc	6	advmod	_	Analysis=imani(DEM.ADV.Loc)|Gloss=here
+8	.	.	PUNCT	_	_	6	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:7
+# text = Kitum qikmii qilugaqa pikani?
+# gloss = Whose dog is barking up there?
+# labels = complete-dep anno-hayley
+1	Kitum	kitu	PRON	_	Case=Gen|Number=Sing|PronType=Int	2	nmod	_	Analysis=kitu(WH)^[Rel.Sg]|Gloss=whose
+2	qikmii	qikmii	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Analysis=qikmigh(N)^[Abs.3SgPoss.Sg]|Gloss=his-dog
+3	qilugaqa	qilug	VERB	_	Aspect=Prog|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	Analysis=qilug(V)^~(g)aqe(V→V)^[Intrg.Intr]^[3Sg]|Gloss=is-it-barking?
+4	pikani	pikani	ADV	_	Case=Loc	3	advmod	_	Analysis=pikani(DEM.ADV.Loc)|Gloss=up-there
+5	?	?	PUNCT	_	_	3	punct	_	Analysis=?
+
+# sent_id = Ch16.gold:8
+# text = Amaa aagken tagimalghii neghnaluku nefkuuraq.
+# gloss = The wolf over there came to me in order to eat the dried meat.
+# labels = complete-dep anno-hayley
+1	amaa	amaa	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=amaa(N)^[Abs.Sg]|Gloss=the-wolf
+2	aagken	aagken	ADV	_	Case=Abl	3	obl	_	Analysis=aagken(DEM.ADV.Abl_Mod)|Gloss=over-there
+3	tagimalghii	tagi	VERB	_	Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	Analysis=tagi(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=it-came-to-me
+4	neghnaluku	negh	VERB	_	Mood=Sbr|Number[obj]=Sing|Person[obj]=3|Valency=2	3	advcl	_	Analysis=negh(V)^@~fna(V→V)^[Sbrd.Trns]^[_.3Sg]|Gloss=in-order-to-eat-it
+5	nefkuuraq	nefkuuraq	NOUN	_	Case=Abs|Number=Sing	4	obj	_	Analysis=nefkuuragh(N)^[Abs.Sg]|Gloss=the-dried-meat
+6	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:9
+# text = Aqelqat aghulaqellequt sakmavek unaami.
+# gloss = The guests will leave down toward the exit tomorrow.
+# labels = complete-dep anno-hayley
+1	Aqelqat	aqelqa	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=aqelqagh(N)^[Abs.Pl]|Gloss=the-guests
+2	aghulaqellequt	aghulaqe	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Fut|Valency=1	0	root	_	Analysis=aghulaqe(V)^@lleqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-will-leave
+3	sakmavek	sakmavek	ADV	_	Case=All	2	advmod	_	Analysis=sakmavek(DEM.ADV.All)|Gloss=down-toward-exit
+4	unaami	unaami	PART	_	_	2	advmod	_	Analysis=unaami(PTCL)|Gloss=tomorrow
+5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:10
+# text = Taakum amqeghhnaqaanga qiluglunga.
+# gloss = This one tried to bite me, barking at me.
+# labels = complete-dep anno-hayley
+1	Taakum	m	PRON	_	Case=Erg|Number=Sing|PronType=Dem	2	nsubj	_	Analysis=[Anaphor]^uku(DEM.PRO.Rel.Sg)|Gloss=this-one
+2	amqeghhnaqaanga	naq	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Fut|Valency=2	0	root	_	Analysis=amqeghte(V)^@~fnaqe(V→V)^[Ind.Trns]^[3Sg.1Sg]|Gloss=it-tried-to-bite-me
+3	qiluglunga	qilug	VERB	_	Mood=Sbr|Number[obj]=Sing|Person[obj]=1|Valency=2	2	advcl	_	Analysis=qilug(V)^[Sbrd.Trns]^[_.1Sg]|Gloss=barking-at-me
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:11
+# text = Qagani taghnughhaat naghaaghaqut.
+# gloss = The children are playing outside.
+# labels = complete-dep anno-hayley
+1	qagani	qagani	ADV	_	Case=Loc	3	advmod	_	Analysis=qagani(DEM.ADV.Loc)|Gloss=outside
+2	taghnughhaat	taghnughha	NOUN	_	Case=Abs|Number=Plur	3	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Pl]|Gloss=the-children
+3	naghaaghaqut	naghaagh	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=naghaagh(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-playing
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:12
+# text = Qaamna keniq qaamumalghii qergesek qelpeghsafkek.
+# gloss = When you opened the window, the light inside went out that inside. (keniq is probably a typo for keneq--light)
+# labels = complete-dep anno-hayley
+1	qaamna	qaamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	nmod	_	Analysis=qaamna(DEM.PRO.Abs.Sg)|Gloss=that-inside
+2	keniq	keniq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=kenigh(N)^[Abs.Sg]|Gloss=the-skirt
+3	qaamumalghii	qaam	VERB	_	Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	Analysis=qaame(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=it-went-out
+4	qergesek	qergese	NOUN	_	Case=Abs|Number=Dual	5	obj	_	Analysis=qergese(N)^[Abs.Du]|Gloss=the-window
+5	qelpeghsafkek	qelpegh	VERB	_	Mood=Cn1|Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	3	advcl	_	Analysis=qelpeghte(V)^[Cnsq1.Trns]^[2Sg.3Du]|Gloss=when-you-opened-them
+6	.	.	PUNCT	_	_	5	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:13
+# text = Igleghtekuvek angyakun alingellequten.
+# gloss = If you travel by boat, you will be scared.
+# labels = complete-dep anno-hayley
+1	Igleghtekuvek	igleghte	VERB	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=2|Valency=1	3	advcl	_	Analysis=igleghte(V)^[Cond.Intr]^[2Sg]|Gloss=if-you-travel
+2	angyakun	angya	NOUN	_	Case=Per|Number=Sing	3	obl	_	Analysis=angyagh(N)^[Prl.Sg]|Gloss=by-boat
+3	alingellequten	alinge	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Fut|Valency=1	0	root	_	Analysis=alinge(V)^@lleqe(V→V)^[Ind.Intr]^[2Sg]|Gloss=you-will-be-scared
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:14
+# text = Ukigutigu nasaperaqa paamna.
+# gloss = Go down with my hat up there.
+# labels = complete-dep anno-hayley
+1	Ukigutigu	ukig	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	Analysis=ukig(V)^@~:(u)te(V→V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=go-down-with-it
+2	nasaperaqa	nasapera	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	1	obj	_	Analysis=nasaperagh(N)^[Abs.1SgPoss.Sg]|Gloss=my-hat
+3	paamna	paamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	nmod	_	Analysis=paamna(DEM.PRO.Abs.Sg)|Gloss=that-one-up-there-not-in-sight'
+4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:15
+# text = Piyugeltung paaggun.
+# gloss = Let's walk up there.
+# labels = complete-dep anno-hayley
+1	Piyugeltung	piyug	VERB	_	Mood=Opt|Number[subj]=Dual|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	Analysis=piyug(V)^[Opt.Pres.Intr]^[1Du]|Gloss=let's-walk
+2	paaggun	paaggun	ADV	_	Case=Per	1	advmod	_	Analysis=paaggun(DEM.ADV.Prl)|Gloss=up
+3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:16
+# text = Naafqaqa suflugan tukfiqen estugameng tamaani.
+# gloss = I broke your gun, the one you bought from the store in this area.
+# labels = complete-dep anno-hayley
+1	Naafqaqa	naafq	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Valency=2	0	root	_	Analysis=naafqe(V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-broke-it
+2	suflugan	sufluga	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	1	obj	_	Analysis=suflugagh(N)^[Abs.2SgPoss.Sg]|Gloss=your-gun
+3	tukfiqen	qe	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	nmod	_	Analysis=tukfigh(V)^@~–(g)ke(V→N)^[Abs.2SgPoss.Sg]|Gloss=the-one-you-bought
+4	estugameng	estuga	NOUN	_	Case=Abl|Number=Sing	3	obl	_	Analysis=estugagh(N)^[Abl_Mod.Sg]|Gloss=from-the-store
+5	tamaani	maani	ADV	_	Case=Loc	4	advmod	_	Analysis=[Anaphor]^maani(DEM.ADV.Loc)|Gloss=in-this-area
+6	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:17
+# text = Espamani naayghani esghaatunga sikigmeng uglalghiimeng.
+# gloss = I saw many squirrels in the mountain up there.
+# labels = complete-dep anno-hayley
+1	Espamani	pamani	ADV	_	Case=Loc	2	advmod	_	Analysis=[Anaphor]^pamani(DEM.ADV.Loc)|Gloss=that-up-there
+2	naayghani	naaygha	NOUN	_	Case=Loc|Number=Plur	3	obl	_	Analysis=naayghagh(N)^[Loc.Pl]|Gloss=in-the-mountain
+3	esghaatunga	esghaat	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	Analysis=esghaate(V)^[Ind.Intr]^[1Sg]|Gloss=I-saw-something
+4	sikigmeng	sikig	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=sikig(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-squirrel
+5	uglalghiimeng	lghii	VERB	_	Case=Abl|Number=Sing	4	nmod	_	Analysis=uglagh(V)^@–lghii(V→N)^[Abl_Mod.Sg]|Gloss=many-of-them
+6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:18
+# text = Tazingkut afsengaat papelguut takestaaghhaghneng.
+# gloss = The voles over there have a short tail.
+# labels = complete-dep anno-hayley
+1	Tazingkut	ingku	PRON	_	Case=Abs,Erg|Number=Plur|PronType=Dem	2	nmod	_	Analysis=[Anaphor]^iingku(DEM.PRO)^[AbsRel.Pl]|Gloss=the-one-over-there
+2	afsengaat	afsenga	NOUN	_	Case=Abs|Number=Plur	3	nsubj	_	Analysis=afsengagh*(N)^[Abs.Pl]|Gloss=the-voles
+3	papelguut	lgu	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=papeg(N)^–lgu(N→V)^[Ind.Intr]^[3Pl]|Gloss=they-have-a-tail
+4	takestaaghhaghneng	takestaaghhagh	NOUN	_	Case=Abl|Number=Plur	3	obl:mod	_	Analysis=takestaaghhagh*(N)^[Abl_Mod.Pl]|Gloss=by-the-means-of-short-thing
+5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:19
+# text = Iigna Quyillek kaallghii ighivgaq paamken kalileghrugllalguuq.
+# gloss = That Chukchi person over there, the one that arrived yesterday from that one up there, had a big dalmation dog.
+# labels = complete-dep anno-hayley
+1	iigna	iigna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	nmod	_	Analysis=iigna(DEM.PRO.Abs.Sg)|Gloss=that-one-over-there
+2	Quyillek	Quyillek	NOUN	_	Case=Abs|Number=Sing	6	nsubj	_	Analysis=Quyilleg(N)^[Abs.Sg]|Gloss=Chukchi
+3	kaallghii	llghii	NOUN	_	Case=Abs|Number=Sing	2	nmod	_	Analysis=kaate(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-arrived
+4	ighivgaq	ighivgaq	PART	_	_	3	advmod	_	Analysis=ighivgaq(PTCL)|Gloss=yesterday
+5	paamken	paamken	ADV	_	Case=Abl	3	advmod	_	Analysis=paamken(DEM.ADV.Abl_Mod)|Gloss=from-that-one-up-there-not-in-sight
+6	kalileghrugllalguuq	lgu	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=kalile(N)^–ghrugllag(N→N)^–lgu(N→V)^[Ind.Intr]^[3Sg]|Gloss=he-had-a-big-dalmation-dog
+7	.	.	PUNCT	_	_	6	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:20
+# text = Sangami taghnughhaq tagiiqa qiyamaluni taagken?
+# gloss = Why is the child coming to me, crying over there?
+# labels = complete-dep anno-hayley
+1	sangami	sangami	ADV	_	PronType=Int	3	advmod	_	Analysis=sangami(WH)|Gloss=why
+2	taghnughhaq	taghnughhaq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Sg]|Gloss=the-child
+3	tagiiqa	tagi	VERB	_	Aspect=Prog|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	Analysis=tagi(V)^~(g)aqe(V→V)^[Intrg.Intr]^[3Sg]|Gloss=is-he-coming-to-me?
+4	qiyamaluni	qiya	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Tense=Past|Valency=1	3	advcl	_	Analysis=qiya(V)^@~:(i/u)ma(V→V)^[Sbrd.Intr]^[4Sg]|Gloss=crying
+5	taagken	aagken	ADV	_	Case=Abl	4	advmod	_	Analysis=[Anaphor]^aagken(DEM.ADV.Abl_Mod)|Gloss=that-over-there
+6	?	?	PUNCT	_	_	4	punct	_	Analysis=?
+
+# sent_id = Ch16.gold:21
+# text = Yugem pikum ungipaataanga whangkunnun kayusightesugniluten.
+# gloss = That man up there told me, saying that he wants us to help you.
+# labels = complete-dep anno-hayley
+1	Yugem	yug	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Analysis=yug(N)^[Rel.Sg]|Gloss=the-man
+2	pikum	piku	PRON	_	Case=Erg|Number=Sing|PronType=Dem	1	nmod	_	Analysis=piku(DEM.PRO)^[Rel.Sg]|Gloss=the-one-up-there
+3	ungipaataanga	ungipaat	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Valency=2	0	root	_	Analysis=ungipaate(V)^[Ind.Trns]^[3Sg.1Sg]|Gloss=he-told-me
+4	whangkunnun	whangkunnun	PRON	_	Case=All|Number=Plur|Person=1	3	nsubj	_	Analysis=whangkunnun(PRO.All.1Pl)|Gloss=to-us
+5	kayusightesugniluten	ni	VERB	_	Mood=Sbr|Number[obj]=Sing|Person[obj]=2|Valency=2	3	advcl	_	Analysis=kayusigh(V)^+(te)sug(CmpdVbl)^@~fni(CmpdVbl)^[Sbrd.Trns]^[_.2Sg]|Gloss=saying-that-he-wants-one-to-help-you
+6	.	.	PUNCT	_	_	5	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:22
+# text = Kaanyuq, naten mayughlleqsin whavek?
+# gloss = Hey you down there, how will you come up here?
+# labels = complete-dep anno-hayley
+1	kaanyuq	kaanyuq	PRON	_	Case=Voc|Number=Sing|PronType=Dem	4	nsubj	_	Analysis=kaanyuq(VOC.Sg)|Gloss=that-down-below-there
+2	,	,	PUNCT	_	_	4	punct	_	Analysis=,
+3	naten	naten	ADV	_	PronType=Int	4	advmod	_	Analysis=naten(WH)|Gloss=how
+4	mayughlleqsin	mayugh	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Tense=Fut|Valency=1	0	root	_	Analysis=mayugh(V)^@lleqe(V→V)^[Intrg.Intr.2Sg]|Gloss=will-you-go-up?
+5	whavek	whavek	ADV	_	Case=All	4	advmod	_	Analysis=whavek(DEM.ADV.All)|Gloss=here
+6	?	?	PUNCT	_	_	4	punct	_	Analysis=?
+
+# sent_id = Ch16.gold:23
+# text = Taan'gani meq sikumalghii.
+# gloss = The water has frozen down there.
+# labels = complete-dep anno-hayley
+1	Taan'gani	an'gani	ADV	_	Case=Loc	3	advmod	_	Analysis=[Anaphor]^un'gani(DEM.ADV.Loc)|Gloss=the-one-down-there-at-the-water
+2	meq	meq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=megh(N)^[Abs.Sg]|Gloss=the-water
+3	sikumalghii	siku	VERB	_	Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	Analysis=siku(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=it-has-frozen
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:24
+# text = Naakallu nengyunllu pagavek aghulaquk inghunalutek pagunghaghmeng eslallugughteghngaan.
+# gloss = My mother and your grandmother left towards up there in order to pick crowberries even though it started to rain.
+# labels = complete-dep anno-hayley
+1	Naakallu	naa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	Analysis=naa(N)^[Abs.1SgPoss.Sg]^\=llu|Gloss=my-mother-
+2	nengyunllu	nengyu	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	1	conj	_	Analysis=nengyugh(N)^[Abs.2SgPoss.Sg]^\=llu|Gloss=your-grandmother
+3	pagavek	pagavek	ADV	_	Case=All	4	advmod	_	Analysis=pagavek(DEM.ADV.All)|Gloss=up-there
+4	aghulaquk	aghulaq	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=3|Valency=1	0	root	_	Analysis=aghulaqe(V)^[Ind.Intr]^[3Du]|Gloss=they-left
+5	inghunalutek	inghu	VERB	_	Mood=Sbr|Number[subj]=Dual|Person[subj]=3|Reflex=Yes|Valency=1	4	advcl	_	Analysis=inghu(V)^@~fna(V→V)^[Sbrd.Intr]^[4Du]|Gloss=picking-berries
+6	pagunghaghmeng	pagunghagh	NOUN	_	Case=Abl|Number=Sing	5	obl:mod	_	Analysis=pagunghagh*(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-crowberry
+7	eslallugughteghngaan	ughte	VERB	_	Mood=Cnc|Number[subj]=Sing|Person[subj]=3|Valency=1	4	advcl	_	Analysis=eslallug(N)^~:(ng)ughte(N→V)^[Conc.Intr]^[3Sg]|Gloss=even-though-it-started-to-rain
+8	.	.	PUNCT	_	_	7	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:25
+# text = Awani esghaatukung riightemeng.
+# gloss = We saw an animal's den over there.
+# labels = complete-dep anno-hayley
+1	awani	awani	ADV	_	Case=Loc	2	advmod	_	Analysis=awani(DEM.ADV.Loc)|Gloss=over-there
+2	esghaatukung	esghaat	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=1|Valency=1	0	root	_	Analysis=esghaate(V)^[Ind.Intr]^[1Du]|Gloss=we-saw-something
+3	riightemeng	riigte	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=riigte(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-den
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:26
+# text = Pikegken qayuusiq ifkaghtuq naavlunillu.
+# gloss = That cup up there dropped to the floor and broke.
+# labels = complete-dep anno-hayley
+1	pikegken	pikegken	ADV	_	Case=Abl	3	advmod	_	Analysis=pikegken(DEM.ADV.Abl_Mod)|Gloss=that-up-there
+2	qayuusiq	qayuusiq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=qayuusigh(N)^[Abs.Sg]|Gloss=the-cup
+3	ifkaghtuq	ifkagh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=ifkagh(V)^[Ind.Intr]^[3Sg]|Gloss=it-dropped
+4	naavlunillu	naav	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Valency=1	3	advcl	_	Analysis=naave(V)^[Sbrd.Intr]^[4Sg]^\=llu|Gloss=even-breaking
+5	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch16.gold:27
+# text = Ingani inghwaaqngama manigneng naalkutunga.
+# gloss = While I was picking berries, I found some eggs.
+# labels = complete-dep anno-hayley
+1	ingani	ingani	ADV	_	Case=Loc	2	advmod	_	Analysis=ingani(DEM.ADV.Loc)|Gloss=that-over-there
+2	inghwaaqngama	inghwa	VERB	_	Mood=Cn2|Number[subj]=Sing|Person[subj]=1|Valency=1	4	advcl	_	Analysis=inghu(V)^[Cnsq2.Intr]^[1Sg]|Gloss=while-I-was-picking-berries
+3	manigneng	manig	NOUN	_	Case=Abl|Number=Plur	4	obl:mod	_	Analysis=manig(N)^[Abl_Mod.Pl]|Gloss=by-the-means-of-egg
+4	naalkutunga.	naalkut	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	Analysis=naalkute(V)^[Ind.Intr]^[1Sg]|Gloss=I-found-
+5	.	.	PUNCT	_	_	4	punct	_	Analysis=.
+
+# sent_id = Ch17.gold:1
+# text = Tuunlakun qalqalima elpenun.
+# gloss = Let me give the ax to you.
+# labels = complete-dep anno-hayley
+1	Tuunlakun	tuun	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Pres|Valency=2	0	root	_	Analysis=tuune(V)^[Opt.Pres.Trns]^[1Sg.3Sg]|Gloss=let-me-give-it
+2	qalqalima	qalqalima	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=qalqalima(N)^[Abs.Sg]|Gloss=the-axe
+3	elpenun	elpenun	PRON	_	_	1	obl	_	Analysis=elpenun(PRO.All.2Sg)|Gloss=to-you
+4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch17.gold:2
+# text = Yuqeghllanga.
+# gloss = Let me go outdoors.
+# labels = complete-dep anno-hayley
+1	Yuqeghllanga	yuqegh	VERB	_	Mood=Opt|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	Analysis=yuqeghte(V)^[Opt.Pres.Intr]^[1Sg]|Gloss=let-me-go-outside
+2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch17.gold:3
+# text = Akmaneghpallut alingengigatut kamagrameng.
+# gloss = Camels don't become afraid of elephants.
+# labels = complete-dep anno-hayley
+1	Akmaneghpallut	akmaneghpallu	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=akmaneghpallugh(N)^[Abs.Pl]|Gloss=camels
+2	alingengigatut	aling	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Polarity=Neg|Tense=Pres|Valency=1	0	root	_	Analysis=alinge(V)^@~:(ng)igate(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-never-afraid-of
+3	kamagrameng	kamagra	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=kamagragh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-elephant
+4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
+
+# sent_id = Ch17.gold:4
+# text = Aapnaken aatghaneng piyukuvek kiyaghfiganun.
+# gloss = Ask for his/her name if you want to go to his/her place of living.
+# labels = complete-dep anno-hayley
+1	Aapnaken	aap	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Fut|Valency=2	0	root	_	Analysis=aapte(V)^[Opt.Fut.Trns]^[2Sg.3Sg]|Gloss=ask-him
+2	aatghaneng	aatgh	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	obl:mod	_	Analysis=ategh(N)^[Abl_Mod.3SgPoss.Sg]|Gloss=by-the-means-of-his-name
+3	piyukuvek	piyu	VERB	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=2|Valency=1	1	advcl	_	Analysis=piyug(V)^[Cond.Intr]^[2Sg]|Gloss=if-you-want-to-do-something
+4	kiyaghfiganun	kiyaghfig	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	Analysis=kiyaghfig(N)^[All.3SgPoss.Sg]|Gloss=to-his-house
+5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch17.gold:5
+# text = Neghyaqunaan kukupak gaaghpenaan.
+# gloss = Don't eat the ribbon seal without cooking it.
+# labels = complete-dep anno-hayley
+1	Neghyaqunaan	negh	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=3|Person[subj]=2|Polarity=Neg|Tense=Fut|Valency=2	0	root	_	Analysis=negh(V)^[Opt.Neg.Fut.Trns]^[2Sg.3Sg]|Gloss=do-not-eat-it
+2	kukupak	kukupak	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=kukupag(N)^[Abs.Sg]|Gloss=ribbon-seal
+3	gaaghpenaan	gaa	VERB	_	Mood=Sbr|Number[obj]=Sing|Person[obj]=3|Polarity=Neg|Valency=2	1	advcl	_	Analysis=gaagh(V)^@–nghite(V→V)^[Sbrd.Trns]^[_.3Sg]|Gloss=without-cooking-it
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch17.gold:6
+# text = Ighneqa aanli esghaannaluni kiighwyameng.
+# gloss = Let my son out in order that he sees aurora borealis.
+# labels = complete-dep anno-hayley
+1	Ighneqa	ighne	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=ighnegh(N)^[Abs.1SgPoss.Sg]|Gloss=my-son
+2	aanli	aan	VERB	_	Number[subj]=Sing|Person[subj]=3	0	root	_	Analysis=aane(V)^[Opt.Pres.Intr]^[3Sg]|Gloss=let-him-go-out
+3	esghaannaluni	esghaan	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Valency=1	2	advcl	_	Analysis=esghaate(V)^@~fna(V→V)^[Sbrd.Intr]^[4Sg]|Gloss=in-order-that-he-see-something
+4	kiighwyameng	kiighwya	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=kiighwyagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-aurora
+5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch17.gold:7
+# text = Aqfalangi yuwayut siqlugameng.
+# gloss = Let me get the loons from the underground meat cache.
+# labels = complete-dep anno-hayley
+1	Aqfalangi	aqfa	VERB	_	Mood=Opt|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Pres|Valency=2	0	root	_	Analysis=aqfa(V)^[Opt.Pres.Trns]^[1Sg.3Pl]|Gloss=let-me-fetch-them
+2	yuwayut	yuwayu	NOUN	_	Case=Abs|Number=Plur	1	obj	_	Analysis=yuwayu(N)^[Abs.Pl]|Gloss=the-loons
+3	siqlugameng	siqluga	NOUN	_	Case=Abl|Number=Sing	1	obl	_	Analysis=siqlugagh(N)^[Abl_Mod.Sg]|Gloss=from-the-underground-meat-cellar
+4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
+
+# sent_id = Ch17.gold:8
+# text = Kitum pikakek iingkuk qallevagek?
+# gloss = Whose overalls are those over there?
+# labels = complete-dep anno-hayley
+1	Kitum	kitu	PRON	_	Case=Erg|Number=Sing|PronType=Int	2	nsubj	_	Analysis=kitu(WH)^[Rel.Sg]|Gloss=who
+2	pikakek	k	VERB	_	Mood=Int|Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Valency=2	0	root	_	Analysis=pi(N)^~–ke(N→V)^[Intrg.Trns]^[3Sg.3Du]|Gloss=does-he-have-them-as-his?
+3	iingkuk	iingku	PRON	_	Case=Abs,Erg|Number=Dual	4	nmod	_	Analysis=iingku(DEM.PRO)^[AbsRel.Du]|Gloss=the-ones-over-there
+4	qallevagek	qallevag	NOUN	_	Case=Abs|Number=Dual	2	obj	_	Analysis=qallevag(N)^[Abs.Du]|Gloss=the-overalls
+5	?	?	PUNCT	_	_	2	punct	_	Analysis=?
+
+# sent_id = Ch17.gold:9
+# text = Ruuseghmiit aglaghtut esghaasameng quutmeng.
+# gloss = The Russians went home when they seen land.
+# labels = complete-dep anno-hayley
+1	Ruuseghmiit	Ruuseghmii	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=Ruuseghmii(N)^[Abs.Pl]|Gloss=the-Russians
+2	aglaghtut	aglagh	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=aglagh(V)^[Ind.Intr]^[3Pl]|Gloss=they-went-home
+3	esghaasameng	esghaa	VERB	_	Mood=Cn1|Number[subj]=Plur|Person[subj]=3|Reflex=Yes|Valency=1	2	advcl	_	Analysis=esghaate(V)^[Cnsq1.Intr]^[4Pl]|Gloss=when-they-saw-something
+4	quutmeng	quut	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=qute(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-land
+5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch17.gold:10
+# text = Piyaalghaakut taghnughhaanka qavaqata.
+# gloss = Lets go hunting on the ice when my children sleep.
+# labels = complete-dep anno-hayley
+1	Piyaalghaakut	piyaa	VERB	_	Mood=Opt|Number[subj]=Plur|Person[subj]=1|Tense=Fut|Valency=1	0	root	_	Analysis=piyaa(V)^[Opt.Fut.Intr]^[1Pl]|Gloss=lets-go-hunt-on-the-ice
+2	taghnughhaanka	taghnughha	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.1SgPoss.Pl]|Gloss=my-children
+3	qavaqata	qava	VERB	_	Mood=Cnd|Number[subj]=Plur|Person[subj]=3|Valency=1	1	advcl	_	Analysis=qavagh(V)^[Cond.Intr]^[3Pl]|Gloss=if-they-fall-asleep
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
+# sent_id = Ch17.gold:11
+# text = Apaka maaghraghvinlegneng qikmilguuq.
+# gloss = My grandpa has seven dogs.
+# labels = complete-dep anno-hayleys
+1	Apaka	apa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	Analysis=apa(N)^[Abs.1SgPoss.Sg]|Gloss=my-grandfather
+2	maaghraghvinlegneng	maaghraghvinleg	NUM	_	Case=Abl|Number=Plur	3	nummod	_	Analysis=maaghraghvinleg(NUM)^[Abl_Mod.Pl]|Gloss=by-the-means-of-seven
+3	qikmilguuq	lgu	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=qikmigh(N)^–lgu(N→V)^[Ind.Intr]^[3Sg]|Gloss=he-has-dogs
+4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
+
