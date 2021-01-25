@@ -118,7 +118,7 @@
 # text = Qavaghtunga.
 # gloss = I slept.
 # labels = complete-dep anno-hayley
-1	Qavaghtunga	qavagh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	Analysis=qavagh(V)^[Ind.Intr]^[1Sg]|Gloss=I-slept.|SpaceAfter=No
+1	Qavaghtunga	qavagh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Valency=1	0	root	_	Analysis=qavagh(V)^[Ind.Intr]^[1Sg]|Gloss=I-slept|SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
 # sent_id = Ch3.gold:16
@@ -2605,8 +2605,8 @@
 # text = Kaanyuq, naten mayughlleqsin whavek?
 # gloss = Hey you down there, how will you come up here?
 # labels = complete-dep anno-hayley
-1	kaanyuq	kaanyuq	PRON	_	Case=Voc|Number=Sing|PronType=Dem	4	nsubj	_	Analysis=kaanyuq(VOC.Sg)|Gloss=that-down-below-there
-2	,	,	PUNCT	_	_	4	punct	_	Analysis=,|SpaceAfter=No
+1	kaanyuq	kaanyuq	PRON	_	Case=Voc|Number=Sing|PronType=Dem	4	nsubj	_	Analysis=kaanyuq(VOC.Sg)|Gloss=that-down-below-there|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	Analysis=,
 3	naten	naten	ADV	_	PronType=Int	4	advmod	_	Analysis=naten(WH)|Gloss=how
 4	mayughlleqsin	mayugh	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Tense=Fut|Valency=1	0	root	_	Analysis=mayugh(V)^@lleqe(V→V)^[Intrg.Intr.2Sg]|Gloss=will-you-go-up?
 5	whavek	whavek	ADV	_	Case=All	4	advmod	_	Analysis=whavek(DEM.ADV.All)|Gloss=here|SpaceAfter=No
