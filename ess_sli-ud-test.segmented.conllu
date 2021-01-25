@@ -4601,7 +4601,7 @@
 4	mayugh	mayugh	VERB	_	_	0	root	_	Analysis=mayugh(V)|Gloss=to-go-up
 5	lleq	lleq	VERB	_	Tense=Fut	4	aux	_	Analysis=@lleqe(V→V)|Gloss=will-V
 6	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	5	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
-7	whavek	whavek	ADV	_	Case=All	4	advmod	_	Analysis=whavek(DEM.ADV.All)|Gloss=here
+7	whavek	whavek	ADV	_	Case=All	4	advmod	_	Analysis=whavek(DEM.ADV.All)|Gloss=here|SpaceAfter=No
 8	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
 # sent_id = Ch16.gold:23
