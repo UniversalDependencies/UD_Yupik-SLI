@@ -457,7 +457,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
 # sent_id = Ch5.gold:10
-# text = Aakan umughqaagaquq.
+# text = Aakaan umughqaagaquq.
 # gloss = Your older sister is having sleep paralysis.
 # labels = complete-dep anno-hayley
 1	Aakaan	aaka	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	nsubj	_	Analysis=aakagh*(N)^[Abs.2SgPoss.Sg]|Gloss=your-older-sister
@@ -949,7 +949,7 @@
 # text = Mangteghaghllangllaghyugtukut.
 # gloss = We want to make a big house.
 # labels = complete-dep anno-hayley
-1	Mangteghaghllangllaghyugtukut.	yug	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Valency=1	0	root	_	Analysis=mangteghagh(N)^–ghllag(N→N)^–ngllagh(N→V)^@~fyug(V→V)^[Ind.Intr]^[1Pl]|Gloss=we-want-to-make-a-big-house|SpaceAfter=No
+1	Mangteghaghllangllaghyugtukut	yug	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Valency=1	0	root	_	Analysis=mangteghagh(N)^–ghllag(N→N)^–ngllagh(N→V)^@~fyug(V→V)^[Ind.Intr]^[1Pl]|Gloss=we-want-to-make-a-big-house|SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
 # sent_id = Ch8.gold:1

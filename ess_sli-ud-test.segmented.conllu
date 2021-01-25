@@ -2,7 +2,7 @@
 # text = Afsengaq neghtuq pagunghaghmeng.
 # gloss = A mouse ate crowberries.
 # labels = complete-dep anno-hayley
-1	afsengaq	afsengaq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=afsengagh*(N)^[Abs.Sg]|Gloss=a-vole
+1	Afsengaq	afsengaq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=afsengagh*(N)^[Abs.Sg]|Gloss=a-vole
 2-4	neghtuq	_	_	_	_	_	_	_	Analysis=negh(V)^[Ind.Intr]^[3Sg]|Gloss=it-ate
 2	negh	negh	VERB	_	_	0	root	_	Analysis=negh(V)|Gloss=to-eat
 3	tu	tu	X	_	Mood=Ind|Valency=1	2	dep:infl	_	Analysis=[Ind.Intr]
@@ -65,7 +65,7 @@
 # text = Ukaziq alinguq kaviighmeng.
 # gloss = The rabbit became afraid of foxes.
 # labels = complete-dep anno-hayley
-1	ukaziq	ukaziq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=ukazigh(N)^[Abs.Sg]|Gloss=the-hare
+1	Ukaziq	ukaziq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=ukazigh(N)^[Abs.Sg]|Gloss=the-hare
 2-4	alinguq	_	_	_	_	_	_	_	Analysis=alinge(V)^[Ind.Intr]^[3Sg]|Gloss=it-became-afraid
 2	aling	aling	VERB	_	_	0	root	_	Analysis=alinge(V)|Gloss=to-be-afraid
 3	u	u	X	_	Mood=Ind|Valency=1	2	dep:infl	_	Analysis=[Ind.Intr]
@@ -106,7 +106,7 @@
 # text = Tafsi taakuq.
 # gloss = The belt is long.
 # labels = complete-dep anno-hayley
-1	tafsi	tafsi	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=tafsi(N)^[Abs.Sg]|Gloss=belt
+1	Tafsi	tafsi	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=tafsi(N)^[Abs.Sg]|Gloss=belt
 2-4	taakuq	_	_	_	_	_	_	_	Analysis=taake(V)^[Ind.Intr]^[3Sg]|Gloss=it-is-long|SpaceAfter=No
 2	taak	taak	VERB	_	_	0	root	_	Analysis=taake(V)|Gloss=to-be-long
 3	u	u	X	_	Mood=Ind|Valency=1	2	dep:infl	_	Analysis=[Ind.Intr]
@@ -407,7 +407,7 @@
 # text = Nanevgaq qiighwllalguuq.
 # gloss = The old man has a big white hair.
 # labels = complete-dep anno-hayley
-1	nanevgaq	nanevgaq	NOUN	_	Case=Abs|Number=Sing	4	nsubj	_	Analysis=nanevgagh(N)^[Abs.Sg]|Gloss=the-old-man
+1	Nanevgaq	nanevgaq	NOUN	_	Case=Abs|Number=Sing	4	nsubj	_	Analysis=nanevgagh(N)^[Abs.Sg]|Gloss=the-old-man
 2-6	qiighwllalguuq	_	_	_	_	_	_	_	Analysis=qiighw(N)^–ghllag(N→N)^–lgu(N→V)^[Ind.Intr]^[3Sg]|Gloss=he-has-big-grey-hair|SpaceAfter=No
 2	qii	qii	NOUN	_	_	4	obj	_	Analysis=qiighw(N)|Gloss=grey-hair
 3	ghwlla	ghwlla	NOUN	_	_	2	nmod	_	Analysis=–ghllag(N→N)|Gloss=big-N
@@ -509,7 +509,7 @@
 # text = Yaywaali iiggeghllalguuq.
 # gloss = The orphan has a big hand.
 # labels = complete-dep anno-hayley
-1	yaywaali	yaywaali	NOUN	_	Case=Abs|Number=Sing	4	nsubj	_	Analysis=yaywaali(N)^[Abs.Sg]|Gloss=the-orphan
+1	Yaywaali	yaywaali	NOUN	_	Case=Abs|Number=Sing	4	nsubj	_	Analysis=yaywaali(N)^[Abs.Sg]|Gloss=the-orphan
 2-6	iiggeghllalguuq	_	_	_	_	_	_	_	Analysis=iigge(N)^–ghllag(N→N)^–lgu(N→V)^[Ind.Intr]^[3Sg]|Gloss=he-has-a-big-hand|SpaceAfter=No
 2	iigge	iigge	NOUN	_	_	4	obj	_	Analysis=iigge(N)|Gloss=hand
 3	ghlla	ghlla	NOUN	_	_	2	nmod	_	Analysis=–ghllag(N→N)|Gloss=big-N
@@ -575,7 +575,7 @@
 # text = Ukaziq neghtuq vegmeng.
 # gloss = The rabbit ate grass.
 # labels = complete-dep anno-hayley
-1	ukaziq	ukaziq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=ukazigh(N)^[Abs.Sg]|Gloss=the-hare
+1	Ukaziq	ukaziq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=ukazigh(N)^[Abs.Sg]|Gloss=the-hare
 2-4	neghtuq	_	_	_	_	_	_	_	Analysis=negh(V)^[Ind.Intr]^[3Sg]|Gloss=it-ate
 2	negh	negh	VERB	_	_	0	root	_	Analysis=negh(V)|Gloss=to-eat
 3	tu	tu	X	_	Mood=Ind|Valency=1	2	dep:infl	_	Analysis=[Ind.Intr]
@@ -668,7 +668,7 @@
 # text = Unaami aghulaqsugtunga naayvamun.
 # gloss = I want to leave to the lake tomorrow.
 # labels = complete-dep anno-hayley
-1	unaami	unaami	PART	_	_	2	obl	_	Analysis=unaami(PTCL)|Gloss=tomorrow
+1	Unaami	unaami	PART	_	_	2	obl	_	Analysis=unaami(PTCL)|Gloss=tomorrow
 2-5	aghulaqsugtunga	_	_	_	_	_	_	_	Analysis=aghulaqe(V)^@~fyug(V→V)^[Ind.Intr]^[1Sg]|Gloss=I-want-to-leave
 2	aghulaq	aghulaq	VERB	_	_	3	xcomp	_	Analysis=aghulaqe(V)|Gloss=to-leave
 3	sug	sug	VERB	_	_	0	root	_	Analysis=@~fyug(V→V)|Gloss=to-want-to-V
@@ -683,7 +683,7 @@
 # text = Kufi kuuvellequq qulmesiitmeng.
 # gloss = The coffee will spill from the cooking pot.
 # labels = complete-dep anno-hayley
-1	kufi	kufi	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=kufi(N)^[Abs.Sg]|Gloss=the-coffee
+1	Kufi	kufi	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=kufi(N)^[Abs.Sg]|Gloss=the-coffee
 2-5	kuuvellequq	_	_	_	_	_	_	_	Analysis=kuuve(V)^@lleqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=it-will-spill
 2	kuuve	kuuve	VERB	_	_	0	root	_	Analysis=kuuve(V)|Gloss=to-spill
 3	lleq	lleq	VERB	_	Tense=Fut	2	aux	_	Analysis=@lleqe(V→V)|Gloss=will-V
@@ -778,7 +778,7 @@
 9	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
 # sent_id = Ch5.gold:10
-# text = Aakan umughqaagaquq.
+# text = Aakaan umughqaagaquq.
 # gloss = Your older sister is having sleep paralysis.
 # labels = complete-dep anno-hayley
 1-2	Aakaan	_	_	_	_	_	_	_	Analysis=aakagh*(N)^[Abs.2SgPoss.Sg]|Gloss=your-older-sister
@@ -865,7 +865,7 @@
 # text = Estugaq Sivuqami mekestaaghhaaguq.
 # gloss = The store at Gambell is small.
 # labels = complete-dep anno-hayley
-1	estugaq	estugaq	NOUN	_	Case=Abs|Number=Sing	4	nsubj	_	Analysis=estugagh(N)^[Abs.Sg]|Gloss=the-store
+1	Estugaq	estugaq	NOUN	_	Case=Abs|Number=Sing	4	nsubj	_	Analysis=estugagh(N)^[Abs.Sg]|Gloss=the-store
 2-3	Sivuqami	_	_	_	_	_	_	_	Analysis=Sivuqagh(N)^[Loc.Sg]|Gloss=at-Gambell
 2	Sivuqa	Sivuqa	NOUN	_	_	1	nmod	_	Analysis=Sivuqagh(N)|Gloss=Gambell
 3	mi	mi	X	_	Case=Loc|Number=Sing	2	dep:infl	_	Analysis=[Loc.Sg]
@@ -1243,7 +1243,7 @@
 # text = Tengegkayuk kaannaquq Sivuqaghmeng.
 # gloss = A plane is going to arrive from Gambell.
 # labels = complete-dep anno-hayley
-1	tengegkayuk	tengegkayuk	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=tengegkayug(N)^[Abs.Sg]|Gloss=a-plane
+1	Tengegkayuk	tengegkayuk	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=tengegkayug(N)^[Abs.Sg]|Gloss=a-plane
 2-5	kaannaquq	_	_	_	_	_	_	_	Analysis=kaate(V)^@~fnaqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=it-is-going-to-arrive
 2	kaa	kaa	VERB	_	_	0	root	_	Analysis=kaate(V)|Gloss=to-arrive
 3	nnaq	nnaq	VERB	_	Tense=Fut	2	aux	_	Analysis=@~fnaqe(V→V)|Gloss=to-be-going-to-V
@@ -1370,7 +1370,7 @@
 # text = Neghsaq guunnaqaqa.
 # gloss = I am going to shoot the seal.
 # labels = complete-dep anno-hayley
-1	neghsaq	neghsaq	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=neghsagh(N)^[Abs.Sg]|Gloss=the-seal
+1	Neghsaq	neghsaq	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=neghsagh(N)^[Abs.Sg]|Gloss=the-seal
 2-5	guunnaqaqa	_	_	_	_	_	_	_	Analysis=guute(V)^@~fnaqe(V→V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-am-going-to-shoot-it|SpaceAfter=No
 2	guu	guu	VERB	_	_	0	root	_	Analysis=guute(V)|Gloss=to-shoot
 3	nnaq	nnaq	VERB	_	Tense=Fut	2	aux	_	Analysis=@~fnaqe(V→V)|Gloss=to-be-going-to-V
@@ -1438,7 +1438,7 @@
 # text = Qulmesiin lliiqa egllugnun.
 # gloss = I placed the cooking pot onto the stove.
 # labels = complete-dep anno-hayley
-1	qulmesiin	qulmesiin	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=qulmesiite(N)^[Abs.Sg]|Gloss=the-cooking-pot
+1	Qulmesiin	qulmesiin	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=qulmesiite(N)^[Abs.Sg]|Gloss=the-cooking-pot
 2-4	lliiqa	_	_	_	_	_	_	_	Analysis=lli(V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-placed-it
 2	lli	lli	VERB	_	_	0	root	_	Analysis=lli(V)|Gloss=to-place
 3	i	i	X	_	Mood=Ind|Valency=2	2	dep:infl	_	Analysis=[Ind.Trns]
@@ -1472,7 +1472,7 @@
 # text = Qergesa qelpeghtaqa.
 # gloss = I opened a window.
 # labels = complete-dep anno-hayley
-1	qergesa	qergesa	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=qergese(N)^[Abs.Sg]|Gloss=window
+1	Qergesa	qergesa	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=qergese(N)^[Abs.Sg]|Gloss=window
 2-4	qelpeghtaqa	_	_	_	_	_	_	_	Analysis=qelpeghte(V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-opened-it|SpaceAfter=No
 2	qelpeght	qelpeght	VERB	_	_	0	root	_	Analysis=qelpeghte(V)|Gloss=to-open
 3	a	a	X	_	Mood=Ind|Valency=2	2	dep:infl	_	Analysis=[Ind.Trns]
@@ -1483,7 +1483,7 @@
 # text = Amik uumgaa.
 # gloss = He closed the door.
 # labels = complete-dep anno-hayley
-1	amik	amik	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=amig(N)^[Abs.Sg]|Gloss=door
+1	Amik	amik	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=amig(N)^[Abs.Sg]|Gloss=door
 2-4	uumgaa	_	_	_	_	_	_	_	Analysis=umeg(V)^[Ind.Trns]^[3Sg.3Sg]|Gloss=he-closed-it|SpaceAfter=No
 2	uumg	uumg	VERB	_	_	0	root	_	Analysis=umeg(V)|Gloss=to-close
 3	a	a	X	_	Mood=Ind|Valency=2	2	dep:infl	_	Analysis=[Ind.Trns]
@@ -1558,7 +1558,7 @@
 # text = Ighivgaq asagma ighneghan atuqaa angyasqughhaan.
 # gloss = My aunt's son used your small boat yesterday.
 # labels = complete-dep anno-hayley
-1	ighivgaq	ighivgaq	PART	_	_	6	advmod	_	Analysis=ighivgaq(PTCL)|Gloss=yesterday
+1	Ighivgaq	ighivgaq	PART	_	_	6	advmod	_	Analysis=ighivgaq(PTCL)|Gloss=yesterday
 2-3	asagma	_	_	_	_	_	_	_	Analysis=asag(N)^[Rel.1SgPoss.Sg]|Gloss=my-aunt's
 2	asag	asag	NOUN	_	_	4	nmod	_	Analysis=asag(N)|Gloss=aunt
 3	ma	ma	X	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	dep:infl	_	Analysis=[Rel.1SgPoss.Sg]
@@ -1682,7 +1682,7 @@
 # text = Sameng neghelleqesta unaami?
 # gloss = What will we eat tomorrow?
 # labels = complete-dep anno-hayley
-1	sameng	sameng	PRON	_	PronType=Int	2	obj	_	Analysis=sameng(WH)|Gloss=what
+1	Sameng	sameng	PRON	_	PronType=Int	2	obj	_	Analysis=sameng(WH)|Gloss=what
 2-5	neghelleqesta	_	_	_	_	_	_	_	Analysis=neghe(V)^@lleqe(V→V)^[Intrg.Intr]^[1Pl]|Gloss=will-we-eat?
 2	neghe	neghe	VERB	_	_	0	root	_	Analysis=neghe(V)|Gloss=to-eat
 3	lleqe	lleqe	VERB	_	Tense=Fut	2	aux	_	Analysis=@lleqe(V→V)|Gloss=will-V
@@ -1695,7 +1695,7 @@
 # text = Qavngaq kaatetsi Sivuqaghmun?
 # gloss = When did you all arrive at Gambell?
 # labels = complete-dep anno-hayley
-1	qavngaq	qavngaq	ADV	_	PronType=Int	2	advmod	_	Analysis=qavngaq(WH)|Gloss=when
+1	Qavngaq	qavngaq	ADV	_	PronType=Int	2	advmod	_	Analysis=qavngaq(WH)|Gloss=when
 2-3	kaatetsi	_	_	_	_	_	_	_	Analysis=kaate(V)^[Intrg.Intr.2Pl]|Gloss=did-you-arrive?
 2	kaate	kaate	VERB	_	_	0	root	_	Analysis=kaate(V)|Gloss=to-arrive
 3	tsi	tsi	X	_	Mood=Int|Number[subj]=Plur|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Pl]
@@ -1708,7 +1708,7 @@
 # text = Naken tukfighsiki alquughtaten?
 # gloss = Where did you buy your spoons from?
 # labels = complete-dep anno-hayley
-1	naken	naken	ADV	_	PronType=Int	2	advmod	_	Analysis=naken(WH)|Gloss=where
+1	Naken	naken	ADV	_	PronType=Int	2	advmod	_	Analysis=naken(WH)|Gloss=where
 2-4	tukfighsiki	_	_	_	_	_	_	_	Analysis=tukfigh(V)^[Intrg.Trns]^[2Sg.3Pl]|Gloss=did-you-buy-them?
 2	tukfigh	tukfigh	VERB	_	_	0	root	_	Analysis=tukfigh(V)|Gloss=to-buy
 3	si	si	X	_	Mood=Int|Valency=2	2	dep:infl	_	Analysis=[Intrg.Trns]
@@ -1722,7 +1722,7 @@
 # text = Sangavek iyataghsin?
 # gloss = Why are you hungry?
 # labels = complete-dep anno-hayley
-1	sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
+1	Sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
 2-3	iyataghsin	_	_	_	_	_	_	_	Analysis=iyatagh(V)^[Intrg.Intr.2Sg]|Gloss=are-you-hungry?|SpaceAfter=No
 2	iyatagh	iyatagh	VERB	_	_	0	root	_	Analysis=iyatagh(V)|Gloss=to-be-hungry
 3	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
@@ -1732,7 +1732,7 @@
 # text = Qakun kayusighlleqsikung?
 # gloss = When will you help us both?
 # labels = complete-dep anno-hayley
-1	qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
+1	Qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
 2-5	kayusighlleqsikung	_	_	_	_	_	_	_	Analysis=kayusigh(V)^@lleqe(V→V)^[Intrg.Trns]^[2Sg.1Du]|Gloss=will-you-help-us-both?|SpaceAfter=No
 2	kayusigh	kayusigh	VERB	_	_	0	root	_	Analysis=kayusigh(V)|Gloss=to-help
 3	lleq	lleq	VERB	_	Tense=Fut	2	aux	_	Analysis=@lleqe(V→V)|Gloss=will-V
@@ -1744,7 +1744,7 @@
 # text = Sangavek meghnughsin?
 # gloss = Why are you tired?
 # labels = complete-dep anno-hayley
-1	sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
+1	Sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
 2-3	meghnughsin	_	_	_	_	_	_	_	Analysis=meghnugh(V)^[Intrg.Intr.2Sg]|Gloss=are-you-tired?|SpaceAfter=No
 2	meghnugh	meghnugh	VERB	_	_	0	root	_	Analysis=meghnugh(V)|Gloss=to-be-tired
 3	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
@@ -1767,7 +1767,7 @@
 # text = Qavngaq liisigu panigma aatgha?
 # gloss = When did you learn my daughter's name?
 # labels = complete-dep anno-hayley
-1	qavngaq	qavngaq	ADV	_	PronType=Int	2	advmod	_	Analysis=qavngaq(WH)|Gloss=when
+1	Qavngaq	qavngaq	ADV	_	PronType=Int	2	advmod	_	Analysis=qavngaq(WH)|Gloss=when
 2-4	liisigu	_	_	_	_	_	_	_	Analysis=liite(V)^[Intrg.Trns]^[2Sg.3Sg]|Gloss=did-you-learn-it?
 2	lii	lii	VERB	_	_	0	root	_	Analysis=liite(V)|Gloss=to-learn
 3	si	si	X	_	Mood=Int|Valency=2	2	dep:infl	_	Analysis=[Intrg.Trns]
@@ -1793,7 +1793,7 @@
 # text = Navek aghulaqsin?
 # gloss = Where did you leave to?
 # labels = complete-dep anno-hayley
-1	navek	navek	ADV	_	PronType=Int	2	advmod	_	Analysis=navek(WH)|Gloss=where
+1	Navek	navek	ADV	_	PronType=Int	2	advmod	_	Analysis=navek(WH)|Gloss=where
 2-3	aghulaqsin	_	_	_	_	_	_	_	Analysis=aghulaqe(V)^[Intrg.Intr.2Sg]|Gloss=did-you-leave?|SpaceAfter=No
 2	aghulaq	aghulaq	VERB	_	_	0	root	_	Analysis=aghulaqe(V)|Gloss=to-leave
 3	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
@@ -1828,7 +1828,7 @@
 # text = Qakun igleghlleqestung?
 # gloss = When will we take off?
 # labels = complete-dep anno-hayley
-1	qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
+1	Qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
 2-5	igleghlleqestung	_	_	_	_	_	_	_	Analysis=igleghte(V)^@lleqe(V→V)^[Intrg.Intr]^[1Du]|Gloss=will-we-go?|SpaceAfter=No
 2	iglegh	iglegh	VERB	_	_	0	root	_	Analysis=igleghte(V)|Gloss=to-go
 3	lleqe	lleqe	VERB	_	Tense=Fut	2	aux	_	Analysis=@lleqe(V→V)|Gloss=will-V
@@ -1860,7 +1860,7 @@
 # text = Naken inghuziki pagunghaat?
 # gloss = Where did you pick the crowberries from?
 # labels = complete-dep anno-hayley
-1	naken	naken	ADV	_	PronType=Int	2	advmod	_	Analysis=naken(WH)|Gloss=where
+1	Naken	naken	ADV	_	PronType=Int	2	advmod	_	Analysis=naken(WH)|Gloss=where
 2-4	inghuziki	_	_	_	_	_	_	_	Analysis=inghu(V)^[Intrg.Trns]^[2Sg.3Pl]|Gloss=did-you-pick-them?
 2	inghu	inghu	VERB	_	_	0	root	_	Analysis=inghu(V)|Gloss=to-pick-berries
 3	zi	zi	X	_	Mood=Int|Valency=2	2	dep:infl	_	Analysis=[Intrg.Trns]
@@ -1874,7 +1874,7 @@
 # text = Sangan aallgetsi?
 # gloss = Why did you all sweep?
 # labels = complete-dep anno-hayley
-1	sangan	sangan	ADV	_	PronType=Int	2	advmod	_	Analysis=sangan(WH)|Gloss=why
+1	Sangan	sangan	ADV	_	PronType=Int	2	advmod	_	Analysis=sangan(WH)|Gloss=why
 2-3	aallgetsi	_	_	_	_	_	_	_	Analysis=alleg(V)^[Intrg.Intr.2Pl]|Gloss=did-you-all-sweep?|SpaceAfter=No
 2	aallg	aallg	VERB	_	_	0	root	_	Analysis=alleg(V)|Gloss=to-sweep
 3	etsi	etsi	X	_	Mood=Int|Number[subj]=Plur|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Pl]
@@ -1884,7 +1884,7 @@
 # text = Sangan qulmesiitka tuguzigu?
 # gloss = Why did you take my cooking pot?
 # labels = complete-dep anno-hayley
-1	sangan	sangan	ADV	_	PronType=Int	4	advmod	_	Analysis=sangan(WH)|Gloss=why
+1	Sangan	sangan	ADV	_	PronType=Int	4	advmod	_	Analysis=sangan(WH)|Gloss=why
 2-3	qulmesiitka	_	_	_	_	_	_	_	Analysis=qulmesiite(N)^[Abs.1SgPoss.Sg]|Gloss=my-cooking-pot
 2	qulmesiit	qulmesiit	NOUN	_	_	4	obj	_	Analysis=qulmesiite(N)|Gloss=cooking-pot
 3	ka	ka	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	dep:infl	_	Analysis=[Abs.1SgPoss.Sg]
@@ -1898,7 +1898,7 @@
 # text = Qakun umeglleqsikek qergesek?
 # gloss = When will you close the window?
 # labels = complete-dep anno-hayley
-1	qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
+1	Qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
 2-5	umeglleqsikek	_	_	_	_	_	_	_	Analysis=umeg(V)^@lleqe(V→V)^[Intrg.Trns]^[2Sg.3Du]|Gloss=will-you-close-them?
 2	umeg	umeg	VERB	_	_	0	root	_	Analysis=umeg(V)|Gloss=to-close
 3	lleq	lleq	VERB	_	Tense=Fut	2	aux	_	Analysis=@lleqe(V→V)|Gloss=will-V
@@ -1934,7 +1934,7 @@
 # text = Qakun tukfighlleqsikek walguyaagegka?
 # gloss = When will you buy my pair of snow shoes?
 # labels = complete-dep anno-hayley
-1	qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
+1	Qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
 2-5	tukfighlleqsikek	_	_	_	_	_	_	_	Analysis=tukfigh(V)^@lleqe(V→V)^[Intrg.Trns]^[2Sg.3Du]|Gloss=will-you-buy-them?
 2	tukfigh	tukfigh	VERB	_	_	0	root	_	Analysis=tukfigh(V)|Gloss=to-buy
 3	lleq	lleq	VERB	_	Tense=Fut	2	aux	_	Analysis=@lleqe(V→V)|Gloss=will-V
@@ -1960,7 +1960,7 @@
 # text = Naken ukigestek?
 # gloss = Where did you two climb down from?
 # labels = complete-dep anno-hayley
-1	naken	naken	ADV	_	PronType=Int	2	advmod	_	Analysis=naken(WH)|Gloss=where
+1	Naken	naken	ADV	_	PronType=Int	2	advmod	_	Analysis=naken(WH)|Gloss=where
 2-3	ukigestek	_	_	_	_	_	_	_	Analysis=ukig(V)^[Intrg.Intr.2Du]|Gloss=did-you-two-climb-down?|SpaceAfter=No
 2	ukig	ukig	VERB	_	_	0	root	_	Analysis=ukig(V)|Gloss=to-go-down
 3	estek	estek	X	_	Mood=Int|Number[subj]=Dual|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Du]
@@ -1970,7 +1970,7 @@
 # text = Navek mayughestek?
 # gloss = Where did you two climb to?
 # labels = complete-dep anno-hayley
-1	navek	navek	ADV	_	PronType=Int	2	advmod	_	Analysis=navek(WH)|Gloss=where
+1	Navek	navek	ADV	_	PronType=Int	2	advmod	_	Analysis=navek(WH)|Gloss=where
 2-3	mayughestek	_	_	_	_	_	_	_	Analysis=mayugh(V)^[Intrg.Intr.2Du]|Gloss=did-you-two-climb?|SpaceAfter=No
 2	mayugh	mayugh	VERB	_	_	0	root	_	Analysis=mayugh(V)|Gloss=to-climb
 3	estek	estek	X	_	Mood=Int|Number[subj]=Dual|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Du]
@@ -1980,7 +1980,7 @@
 # text = Nani esghaghsigu kaviighem riigtenga?
 # gloss = Where did you see the fox's den?
 # labels = complete-dep anno-hayley
-1	nani	nani	ADV	_	PronType=Int	2	advmod	_	Analysis=nani(WH)|Gloss=where
+1	Nani	nani	ADV	_	PronType=Int	2	advmod	_	Analysis=nani(WH)|Gloss=where
 2-4	esghaghsigu	_	_	_	_	_	_	_	Analysis=esghagh(V)^[Intrg.Trns]^[2Sg.3Sg]|Gloss=did-you-see-it?
 2	esghagh	esghagh	VERB	_	_	0	root	_	Analysis=esghagh(V)|Gloss=to-see
 3	si	si	X	_	Mood=Int|Valency=2	2	dep:infl	_	Analysis=[Intrg.Trns]
@@ -1997,7 +1997,7 @@
 # text = Sangita nalluksiki taghnughhaghma aatghit?
 # gloss = Why don't you know my childrens' names?
 # labels = complete-dep anno-hayley
-1	sangita	sangita	ADV	_	PronType=Int	2	advmod	_	Analysis=sangita(WH)|Gloss=why
+1	Sangita	sangita	ADV	_	PronType=Int	2	advmod	_	Analysis=sangita(WH)|Gloss=why
 2-4	nalluksiki	_	_	_	_	_	_	_	Analysis=nalluke(V)^[Intrg.Trns]^[2Sg.3Pl]|Gloss=do-you-not-know-them?
 2	nalluk	nalluk	VERB	_	_	0	root	_	Analysis=nalluke(V)|Gloss=to-not-know
 3	si	si	X	_	Mood=Int|Valency=2	2	dep:infl	_	Analysis=[Intrg.Trns]
@@ -2014,7 +2014,7 @@
 # text = Nani qavaghestek ighivgaq?
 # gloss = Where did you both sleep at last night?
 # labels = complete-dep anno-hayley
-1	nani	nani	ADV	_	PronType=Int	2	advmod	_	Analysis=nani(WH)|Gloss=where
+1	Nani	nani	ADV	_	PronType=Int	2	advmod	_	Analysis=nani(WH)|Gloss=where
 2-3	qavaghestek	_	_	_	_	_	_	_	Analysis=qavagh(V)^[Intrg.Intr.2Du]|Gloss=did-you-both-sleep?
 2	qavagh	qavagh	VERB	_	_	0	root	_	Analysis=qavagh(V)|Gloss=to-sleep
 3	estek	estek	X	_	Mood=Int|Number[subj]=Dual|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Du]
@@ -2025,7 +2025,7 @@
 # text = Navek llinaqsigu neqeka?
 # gloss = Where are you going to place my food?
 # labels = complete-dep anno-hayley
-1	navek	navek	ADV	_	PronType=Int	2	advmod	_	Analysis=navek(WH)|Gloss=where
+1	Navek	navek	ADV	_	PronType=Int	2	advmod	_	Analysis=navek(WH)|Gloss=where
 2-5	llinaqsigu	_	_	_	_	_	_	_	Analysis=lli(V)^@~fnaqe(V→V)^[Intrg.Trns]^[2Sg.3Sg]|Gloss=are-you-going-to-place-it?
 2	lli	lli	VERB	_	_	0	root	_	Analysis=lli(V)|Gloss=to-place
 3	naq	naq	VERB	_	Tense=Fut	2	aux	_	Analysis=@~fnaqe(V→V)|Gloss=to-be-going-to-V
@@ -2040,7 +2040,7 @@
 # text = Qavngaq laalighsigu apeghtughisten?
 # gloss = When did you visit your teacher?
 # labels = complete-dep anno-hayley
-1	qavngaq	qavngaq	ADV	_	PronType=Int	2	advmod	_	Analysis=qavngaq(WH)|Gloss=when
+1	Qavngaq	qavngaq	ADV	_	PronType=Int	2	advmod	_	Analysis=qavngaq(WH)|Gloss=when
 2-4	laalighsigu	_	_	_	_	_	_	_	Analysis=laalighte(V)^[Intrg.Trns]^[2Sg.3Sg]|Gloss=did-you-visit-him?
 2	laaligh	laaligh	VERB	_	_	0	root	_	Analysis=laalighte(V)|Gloss=to-visit
 3	si	si	X	_	Mood=Int|Valency=2	2	dep:infl	_	Analysis=[Intrg.Trns]
@@ -2054,7 +2054,7 @@
 # text = Sangavek kaanneghisin ighivgaq?
 # gloss = Why didn't you arrive yesterday?
 # labels = complete-dep anno-hayley
-1	sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
+1	Sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
 2-4	kaanneghisin	_	_	_	_	_	_	_	Analysis=kaate(V)^@–nghite(V→V)^[Intrg.Intr.2Sg]|Gloss=did-you-not-arrive?
 2	kaa	kaa	VERB	_	_	0	root	_	Analysis=kaate(V)|Gloss=to-arrive
 3	nneghi	nneghi	VERB	_	Polarity=Neg	2	aux	_	Analysis=@–nghite(V→V)|Gloss=to-not-V
@@ -2081,7 +2081,7 @@
 # text = Qakun kayusighlleqsinga?
 # gloss = When will you help me?
 # labels = complete-dep anno-hayley
-1	qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
+1	Qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
 2-5	kayusighlleqsinga	_	_	_	_	_	_	_	Analysis=kayusigh(V)^@lleqe(V→V)^[Intrg.Trns]^[2Sg.1Sg]|Gloss=will-you-help-me?|SpaceAfter=No
 2	kayusigh	kayusigh	VERB	_	_	0	root	_	Analysis=kayusigh(V)|Gloss=to-help
 3	lleq	lleq	VERB	_	Tense=Fut	2	aux	_	Analysis=@lleqe(V→V)|Gloss=will-V
@@ -2093,7 +2093,7 @@
 # text = Sameng atan ivaghta?
 # gloss = What did your father look for?
 # labels = complete-dep anno-hayley
-1	sameng	sameng	PRON	_	PronType=Int	4	obj	_	Analysis=sameng(WH)|Gloss=what
+1	Sameng	sameng	PRON	_	PronType=Int	4	obj	_	Analysis=sameng(WH)|Gloss=what
 2-3	atan	_	_	_	_	_	_	_	Analysis=ata(N)^[Abs.2SgPoss.Sg]|Gloss=your-father
 2	ata	ata	NOUN	_	_	4	nsubj	_	Analysis=ata(N)|Gloss=father
 3	n	n	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	dep:infl	_	Analysis=[Abs.2SgPoss.Sg]
@@ -2171,7 +2171,7 @@
 # text = Nani yughaghtem payeghtagu nuzin?
 # gloss = Where did the minister meet your child's spouse's parent?
 # labels = complete-dep anno-hayley
-1	nani	nani	ADV	_	PronType=Int	4	advmod	_	Analysis=nani(WH)|Gloss=where
+1	Nani	nani	ADV	_	PronType=Int	4	advmod	_	Analysis=nani(WH)|Gloss=where
 2-3	yughaghtem	_	_	_	_	_	_	_	Analysis=yughaghte(N)^[Rel.Sg]|Gloss=the-minister
 2	yughaghte	yughaghte	NOUN	_	_	4	nsubj	_	Analysis=yughaghte(N)|Gloss=minister
 3	m	m	X	_	Case=Erg|Number=Sing	2	dep:infl	_	Analysis=[Rel.Sg]
@@ -2204,7 +2204,7 @@
 # text = Sangama apeghtughistem esghaghyugtanga?
 # gloss = Why does the teacher want to see me?
 # labels = complete-dep anno-hayley
-1	sangama	sangama	ADV	_	PronType=Int	5	advmod	_	Analysis=sangama(WH)|Gloss=why
+1	Sangama	sangama	ADV	_	PronType=Int	5	advmod	_	Analysis=sangama(WH)|Gloss=why
 2-3	apeghtughistem	_	_	_	_	_	_	_	Analysis=apeghtughiste(N)^[Rel.Sg]|Gloss=the-teacher
 2	apeghtughiste	apeghtughiste	NOUN	_	_	5	nsubj	_	Analysis=apeghtughiste(N)|Gloss=teacher
 3	m	m	X	_	Case=Erg|Number=Sing	2	dep:infl	_	Analysis=[Rel.Sg]
@@ -2219,7 +2219,7 @@
 # text = Qavngaq naayvaq sikwaa?
 # gloss = When did the lake freeze?
 # labels = complete-dep anno-hayley
-1	qavngaq	qavngaq	ADV	_	PronType=Int	3	advmod	_	Analysis=qavngaq(WH)|Gloss=when
+1	Qavngaq	qavngaq	ADV	_	PronType=Int	3	advmod	_	Analysis=qavngaq(WH)|Gloss=when
 2	naayvaq	naayvaq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=naayvagh(N)^[Abs.Sg]|Gloss=the-lake
 3-4	sikwaa	_	_	_	_	_	_	_	Analysis=siku(V)^[Intrg.Intr]^[3Sg]|Gloss=did-it-freeze?|SpaceAfter=No
 3	sik	sik	VERB	_	_	0	root	_	Analysis=siku(V)|Gloss=to-freeze
@@ -2230,7 +2230,7 @@
 # text = Navek naagpek lliiki neqekraget?
 # gloss = Where did your mother place the pilot bread?
 # labels = complete-dep anno-hayley
-1	navek	navek	ADV	_	PronType=Int	4	advmod	_	Analysis=navek(WH)|Gloss=where
+1	Navek	navek	ADV	_	PronType=Int	4	advmod	_	Analysis=navek(WH)|Gloss=where
 2-3	naagpek	_	_	_	_	_	_	_	Analysis=naa(N)^[Rel.2SgPoss.Sg]|Gloss=your-mother
 2	naa	naa	NOUN	_	_	4	nsubj	_	Analysis=naa(N)|Gloss=mother
 3	gpek	gpek	X	_	Case=Erg|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	dep:infl	_	Analysis=[Rel.2SgPoss.Sg]
@@ -2264,7 +2264,7 @@
 # text = Sangan ighneqa ugpeqenghitagu?
 # gloss = Why did't she believe my son?
 # labels = complete-dep anno-hayley
-1	sangan	sangan	ADV	_	PronType=Int	4	advmod	_	Analysis=sangan(WH)|Gloss=why
+1	Sangan	sangan	ADV	_	PronType=Int	4	advmod	_	Analysis=sangan(WH)|Gloss=why
 2-3	ighneqa	_	_	_	_	_	_	_	Analysis=ighnegh(N)^[Abs.1SgPoss.Sg]|Gloss=my-son
 2	ighne	ighne	NOUN	_	_	4	obj	_	Analysis=ighnegh(N)|Gloss=son
 3	qa	qa	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	dep:infl	_	Analysis=[Abs.1SgPoss.Sg]
@@ -2296,7 +2296,7 @@
 # text = Qakun naallghulleqsikek eglluk?
 # gloss = When will you adjust the stove?
 # labels = complete-dep anno-hayley
-1	qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
+1	Qakun	qakun	ADV	_	PronType=Int	2	advmod	_	Analysis=qakun(WH)|Gloss=when
 2-5	naallghulleqsikek	_	_	_	_	_	_	_	Analysis=naallghute(V)^@lleqe(V→V)^[Intrg.Trns]^[2Sg.3Du]|Gloss=will-you-adjust-them?
 2	naallghu	naallghu	VERB	_	_	0	root	_	Analysis=naallghute(V)|Gloss=to-adjust
 3	lleq	lleq	VERB	_	Tense=Fut	2	aux	_	Analysis=@lleqe(V→V)|Gloss=will-V
@@ -2311,7 +2311,7 @@
 # text = Sangami Nome-emun aghviqaawa?
 # gloss = Why did he travel to Nome?
 # labels = complete-dep anno-hayley
-1	sangami	sangami	ADV	_	PronType=Int	4	advmod	_	Analysis=sangami(WH)|Gloss=why
+1	Sangami	sangami	ADV	_	PronType=Int	4	advmod	_	Analysis=sangami(WH)|Gloss=why
 2-3	Nome-emun	_	_	_	_	_	_	_	Analysis=Nome(N)^[All.Sg]|Gloss=to-Nome
 2	Nome	Nome	NOUN	_	_	4	obl	_	Analysis=Nome(N)|Gloss=Nome
 3	-emun	-emun	X	_	Case=All|Number=Sing	2	dep:infl	_	Analysis=[All.Sg]
@@ -2325,7 +2325,7 @@
 # text = Naten siku ughugtestagu?
 # gloss = How did she let the ice melt?
 # labels = complete-dep anno-hayley
-1	naten	naten	ADV	_	PronType=Int	4	advmod	_	Analysis=naten(WH)|Gloss=how
+1	Naten	naten	ADV	_	PronType=Int	4	advmod	_	Analysis=naten(WH)|Gloss=how
 2	siku	siku	NOUN	_	Case=Abs|Number=Sing	4	obj	_	Analysis=siku(N)^[Abs.Sg]|Gloss=the-ice
 3-6	ughugtestagu	_	_	_	_	_	_	_	Analysis=ughug(V)^+(te)ste(CmpdVbl)^[Intrg.Trns]^[3Sg.3Sg]|Gloss=she-let-it-melt|SpaceAfter=No
 3	ughug	ughug	VERB	_	_	4	xcomp	_	Analysis=ughug(V)|Gloss=to-melt
@@ -2348,7 +2348,7 @@
 # text = Sangavek iknaqsin?
 # gloss = Why are you strong?
 # labels = complete-dep anno-hayley
-1	sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
+1	Sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
 2-3	iknaqsin	_	_	_	_	_	_	_	Analysis=iknaqe(V)^[Intrg.Intr.2Sg]|Gloss=are-you-strong?|SpaceAfter=No
 2	iknaq	iknaq	VERB	_	_	0	root	_	Analysis=iknaqe(V)|Gloss=to-be-strong
 3	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
@@ -2392,7 +2392,7 @@
 # text = Kitumun naallghutestesiki mangteghaghpek qergesengi?
 # gloss = Who did he let the house's windows adjust?
 # labels = complete-dep anno-hayley
-1	kitumun	kitumun	PRON	_	PronType=Int	3	nsubj	_	Analysis=kitumun(WH)|Gloss=who
+1	Kitumun	kitumun	PRON	_	PronType=Int	3	nsubj	_	Analysis=kitumun(WH)|Gloss=who
 2-5	naallghutestesiki	_	_	_	_	_	_	_	Analysis=naallghute(V)^+(te)ste(CmpdVbl)^[Intrg.Trns]^[2Sg.3Pl]|Gloss=he-had-one-adjust-them
 2	naallghute	naallghute	VERB	_	_	3	xcomp	_	Analysis=naallghute(V)|Gloss=to-adjust
 3	ste	ste	VERB	_	_	0	root	_	Analysis=+(te)ste(CmpdVbl)|Gloss=to-have-one-V
@@ -2410,7 +2410,7 @@
 # text = Igaghyaghqaq egtigu.
 # gloss = Throw the paper away.
 # labels = complete-dep anno-hayley
-1	igaghyaghqaq	igaghyaghqaq	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=igaghyaghqagh(N)^[Abs.Sg]|Gloss=writing-paper
+1	Igaghyaghqaq	igaghyaghqaq	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=igaghyaghqagh(N)^[Abs.Sg]|Gloss=writing-paper
 2-3	egtigu	_	_	_	_	_	_	_	Analysis=egte(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=throw-it-away|SpaceAfter=No
 2	egt	egt	VERB	_	_	0	root	_	Analysis=egte(V)|Gloss=to-throw-away
 3	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	2	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
@@ -2482,7 +2482,7 @@
 # text = Unaami aghviilta.
 # gloss = Let's travel out of the island tomorrow.
 # labels = complete-dep anno-hayley
-1	unaami	unaami	PART	_	_	2	advmod	_	Analysis=unaami(PTCL)|Gloss=tomorrow
+1	Unaami	unaami	PART	_	_	2	advmod	_	Analysis=unaami(PTCL)|Gloss=tomorrow
 2-4	aghviilta	_	_	_	_	_	_	_	Analysis=aghvigh(V)^[Opt.Pres.Intr]^[1Pl]|Gloss=let's-travel-out-of-the-island|SpaceAfter=No
 2	aghvi	aghvi	VERB	_	_	0	root	_	Analysis=aghvigh(V)|Gloss=to-cross-over
 3	ilt	ilt	X	_	Mood=Opt|Tense=Pres|Valency=1	2	dep:infl	_	Analysis=[Opt.Pres.Intr]
@@ -2545,7 +2545,7 @@
 # text = Aakw kuuvefqaan.
 # gloss = Don't spill the blood.
 # labels = complete-dep anno-hayley
-1	aakw	aakw	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=aaw(N)^[Abs.Sg]|Gloss=blood
+1	Aakw	aakw	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=aaw(N)^[Abs.Sg]|Gloss=blood
 2-4	kuuvefqaan	_	_	_	_	_	_	_	Analysis=kuuve(V)^[Opt.Neg.Pres.Trns]^[2Sg.3Sg]|Gloss=do-not-spill-it|SpaceAfter=No
 2	kuuve	kuuve	VERB	_	_	0	root	_	Analysis=kuuve(V)|Gloss=to-spill
 3	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Tense=Pres|Valency=2	2	dep:infl	_	Analysis=[Opt.Neg.Pres.Trns]
@@ -2592,7 +2592,7 @@
 # text = Amaa guutigu.
 # gloss = Shoot the wolf.
 # labels = complete-dep anno-hayley
-1	amaa	amaa	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=amaa(N)^[Abs.Sg]|Gloss=the-wolf
+1	Amaa	amaa	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=amaa(N)^[Abs.Sg]|Gloss=the-wolf
 2-3	guutigu	_	_	_	_	_	_	_	Analysis=guute(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=wolf|SpaceAfter=No
 2	guut	guut	VERB	_	_	0	root	_	Analysis=guute(V)|Gloss=to-shoot
 3	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	2	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
@@ -2602,7 +2602,7 @@
 # text = Keneq qaamtigu.
 # gloss = Extinguish the fire. or Shut off the light.
 # labels = complete-dep anno-hayley
-1	keneq	keneq	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=kenegh(N)^[Abs.Sg]|Gloss=fire
+1	Keneq	keneq	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=kenegh(N)^[Abs.Sg]|Gloss=fire
 2-3	qaamtigu	_	_	_	_	_	_	_	Analysis=qaamte(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=extinguish-it|SpaceAfter=No
 2	qaamt	qaamt	VERB	_	_	0	root	_	Analysis=qaamte(V)|Gloss=to-extinguish
 3	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	2	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
@@ -2739,7 +2739,7 @@
 # text = Taghnughhaq qinuyulghii iitghumaaq apami mangteghaanun.
 # gloss = The sick child went into his grandfather's house.
 # labels = complete-dep anno-hayley
-1	taghnughhaq	taghnughhaq	NOUN	_	Case=Abs|Number=Sing	4	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Sg]|Gloss=the-child
+1	Taghnughhaq	taghnughhaq	NOUN	_	Case=Abs|Number=Sing	4	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Sg]|Gloss=the-child
 2-3	qinuyulghii	_	_	_	_	_	_	_	Analysis=qinuyug(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-is-sick
 2	qinuyu	qinuyu	VERB	_	_	3	acl	_	Analysis=qinuyug(V)|Gloss=to-get-sick
 3	lghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	nmod	_	Analysis=@–lghii(V→N)^[Abs.Sg]|Gloss=one-that-is-V-ing
@@ -2835,7 +2835,7 @@
 # text = Para ughugumaaq.
 # gloss = The butter melted.
 # labels = complete-dep anno-hayley
-1	para	para	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=para(N)^[Abs.Sg]|Gloss=the-butter
+1	Para	para	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=para(N)^[Abs.Sg]|Gloss=the-butter
 2-5	ughugumaaq	_	_	_	_	_	_	_	Analysis=ughug(V)^@~:(i/u)ma(V→V)^[Ind.Intr]^[3Sg]|Gloss=it-melted|SpaceAfter=No
 2	ughug	ughug	VERB	_	_	0	root	_	Analysis=ughug(V)|Gloss=to-melt
 3	uma	uma	VERB	_	_	2	aux	_	Analysis=@~:(i/u)ma(V→V)|Gloss=to-have-V-ed
@@ -2983,7 +2983,7 @@
 # text = Awataghpak ghhuughumaken.
 # gloss = It turns out you had blown the float.
 # labels = complete-dep anno-hayley
-1	awataghpak	awataghpak	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=awataghpag(N)^[Abs.Sg]|Gloss=the-sealskin-float
+1	Awataghpak	awataghpak	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=awataghpag(N)^[Abs.Sg]|Gloss=the-sealskin-float
 2-5	ghhuughumaken	_	_	_	_	_	_	_	Analysis=ghhuugh(V)^@~:(i/u)ma(V→V)^[Ptcp.Trns]^[2Sg.3Sg]|Gloss=you-have-blown-it|SpaceAfter=No
 2	ghhuugh	ghhuugh	VERB	_	_	0	root	_	Analysis=ghhuugh(V)|Gloss=to-inflate
 3	uma	uma	VERB	_	_	2	aux	_	Analysis=@~:(i/u)ma(V→V)|Gloss=to-have-V-ed
@@ -3128,7 +3128,7 @@
 # text = Sangavek atightughaqsin ingaghngaghpek eflugami?
 # gloss = Why are you reading laying on your back on the floor?
 # labels = complete-dep anno-hayley
-1	sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
+1	Sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
 2-4	atightughaqsin	_	_	_	_	_	_	_	Analysis=atightugh(V)^~(g)aqe(V→V)^[Intrg.Intr.2Sg]|Gloss=are-you-reading?
 2	atightugh	atightugh	VERB	_	_	0	root	_	Analysis=atightugh(V)|Gloss=to-read
 3	aq	aq	VERB	_	Aspect=Prog|Tense=Pres	2	aux	_	Analysis=~(g)aqe(V→V)|Gloss=to-be-currently-V-ing
@@ -3146,7 +3146,7 @@
 # text = Aghnalqwaaghaq kakilghii atkugmeng avaqutami mangteghaanituq.
 # gloss = The old woman sewing a parka is in her child's house.
 # labels = complete-dep anno-hayley unsure-8-12
-1	aghnalqwaaghaq	aghnalqwaaghaq	NOUN	_	Case=Abs|Number=Sing	10	nsubj	_	Analysis=aghnalqwaagh(N)^[Abs.Sg]|Gloss=the-old-lady
+1	Aghnalqwaaghaq	aghnalqwaaghaq	NOUN	_	Case=Abs|Number=Sing	10	nsubj	_	Analysis=aghnalqwaagh(N)^[Abs.Sg]|Gloss=the-old-lady
 2-3	kakilghii	_	_	_	_	_	_	_	Analysis=kaki(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-is-sewing
 2	kaki	kaki	VERB	_	_	3	acl	_	Analysis=kaki(V)|Gloss=to-sew
 3	lghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	nmod	_	Analysis=@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-V-ed
@@ -3230,7 +3230,7 @@
 # text = Ilangquq salngagegnituq.
 # gloss = The fresh ice is in the box.
 # labels = complete-dep anno-hayley
-1	ilangquq	ilangquq	NOUN	_	Case=Abs|Number=Sing	4	nsubj	_	Analysis=ilangqugh(N)^[Abs.Sg]|Gloss=the-freshwater-ice
+1	Ilangquq	ilangquq	NOUN	_	Case=Abs|Number=Sing	4	nsubj	_	Analysis=ilangqugh(N)^[Abs.Sg]|Gloss=the-freshwater-ice
 2-6	salngagegnituq	_	_	_	_	_	_	_	Analysis=salngag(N)^[Loc.Du]^ete^[Ind.Intr]^[3Sg]|Gloss=it-is-in-the-box|SpaceAfter=No
 2	salngag	salngag	NOUN	_	_	4	obl	_	Analysis=salngag(N)|Gloss=box
 3	egn	egn	X	_	Case=Loc|Number=Dual	2	dep:infl	_	Analysis=[Loc.Du]
@@ -3326,7 +3326,7 @@
 # text = Sangavek iyataghsin negheghnaaghpek?
 # gloss = Why are you hungry even though you ate?
 # labels = complete-dep anno-hayley
-1	sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
+1	Sangavek	sangavek	ADV	_	PronType=Int	2	advmod	_	Analysis=sangavek(WH)|Gloss=why
 2-3	iyataghsin	_	_	_	_	_	_	_	Analysis=iyatagh(V)^[Intrg.Intr.2Sg]|Gloss=are-you-hungry
 2	iyatagh	iyatagh	VERB	_	_	0	root	_	Analysis=iyatagh(V)|Gloss=to-be-hungry
 3	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
@@ -3409,7 +3409,7 @@
 # text = Qavngaq kiyaghtetsi Ungazimi?
 # gloss = When did you live at Chaplino?
 # labels = complete-dep anno-hayley
-1	qavngaq	qavngaq	ADV	_	PronType=Int	2	advmod	_	Analysis=qavngaq(WH)|Gloss=when
+1	Qavngaq	qavngaq	ADV	_	PronType=Int	2	advmod	_	Analysis=qavngaq(WH)|Gloss=when
 2-3	kiyaghtetsi	_	_	_	_	_	_	_	Analysis=kiyaghte(V)^[Intrg.Intr.2Pl]|Gloss=did-you-live?
 2	kiyaghte	kiyaghte	VERB	_	_	0	root	_	Analysis=kiyaghte(V)|Gloss=to-live
 3	tsi	tsi	X	_	Mood=Int|Number[subj]=Plur|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Pl]
@@ -3422,7 +3422,7 @@
 # text = Mekelghiiq aanumalghii mangteghameng amsikaghngaghngaaghmi.
 # gloss = The boy apparently went out of the house even though he was naked.
 # labels = complete-dep anno-hayley
-1	mekelghiiq	mekelghiiq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=mekelghiigh(N)^[Abs.Sg]|Gloss=the-boy
+1	Mekelghiiq	mekelghiiq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=mekelghiigh(N)^[Abs.Sg]|Gloss=the-boy
 2-4	aanumalghii	_	_	_	_	_	_	_	Analysis=aane(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=he-evidently-went-out
 2	aan	aan	VERB	_	_	0	root	_	Analysis=aane(V)|Gloss=to-go-out
 3	uma	uma	VERB	_	Tense=Past	2	aux	_	Analysis=@~:(i/u)ma(V→V)|Gloss=to-evidently-have-V-ed
@@ -3459,7 +3459,7 @@
 # text = Taghnughhaq qapragllequq aqumgamakuni.
 # gloss = The child will move around if he will remain sitting.
 # labels = complete-dep anno-hayley
-1	taghnughhaq	taghnughhaq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Sg]|Gloss=the-child
+1	Taghnughhaq	taghnughhaq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Sg]|Gloss=the-child
 2-5	qapragllequq	_	_	_	_	_	_	_	Analysis=qaprag(V)^@lleqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=he-will-move-around
 2	qaprag	qaprag	VERB	_	_	0	root	_	Analysis=qaprag(V)|Gloss=to-move-around
 3	lleq	lleq	VERB	_	Tense=Fut	2	aux	_	Analysis=@lleqe(V→V)|Gloss=will-V
@@ -3652,7 +3652,7 @@
 # text = Taghnughhaq qiyaaq naanga aanyan.
 # gloss = The child cried when her mother went out.
 # labels = complete-dep anno-hayley
-1	taghnughhaq	taghnughhaq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Sg]|Gloss=the-child
+1	Taghnughhaq	taghnughhaq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Sg]|Gloss=the-child
 2-4	qiyaaq	_	_	_	_	_	_	_	Analysis=qiya(V)^[Ind.Intr]^[3Sg]|Gloss=he-cried
 2	qiya	qiya	VERB	_	_	0	root	_	Analysis=qiya(V)|Gloss=to-cry
 3	a	a	X	_	Mood=Ind|Valency=1	2	dep:infl	_	Analysis=[Ind.Intr]
@@ -3739,7 +3739,7 @@
 # text = Esla seghleghuyan aanenghitunga.
 # gloss = When the weather was bad, I didn't go out.
 # labels = complete-dep anno-hayley
-1	esla	esla	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=esla(N)^[Abs.Sg]|Gloss=the-weather
+1	Esla	esla	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=esla(N)^[Abs.Sg]|Gloss=the-weather
 2-4	seghleghuyan	_	_	_	_	_	_	_	Analysis=seghleghu(V)^[Cnsq1.Intr]^[3Sg]|Gloss=when-it-was-bad
 2	seghleghu	seghleghu	VERB	_	_	5	advcl	_	Analysis=seghleghu(V)|Gloss=to-be-bad
 3	ya	ya	X	_	Mood=Cn1|Valency=1	2	dep:infl	_	Analysis=[Cnsq1.Intr]
@@ -3968,7 +3968,7 @@
 # text = Nanevgaq piyugluni aghulaqumalghii naayvamun eltughani maliglluku.
 # gloss = The old man walked, then left to the lake following his grandchild.
 # labels = complete-dep anno-hayley
-1	nanevgaq	nanevgaq	NOUN	_	Case=Abs|Number=Sing	5	nsubj	_	Analysis=nanevgagh(N)^[Abs.Sg]|Gloss=the-old-man
+1	Nanevgaq	nanevgaq	NOUN	_	Case=Abs|Number=Sing	5	nsubj	_	Analysis=nanevgagh(N)^[Abs.Sg]|Gloss=the-old-man
 2-4	piyugluni	_	_	_	_	_	_	_	Analysis=piyug(V)^[Sbrd.Intr]^[4Sg]|Gloss=walking
 2	piyug	piyug	VERB	_	_	5	advcl	_	Analysis=piyug(V)|Gloss=to-walk
 3	lu	lu	X	_	Mood=Sbr|Valency=1	2	dep:infl	_	Analysis=[Sbrd.Intr]
@@ -4218,7 +4218,7 @@
 # text = Qawaak espagna guutigu.
 # gloss = Shoot the bird that is up there.
 # labels = complete-dep anno-hayley
-1	qawaak	qawaak	NOUN	_	Case=Abs|Number=Sing	4	obj	_	Analysis=qawaag(N)^[Abs.Sg]|Gloss=bird
+1	Qawaak	qawaak	NOUN	_	Case=Abs|Number=Sing	4	obj	_	Analysis=qawaag(N)^[Abs.Sg]|Gloss=bird
 2-3	espagna	_	_	_	_	_	_	_	Analysis=[Anaphor]^paagna(DEM.PRO.Abs.Sg)|Gloss=the-one-up-there
 2	es	es	X	_	_	3	dep:ana	_	Analysis=[Anaphor]
 3	pagna	pagna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	1	nmod	_	Analysis=paagna(DEM.PRO.Abs.Sg)|Gloss=that-up-there
@@ -4265,7 +4265,7 @@
 # text = Sangan whani aqlaghata?
 # gloss = Why is it cold here?
 # labels = complete-dep anno-hayley
-1	sangan	sangan	ADV	_	PronType=Int	3	advmod	_	Analysis=sangan(WH)|Gloss=why
+1	Sangan	sangan	ADV	_	PronType=Int	3	advmod	_	Analysis=sangan(WH)|Gloss=why
 2	whani	whani	ADV	_	Case=Loc	3	advmod	_	Analysis=whani(DEM.ADV.Loc)|Gloss=right-here
 3-4	aqlaghata	_	_	_	_	_	_	_	Analysis=aqlaghate(V)^[Intrg.Intr]^[3Sg]|Gloss=is-it-cold?|SpaceAfter=No
 3	aqlagha	aqlagha	VERB	_	_	0	root	_	Analysis=aqlaghate(V)|Gloss=for-it-to-be-cold
@@ -4336,7 +4336,7 @@
 # text = Amaa aagken tagimalghii neghnaluku nefkuuraq.
 # gloss = The wolf over there came to me in order to eat the dried meat.
 # labels = complete-dep anno-hayley
-1	amaa	amaa	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=amaa(N)^[Abs.Sg]|Gloss=the-wolf
+1	Amaa	amaa	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=amaa(N)^[Abs.Sg]|Gloss=the-wolf
 2	aagken	aagken	ADV	_	Case=Abl	3	obl	_	Analysis=aagken(DEM.ADV.Abl_Mod)|Gloss=over-there
 3-5	tagimalghii	_	_	_	_	_	_	_	Analysis=tagi(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=it-came-to-me
 3	tagi	tagi	VERB	_	_	0	root	_	Analysis=tagi(V)|Gloss=to-come
@@ -4388,7 +4388,7 @@
 # text = Qagani taghnughhaat naghaaghaqut.
 # gloss = The children are playing outside.
 # labels = complete-dep anno-hayley
-1	qagani	qagani	ADV	_	Case=Loc	4	advmod	_	Analysis=qagani(DEM.ADV.Loc)|Gloss=outside
+1	Qagani	qagani	ADV	_	Case=Loc	4	advmod	_	Analysis=qagani(DEM.ADV.Loc)|Gloss=outside
 2-3	taghnughhaat	_	_	_	_	_	_	_	Analysis=taghnughhagh*(N)^[Abs.Pl]|Gloss=the-children
 2	taghnughha	taghnughha	NOUN	_	_	4	nsubj	_	Analysis=taghnughhagh*(N)|Gloss=child
 3	at	at	X	_	Case=Abs|Number=Plur	2	dep:infl	_	Analysis=[Abs.Pl]
@@ -4403,7 +4403,7 @@
 # text = Qaamna keniq qaamumalghii qergesek qelpeghsafkek.
 # gloss = When you opened the window, the light inside went out that inside. (keniq is probably a typo for keneq--light)
 # labels = complete-dep anno-hayley
-1	qaamna	qaamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	nmod	_	Analysis=qaamna(DEM.PRO.Abs.Sg)|Gloss=that-inside
+1	Qaamna	qaamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	nmod	_	Analysis=qaamna(DEM.PRO.Abs.Sg)|Gloss=that-inside
 2	keniq	keniq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=kenigh(N)^[Abs.Sg]|Gloss=the-skirt
 3-5	qaamumalghii	_	_	_	_	_	_	_	Analysis=qaame(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=it-went-out
 3	qaam	qaam	VERB	_	_	0	root	_	Analysis=qaame(V)|Gloss=to-go-out
@@ -4532,7 +4532,7 @@
 # text = Iigna Quyillek kaallghii ighivgaq paamken kalileghrugllalguuq.
 # gloss = That Chukchi person over there, the one that arrived yesterday from that one up there, had a big dalmation dog.
 # labels = complete-dep anno-hayley
-1	iigna	iigna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	nmod	_	Analysis=iigna(DEM.PRO.Abs.Sg)|Gloss=that-one-over-there
+1	Iigna	iigna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	nmod	_	Analysis=iigna(DEM.PRO.Abs.Sg)|Gloss=that-one-over-there
 2	Quyillek	Quyillek	NOUN	_	Case=Abs|Number=Sing	9	nsubj	_	Analysis=Quyilleg(N)^[Abs.Sg]|Gloss=Chukchi
 3-4	kaallghii	_	_	_	_	_	_	_	Analysis=kaate(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-arrived
 3	kaa	kaa	VERB	_	_	4	acl	_	Analysis=kaate(V)|Gloss=to-arrive
@@ -4551,7 +4551,7 @@
 # text = Sangami taghnughhaq tagiiqa qiyamaluni taagken?
 # gloss = Why is the child coming to me, crying over there?
 # labels = complete-dep anno-hayley
-1	sangami	sangami	ADV	_	PronType=Int	3	advmod	_	Analysis=sangami(WH)|Gloss=why
+1	Sangami	sangami	ADV	_	PronType=Int	3	advmod	_	Analysis=sangami(WH)|Gloss=why
 2	taghnughhaq	taghnughhaq	X	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Sg]|Gloss=the-child
 3-5	tagiiqa	_	_	_	_	_	_	_	Analysis=tagi(V)^~(g)aqe(V→V)^[Intrg.Intr]^[3Sg]|Gloss=is-he-coming-to-me?
 3	tagi	tagi	VERB	_	_	0	root	_	Analysis=tagi(V)|Gloss=to-come
@@ -4594,7 +4594,7 @@
 # text = Kaanyuq, naten mayughlleqsin whavek?
 # gloss = Hey you down there, how will you come up here?
 # labels = complete-dep anno-hayley
-1	kaanyuq	kaanyuq	PRON	_	Case=Voc|Number=Sing|PronType=Dem	4	nsubj	_	Analysis=kaanyuq(VOC.Sg)|Gloss=that-down-below-there|SpaceAfter=No
+1	Kaanyuq	kaanyuq	PRON	_	Case=Voc|Number=Sing|PronType=Dem	4	nsubj	_	Analysis=kaanyuq(VOC.Sg)|Gloss=that-down-below-there|SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	_	Analysis=,
 3	naten	naten	ADV	_	PronType=Int	4	advmod	_	Analysis=naten(WH)|Gloss=how
 4-6	mayughlleqsin	_	_	_	_	_	_	_	Analysis=mayugh(V)^@lleqe(V→V)^[Intrg.Intr.2Sg]|Gloss=will-you-go-up?
@@ -4654,7 +4654,7 @@
 # text = Awani esghaatukung riightemeng.
 # gloss = We saw an animal's den over there.
 # labels = complete-dep anno-hayley
-1	awani	awani	ADV	_	Case=Loc	2	advmod	_	Analysis=awani(DEM.ADV.Loc)|Gloss=over-there
+1	Awani	awani	ADV	_	Case=Loc	2	advmod	_	Analysis=awani(DEM.ADV.Loc)|Gloss=over-there
 2-4	esghaatukung	_	_	_	_	_	_	_	Analysis=esghaate(V)^[Ind.Intr]^[1Du]|Gloss=we-saw-something
 2	esghaat	esghaat	VERB	_	_	0	root	_	Analysis=esghaate(V)|Gloss=to-see-something
 3	u	u	X	_	Mood=Ind|Valency=1	2	dep:infl	_	Analysis=[Ind.Intr]
@@ -4668,7 +4668,7 @@
 # text = Pikegken qayuusiq ifkaghtuq naavlunillu.
 # gloss = That cup up there dropped to the floor and broke.
 # labels = complete-dep anno-hayley
-1	pikegken	pikegken	ADV	_	Case=Abl	3	advmod	_	Analysis=pikegken(DEM.ADV.Abl_Mod)|Gloss=that-up-there
+1	Pikegken	pikegken	ADV	_	Case=Abl	3	advmod	_	Analysis=pikegken(DEM.ADV.Abl_Mod)|Gloss=that-up-there
 2	qayuusiq	qayuusiq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=qayuusigh(N)^[Abs.Sg]|Gloss=the-cup
 3-5	ifkaghtuq	_	_	_	_	_	_	_	Analysis=ifkagh(V)^[Ind.Intr]^[3Sg]|Gloss=it-dropped
 3	ifkagh	ifkagh	VERB	_	_	0	root	_	Analysis=ifkagh(V)|Gloss=to-drop
@@ -4685,7 +4685,7 @@
 # text = Ingani inghwaaqngama manigneng naalkutunga.
 # gloss = While I was picking berries, I found some eggs.
 # labels = complete-dep anno-hayley
-1	ingani	ingani	ADV	_	Case=Loc	2	advmod	_	Analysis=ingani(DEM.ADV.Loc)|Gloss=that-over-there
+1	Ingani	ingani	ADV	_	Case=Loc	2	advmod	_	Analysis=ingani(DEM.ADV.Loc)|Gloss=that-over-there
 2-4	inghwaaqngama	_	_	_	_	_	_	_	Analysis=inghu(V)^[Cnsq2.Intr]^[1Sg]|Gloss=while-I-was-picking-berries
 2	inghwa	inghwa	VERB	_	_	7	advcl	_	Analysis=inghu(V)|Gloss=to-pick-berries
 3	aqnga	aqnga	X	_	Mood=Cn2|Valency=1	2	dep:infl	_	Analysis=[Cnsq2.Intr]
