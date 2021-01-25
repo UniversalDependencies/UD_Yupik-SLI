@@ -1659,7 +1659,7 @@
 # text = Mangteghaghllangllaghyugtukut.
 # gloss = We want to make a big house.
 # labels = complete-dep anno-hayley
-1-6	Mangteghaghllangllaghyugtukut.	_	_	_	_	_	_	_	Analysis=mangteghagh(N)^–ghllag(N→N)^–ngllagh(N→V)^@~fyug(V→V)^[Ind.Intr]^[1Pl]|Gloss=we-want-to-make-a-big-house|SpaceAfter=No
+1-6	Mangteghaghllangllaghyugtukut	_	_	_	_	_	_	_	Analysis=mangteghagh(N)^–ghllag(N→N)^–ngllagh(N→V)^@~fyug(V→V)^[Ind.Intr]^[1Pl]|Gloss=we-want-to-make-a-big-house|SpaceAfter=No
 1	mangtegha	mangtegha	NOUN	_	_	3	obj	_	Analysis=mangteghagh(N)|Gloss=house
 2	ghlla	ghlla	NOUN	_	_	1	nmod	_	Analysis=–ghllag(N→N)|Gloss=big-N
 3	ngllagh	ngllagh	VERB	_	_	4	xcomp	_	Analysis=–ngllagh(N→V)|Gloss=to-make-N
