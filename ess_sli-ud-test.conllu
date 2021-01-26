@@ -1829,7 +1829,7 @@
 # text = Allakaghmeng aanumalghiit mangteghameng.
 # gloss = They had gone out of the house separately.
 # labels = complete-dep anno-hayley
-1	Allakaghmeng	allakagh	ADV	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	2	advmod	_	Analysis=allakagh*(QUANTQUAL)^[4Pl]|Gloss=separately-from-others
+1	Allakaghmeng	allakagh	ADV	_	Number=Plur|Person=3|Reflex=Yes	2	advmod	_	Analysis=allakagh*(QUANTQUAL)^[4Pl]|Gloss=separately-from-others
 2	aanumalghiit	aan	VERB	_	Mood=Ptc|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1	0	root	_	Analysis=aane(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Pl]|Gloss=they-went-out
 3	mangteghameng	mangtegha	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=mangteghagh(N)^[Abl_Mod.Sg]|Gloss=from-the-house|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
@@ -1917,16 +1917,16 @@
 # labels = complete-dep anno-hayley
 1	Naaka	naa	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=naa(N)^[Abs.1SgPoss.Sg]|Gloss=my-mother
 2	kakiiq	kaki	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=kaki(V)^[Ind.Intr]^[3Sg]|Gloss=she-sewed-it
-3	ellnginaghmi	ellnginagh	ADV	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	2	advmod	_	Analysis=ellnginagh*(QUANTQUAL)^[4Sg]|Gloss=alone|SpaceAfter=No
+3	ellnginaghmi	ellnginagh	ADV	_	Number=Sing|Person=3|Reflex=Yes	2	advmod	_	Analysis=ellnginagh*(QUANTQUAL)^[4Sg]|Gloss=alone|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch12.gold:11
 # text = Qerngaghmeng mekelghiighet mataghmeng pugimaghaqut.
 # gloss = The boys are swimming together with their clothes off.
 # labels = complete-dep anno-hayley
-1	Qerngaghmeng	qerngagh	ADV	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	4	advmod	_	Analysis=qerngagh*(QUANTQUAL)^[4Pl]|Gloss=together
+1	Qerngaghmeng	qerngagh	ADV	_	Number=Plur|Person=3|Reflex=Yes	4	advmod	_	Analysis=qerngagh*(QUANTQUAL)^[4Pl]|Gloss=together
 2	mekelghiighet	mekelghiigh	NOUN	_	Case=Abs|Number=Plur	4	nsubj	_	Analysis=mekelghiigh(N)^[Abs.Pl]|Gloss=the-boys
-3	mataghmeng	matagh	ADV	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	4	advmod	_	Analysis=matagh*(POS→QUANTQUAL)^[4Pl]|Gloss=undressed
+3	mataghmeng	matagh	ADV	_	Number=Plur|Person=3|Reflex=Yes	4	advmod	_	Analysis=matagh*(POS→QUANTQUAL)^[4Pl]|Gloss=undressed
 4	pugimaghaqut	pugimagh	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=pugimagh(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-swimming|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
@@ -2008,7 +2008,7 @@
 1	Mekelghiiq	mekelghiiq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=mekelghiigh(N)^[Abs.Sg]|Gloss=the-boy
 2	aanumalghii	aan	VERB	_	Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	Analysis=aane(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=he-evidently-went-out
 3	mangteghameng	mangtegha	NOUN	_	Case=Abl|Number=Sing	2	obl	_	Analysis=mangteghagh(N)^[Abl_Mod.Sg]|Gloss=from-the-house
-4	amsikaghngaghngaaghmi	nga	VERB	_	Mood=Cnc|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Valency=1	2	advcl	_	Analysis=amsikagh*(POS)^~fnga(POS→STATIVE)^[Conc.Intr]^[4Sg]|Gloss=even-though-he-was-naked|SpaceAfter=No
+4	amsikaghngaghngaaghmi	nga	VERB	_	Mood=Cnc|Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes|Valency=1	2	advcl	_	Analysis=amsikagh*(POS)^~fnga(POS→STATIVE)^[Conc.Intr]^[4Sg]|Gloss=even-though-he-was-naked|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch13.gold:9
@@ -2026,7 +2026,7 @@
 # labels = complete-dep anno-hayley
 1	Taghnughhaq	taghnughhaq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Sg]|Gloss=the-child
 2	qapragllequq	qaprag	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Fut|Valency=1	0	root	_	Analysis=qaprag(V)^@lleqe(V→V)^[Ind.Intr]^[3Sg]|Gloss=he-will-move-around
-3	aqumgamakuni	aqumga	VERB	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Tense=Past|Valency=1	2	advcl	_	Analysis=aqumga(V)^@~:(i/u)ma(V→V)^[Cond.Intr]^[4Sg]|Gloss=if-he-remains-sitting|SpaceAfter=No
+3	aqumgamakuni	aqumga	VERB	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes|Tense=Past|Valency=1	2	advcl	_	Analysis=aqumga(V)^@~:(i/u)ma(V→V)^[Cond.Intr]^[4Sg]|Gloss=if-he-remains-sitting|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch14.gold:2
@@ -2250,7 +2250,7 @@
 # labels = complete-dep anno-hayley
 1	Siivanlleghet	siivanllegh	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=siivanllegh(N)^[Abs.Pl]|Gloss=the-elders
 2	nekevut	nekev	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=nekeve(V)^[Ind.Intr]^[3Pl]|Gloss=they-stood-up
-3	aghulayugyameng	yug	VERB	_	Mood=Cn1|Number[subj]=Plur|Person[subj]=3|Reflex=Yes|Valency=1	2	advcl	_	Analysis=aghula(V)^@~fyug(V→V)^[Cnsq1.Intr]^[4Pl]|Gloss=when-they-wanted-to-dance|SpaceAfter=No
+3	aghulayugyameng	yug	VERB	_	Mood=Cn1|Number[subj]=Plur|Person[subj]=3|Reflex[subj]=Yes|Valency=1	2	advcl	_	Analysis=aghula(V)^@~fyug(V→V)^[Cnsq1.Intr]^[4Pl]|Gloss=when-they-wanted-to-dance|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch14.gold:27
@@ -2278,7 +2278,7 @@
 2	estugaghtuq	t	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=estugagh(N)^+te(N→V)^[Ind.Intr]^[3Sg]|Gloss=she-went-to-a-store
 3	yavluni	yavlu	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	4	obj	_	Analysis=yavlu(N)^[Abs.4SgPoss.Sg]|Gloss=her-sweetheart
 4	tasluqluku	tasluq	VERB	_	Mood=Sbr|Number[obj]=Sing|Person[obj]=3|Valency=2	2	advcl	_	Analysis=tasluqe(V)^[Sbrd.Trns]^[_.3Sg]|Gloss=holding-hands-with-him
-5	tukfighinaluni	tukfigh	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Valency=1	2	advcl	_	Analysis=tukfigh(V)^~i(V→V)^@~fna(V→V)^[Sbrd.Intr]^[4Sg]|Gloss=in-order-to-buy-something
+5	tukfighinaluni	tukfigh	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes|Valency=1	2	advcl	_	Analysis=tukfigh(V)^~i(V→V)^@~fna(V→V)^[Sbrd.Intr]^[4Sg]|Gloss=in-order-to-buy-something
 6	laluwaaymeng	laluwaay	NOUN	_	Case=Abl|Number=Sing	5	obl:mod	_	Analysis=laluwaaye(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-dried-onion|SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
@@ -2287,7 +2287,7 @@
 # gloss = The old man walked, then left to the lake following his grandchild.
 # labels = complete-dep anno-hayley
 1	Nanevgaq	nanevgaq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=nanevgagh(N)^[Abs.Sg]|Gloss=the-old-man
-2	piyugluni	piyug	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Valency=1	3	advcl	_	Analysis=piyug(V)^[Sbrd.Intr]^[4Sg]|Gloss=walking
+2	piyugluni	piyug	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes|Valency=1	3	advcl	_	Analysis=piyug(V)^[Sbrd.Intr]^[4Sg]|Gloss=walking
 3	aghulaqumalghii	aghulaq	VERB	_	Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	Analysis=aghulaqe(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=he-left
 4	naayvamun	naayva	NOUN	_	Case=All|Number=Sing	3	obl	_	Analysis=naayvagh(N)^[All.Sg]|Gloss=to-the-lake
 5	eltughani	eltugha	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	6	obj	_	Analysis=eltughagh*(N)^[Abs.4SgPoss.Sg]|Gloss=his-grandchild
@@ -2315,7 +2315,7 @@
 4	Ungazimi	Ungazi	NOUN	_	Case=Loc|Number=Sing	3	obl	_	Analysis=Ungazigh(N)^[Loc.Sg]|Gloss=in-Chukotka
 5	yuget	yug	NOUN	_	Case=Abs|Number=Plur	6	nsubj	_	Analysis=yug(N)^[Abs.Pl]|Gloss=the-people
 6	nenglulguftut	lgu	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=nenglu(N)^–lgu(N→V)^+(pete)fte(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-had-semisubterranean-houses
-7	mangteghangunateng	ngu	VERB	_	Mood=Sbr|Number[subj]=Plur|Person[subj]=3|Reflex=Yes|Valency=1	6	advcl	_	Analysis=mangteghagh(N)^~:(ng)ite(N→V)^[Sbrd.Intr]^[4Pl]|Gloss=not-having-houses|SpaceAfter=No
+7	mangteghangunateng	ngu	VERB	_	Mood=Sbr|Number[subj]=Plur|Person[subj]=3|Reflex[subj]=Yes|Valency=1	6	advcl	_	Analysis=mangteghagh(N)^~:(ng)ite(N→V)^[Sbrd.Intr]^[4Pl]|Gloss=not-having-houses|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch15.gold:5
@@ -2345,10 +2345,10 @@
 # text = Meghnughngaaghmeng yuget igleghtaqut yaavumaluteng ivenruutek naavumayayek.
 # gloss = Even though they are tired, the men are going while rowing, when the outboard motor broke.
 # labels = complete-dep anno-hayley
-1	Meghnughngaaghmeng	meghnu	VERB	_	Mood=Cnc|Number[subj]=Plur|Person[subj]=3|Reflex=Yes|Valency=1	3	advcl	_	Analysis=meghnugh(V)^[Conc.Intr]^[4Pl]|Gloss=even-though-they-are-tired
+1	Meghnughngaaghmeng	meghnu	VERB	_	Mood=Cnc|Number[subj]=Plur|Person[subj]=3|Reflex[subj]=Yes|Valency=1	3	advcl	_	Analysis=meghnugh(V)^[Conc.Intr]^[4Pl]|Gloss=even-though-they-are-tired
 2	yuget	yug	NOUN	_	Case=Abs|Number=Plur	3	nsubj	_	Analysis=yug(N)^[Abs.Pl]|Gloss=the-men
 3	igleghtaqut	igleght	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	Analysis=igleghte(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-going
-4	yaavumaluteng	yaav	VERB	_	Mood=Sbr|Number[subj]=Plur|Person[subj]=3|Reflex=Yes|Tense=Past|Valency=1	3	advcl	_	Analysis=yaave(V)^@~:(i/u)ma(V→V)^[Sbrd.Intr]^[4Pl]|Gloss=rowing
+4	yaavumaluteng	yaav	VERB	_	Mood=Sbr|Number[subj]=Plur|Person[subj]=3|Reflex[subj]=Yes|Tense=Past|Valency=1	3	advcl	_	Analysis=yaave(V)^@~:(i/u)ma(V→V)^[Sbrd.Intr]^[4Pl]|Gloss=rowing
 5	ivenruutek	ivenruute	NOUN	_	Case=Abs|Number=Dual	6	nsubj	_	Analysis=ivenruute(N)^[Abs.Du]|Gloss=the-outboard-motor
 6	naavumayayek	naavuma	VERB	_	Mood=Cn1|Number[subj]=Dual|Person[subj]=3|Valency=1	3	advcl	_	Analysis=naavuma(V)^[Cnsq1.Intr]^[3Du]|Gloss=when-they-broke|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	Analysis=.
@@ -2385,7 +2385,7 @@
 2	yuget	yug	NOUN	_	Case=Abs|Number=Plur	3	nsubj	_	Analysis=yug(N)^[Abs.Pl]|Gloss=people
 3	kiyaghhneghinniluki	ni	VERB	_	Mood=Sbr|Number[obj]=Plur|Person[obj]=3|Polarity=Neg|Valency=2	1	advcl	_	Analysis=kiyaghte(V)^@–nghite(V→V)^@~fni(CmpdVbl)^[Sbrd.Trns]^[_.3Pl]|Gloss=saying-that-they-were-not-living
 4	guyguni	guygu	NOUN	_	Case=Loc|Number=Plur	3	obl	_	Analysis=guygu(N)^[Loc.Pl]|Gloss=in-summer-houses
-5	taghnughhaawaqngami	taghnughha	NOUN	_	Mood=Cn2|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Valency=1	1	advcl	_	Analysis=taghnughhagh*(N)^~:(ng)u(N→V)^[Cnsq2.Intr]^[4Sg]|Gloss=while-he-was-a-child|SpaceAfter=No
+5	taghnughhaawaqngami	taghnughha	VERB	_	Mood=Cn2|Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes|Valency=1	1	advcl	_	Analysis=taghnughhagh*(N)^~:(ng)u(N→V)^[Cnsq2.Intr]^[4Sg]|Gloss=while-he-was-a-child|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch16.gold:1
@@ -2445,7 +2445,7 @@
 3	atanga	ata	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	Analysis=ata(N)^[Abs.3SgPoss.Sg]|Gloss=her-father
 4	esghaanniluku	ni	VERB	_	Mood=Sbr|Number[obj]=Sing|Person[obj]=3|Valency=2	2	advcl	_	Analysis=esghaate(V)^@~fni(CmpdVbl)^[Sbrd.Trns]^[_.3Sg]|Gloss=saying-tha-he-saw-something
 5	kayngemeng	kaynge	NOUN	_	Case=Abl|Number=Sing	4	obl	_	Analysis=kaynge(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-brown-bear
-6	kiyaghtaqngami	kiyaght	VERB	_	Mood=Cn2|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Valency=1	4	advcl	_	Analysis=kiyaghte(V)^[Cnsq2.Intr]^[4Sg]|Gloss=living
+6	kiyaghtaqngami	kiyaght	VERB	_	Mood=Cn2|Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes|Valency=1	4	advcl	_	Analysis=kiyaghte(V)^[Cnsq2.Intr]^[4Sg]|Gloss=living
 7	imani	imani	ADV	_	Case=Loc	6	advmod	_	Analysis=imani(DEM.ADV.Loc)|Gloss=here|SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
@@ -2586,7 +2586,7 @@
 1	Sangami	sangami	ADV	_	PronType=Int	3	advmod	_	Analysis=sangami(WH)|Gloss=why
 2	taghnughhaq	taghnughhaq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Sg]|Gloss=the-child
 3	tagiiqa	tagi	VERB	_	Aspect=Prog|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	Analysis=tagi(V)^~(g)aqe(V→V)^[Intrg.Intr]^[3Sg]|Gloss=is-he-coming-to-me?
-4	qiyamaluni	qiya	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Tense=Past|Valency=1	3	advcl	_	Analysis=qiya(V)^@~:(i/u)ma(V→V)^[Sbrd.Intr]^[4Sg]|Gloss=crying
+4	qiyamaluni	qiya	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes|Tense=Past|Valency=1	3	advcl	_	Analysis=qiya(V)^@~:(i/u)ma(V→V)^[Sbrd.Intr]^[4Sg]|Gloss=crying
 5	taagken	aagken	ADV	_	Case=Abl	4	advmod	_	Analysis=[Anaphor]^aagken(DEM.ADV.Abl_Mod)|Gloss=that-over-there|SpaceAfter=No
 6	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
@@ -2629,7 +2629,7 @@
 2	nengyunllu	nengyu	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	1	conj	_	Analysis=nengyugh(N)^[Abs.2SgPoss.Sg]^\=llu|Gloss=your-grandmother
 3	pagavek	pagavek	ADV	_	Case=All	4	advmod	_	Analysis=pagavek(DEM.ADV.All)|Gloss=up-there
 4	aghulaquk	aghulaq	VERB	_	Mood=Ind|Number[subj]=Dual|Person[subj]=3|Valency=1	0	root	_	Analysis=aghulaqe(V)^[Ind.Intr]^[3Du]|Gloss=they-left
-5	inghunalutek	inghu	VERB	_	Mood=Sbr|Number[subj]=Dual|Person[subj]=3|Reflex=Yes|Valency=1	4	advcl	_	Analysis=inghu(V)^@~fna(V→V)^[Sbrd.Intr]^[4Du]|Gloss=picking-berries
+5	inghunalutek	inghu	VERB	_	Mood=Sbr|Number[subj]=Dual|Person[subj]=3|Reflex[subj]=Yes|Valency=1	4	advcl	_	Analysis=inghu(V)^@~fna(V→V)^[Sbrd.Intr]^[4Du]|Gloss=picking-berries
 6	pagunghaghmeng	pagunghagh	NOUN	_	Case=Abl|Number=Sing	5	obl:mod	_	Analysis=pagunghagh*(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-crowberry
 7	eslallugughteghngaan	ughte	VERB	_	Mood=Cnc|Number[subj]=Sing|Person[subj]=3|Valency=1	4	advcl	_	Analysis=eslallug(N)^~:(ng)ughte(N→V)^[Conc.Intr]^[3Sg]|Gloss=even-though-it-started-to-rain|SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	Analysis=.
@@ -2650,7 +2650,7 @@
 1	Pikegken	pikegken	ADV	_	Case=Abl	3	advmod	_	Analysis=pikegken(DEM.ADV.Abl_Mod)|Gloss=that-up-there
 2	qayuusiq	qayuusiq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=qayuusigh(N)^[Abs.Sg]|Gloss=the-cup
 3	ifkaghtuq	ifkagh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Valency=1	0	root	_	Analysis=ifkagh(V)^[Ind.Intr]^[3Sg]|Gloss=it-dropped
-4	naavlunillu	naav	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Valency=1	3	advcl	_	Analysis=naave(V)^[Sbrd.Intr]^[4Sg]^\=llu|Gloss=even-breaking|SpaceAfter=No
+4	naavlunillu	naav	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes|Valency=1	3	advcl	_	Analysis=naave(V)^[Sbrd.Intr]^[4Sg]^\=llu|Gloss=even-breaking|SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch16.gold:27
@@ -2713,7 +2713,7 @@
 # labels = complete-dep anno-hayley
 1	Ighneqa	ighne	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	nsubj	_	Analysis=ighnegh(N)^[Abs.1SgPoss.Sg]|Gloss=my-son
 2	aanli	aan	VERB	_	Number[subj]=Sing|Person[subj]=3	0	root	_	Analysis=aane(V)^[Opt.Pres.Intr]^[3Sg]|Gloss=let-him-go-out
-3	esghaannaluni	esghaan	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Valency=1	2	advcl	_	Analysis=esghaate(V)^@~fna(V→V)^[Sbrd.Intr]^[4Sg]|Gloss=in-order-that-he-see-something
+3	esghaannaluni	esghaan	VERB	_	Mood=Sbr|Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes|Valency=1	2	advcl	_	Analysis=esghaate(V)^@~fna(V→V)^[Sbrd.Intr]^[4Sg]|Gloss=in-order-that-he-see-something
 4	kiighwyameng	kiighwya	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=kiighwyagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-aurora|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
@@ -2742,7 +2742,7 @@
 # labels = complete-dep anno-hayley
 1	Ruuseghmiit	Ruuseghmii	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=Ruuseghmii(N)^[Abs.Pl]|Gloss=the-Russians
 2	aglaghtut	aglagh	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Valency=1	0	root	_	Analysis=aglagh(V)^[Ind.Intr]^[3Pl]|Gloss=they-went-home
-3	esghaasameng	esghaa	VERB	_	Mood=Cn1|Number[subj]=Plur|Person[subj]=3|Reflex=Yes|Valency=1	2	advcl	_	Analysis=esghaate(V)^[Cnsq1.Intr]^[4Pl]|Gloss=when-they-saw-something
+3	esghaasameng	esghaa	VERB	_	Mood=Cn1|Number[subj]=Plur|Person[subj]=3|Reflex[subj]=Yes|Valency=1	2	advcl	_	Analysis=esghaate(V)^[Cnsq1.Intr]^[4Pl]|Gloss=when-they-saw-something
 4	quutmeng	quut	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=qute(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-land|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 

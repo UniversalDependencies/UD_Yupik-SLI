@@ -3099,7 +3099,7 @@
 # labels = complete-dep anno-hayley
 1-2	Allakaghmeng	_	_	_	_	_	_	_	Analysis=allakagh*(QUANTQUAL)^[4Pl]|Gloss=separately-from-others
 1	allakagh	allakagh	ADV	_	_	3	advmod	_	Analysis=allakagh*(QUANTQUAL)|Gloss=separately-from-others
-2	meng	meng	X	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	1	dep:infl	_	Analysis=[4Pl]
+2	meng	meng	X	_	Number=Plur|Person=3|Reflex=Yes	1	dep:infl	_	Analysis=[4Pl]
 3-6	aanumalghiit	_	_	_	_	_	_	_	Analysis=aane(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Pl]|Gloss=they-went-out
 3	aan	aan	VERB	_	_	0	root	_	Analysis=aane(V)|Gloss=to-go-out
 4	uma	uma	VERB	_	Tense=Past	3	aux	_	Analysis=@~:(i/u)ma(V→V)|Gloss=to-have-V-ed
@@ -3268,7 +3268,7 @@
 5	q	q	X	_	Number[subj]=Sing|Person[subj]=3	3	dep:infl	_	Analysis=[3Sg]
 6-7	ellnginaghmi	_	_	_	_	_	_	_	Analysis=ellnginagh*(QUANTQUAL)^[4Sg]|Gloss=alone|SpaceAfter=No
 6	ellnginagh	ellnginagh	ADV	_	_	3	advmod	_	Analysis=ellnginagh*(QUANTQUAL)|Gloss=alone
-7	mi	mi	X	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	6	dep:infl	_	Analysis=[4Sg]
+7	mi	mi	X	_	Number=Sing|Person=3|Reflex=Yes	6	dep:infl	_	Analysis=[4Sg]
 8	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch12.gold:11
@@ -3277,13 +3277,13 @@
 # labels = complete-dep anno-hayley
 1-2	Qerngaghmeng	_	_	_	_	_	_	_	Analysis=qerngagh*(QUANTQUAL)^[4Pl]|Gloss=together
 1	qerngagh	qerngagh	ADV	_	_	7	advmod	_	Analysis=qerngagh*(QUANTQUAL)|Gloss=together
-2	meng	meng	X	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	1	dep:infl	_	Analysis=[4Pl]
+2	meng	meng	X	_	Number=Plur|Person=3|Reflex=Yes	1	dep:infl	_	Analysis=[4Pl]
 3-4	mekelghiighet	_	_	_	_	_	_	_	Analysis=mekelghiigh(N)^[Abs.Pl]|Gloss=the-boys
 3	mekelghiigh	mekelghiigh	NOUN	_	_	7	nsubj	_	Analysis=mekelghiigh(N)|Gloss=boy
 4	et	et	X	_	Case=Abs|Number=Plur	3	dep:infl	_	Analysis=[Abs.Pl]
 5-6	mataghmeng	_	_	_	_	_	_	_	Analysis=matagh*(POS→QUANTQUAL)^[4Pl]|Gloss=undressed
 5	matagh	matagh	ADV	_	_	7	advmod	_	Analysis=matagh*(POS→QUANTQUAL)|Gloss=undressed
-6	meng	meng	X	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	5	dep:infl	_	Analysis=[4Pl]
+6	meng	meng	X	_	Number=Plur|Person=3|Reflex=Yes	5	dep:infl	_	Analysis=[4Pl]
 7-10	pugimaghaqut	_	_	_	_	_	_	_	Analysis=pugimagh(V)^~(g)aqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-swimming|SpaceAfter=No
 7	pugimagh	pugimagh	VERB	_	_	0	root	_	Analysis=pugimagh(V)|Gloss=to-swim
 8	aq	aq	VERB	_	Aspect=Prog|Tense=Pres	7	aux	_	Analysis=~(g)aqe(V→V)|Gloss=to-be-currently-V-ing
@@ -3434,7 +3434,7 @@
 7	amsikagh	amsikagh	X	_	_	8	dep:pos	_	Analysis=amsikagh*(POS)|Gloss=naked
 8	nga	nga	VERB	_	_	2	advcl	_	Analysis=~fnga(POS→STATIVE)|Gloss=to-be-in-the-R-posture
 9	ghngaagh	ghngaagh	X	_	Mood=Cnc|Valency=1	8	dep:infl	_	Analysis=[Conc.Intr]
-10	mi	mi	X	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	8	dep:infl	_	Analysis=[4Sg]
+10	mi	mi	X	_	Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes	8	dep:infl	_	Analysis=[4Sg]
 11	.	.	PUNCT	_	_	8	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch13.gold:9
@@ -3469,7 +3469,7 @@
 6	aqumga	aqumga	VERB	_	_	2	advcl	_	Analysis=aqumga(V)|Gloss=to-be-sitting
 7	ma	ma	VERB	_	Tense=Past	6	aux	_	Analysis=@~:(i/u)ma(V→V)|Gloss=to-have-V-ed
 8	k	k	X	_	Mood=Cnd|Valency=1	7	dep:infl	_	Analysis=[Cond.Intr]
-9	uni	uni	X	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	7	dep:infl	_	Analysis=[4Sg]
+9	uni	uni	X	_	Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes	7	dep:infl	_	Analysis=[4Sg]
 10	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch14.gold:2
@@ -3898,7 +3898,7 @@
 6	aghula	aghula	VERB	_	_	7	xcomp	_	Analysis=aghula(V)|Gloss=to-dance
 7	yug	yug	VERB	_	_	3	advcl	_	Analysis=@~fyug(V→V)|Gloss=to-want-to-V
 8	ya	ya	X	_	Mood=Cn1|Valency=1	7	dep:infl	_	Analysis=[Cnsq1.Intr]
-9	meng	meng	X	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	7	dep:infl	_	Analysis=[4Pl]
+9	meng	meng	X	_	Number[subj]=Plur|Person[subj]=3|Reflex[subj]=Yes	7	dep:infl	_	Analysis=[4Pl]
 10	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch14.gold:27
@@ -3958,7 +3958,7 @@
 13	i	i	VERB	_	_	12	aux	_	Analysis=~i(V→V)|Gloss=to-V-something
 14	na	na	VERB	_	_	13	mark	_	Analysis=@~fna(V→V)|Gloss=in-order-to-V
 15	lu	lu	X	_	Mood=Sbr|Valency=1	14	dep:infl	_	Analysis=[Sbrd.Intr]
-16	ni	ni	X	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	14	dep:infl	_	Analysis=[4Sg]
+16	ni	ni	X	_	Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes	14	dep:infl	_	Analysis=[4Sg]
 17-18	laluwaaymeng	_	_	_	_	_	_	_	Analysis=laluwaaye(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-dried-onion|SpaceAfter=No
 17	laluwaay	laluwaay	NOUN	_	_	12	obl:mod	_	Analysis=laluwaaye(N)|Gloss=dried-onion
 18	meng	meng	X	_	Case=Abl|Number=Sing	17	dep:infl	_	Analysis=[Abl_Mod.Sg]
@@ -3972,7 +3972,7 @@
 2-4	piyugluni	_	_	_	_	_	_	_	Analysis=piyug(V)^[Sbrd.Intr]^[4Sg]|Gloss=walking
 2	piyug	piyug	VERB	_	_	5	advcl	_	Analysis=piyug(V)|Gloss=to-walk
 3	lu	lu	X	_	Mood=Sbr|Valency=1	2	dep:infl	_	Analysis=[Sbrd.Intr]
-4	ni	ni	X	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	2	dep:infl	_	Analysis=[4Sg]
+4	ni	ni	X	_	Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes	2	dep:infl	_	Analysis=[4Sg]
 5-7	aghulaqumalghii	_	_	_	_	_	_	_	Analysis=aghulaqe(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=he-left
 5	aghulaq	aghulaq	VERB	_	_	0	root	_	Analysis=aghulaqe(V)|Gloss=to-leave
 6	uma	uma	VERB	_	Tense=Past	5	aux	_	Analysis=@~:(i/u)ma(V→V)|Gloss=to-have-V-ed
@@ -4044,7 +4044,7 @@
 17	mangtegha	mangtegha	NOUN	_	_	18	obj	_	Analysis=mangteghagh(N)|Gloss=house
 18	ngu	ngu	VERB	_	_	13	advcl	_	Analysis=~:(ng)ite(N→V)|Gloss=to-not-have-N
 19	na	na	X	_	Mood=Sbr|Valency=1	18	dep:infl	_	Analysis=[Sbrd.Intr]
-20	teng	teng	X	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	18	dep:infl	_	Analysis=[4Pl]
+20	teng	teng	X	_	Number[subj]=Plur|Person[subj]=3|Reflex[subj]=Yes	18	dep:infl	_	Analysis=[4Pl]
 21	.	.	PUNCT	_	_	18	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch15.gold:5
@@ -4108,7 +4108,7 @@
 1-3	Meghnughngaaghmeng	_	_	_	_	_	_	_	Analysis=meghnugh(V)^[Conc.Intr]^[4Pl]|Gloss=even-though-they-are-tired
 1	meghnu	meghnu	VERB	_	_	6	advcl	_	Analysis=meghnugh(V)|Gloss=to-be-tired
 2	ghngaagh	ghngaagh	X	_	Mood=Cnc|Valency=1	1	dep:infl	_	Analysis=[Conc.Intr]
-3	meng	meng	X	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	1	dep:infl	_	Analysis=[4Pl]
+3	meng	meng	X	_	Number[subj]=Plur|Person[subj]=3|Reflex[subj]=Yes	1	dep:infl	_	Analysis=[4Pl]
 4-5	yuget	_	_	_	_	_	_	_	Analysis=yug(N)^[Abs.Pl]|Gloss=the-men
 4	yug	yug	NOUN	_	_	6	nsubj	_	Analysis=yug(N)|Gloss=man
 5	et	et	X	_	Case=Abs|Number=Plur	4	dep:infl	_	Analysis=[Abs.Pl]
@@ -4121,7 +4121,7 @@
 10	yaav	yaav	VERB	_	_	6	advcl	_	Analysis=yaave(V)|Gloss=to-row
 11	uma	uma	VERB	_	Tense=Past	10	aux	_	Analysis=@~:(i/u)ma(V→V)|Gloss=to-have-V-ed
 12	lu	lu	X	_	Mood=Sbr|Valency=1	11	dep:infl	_	Analysis=[Sbrd.Intr]
-13	teng	teng	X	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	11	dep:infl	_	Analysis=[4Pl]
+13	teng	teng	X	_	Number[subj]=Plur|Person[subj]=3|Reflex[subj]=Yes	11	dep:infl	_	Analysis=[4Pl]
 14-15	ivenruutek	_	_	_	_	_	_	_	Analysis=ivenruute(N)^[Abs.Du]|Gloss=the-outboard-motor
 14	ivenruute	ivenruute	NOUN	_	_	16	nsubj	_	Analysis=ivenruute(N)|Gloss=outboard-motor
 15	k	k	X	_	Case=Abs|Number=Dual	14	dep:infl	_	Analysis=[Abs.Du]
@@ -4211,7 +4211,7 @@
 13	taghnughha	taghnughha	NOUN	_	_	8	advcl	_	Analysis=taghnughhagh*(N)|Gloss=child
 14	u	u	VERB	_	_	13	cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
 15	gaqnga	gaqnga	X	_	Mood=Cn2|Valency=1	14	dep:infl	_	Analysis=[Cnsq2.Intr]
-16	mi	mi	X	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	14	dep:infl	_	Analysis=[4Sg]
+16	mi	mi	X	_	Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes	14	dep:infl	_	Analysis=[4Sg]
 17	.	.	PUNCT	_	_	13	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch16.gold:1
@@ -4313,7 +4313,7 @@
 14-16	kiyaghtaqngami	_	_	_	_	_	_	_	Analysis=kiyaghte(V)^[Cnsq2.Intr]^[4Sg]|Gloss=living
 14	kiyaght	kiyaght	VERB	_	_	8	advcl	_	Analysis=kiyaghte(V)|Gloss=to-live
 15	aqnga	aqnga	X	_	Mood=Cn2|Valency=1	14	dep:infl	_	Analysis=[Cnsq2.Intr]
-16	mi	mi	X	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	14	dep:infl	_	Analysis=[4Sg]
+16	mi	mi	X	_	Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes	14	dep:infl	_	Analysis=[4Sg]
 17	imani	imani	ADV	_	Case=Loc	14	advmod	_	Analysis=imani(DEM.ADV.Loc)|Gloss=here|SpaceAfter=No
 18	.	.	PUNCT	_	_	14	punct	_	Analysis=.
 
@@ -4561,7 +4561,7 @@
 6	qiya	qiya	VERB	_	_	3	advcl	_	Analysis=qiya(V)|Gloss=to-cry
 7	ma	ma	VERB	_	Tense=Past	6	aux	_	Analysis=@~:(i/u)ma(V→V)|Gloss=to-have-V-ed
 8	lu	lu	X	_	Mood=Sbr|Valency=1	7	dep:infl	_	Analysis=[Sbrd.Intr]
-9	ni	ni	X	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	7	dep:infl	_	Analysis=[4Sg]
+9	ni	ni	X	_	Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes	7	dep:infl	_	Analysis=[4Sg]
 10-11	taagken	_	_	_	_	_	_	_	Analysis=[Anaphor]^aagken(DEM.ADV.Abl_Mod)|Gloss=that-over-there|SpaceAfter=No
 10	t	t	X	_	_	11	dep:ana	_	Analysis=[Anaphor]
 11	aagken	aagken	ADV	_	Case=Abl	6	advmod	_	Analysis=aagken(DEM.ADV.Abl_Mod)|Gloss=that-over-there
@@ -4639,7 +4639,7 @@
 11	inghu	inghu	VERB	_	_	8	advcl	_	Analysis=inghu(V)|Gloss=to-pick-berries
 12	na	na	VERB	_	_	11	mark	_	Analysis=@~fna(V→V)|Gloss=in-order-to-V
 13	lu	lu	X	_	Mood=Sbr|Valency=1	12	dep:infl	_	Analysis=[Sbrd.Intr]
-14	tek	tek	X	_	Number[subj]=Dual|Person[subj]=3|Reflex=Yes	12	dep:infl	_	Analysis=[4Du]
+14	tek	tek	X	_	Number[subj]=Dual|Person[subj]=3|Reflex[subj]=Yes	12	dep:infl	_	Analysis=[4Du]
 15-16	pagunghaghmeng	_	_	_	_	_	_	_	Analysis=pagunghagh*(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-crowberry
 15	pagunghagh	pagunghagh	NOUN	_	_	11	obl:mod	_	Analysis=pagunghagh*(N)|Gloss=crowberry
 16	meng	meng	X	_	Case=Abl|Number=Sing	15	dep:infl	_	Analysis=[Abl_Mod.Sg]
@@ -4677,7 +4677,7 @@
 6-9	naavlunillu	_	_	_	_	_	_	_	Analysis=naave(V)^[Sbrd.Intr]^[4Sg]^\=llu|Gloss=even-breaking|SpaceAfter=No
 6	naav	naav	VERB	_	_	3	advcl	_	Analysis=naave(V)|Gloss=to-break
 7	lu	lu	X	_	Mood=Sbr|Valency=1	6	dep:infl	_	Analysis=[Sbrd.Intr]
-8	ni	ni	X	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	6	dep:infl	_	Analysis=[4Sg]
+8	ni	ni	X	_	Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes	6	dep:infl	_	Analysis=[4Sg]
 9	llu	llu	ADV	_	_	6	advmod	_	Analysis=\=llu|Gloss=also
 10	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
@@ -4788,7 +4788,7 @@
 5	esghaan	esghaan	VERB	_	_	3	advcl	_	Analysis=esghaate(V)|Gloss=to-see-something
 6	na	na	VERB	_	_	5	mark	_	Analysis=@~fna(V→V)|Gloss=in-order-to-V
 7	lu	lu	X	_	Mood=Sbr|Valency=1	6	dep:infl	_	Analysis=[Sbrd.Intr]
-8	ni	ni	X	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	6	dep:infl	_	Analysis=[4Sg]
+8	ni	ni	X	_	Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes	6	dep:infl	_	Analysis=[4Sg]
 9-10	kiighwyameng	_	_	_	_	_	_	_	Analysis=kiighwyagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-aurora|SpaceAfter=No
 9	kiighwya	kiighwya	NOUN	_	_	5	obl:mod	_	Analysis=kiighwyagh(N)|Gloss=aurora
 10	meng	meng	X	_	Case=Abl|Number=Sing	9	dep:infl	_	Analysis=[Abl_Mod.Sg]
@@ -4844,7 +4844,7 @@
 6-8	esghaasameng	_	_	_	_	_	_	_	Analysis=esghaate(V)^[Cnsq1.Intr]^[4Pl]|Gloss=when-they-saw-something
 6	esghaa	esghaa	VERB	_	_	3	advcl	_	Analysis=esghaate(V)|Gloss=to-see-something
 7	sa	sa	X	_	Mood=Cn1|Valency=1	6	dep:infl	_	Analysis=[Cnsq1.Intr]
-8	meng	meng	X	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	6	dep:infl	_	Analysis=[4Pl]
+8	meng	meng	X	_	Number[subj]=Plur|Person[subj]=3|Reflex[subj]=Yes	6	dep:infl	_	Analysis=[4Pl]
 9-10	quutmeng	_	_	_	_	_	_	_	Analysis=qute(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-land|SpaceAfter=No
 9	quut	quut	NOUN	_	_	6	obl:mod	_	Analysis=qute(N)|Gloss=land
 10	meng	meng	X	_	Case=Abl|Number=Sing	9	dep:infl	_	Analysis=[Abl_Mod.Sg]
