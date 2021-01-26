@@ -1,4 +1,4 @@
-# sent_id = Ch3.gold:1
+# sent_id = Jacobson.Ch3.gold:1
 # text = Afsengaq neghtuq pagunghaghmeng.
 # gloss = A mouse ate crowberries.
 # labels = complete-dep anno-hayley
@@ -12,7 +12,7 @@
 6	meng	meng	X	_	Case=Abl|Number=Sing	5	dep:infl	_	Analysis=[Abl_Mod.Sg]
 7	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch3.gold:2
+# sent_id = Jacobson.Ch3.gold:2
 # text = Kaamgek iflaak.
 # gloss = The boots are lost.
 # labels = complete-dep anno-hayley
@@ -25,7 +25,7 @@
 5	k	k	X	_	Number[subj]=Dual|Person[subj]=3	3	dep:infl	_	Analysis=[3Du]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch3.gold:3
+# sent_id = Jacobson.Ch3.gold:3
 # text = Kaamgek iflaak.
 # gloss = He/she lost the boots.
 # labels = complete-dep anno-hayley
@@ -38,7 +38,7 @@
 5	k	k	X	_	Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	3	dep:infl	_	Analysis=[3Sg.3Du]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch3.gold:4
+# sent_id = Jacobson.Ch3.gold:4
 # text = Aqiigukung.
 # gloss = We went on a long trip.
 # labels = complete-dep anno-hayley
@@ -48,7 +48,7 @@
 3	kung	kung	X	_	Number[subj]=Dual|Person[subj]=1	1	dep:infl	_	Analysis=[1Du]
 4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch3.gold:5
+# sent_id = Jacobson.Ch3.gold:5
 # text = Uupameng esghaatut.
 # gloss = They seen sea peaches.
 # labels = complete-dep anno-hayley
@@ -61,7 +61,7 @@
 5	t	t	X	_	Number[subj]=Plur|Person[subj]=3	3	dep:infl	_	Analysis=[3Pl]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch3.gold:6
+# sent_id = Jacobson.Ch3.gold:6
 # text = Ukaziq alinguq kaviighmeng.
 # gloss = The rabbit became afraid of foxes.
 # labels = complete-dep anno-hayley
@@ -75,7 +75,7 @@
 6	meng	meng	X	_	Case=Abl|Number=Sing	5	dep:infl	_	Analysis=[Abl_Mod.Sg]
 7	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch3.gold:7
+# sent_id = Jacobson.Ch3.gold:7
 # text = Laluramka kaatuq Sivungaghmeng.
 # gloss = The white person arried from Savoonga.
 # labels = complete-dep anno-hayley
@@ -89,7 +89,7 @@
 6	meng	meng	X	_	Case=Abl|Number=Sing	5	dep:infl	_	Analysis=[Abl_Mod.Sg]
 7	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch3.gold:8
+# sent_id = Jacobson.Ch3.gold:8
 # text = Aqelqat aghulaat.
 # gloss = The guests danced.
 # labels = complete-dep anno-hayley
@@ -102,7 +102,7 @@
 5	t	t	X	_	Number[subj]=Plur|Person[subj]=3	3	dep:infl	_	Analysis=[3Pl]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch3.gold:9
+# sent_id = Jacobson.Ch3.gold:9
 # text = Tafsi taakuq.
 # gloss = The belt is long.
 # labels = complete-dep anno-hayley
@@ -113,7 +113,7 @@
 4	q	q	X	_	Number[subj]=Plur|Person[subj]=3	2	dep:infl	_	Analysis=[3Sg]
 5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch3.gold:10
+# sent_id = Jacobson.Ch3.gold:10
 # text = Neghtusi ulghaaghmeng.
 # gloss = You all ate sea lion.
 # labels = complete-dep anno-hayley
@@ -126,7 +126,7 @@
 5	meng	meng	X	_	Case=Abl|Number=Sing	4	dep:infl	_	Analysis=[Abl_Mod.Sg]
 6	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch3.gold:11
+# sent_id = Jacobson.Ch3.gold:11
 # text = Naayvameng tagiiq yaywaali.
 # gloss = The orphan came from the lake.
 # labels = complete-dep anno-hayley
@@ -140,7 +140,7 @@
 6	yaywaali	yaywaali	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=yaywaali(N)^[Abs.Sg]|Gloss=the-orphan|SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch3.gold:12
+# sent_id = Jacobson.Ch3.gold:12
 # text = Aghnak qiighwtuk.
 # gloss = The two girls coughed.
 # labels = complete-dep anno-hayley
@@ -153,7 +153,7 @@
 5	k	k	X	_	Number[subj]=Dual|Person[subj]=3	3	dep:infl	_	Analysis=[3Du]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch3.gold:13
+# sent_id = Jacobson.Ch3.gold:13
 # text = Gaaghtut kayumeng.
 # gloss = They cooked sculpin.
 # labels = complete-dep anno-hayley
@@ -166,7 +166,7 @@
 5	meng	meng	X	_	Case=Abl|Number=Sing	4	dep:infl	_	Analysis=[Abl_Mod.Sg]
 6	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch3.gold:14
+# sent_id = Jacobson.Ch3.gold:14
 # text = Qikmit nagatut anipameng.
 # gloss = The dogs heard owls.
 # labels = complete-dep anno-hayley
@@ -182,7 +182,7 @@
 7	meng	meng	X	_	Case=Abl|Number=Sing	6	dep:infl	_	Analysis=[Abl_Mod.Sg]
 8	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch3.gold:15
+# sent_id = Jacobson.Ch3.gold:15
 # text = Qavaghtunga.
 # gloss = I slept.
 # labels = complete-dep anno-hayley
@@ -192,7 +192,7 @@
 3	nga	nga	X	_	Number[subj]=Sing|Person[subj]=1	1	dep:infl	_	Analysis=[1Sg]
 4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch3.gold:16
+# sent_id = Jacobson.Ch3.gold:16
 # text = Taghnughhaat aanut mangteghameng.
 # gloss = The children went out of the house.
 # labels = complete-dep anno-hayley
@@ -208,7 +208,7 @@
 7	meng	meng	X	_	Case=Abl|Number=Sing	6	dep:infl	_	Analysis=[Abl_Mod.Sg]
 8	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:1
+# sent_id = Jacobson.Ch4.gold:1
 # text = Iiska mekestaaghhaaguq.
 # gloss = My eye is small.
 # labels = complete-dep anno-hayley
@@ -221,7 +221,7 @@
 5	q	q	X	_	Number[subj]=Sing|Person[subj]=3	3	dep:infl	_	Analysis=[3Sg]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:2
+# sent_id = Jacobson.Ch4.gold:2
 # text = Apalguunga.
 # gloss = I have a grandfather.
 # labels = complete-dep anno-hayley
@@ -232,7 +232,7 @@
 4	nga	nga	X	_	Number[subj]=Sing|Person[subj]=1	2	dep:infl	_	Analysis=[1Sg]
 5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:3
+# sent_id = Jacobson.Ch4.gold:3
 # text = Ataka angyaghllalguuq.
 # gloss = My father has a large boat.
 # labels = complete-dep anno-hayley
@@ -247,7 +247,7 @@
 7	q	q	X	_	Number[subj]=Sing|Person[subj]=3	5	dep:infl	_	Analysis=[3Sg]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:4
+# sent_id = Jacobson.Ch4.gold:4
 # text = Naan qulmesiitelguuq.
 # gloss = Your mother has a cooking pot.
 # labels = complete-dep anno-hayley
@@ -261,7 +261,7 @@
 6	q	q	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:5
+# sent_id = Jacobson.Ch4.gold:5
 # text = Panigten aghnaghaghllaguut.
 # gloss = Your daughters are big girls.
 # labels = complete-dep anno-hayley
@@ -276,7 +276,7 @@
 7	t	t	X	_	Number[subj]=Plur|Person[subj]=3	5	dep:infl	_	Analysis=[3Pl]
 8	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:6
+# sent_id = Jacobson.Ch4.gold:6
 # text = Ighneghenka gguteghllalguut.
 # gloss = My sons have large teeth.
 # labels = complete-dep anno-hayley
@@ -291,7 +291,7 @@
 7	t	t	X	_	Number[subj]=Plur|Person[subj]=3	5	dep:infl	_	Analysis=[3Pl]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:7
+# sent_id = Jacobson.Ch4.gold:7
 # text = Gguutka seghleghuuq.
 # gloss = My tooth is bad.
 # labels = complete-dep anno-hayley
@@ -304,7 +304,7 @@
 5	q	q	X	_	Number[subj]=Sing|Person[subj]=3	3	dep:infl	_	Analysis=[3Sg]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:8
+# sent_id = Jacobson.Ch4.gold:8
 # text = Qiighwenka taakut.
 # gloss = My white hairs are long.
 # labels = complete-dep anno-hayley
@@ -317,7 +317,7 @@
 5	t	t	X	_	Number[subj]=Plur|Person[subj]=3	3	dep:infl	_	Analysis=[3Pl]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:9
+# sent_id = Jacobson.Ch4.gold:9
 # text = Nengyuqa pinightuq.
 # gloss = My grandmother is good.
 # labels = complete-dep anno-hayley
@@ -330,7 +330,7 @@
 5	q	q	X	_	Number[subj]=Sing|Person[subj]=3	3	dep:infl	_	Analysis=[3Sg]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:10
+# sent_id = Jacobson.Ch4.gold:10
 # text = Eltughaanka qikmilguut.
 # gloss = My grandchildren have a dog.
 # labels = complete-dep anno-hayley
@@ -344,7 +344,7 @@
 6	t	t	X	_	Number[subj]=Plur|Person[subj]=3	4	dep:infl	_	Analysis=[3Pl]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:11
+# sent_id = Jacobson.Ch4.gold:11
 # text = Nuyaqa takestaaghhaaguq.
 # gloss = My hair is short.
 # labels = complete-dep anno-hayley
@@ -357,7 +357,7 @@
 5	q	q	X	_	Number[subj]=Sing|Person[subj]=3	3	dep:infl	_	Analysis=[3Sg]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:12
+# sent_id = Jacobson.Ch4.gold:12
 # text = Aghnaghllaget tagiit mangteghameng.
 # gloss = The large women came from the house.
 # labels = complete-dep anno-hayley
@@ -374,7 +374,7 @@
 8	meng	meng	X	_	Case=Abl|Number=Sing	7	dep:infl	_	Analysis=[Abl_Mod.Sg]
 9	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:13
+# sent_id = Jacobson.Ch4.gold:13
 # text = Qulmesiitka eslequq meghmeng.
 # gloss = My cooking pot became full of water.
 # labels = complete-dep anno-hayley
@@ -390,7 +390,7 @@
 7	meng	meng	X	_	Case=Abl|Number=Sing	6	dep:infl	_	Analysis=[Abl_Mod.Sg]
 8	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:14
+# sent_id = Jacobson.Ch4.gold:14
 # text = Yavlun pinightuq.
 # gloss = Your sweetheart is good.
 # labels = complete-dep anno-hayley
@@ -403,7 +403,7 @@
 5	q	q	X	_	Number[subj]=Sing|Person[subj]=3	3	dep:infl	_	Analysis=[3Sg]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:15
+# sent_id = Jacobson.Ch4.gold:15
 # text = Nanevgaq qiighwllalguuq.
 # gloss = The old man has a big white hair.
 # labels = complete-dep anno-hayley
@@ -416,7 +416,7 @@
 6	q	q	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:16
+# sent_id = Jacobson.Ch4.gold:16
 # text = Laluramkek iyataghtuk.
 # gloss = The two white people are hungry.
 # labels = complete-dep anno-hayley
@@ -429,7 +429,7 @@
 5	k	k	X	_	Number[subj]=Dual|Person[subj]=3	3	dep:infl	_	Analysis=[3Du]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:17
+# sent_id = Jacobson.Ch4.gold:17
 # text = Nunan anigulguuq.
 # gloss = Your land had snow.
 # labels = complete-dep anno-hayley
@@ -443,7 +443,7 @@
 6	q	q	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:18
+# sent_id = Jacobson.Ch4.gold:18
 # text = Kaviighet riigteghllalguut.
 # gloss = The foxes have a big den.
 # labels = complete-dep anno-hayley
@@ -458,7 +458,7 @@
 7	t	t	X	_	Number[subj]=Plur|Person[subj]=3	5	dep:infl	_	Analysis=[3Pl]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:19
+# sent_id = Jacobson.Ch4.gold:19
 # text = Mekelghiighet neghtut neghsameng.
 # gloss = The boys ate seal.
 # labels = complete-dep anno-hayley
@@ -474,7 +474,7 @@
 7	meng	meng	X	_	Case=Abl|Number=Sing	6	dep:infl	_	Analysis=[Abl_Mod.Sg]
 8	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:20
+# sent_id = Jacobson.Ch4.gold:20
 # text = Nengyugka nagatuk qikmighllagmeng.
 # gloss = My grandmothers heard a big dog.
 # labels = complete-dep anno-hayley
@@ -491,7 +491,7 @@
 8	meng	meng	X	_	Case=Abl|Number=Sing	7	dep:infl	_	Analysis=[Abl_Mod.Sg]
 9	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:21
+# sent_id = Jacobson.Ch4.gold:21
 # text = Aawhllaget kuuvut.
 # gloss = The big bloods spilled.
 # labels = complete-dep anno-hayley
@@ -505,7 +505,7 @@
 6	t	t	X	_	Number[subj]=Plur|Person[subj]=3	4	dep:infl	_	Analysis=[3Pl]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:22
+# sent_id = Jacobson.Ch4.gold:22
 # text = Yaywaali iiggeghllalguuq.
 # gloss = The orphan has a big hand.
 # labels = complete-dep anno-hayley
@@ -518,7 +518,7 @@
 6	q	q	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:23
+# sent_id = Jacobson.Ch4.gold:23
 # text = Qikmiiguq.
 # gloss = It is a dog.
 # labels = complete-dep anno-hayley
@@ -529,7 +529,7 @@
 4	q	q	X	_	Number[subj]=Sing|Person[subj]=3	2	dep:infl	_	Analysis=[3Sg]
 5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:24
+# sent_id = Jacobson.Ch4.gold:24
 # text = Ungaziq nunanguuq.
 # gloss = Chaplino is a land.
 # labels = complete-dep anno-hayley
@@ -541,7 +541,7 @@
 5	q	q	X	_	Number[subj]=Sing|Person[subj]=3	3	dep:infl	_	Analysis=[3Sg]
 6	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:25
+# sent_id = Jacobson.Ch4.gold:25
 # text = Kaamgegken taakuk.
 # gloss = Your boots are long.
 # labels = complete-dep anno-hayley
@@ -554,7 +554,7 @@
 5	k	k	X	_	Number[subj]=Dual|Person[subj]=3	3	dep:infl	_	Analysis=[3Du]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:26
+# sent_id = Jacobson.Ch4.gold:26
 # text = Sikigllaget tagiit riigtemeng.
 # gloss = The big squirrels came from the den.
 # labels = complete-dep anno-hayley
@@ -571,7 +571,7 @@
 8	meng	meng	X	_	Case=Abl|Number=Sing	7	dep:infl	_	Analysis=[Abl_Mod.Sg]
 9	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:27
+# sent_id = Jacobson.Ch4.gold:27
 # text = Ukaziq neghtuq vegmeng.
 # gloss = The rabbit ate grass.
 # labels = complete-dep anno-hayley
@@ -585,7 +585,7 @@
 6	meng	meng	X	_	Case=Abl|Number=Sing	5	dep:infl	_	Analysis=[Abl_Mod.Sg]
 7	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:28
+# sent_id = Jacobson.Ch4.gold:28
 # text = Aqelqat Laluramkenguut.
 # gloss = The guests are white people.
 # labels = complete-dep anno-hayley
@@ -599,7 +599,7 @@
 6	t	t	X	_	Number[subj]=Plur|Person[subj]=3	4	dep:infl	_	Analysis=[3Pl]
 7	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:29
+# sent_id = Jacobson.Ch4.gold:29
 # text = Yugllak uginguuq.
 # gloss = The man is a husband.
 # labels = complete-dep anno-hayley
@@ -613,7 +613,7 @@
 6	q	q	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg]
 7	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch4.gold:30
+# sent_id = Jacobson.Ch4.gold:30
 # text = Ighneghten aghulaqut naayvaghllagmeng.
 # gloss = Your sons left from the big lake.
 # labels = incomplete
@@ -630,7 +630,7 @@
 8	meng	meng	X	_	Case=Abl|Number=Sing	7	dep:infl	_	Analysis=[Abl_Mod.Sg]
 9	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:1
+# sent_id = Jacobson.Ch5.gold:1
 # text = Tukuqa neghsameng gaaghaquq.
 # gloss = My host is cooking seal.
 # labels = complete-dep anno-hayley
@@ -647,7 +647,7 @@
 8	q	q	X	_	Number[subj]=Sing|Person[subj]=3	6	dep:infl	_	Analysis=[3Sg]
 9	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:2
+# sent_id = Jacobson.Ch5.gold:2
 # text = Apan naayghamun mayughyugtuq.
 # gloss = Your grandfather wants to climb to the mountain.
 # labels = complete-dep anno-hayley
@@ -664,7 +664,7 @@
 8	q	q	X	_	Number[subj]=Sing|Person[subj]=3	6	dep:infl	_	Analysis=[3Sg]
 9	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:3
+# sent_id = Jacobson.Ch5.gold:3
 # text = Unaami aghulaqsugtunga naayvamun.
 # gloss = I want to leave to the lake tomorrow.
 # labels = complete-dep anno-hayley
@@ -679,7 +679,7 @@
 7	mun	mun	X	_	Case=All|Number=Sing	6	dep:infl	_	Analysis=[All.Sg]
 8	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:4
+# sent_id = Jacobson.Ch5.gold:4
 # text = Kufi kuuvellequq qulmesiitmeng.
 # gloss = The coffee will spill from the cooking pot.
 # labels = complete-dep anno-hayley
@@ -694,7 +694,7 @@
 7	meng	meng	X	_	Case=Abl|Number=Sing	6	dep:infl	_	Analysis=[Abl_Mod.Sg]
 8	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:5
+# sent_id = Jacobson.Ch5.gold:5
 # text = Aanaqukung eslamun.
 # gloss = We both are going outside.
 # labels = complete-dep anno-hayley
@@ -708,7 +708,7 @@
 6	mun	mun	X	_	Case=All|Number=Sing	5	dep:infl	_	Analysis=[All.Sg]
 7	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:6
+# sent_id = Jacobson.Ch5.gold:6
 # text = Aanaqukung eslamun.
 # gloss = We both are going to go outside.
 # labels = complete-dep anno-hayley
@@ -722,7 +722,7 @@
 6	mun	mun	X	_	Case=All|Number=Sing	5	dep:infl	_	Analysis=[All.Sg]
 7	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:7
+# sent_id = Jacobson.Ch5.gold:7
 # text = Aghnaghaat yughaghvigmeng tagiiqut.
 # gloss = The girls are coming from the church.
 # labels = complete-dep anno-hayley
@@ -739,7 +739,7 @@
 8	t	t	X	_	Number[subj]=Plur|Person[subj]=3	6	dep:infl	_	Analysis=[3Pl]
 9	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:8
+# sent_id = Jacobson.Ch5.gold:8
 # text = Yuget elngaatall aqavzigmeng inghuyugtut nunivagmi.
 # gloss = The men really want to pick cloudberries in the tundra.
 # labels = complete-dep anno-hayley
@@ -760,7 +760,7 @@
 11	mi	mi	X	_	Case=Loc|Number=Sing	10	dep:infl	_	Analysis=[Loc.Sg]
 12	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:9
+# sent_id = Jacobson.Ch5.gold:9
 # text = Nayaka qepghaghllequq igaghvigmi.
 # gloss = My sister will work at the school.
 # labels = complete-dep anno-hayley
@@ -777,7 +777,7 @@
 8	mi	mi	X	_	Case=Loc|Number=Sing	7	dep:infl	_	Analysis=[Loc.Sg]
 9	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:10
+# sent_id = Jacobson.Ch5.gold:10
 # text = Aakaan umughqaagaquq.
 # gloss = Your older sister is having sleep paralysis.
 # labels = complete-dep anno-hayley
@@ -791,7 +791,7 @@
 6	q	q	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg]
 7	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:11
+# sent_id = Jacobson.Ch5.gold:11
 # text = Kaannaqut ighneghten.
 # gloss = Your sons are going to arrive.
 # labels = complete-dep anno-hayley
@@ -805,7 +805,7 @@
 6	ten	ten	X	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=2	5	dep:infl	_	Analysis=[Abs.2SgPoss.Pl]
 7	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:12
+# sent_id = Jacobson.Ch5.gold:12
 # text = Ingaghsugtunga.
 # gloss = I want to lay down.
 # labels = complete-dep anno-hayley
@@ -816,7 +816,7 @@
 4	nga	nga	X	_	Number[subj]=Sing|Person[subj]=1	2	dep:infl	_	Analysis=[1Sg]
 5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:13
+# sent_id = Jacobson.Ch5.gold:13
 # text = Ngelqameng neghellequnga unaami.
 # gloss = I will eat cormorant tomorrow.
 # labels = complete-dep anno-hayley
@@ -831,7 +831,7 @@
 7	unaami	unaami	PART	_	_	3	advmod	_	Analysis=unaami(PTCL)|Gloss=tomorrow|SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:14
+# sent_id = Jacobson.Ch5.gold:14
 # text = Tumenka takestaaghhaagut.
 # gloss = My footsteps are short.
 # labels = complete-dep anno-hayley
@@ -844,7 +844,7 @@
 5	t	t	X	_	Number[subj]=Plur|Person[subj]=3	3	dep:infl	_	Analysis=[3Pl]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:15
+# sent_id = Jacobson.Ch5.gold:15
 # text = Ukigaquq yavluka naayghaghmeng.
 # gloss = My sweetheart is climbing down from the mountain.
 # labels = complete-dep anno-hayley
@@ -861,7 +861,7 @@
 8	meng	meng	X	_	Case=Abl|Number=Sing	7	dep:infl	_	Analysis=[Abl_Mod.Sg]
 9	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:16
+# sent_id = Jacobson.Ch5.gold:16
 # text = Estugaq Sivuqami mekestaaghhaaguq.
 # gloss = The store at Gambell is small.
 # labels = complete-dep anno-hayley
@@ -875,7 +875,7 @@
 6	q	q	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch5.gold:17
+# sent_id = Jacobson.Ch5.gold:17
 # text = Qikmigka papegllalguuk.
 # gloss = My two dogs have big tails.
 # labels = complete-dep anno-hayley
@@ -890,7 +890,7 @@
 7	k	k	X	_	Number[subj]=Dual|Person[subj]=3	5	dep:infl	_	Analysis=[3Du]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:1
+# sent_id = Jacobson.Ch6.gold:1
 # text = Qikmiqa neghaquq anipameng.
 # gloss = My dog is eating an owl.
 # labels = complete-dep anno-hayley
@@ -907,7 +907,7 @@
 8	meng	meng	X	_	Case=Abl|Number=Sing	7	dep:infl	_	Analysis=[Abl_Mod.Sg]
 9	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:2
+# sent_id = Jacobson.Ch6.gold:2
 # text = Aghnaghllagem ighneghi neghellequt akuutameng aqavzilegmeng.
 # gloss = The large woman's sons will eat a mixture that has cloudberries.
 # labels = complete-dep anno-hayley
@@ -932,7 +932,7 @@
 14	meng	meng	X	_	Case=Abl|Number=Sing	13	dep:infl	_	Analysis=[Abl_Mod.Sg]
 15	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:3
+# sent_id = Jacobson.Ch6.gold:3
 # text = Yugem qikmii siguteghllalguut.
 # gloss = The man's dogs have big ears.
 # labels = complete-dep anno-hayley
@@ -950,7 +950,7 @@
 9	t	t	X	_	Number[subj]=Plur|Person[subj]=3	7	dep:infl	_	Analysis=[3Pl]
 10	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:4
+# sent_id = Jacobson.Ch6.gold:4
 # text = Atughnaqunga suflugameng.
 # gloss = I am going to use a gun.
 # labels = complete-dep anno-hayley
@@ -964,7 +964,7 @@
 6	meng	meng	X	_	Case=Abl|Number=Sing	5	dep:infl	_	Analysis=[Abl_Mod.Sg]
 7	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:5
+# sent_id = Jacobson.Ch6.gold:5
 # text = Apeghtughistem nulaa iflaaq.
 # gloss = The teacher's tea bag became lost.
 # labels = complete-dep anno-hayley
@@ -978,7 +978,7 @@
 6	q	q	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:6
+# sent_id = Jacobson.Ch6.gold:6
 # text = Aqelqat igleghtaqut Sivuqaghmeng Sivungaghmun.
 # gloss = The guests are travelling from Gambell to Savoonga.
 # labels = complete-dep anno-hayley
@@ -998,7 +998,7 @@
 10	mun	mun	X	_	Case=All|Number=Sing	9	dep:infl	_	Analysis=[All.Sg]
 11	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:7
+# sent_id = Jacobson.Ch6.gold:7
 # text = Siivanlleghet nulughaqut naayvami.
 # gloss = The elders are fishing at the lake.
 # labels = complete-dep anno-hayley
@@ -1015,7 +1015,7 @@
 8	mi	mi	X	_	Case=Loc|Number=Sing	7	dep:infl	_	Analysis=[Loc.Sg]
 9	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:8
+# sent_id = Jacobson.Ch6.gold:8
 # text = Esghaataqukut ighaleqetaaghmeng.
 # gloss = We are seeing stars.
 # labels = complete-dep anno-hayley
@@ -1029,7 +1029,7 @@
 6	meng	meng	X	_	Case=Abl|Number=Sing	5	dep:infl	_	Analysis=[Abl_Mod.Sg]
 7	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:9
+# sent_id = Jacobson.Ch6.gold:9
 # text = Mekelghiighem nengyaa kakiiquq.
 # gloss = The boy's grandmother is sewing.
 # labels = complete-dep anno-hayley
@@ -1044,7 +1044,7 @@
 7	q	q	X	_	Number[subj]=Sing|Person[subj]=3	5	dep:infl	_	Analysis=[3Sg]
 8	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:10
+# sent_id = Jacobson.Ch6.gold:10
 # text = Yughaghtet taghnughhiit aghulayugtut.
 # gloss = The ministers' children want to dance.
 # labels = complete-dep anno-hayley
@@ -1059,7 +1059,7 @@
 7	t	t	X	_	Number[subj]=Plur|Person[subj]=3	5	dep:infl	_	Analysis=[3Pl]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:11
+# sent_id = Jacobson.Ch6.gold:11
 # text = Teghikusat aanaqut riigteghllagmeng.
 # gloss = The animals are going to go out of the big den.
 # labels = complete-dep anno-hayley
@@ -1077,7 +1077,7 @@
 9	meng	meng	X	_	Case=Abl|Number=Sing	8	dep:infl	_	Analysis=[Abl_Mod.Sg]
 10	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:12
+# sent_id = Jacobson.Ch6.gold:12
 # text = Teghikusat aanaqut riigteghllagmeng.
 # gloss = The animals are going out of the big den.
 # labels = complete-dep anno-hayley
@@ -1095,7 +1095,7 @@
 9	meng	meng	X	_	Case=Abl|Number=Sing	8	dep:infl	_	Analysis=[Abl_Mod.Sg]
 10	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:13
+# sent_id = Jacobson.Ch6.gold:13
 # text = Laluramka akuziiquq Yupigestun.
 # gloss = The white person is speaking Yupik.
 # labels = complete-dep anno-hayley
@@ -1110,7 +1110,7 @@
 7	estun	estun	X	_	Case=Equ|Number=Plur	6	dep:infl	_	Analysis=[Equ.Pl]
 8	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:14
+# sent_id = Jacobson.Ch6.gold:14
 # text = Panigegka mesuunanaquk.
 # gloss = My daughters are both going to comb their hair.
 # labels = complete-dep anno-hayley
@@ -1124,7 +1124,7 @@
 6	k	k	X	_	Number[subj]=Dual|Person[subj]=3	4	dep:infl	_	Analysis=[3Du]
 7	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:15
+# sent_id = Jacobson.Ch6.gold:15
 # text = Apanga qayumeng meghaquq.
 # gloss = Her grandfather is drinking a hot beverage.
 # labels = complete-dep anno-hayley
@@ -1141,7 +1141,7 @@
 8	q	q	X	_	Number[subj]=Sing|Person[subj]=3	6	dep:infl	_	Analysis=[3Sg]
 9	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:16
+# sent_id = Jacobson.Ch6.gold:16
 # text = Ighneghten manigmeng neghtut.
 # gloss = Your sons ate eggs.
 # labels = complete-dep anno-hayley
@@ -1157,7 +1157,7 @@
 7	t	t	X	_	Number[subj]=Plur|Person[subj]=3	5	dep:infl	_	Analysis=[3Pl]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:17
+# sent_id = Jacobson.Ch6.gold:17
 # text = Aatghit taakut.
 # gloss = Their names are long.
 # labels = complete-dep anno-hayley
@@ -1170,7 +1170,7 @@
 5	t	t	X	_	Number[subj]=Plur|Person[subj]=3	3	dep:infl	_	Analysis=[3Pl]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:18
+# sent_id = Jacobson.Ch6.gold:18
 # text = Yugem yavlunga qepghaghllequq unaami.
 # gloss = The man's girlfriend will work tomorrow.
 # labels = complete-dep anno-hayley
@@ -1188,7 +1188,7 @@
 9	unaami	unaami	PART	_	_	5	advmod	_	Analysis=unaami(PTCL)|Gloss=tomorrow|SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:19
+# sent_id = Jacobson.Ch6.gold:19
 # text = Esghaatunga lalalameng vegaaghmi.
 # gloss = I saw some dew on the grass.
 # labels = complete-dep anno-hayley
@@ -1204,7 +1204,7 @@
 7	mi	mi	X	_	Case=Loc|Number=Sing	6	dep:infl	_	Analysis=[Loc.Sg]
 8	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:20
+# sent_id = Jacobson.Ch6.gold:20
 # text = Mekelghiighet naangat mangteghami qavaghaquq.
 # gloss = The boys' mother is sleeping in the house.
 # labels = complete-dep anno-hayley
@@ -1224,7 +1224,7 @@
 10	q	q	X	_	Number[subj]=Sing|Person[subj]=3	8	dep:infl	_	Analysis=[3Sg]
 11	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:21
+# sent_id = Jacobson.Ch6.gold:21
 # text = Sikughllagmeng atughnaqunga.
 # gloss = I am going to use a large needle.
 # labels = complete-dep anno-hayley
@@ -1239,7 +1239,7 @@
 7	nga	nga	X	_	Number[subj]=Sing|Person[subj]=1	5	dep:infl	_	Analysis=[1Sg]
 8	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:22
+# sent_id = Jacobson.Ch6.gold:22
 # text = Tengegkayuk kaannaquq Sivuqaghmeng.
 # gloss = A plane is going to arrive from Gambell.
 # labels = complete-dep anno-hayley
@@ -1254,7 +1254,7 @@
 7	meng	meng	X	_	Case=Abl|Number=Sing	6	dep:infl	_	Analysis=[Abl_Mod.Sg]
 8	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:23
+# sent_id = Jacobson.Ch6.gold:23
 # text = Naayvam sikunga seghleghuuq.
 # gloss = The lake's ice is bad.
 # labels = complete-dep anno-hayley
@@ -1270,7 +1270,7 @@
 7	q	q	X	_	Number[subj]=Sing|Person[subj]=3	5	dep:infl	_	Analysis=[3Sg]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:24
+# sent_id = Jacobson.Ch6.gold:24
 # text = Karaket aglaghaqut.
 # gloss = The Koryaks are going home.
 # labels = complete-dep anno-hayley
@@ -1284,7 +1284,7 @@
 6	t	t	X	_	Number[subj]=Plur|Person[subj]=3	4	dep:infl	_	Analysis=[3Pl]
 7	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:25
+# sent_id = Jacobson.Ch6.gold:25
 # text = Yugem walguyaagkek iflaak.
 # gloss = The man's snow shoes are lost.
 # labels = complete-dep anno-hayley
@@ -1300,7 +1300,7 @@
 7	k	k	X	_	Number[subj]=Dual|Person[subj]=3	5	dep:infl	_	Analysis=[3Du]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:26
+# sent_id = Jacobson.Ch6.gold:26
 # text = Yugem walguyaagkek iflaak.
 # gloss = She lost the man's snow shoes.
 # labels = complete-dep anno-hayley
@@ -1316,7 +1316,7 @@
 7	k	k	X	_	Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	5	dep:infl	_	Analysis=[3Sg.3Du]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch6.gold:27
+# sent_id = Jacobson.Ch6.gold:27
 # text = Apeghtughistet nuliighit pagunghaghmeng inghwaaqut.
 # gloss = The teachers' wives are picking crowberries.
 # labels = complete-dep anno-hayley
@@ -1336,7 +1336,7 @@
 10	t	t	X	_	Number[subj]=Plur|Person[subj]=3	8	dep:infl	_	Analysis=[3Pl]
 11	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:1
+# sent_id = Jacobson.Ch7.gold:1
 # text = Gaaghyugaqa ayveghem kemekraga.
 # gloss = I want to cook the walrus's meat.
 # labels = complete-dep anno-hayley
@@ -1353,7 +1353,7 @@
 8	a	a	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	dep:infl	_	Analysis=[Abs.3SgPoss.Sg]
 9	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:2
+# sent_id = Jacobson.Ch7.gold:2
 # text = Pagunghaat aavgii.
 # gloss = She divided the crowberries in two.
 # labels = complete-dep anno-hayley
@@ -1366,7 +1366,7 @@
 5	i	i	X	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	3	dep:infl	_	Analysis=[3Sg.3Pl]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:3
+# sent_id = Jacobson.Ch7.gold:3
 # text = Neghsaq guunnaqaqa.
 # gloss = I am going to shoot the seal.
 # labels = complete-dep anno-hayley
@@ -1378,7 +1378,7 @@
 5	qa	qa	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1	3	dep:infl	_	Analysis=[1Sg.3Sg]
 6	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:4
+# sent_id = Jacobson.Ch7.gold:4
 # text = Qikmima paapga takestaaghhaaguq.
 # gloss = My dog's tail is short.
 # labels = complete-dep anno-hayley
@@ -1394,7 +1394,7 @@
 7	q	q	X	_	Number[subj]=Sing|Person[subj]=3	5	dep:infl	_	Analysis=[3Sg]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:5
+# sent_id = Jacobson.Ch7.gold:5
 # text = Qikmima apeghtughisteka qilugaqaa.
 # gloss = My dog is barking at my teacher.
 # labels = complete-dep anno-hayley
@@ -1411,7 +1411,7 @@
 8	a	a	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	6	dep:infl	_	Analysis=[3Sg.3Sg]
 9	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:6
+# sent_id = Jacobson.Ch7.gold:6
 # text = Yughaghtem nulighhan anengaa aghulaqsugtuq Sivuqaghmeng.
 # gloss = The minister's wife's older brother wants to leave from Gambell.
 # labels = complete-dep anno-hayley
@@ -1434,7 +1434,7 @@
 12	meng	meng	X	_	Case=Abl|Number=Sing	11	dep:infl	_	Analysis=[Abl_Mod.Sg]
 13	.	.	PUNCT	_	_	8	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:7
+# sent_id = Jacobson.Ch7.gold:7
 # text = Qulmesiin lliiqa egllugnun.
 # gloss = I placed the cooking pot onto the stove.
 # labels = complete-dep anno-hayley
@@ -1448,7 +1448,7 @@
 6	nun	nun	X	_	Case=All|Number=Plur	5	dep:infl	_	Analysis=[All.Pl]
 7	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:8
+# sent_id = Jacobson.Ch7.gold:8
 # text = Apeghtughistegpek liilleqii taghnughhaat aatghit.
 # gloss = Your teacher will learn the childrens' names.
 # labels = complete-dep anno-hayley
@@ -1468,7 +1468,7 @@
 10	it	it	X	_	Case=Abs|Number=Plur|Number[psor]=Plur|Person[psor]=3	9	dep:infl	_	Analysis=[Abs.3PlPoss.Pl]
 11	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:9
+# sent_id = Jacobson.Ch7.gold:9
 # text = Qergesa qelpeghtaqa.
 # gloss = I opened a window.
 # labels = complete-dep anno-hayley
@@ -1479,7 +1479,7 @@
 4	qa	qa	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1	2	dep:infl	_	Analysis=[1Sg.3Sg]
 5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:10
+# sent_id = Jacobson.Ch7.gold:10
 # text = Amik uumgaa.
 # gloss = He closed the door.
 # labels = complete-dep anno-hayley
@@ -1490,7 +1490,7 @@
 4	a	a	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	2	dep:infl	_	Analysis=[3Sg.3Sg]
 5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:11
+# sent_id = Jacobson.Ch7.gold:11
 # text = Esghaghlleqamken.
 # gloss = I will see you.
 # labels = complete-dep anno-hayley
@@ -1501,7 +1501,7 @@
 4	mken	mken	X	_	Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=2|Person[subj]=1	2	dep:infl	_	Analysis=[1Sg.2Sg]
 5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:12
+# sent_id = Jacobson.Ch7.gold:12
 # text = Aghnalqwaaghem tugaa nanevgam suflugaa eflugameng.
 # gloss = The old woman took the old man's rifle from the floor.
 # labels = complete-dep anno-hayley
@@ -1523,7 +1523,7 @@
 11	meng	meng	X	_	Case=Abl|Number=Sing	10	dep:infl	_	Analysis=[Abl_Mod.Sg]
 12	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:13
+# sent_id = Jacobson.Ch7.gold:13
 # text = Laalighfiknaqaqa apaka.
 # gloss = I am going to visit my grandfather.
 # labels = complete-dep anno-hayley
@@ -1537,7 +1537,7 @@
 6	ka	ka	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	dep:infl	_	Analysis=[Abs.1SgPoss.Sg]
 7	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:14
+# sent_id = Jacobson.Ch7.gold:14
 # text = Naagpek sikwaan iiynga mekestaaghhaaguq.
 # gloss = Your mother's needle's eye is small.
 # labels = complete-dep anno-hayley
@@ -1554,7 +1554,7 @@
 8	q	q	X	_	Number[subj]=Sing|Person[subj]=3	6	dep:infl	_	Analysis=[3Sg]
 9	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:15
+# sent_id = Jacobson.Ch7.gold:15
 # text = Ighivgaq asagma ighneghan atuqaa angyasqughhaan.
 # gloss = My aunt's son used your small boat yesterday.
 # labels = complete-dep anno-hayley
@@ -1575,7 +1575,7 @@
 11	an	an	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	10	dep:infl	_	Analysis=[Abs.2SgPoss.Sg]
 12	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:16
+# sent_id = Jacobson.Ch7.gold:16
 # text = Nallukaqa panigpek ugingan aatgha.
 # gloss = I don't know your daughter's husband's name.
 # labels = complete-dep anno-hayley
@@ -1594,7 +1594,7 @@
 9	a	a	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	dep:infl	_	Analysis=[Abs.3SgPoss.Sg]
 10	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:17
+# sent_id = Jacobson.Ch7.gold:17
 # text = Tipelegnun llinaqaqa taghnughhaghma neqnga.
 # gloss = I am going to place my child's food on the table.
 # labels = complete-dep anno-hayley
@@ -1614,7 +1614,7 @@
 10	nga	nga	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	dep:infl	_	Analysis=[Abs.3SgPoss.Sg]
 11	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:18
+# sent_id = Jacobson.Ch7.gold:18
 # text = Igamsiqayugvikamken.
 # gloss = I am thankful for you.
 # labels = complete-dep anno-hayley
@@ -1624,7 +1624,7 @@
 3	mken	mken	X	_	Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=2|Person[subj]=1	1	dep:infl	_	Analysis=[1Sg.2Sg]
 4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:19
+# sent_id = Jacobson.Ch7.gold:19
 # text = Tengegkayuget kaanneghitut.
 # gloss = The plane didn't arrive.
 # labels = complete-dep anno-hayley
@@ -1638,7 +1638,7 @@
 6	t	t	X	_	Number[subj]=Plur|Person[subj]=3	4	dep:infl	_	Analysis=[3Pl]
 7	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:20
+# sent_id = Jacobson.Ch7.gold:20
 # text = Ngelqam kemekraga neghenghitaqa.
 # gloss = I didn't eat the cormorant's meat.
 # labels = complete-dep anno-hayley
@@ -1655,7 +1655,7 @@
 8	qa	qa	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1	6	dep:infl	_	Analysis=[1Sg.3Sg]
 9	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch7.gold:21
+# sent_id = Jacobson.Ch7.gold:21
 # text = Mangteghaghllangllaghyugtukut.
 # gloss = We want to make a big house.
 # labels = complete-dep anno-hayley
@@ -1668,7 +1668,7 @@
 6	kut	kut	X	_	Number[subj]=Plur|Person[subj]=1	4	dep:infl	_	Analysis=[1Pl]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch8.gold:1
+# sent_id = Jacobson.Ch8.gold:1
 # text = Sanaqsin?
 # gloss = What are you going to do?
 # labels = complete-dep anno-hayley
@@ -1678,7 +1678,7 @@
 3	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
 4	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:2
+# sent_id = Jacobson.Ch8.gold:2
 # text = Sameng neghelleqesta unaami?
 # gloss = What will we eat tomorrow?
 # labels = complete-dep anno-hayley
@@ -1691,7 +1691,7 @@
 6	unaami	unaami	PART	_	_	2	advmod	_	Analysis=unaami(PTCL)|Gloss=tomorrow|SpaceAfter=No
 7	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:3
+# sent_id = Jacobson.Ch8.gold:3
 # text = Qavngaq kaatetsi Sivuqaghmun?
 # gloss = When did you all arrive at Gambell?
 # labels = complete-dep anno-hayley
@@ -1704,7 +1704,7 @@
 5	mun	mun	X	_	Case=All|Number=Sing	4	dep:infl	_	Analysis=[All.Sg]
 6	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:4
+# sent_id = Jacobson.Ch8.gold:4
 # text = Naken tukfighsiki alquughtaten?
 # gloss = Where did you buy your spoons from?
 # labels = complete-dep anno-hayley
@@ -1718,7 +1718,7 @@
 6	ten	ten	X	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=2	5	dep:infl	_	Analysis=[Abs.2SgPoss.Pl]
 7	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:5
+# sent_id = Jacobson.Ch8.gold:5
 # text = Sangavek iyataghsin?
 # gloss = Why are you hungry?
 # labels = complete-dep anno-hayley
@@ -1728,7 +1728,7 @@
 3	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
 4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:6
+# sent_id = Jacobson.Ch8.gold:6
 # text = Qakun kayusighlleqsikung?
 # gloss = When will you help us both?
 # labels = complete-dep anno-hayley
@@ -1740,7 +1740,7 @@
 5	kung	kung	X	_	Number[obj]=Dual|Number[subj]=Sing|Person[obj]=1|Person[subj]=2	3	dep:infl	_	Analysis=[2Sg.1Du]
 6	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:7
+# sent_id = Jacobson.Ch8.gold:7
 # text = Sangavek meghnughsin?
 # gloss = Why are you tired?
 # labels = complete-dep anno-hayley
@@ -1750,7 +1750,7 @@
 3	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
 4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:8
+# sent_id = Jacobson.Ch8.gold:8
 # text = Qafsinaneng ighnelguzin?
 # gloss = How many sons do you have?
 # labels = complete-dep anno-hayley
@@ -1763,7 +1763,7 @@
 5	zin	zin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	4	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
 6	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:9
+# sent_id = Jacobson.Ch8.gold:9
 # text = Qavngaq liisigu panigma aatgha?
 # gloss = When did you learn my daughter's name?
 # labels = complete-dep anno-hayley
@@ -1780,7 +1780,7 @@
 8	a	a	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	dep:infl	_	Analysis=[Abs.3SgPoss.Sg]
 9	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:10
+# sent_id = Jacobson.Ch8.gold:10
 # text = Qawaagniighsin?
 # gloss = Did you hunt birds?
 # labels = complete-dep anno-hayley
@@ -1789,7 +1789,7 @@
 2	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	1	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
 3	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:11
+# sent_id = Jacobson.Ch8.gold:11
 # text = Navek aghulaqsin?
 # gloss = Where did you leave to?
 # labels = complete-dep anno-hayley
@@ -1799,7 +1799,7 @@
 3	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
 4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:12
+# sent_id = Jacobson.Ch8.gold:12
 # text = Tengegkayugmeng nagatestaak?
 # gloss = Did you hear a plane?
 # labels = complete-dep anno-hayley
@@ -1811,7 +1811,7 @@
 4	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	3	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
 5	?	?	PUNCT	_	_	3	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:13
+# sent_id = Jacobson.Ch8.gold:13
 # text = Esghaghsiki Quyillgaat?
 # gloss = Did you see the Chukchi people?
 # labels = complete-dep anno-hayley
@@ -1824,7 +1824,7 @@
 5	et	et	X	_	Case=Abs|Number=Plur	4	dep:infl	_	Analysis=[Abs.Pl]
 6	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:14
+# sent_id = Jacobson.Ch8.gold:14
 # text = Qakun igleghlleqestung?
 # gloss = When will we take off?
 # labels = complete-dep anno-hayley
@@ -1836,7 +1836,7 @@
 5	ung	ung	X	_	Number[subj]=Dual|Person[subj]=1	3	dep:infl	_	Analysis=[1Du]
 6	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:15
+# sent_id = Jacobson.Ch8.gold:15
 # text = Kinanguzin?
 # gloss = Who are you?
 # labels = complete-dep anno-hayley
@@ -1846,7 +1846,7 @@
 3	zin	zin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
 4	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:16
+# sent_id = Jacobson.Ch8.gold:16
 # text = Kinkungutsi?
 # gloss = Who are you all?
 # labels = complete-dep anno-hayley
@@ -1856,7 +1856,7 @@
 3	tsi	tsi	X	_	Mood=Int|Number[subj]=Plur|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Pl]
 4	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:17
+# sent_id = Jacobson.Ch8.gold:17
 # text = Naken inghuziki pagunghaat?
 # gloss = Where did you pick the crowberries from?
 # labels = complete-dep anno-hayley
@@ -1870,7 +1870,7 @@
 6	at	at	X	_	Case=Abs|Number=Plur	5	dep:infl	_	Analysis=[Abs.Pl]
 7	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:18
+# sent_id = Jacobson.Ch8.gold:18
 # text = Sangan aallgetsi?
 # gloss = Why did you all sweep?
 # labels = complete-dep anno-hayley
@@ -1880,7 +1880,7 @@
 3	etsi	etsi	X	_	Mood=Int|Number[subj]=Plur|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Pl]
 4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:19
+# sent_id = Jacobson.Ch8.gold:19
 # text = Sangan qulmesiitka tuguzigu?
 # gloss = Why did you take my cooking pot?
 # labels = complete-dep anno-hayley
@@ -1894,7 +1894,7 @@
 6	gu	gu	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	4	dep:infl	_	Analysis=[2Sg.3Sg]
 7	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:20
+# sent_id = Jacobson.Ch8.gold:20
 # text = Qakun umeglleqsikek qergesek?
 # gloss = When will you close the window?
 # labels = complete-dep anno-hayley
@@ -1909,7 +1909,7 @@
 7	k	k	X	_	Case=Abs|Number=Dual	6	dep:infl	_	Analysis=[Abs.Du]
 8	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:21
+# sent_id = Jacobson.Ch8.gold:21
 # text = Aghveliighsiin?
 # gloss = Did you cook whale?
 # labels = complete-dep anno-hayley
@@ -1919,7 +1919,7 @@
 3	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
 4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:22
+# sent_id = Jacobson.Ch8.gold:22
 # text = Angyangllaghyugsiin?
 # gloss = Do you want to make a boat?
 # labels = complete-dep anno-hayley
@@ -1930,7 +1930,7 @@
 4	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	3	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
 5	?	?	PUNCT	_	_	3	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:23
+# sent_id = Jacobson.Ch8.gold:23
 # text = Qakun tukfighlleqsikek walguyaagegka?
 # gloss = When will you buy my pair of snow shoes?
 # labels = complete-dep anno-hayley
@@ -1945,7 +1945,7 @@
 7	egka	egka	X	_	Case=Abs|Number=Dual|Number[psor]=Sing|Person[psor]=1	6	dep:infl	_	Analysis=[Abs.1SgPoss.Du]
 8	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:24
+# sent_id = Jacobson.Ch8.gold:24
 # text = Qikmighllalguziin?
 # gloss = Do you have a large dog?
 # labels = complete-dep anno-hayley
@@ -1956,7 +1956,7 @@
 4	zin	zin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	3	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
 5	?	?	PUNCT	_	_	3	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:25
+# sent_id = Jacobson.Ch8.gold:25
 # text = Naken ukigestek?
 # gloss = Where did you two climb down from?
 # labels = complete-dep anno-hayley
@@ -1966,7 +1966,7 @@
 3	estek	estek	X	_	Mood=Int|Number[subj]=Dual|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Du]
 4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:26
+# sent_id = Jacobson.Ch8.gold:26
 # text = Navek mayughestek?
 # gloss = Where did you two climb to?
 # labels = complete-dep anno-hayley
@@ -1976,7 +1976,7 @@
 3	estek	estek	X	_	Mood=Int|Number[subj]=Dual|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Du]
 4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:27
+# sent_id = Jacobson.Ch8.gold:27
 # text = Nani esghaghsigu kaviighem riigtenga?
 # gloss = Where did you see the fox's den?
 # labels = complete-dep anno-hayley
@@ -1993,7 +1993,7 @@
 8	nga	nga	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	dep:infl	_	Analysis=[Abs.3SgPoss.Sg]
 9	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:28
+# sent_id = Jacobson.Ch8.gold:28
 # text = Sangita nalluksiki taghnughhaghma aatghit?
 # gloss = Why don't you know my childrens' names?
 # labels = complete-dep anno-hayley
@@ -2010,7 +2010,7 @@
 8	it	it	X	_	Case=Abs|Number=Plur|Number[psor]=Plur|Person[psor]=3	7	dep:infl	_	Analysis=[Abs.3PlPoss.Pl]
 9	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:29
+# sent_id = Jacobson.Ch8.gold:29
 # text = Nani qavaghestek ighivgaq?
 # gloss = Where did you both sleep at last night?
 # labels = complete-dep anno-hayley
@@ -2021,7 +2021,7 @@
 4	ighivgaq	ighivgaq	PART	_	_	2	advmod	_	Analysis=ighivgaq(PTCL)|Gloss=yesterday|SpaceAfter=No
 5	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:30
+# sent_id = Jacobson.Ch8.gold:30
 # text = Navek llinaqsigu neqeka?
 # gloss = Where are you going to place my food?
 # labels = complete-dep anno-hayley
@@ -2036,7 +2036,7 @@
 7	ka	ka	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	6	dep:infl	_	Analysis=[Abs.1SgPoss.Sg]
 8	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:31
+# sent_id = Jacobson.Ch8.gold:31
 # text = Qavngaq laalighsigu apeghtughisten?
 # gloss = When did you visit your teacher?
 # labels = complete-dep anno-hayley
@@ -2050,7 +2050,7 @@
 6	n	n	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	5	dep:infl	_	Analysis=[Abs.2SgPoss.Sg]
 7	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:32
+# sent_id = Jacobson.Ch8.gold:32
 # text = Sangavek kaanneghisin ighivgaq?
 # gloss = Why didn't you arrive yesterday?
 # labels = complete-dep anno-hayley
@@ -2062,7 +2062,7 @@
 5	ighivgaq	ighivgaq	PART	_	_	2	advmod	_	Analysis=ighivgaq(PTCL)|Gloss=yesterday|SpaceAfter=No
 6	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:33
+# sent_id = Jacobson.Ch8.gold:33
 # text = Qafsinaneng nanughmeng esghaatetsi?
 # gloss = How many polar bears did you all see?
 # labels = complete-dep anno-hayley
@@ -2077,7 +2077,7 @@
 6	tsi	tsi	X	_	Mood=Int|Number[subj]=Plur|Person[subj]=2|Valency=1	5	dep:infl	_	Analysis=[Intrg.Intr.2Pl]
 7	?	?	PUNCT	_	_	5	punct	_	Analysis=?
 
-# sent_id = Ch8.gold:34
+# sent_id = Jacobson.Ch8.gold:34
 # text = Qakun kayusighlleqsinga?
 # gloss = When will you help me?
 # labels = complete-dep anno-hayley
@@ -2089,7 +2089,7 @@
 5	nga	nga	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=2	3	dep:infl	_	Analysis=[2Sg.1Sg]
 6	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:1
+# sent_id = Jacobson.Ch9.gold:1
 # text = Sameng atan ivaghta?
 # gloss = What did your father look for?
 # labels = complete-dep anno-hayley
@@ -2102,7 +2102,7 @@
 5	ta	ta	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[Intrg.Intr]^[3Sg]
 6	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:2
+# sent_id = Jacobson.Ch9.gold:2
 # text = Kinangaawa?
 # gloss = Who is he?
 # labels = complete-dep anno-hayley
@@ -2112,7 +2112,7 @@
 3	awa	awa	X	_	Number[subj]=Sing|Person[subj]=3	2	dep:infl	_	Analysis=[Intrg.Intr]^[3Sg]
 4	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:3
+# sent_id = Jacobson.Ch9.gold:3
 # text = Kinkungaawat aqelqat?
 # gloss = Who are the guests?
 # labels = complete-dep anno-hayley
@@ -2126,7 +2126,7 @@
 6	t	t	X	_	Case=Abs|Number=Plur	5	dep:infl	_	Analysis=[Abs.Pl]
 7	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:4
+# sent_id = Jacobson.Ch9.gold:4
 # text = Kitum qiyastaten?
 # gloss = Who let you cry?
 # labels = complete-dep anno-hayley
@@ -2140,7 +2140,7 @@
 6	ten	ten	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg.2Sg]
 7	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:5
+# sent_id = Jacobson.Ch9.gold:5
 # text = Nengyughpek ighivgaq ungipaghaatagu ighneghaan?
 # gloss = Did your grandmother tell your son a story yesterday?
 # labels = complete-dep anno-hayley
@@ -2157,7 +2157,7 @@
 8	n	n	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	7	dep:infl	_	Analysis=[Abs.2SgPoss.Sg]
 9	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:6
+# sent_id = Jacobson.Ch9.gold:6
 # text = Neghegkaawaa?
 # gloss = Has she eaten?
 # labels = complete-dep anno-hayley
@@ -2167,7 +2167,7 @@
 3	waa	waa	X	_	Number[subj]=Sing|Person[subj]=3	2	dep:infl	_	Analysis=[Intrg.Intr]^[3Sg]
 4	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:7
+# sent_id = Jacobson.Ch9.gold:7
 # text = Nani yughaghtem payeghtagu nuzin?
 # gloss = Where did the minister meet your child's spouse's parent?
 # labels = complete-dep anno-hayley
@@ -2184,7 +2184,7 @@
 8	n	n	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	7	dep:infl	_	Analysis=[Abs.2SgPoss.Sg]
 9	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:8
+# sent_id = Jacobson.Ch9.gold:8
 # text = Naliita qikmima amqeghtaten?
 # gloss = Which one of my dogs bit you?
 # labels = complete-dep anno-hayley
@@ -2200,7 +2200,7 @@
 7	ten	ten	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=2|Person[subj]=3	5	dep:infl	_	Analysis=[3Sg.2Sg]
 8	?	?	PUNCT	_	_	5	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:9
+# sent_id = Jacobson.Ch9.gold:9
 # text = Sangama apeghtughistem esghaghyugtanga?
 # gloss = Why does the teacher want to see me?
 # labels = complete-dep anno-hayley
@@ -2215,7 +2215,7 @@
 7	nga	nga	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3	5	dep:infl	_	Analysis=[3Sg.1Sg]
 8	?	?	PUNCT	_	_	5	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:10
+# sent_id = Jacobson.Ch9.gold:10
 # text = Qavngaq naayvaq sikwaa?
 # gloss = When did the lake freeze?
 # labels = complete-dep anno-hayley
@@ -2226,7 +2226,7 @@
 4	waa	waa	X	_	Number[subj]=Sing|Person[subj]=3	3	dep:infl	_	Analysis=[Intrg.Intr]^[3Sg]
 5	?	?	PUNCT	_	_	3	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:11
+# sent_id = Jacobson.Ch9.gold:11
 # text = Navek naagpek lliiki neqekraget?
 # gloss = Where did your mother place the pilot bread?
 # labels = complete-dep anno-hayley
@@ -2243,7 +2243,7 @@
 8	et	et	X	_	Case=Abs|Number=Plur	7	dep:infl	_	Analysis=[Abs.Pl]
 9	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:12
+# sent_id = Jacobson.Ch9.gold:12
 # text = Kitum kakilleqagu nasaperan?
 # gloss = Who will sew your hat?
 # labels = complete-dep anno-hayley
@@ -2260,7 +2260,7 @@
 8	n	n	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	7	dep:infl	_	Analysis=[Abs.2SgPoss.Sg]
 9	?	?	PUNCT	_	_	3	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:13
+# sent_id = Jacobson.Ch9.gold:13
 # text = Sangan ighneqa ugpeqenghitagu?
 # gloss = Why did't she believe my son?
 # labels = complete-dep anno-hayley
@@ -2275,7 +2275,7 @@
 7	gu	gu	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	5	dep:infl	_	Analysis=[3Sg.3Sg]
 8	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:14
+# sent_id = Jacobson.Ch9.gold:14
 # text = Naliita taghnughhaghpek qaamtagu keneq?
 # gloss = Which of your children extinguish the fire?
 # labels = complete-dep anno-hayley
@@ -2292,7 +2292,7 @@
 8	keneq	keneq	NOUN	_	Case=Abs|Number=Sing	5	obj	_	Analysis=kenegh(N)^[Abs.Sg]|Gloss=fire|SpaceAfter=No
 9	?	?	PUNCT	_	_	5	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:15
+# sent_id = Jacobson.Ch9.gold:15
 # text = Qakun naallghulleqsikek eglluk?
 # gloss = When will you adjust the stove?
 # labels = complete-dep anno-hayley
@@ -2307,7 +2307,7 @@
 7	k	k	X	_	Case=Abs|Number=Dual	6	dep:infl	_	Analysis=[Abs.Du]
 8	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:16
+# sent_id = Jacobson.Ch9.gold:16
 # text = Sangami Nome-emun aghviqaawa?
 # gloss = Why did he travel to Nome?
 # labels = complete-dep anno-hayley
@@ -2321,7 +2321,7 @@
 6	wa	wa	X	_	Number[subj]=Sing|Person[subj]=3	5	dep:infl	_	Analysis=[Intrg.Intr]^[3Sg]
 7	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:17
+# sent_id = Jacobson.Ch9.gold:17
 # text = Naten siku ughugtestagu?
 # gloss = How did she let the ice melt?
 # labels = complete-dep anno-hayley
@@ -2334,7 +2334,7 @@
 6	gu	gu	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg.3Sg]
 7	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:18
+# sent_id = Jacobson.Ch9.gold:18
 # text = Sangaawa?
 # gloss = What is it?
 # labels = complete-dep anno-hayley
@@ -2344,7 +2344,7 @@
 3	wa	wa	X	_	Number[subj]=Sing|Person[subj]=3	2	dep:infl	_	Analysis=[Intrg.Intr]^[3Sg]
 4	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:19
+# sent_id = Jacobson.Ch9.gold:19
 # text = Sangavek iknaqsin?
 # gloss = Why are you strong?
 # labels = complete-dep anno-hayley
@@ -2354,7 +2354,7 @@
 3	sin	sin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Valency=1	2	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
 4	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:20
+# sent_id = Jacobson.Ch9.gold:20
 # text = Naliit alquutama naalkaki?
 # gloss = Which of my spoons did he find?
 # labels = complete-dep anno-hayley
@@ -2370,7 +2370,7 @@
 7	ki	ki	X	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	5	dep:infl	_	Analysis=[3Sg.3Pl]
 8	?	?	PUNCT	_	_	5	punct	_	Analysis=?
 
-# sent_id = Ch9.gold:21
+# sent_id = Jacobson.Ch9.gold:21
 # text = Mekelghiighem qikmimun aghnaghaq qilugtestaa.
 # gloss = The boy let the dog bark at the girl.
 # labels = complete-dep anno-hayley
@@ -2388,7 +2388,7 @@
 9	a	a	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	7	dep:infl	_	Analysis=[3Sg.3Sg]
 10	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch9.gold:22
+# sent_id = Jacobson.Ch9.gold:22
 # text = Kitumun naallghutestesiki mangteghaghpek qergesengi?
 # gloss = Who did he let the house's windows adjust?
 # labels = complete-dep anno-hayley
@@ -2406,7 +2406,7 @@
 9	ngi	ngi	X	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=3	8	dep:infl	_	Analysis=[Abs.3SgPoss.Pl]
 10	?	?	PUNCT	_	_	3	punct	_	Analysis=?
 
-# sent_id = Ch10.gold:1
+# sent_id = Jacobson.Ch10.gold:1
 # text = Igaghyaghqaq egtigu.
 # gloss = Throw the paper away.
 # labels = complete-dep anno-hayley
@@ -2416,7 +2416,7 @@
 3	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	2	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
 4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:2
+# sent_id = Jacobson.Ch10.gold:2
 # text = Neghi ququngameng.
 # gloss = Eat some willow leaves.
 # labels = complete-dep anno-hayley
@@ -2428,7 +2428,7 @@
 4	meng	meng	X	_	Case=Abl|Number=Sing	3	dep:infl	_	Analysis=[Abl_Mod.Sg]
 5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:3
+# sent_id = Jacobson.Ch10.gold:3
 # text = Pugimaaltung kiiwegni.
 # gloss = Let's both swim in the river.
 # labels = complete-dep anno-hayley
@@ -2441,7 +2441,7 @@
 5	egni	egni	X	_	Case=Loc|Number=Dual	4	dep:infl	_	Analysis=[Loc.Du]
 6	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:4
+# sent_id = Jacobson.Ch10.gold:4
 # text = Tugugu qayuusiq tipelegneng.
 # gloss = Take the cup from the table.
 # labels = complete-dep anno-hayley
@@ -2454,7 +2454,7 @@
 5	gneng	gneng	X	_	Case=Abl|Number=Dual	4	dep:infl	_	Analysis=[Abl_Mod.Du]
 6	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:5
+# sent_id = Jacobson.Ch10.gold:5
 # text = Lliki alquutat qulmesiitmun.
 # gloss = Place the spoons to the cooking pot.
 # labels = complete-dep anno-hayley
@@ -2469,7 +2469,7 @@
 6	mun	mun	X	_	Case=All|Number=Sing	5	dep:infl	_	Analysis=[All.Sg]
 7	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:6
+# sent_id = Jacobson.Ch10.gold:6
 # text = Kayusighnga.
 # gloss = Help me.
 # labels = complete-dep anno-hayley
@@ -2478,7 +2478,7 @@
 2	nga	nga	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=2	1	dep:infl	_	Analysis=[Opt.Pres.Trns]^[2Sg.1Sg]
 3	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:7
+# sent_id = Jacobson.Ch10.gold:7
 # text = Unaami aghviilta.
 # gloss = Let's travel out of the island tomorrow.
 # labels = complete-dep anno-hayley
@@ -2489,7 +2489,7 @@
 4	a	a	X	_	Number[subj]=Plur|Person[subj]=1	2	dep:infl	_	Analysis=[1Pl]
 5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:8
+# sent_id = Jacobson.Ch10.gold:8
 # text = Qayuulta kufimeng.
 # gloss = Lets drink coffee.
 # labels = complete-dep anno-hayley
@@ -2502,7 +2502,7 @@
 5	meng	meng	X	_	Case=Abl|Number=Sing	4	dep:infl	_	Analysis=[Abl_Mod.Sg]
 6	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:9
+# sent_id = Jacobson.Ch10.gold:9
 # text = Tagitiki nekreget mangteghamun.
 # gloss = Bring the hooks to the house.
 # labels = complete-dep anno-hayley
@@ -2518,7 +2518,7 @@
 7	mun	mun	X	_	Case=All|Number=Sing	6	dep:infl	_	Analysis=[All.Sg]
 8	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:10
+# sent_id = Jacobson.Ch10.gold:10
 # text = Neghefqaavek quugmeng.
 # gloss = Don't eat drift wood.
 # labels = complete-dep anno-hayley
@@ -2531,7 +2531,7 @@
 5	meng	meng	X	_	Case=Abl|Number=Sing	4	dep:infl	_	Analysis=[Abl_Mod.Sg]
 6	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:11
+# sent_id = Jacobson.Ch10.gold:11
 # text = Laalighfikiikut.
 # gloss = They visited us.
 # labels = complete-dep anno-hayley
@@ -2541,7 +2541,7 @@
 3	inkut	inkut	X	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[subj]=3	1	dep:infl	_	Analysis=[3Sg.1Pl]
 4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:12
+# sent_id = Jacobson.Ch10.gold:12
 # text = Aakw kuuvefqaan.
 # gloss = Don't spill the blood.
 # labels = complete-dep anno-hayley
@@ -2552,7 +2552,7 @@
 4	n	n	X	_	Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=3|Person[subj]=2	2	dep:infl	_	Analysis=[2Sg.3Sg]
 5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:13
+# sent_id = Jacobson.Ch10.gold:13
 # text = Unkusegka atuqefqaagkenka.
 # gloss = Don't use my set of fox trap.
 # labels = complete-dep anno-hayley
@@ -2565,7 +2565,7 @@
 5	gkenka	gkenka	X	_	Number[obj]=Dual|Number[subj]=Sing,Dual,Plur|Person[obj]=3|Person[subj]=2	3	dep:infl	_	Analysis=[2Sg.3Du]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:14
+# sent_id = Jacobson.Ch10.gold:14
 # text = Pumsufqaama.
 # gloss = Don't pinch me.
 # labels = complete-dep anno-hayley
@@ -2575,7 +2575,7 @@
 3	ma	ma	X	_	Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=1|Person[subj]=2	1	dep:infl	_	Analysis=[2Sg.1Sg]
 4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:15
+# sent_id = Jacobson.Ch10.gold:15
 # text = Ukigelta esnamun.
 # gloss = Let's climb down to the shore.
 # labels = complete-dep anno-hayley
@@ -2588,7 +2588,7 @@
 5	mun	mun	X	_	Case=All|Number=Sing	4	dep:infl	_	Analysis=[All.Sg]
 6	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:16
+# sent_id = Jacobson.Ch10.gold:16
 # text = Amaa guutigu.
 # gloss = Shoot the wolf.
 # labels = complete-dep anno-hayley
@@ -2598,7 +2598,7 @@
 3	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	2	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
 4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:17
+# sent_id = Jacobson.Ch10.gold:17
 # text = Keneq qaamtigu.
 # gloss = Extinguish the fire. or Shut off the light.
 # labels = complete-dep anno-hayley
@@ -2608,7 +2608,7 @@
 3	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	2	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
 4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:18
+# sent_id = Jacobson.Ch10.gold:18
 # text = Qergesek umegkek.
 # gloss = Close the window.
 # labels = complete-dep anno-hayley
@@ -2620,7 +2620,7 @@
 4	kek	kek	X	_	Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	3	dep:infl	_	Analysis=[Opt.Pres.Trns]^[2Sg.3Du]
 5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:19
+# sent_id = Jacobson.Ch10.gold:19
 # text = Amiget qelpeghtiki.
 # gloss = Open the doors.
 # labels = complete-dep anno-hayley
@@ -2633,7 +2633,7 @@
 5	ki	ki	X	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	3	dep:infl	_	Analysis=[2Sg.3Pl]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:20
+# sent_id = Jacobson.Ch10.gold:20
 # text = Tuqutefqaan puugzaq.
 # gloss = Don't kill the beluga.
 # labels = complete-dep anno-hayley
@@ -2644,7 +2644,7 @@
 4	puugzaq	puugzaq	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=puugzagh(N)^[Abs.Sg]|Gloss=the-beluga|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:21
+# sent_id = Jacobson.Ch10.gold:21
 # text = Kaamwaaghmeng neghefqaavek.
 # gloss = Don't eat coltsfoot.
 # labels = complete-dep anno-hayley
@@ -2657,7 +2657,7 @@
 5	vek	vek	X	_	Number[subj]=Sing|Person[subj]=2	3	dep:infl	_	Analysis=[2Sg]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:22
+# sent_id = Jacobson.Ch10.gold:22
 # text = Tagitiki quuget esnameng.
 # gloss = Bring the wood over from the beach.
 # labels = complete-dep anno-hayley
@@ -2673,7 +2673,7 @@
 7	meng	meng	X	_	Case=Abl|Number=Sing	6	dep:infl	_	Analysis=[Abl_Mod.Sg]
 8	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:23
+# sent_id = Jacobson.Ch10.gold:23
 # text = Latakaagunga yughaghtemun.
 # gloss = I wrote a letter to the ministers.
 # labels = complete-dep anno-hayley
@@ -2687,7 +2687,7 @@
 6	mun	mun	X	_	Case=All|Number=Sing	5	dep:infl	_	Analysis=[All.Sg]
 7	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:24
+# sent_id = Jacobson.Ch10.gold:24
 # text = Kaaskaagut.
 # gloss = We have arrived.
 # labels = complete-dep anno-hayley
@@ -2698,7 +2698,7 @@
 4	t	t	X	_	Number[subj]=Plur|Person[subj]=3	2	dep:infl	_	Analysis=[3Pl]
 5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch10.gold:25
+# sent_id = Jacobson.Ch10.gold:25
 # text = Taaghtam aghnamun qayunghitesqaa kufi.
 # gloss = The doctor prevented the woman to drink the coffee.
 # labels = complete-dep anno-hayley
@@ -2717,7 +2717,7 @@
 10	kufi	kufi	NOUN	_	Case=Abs|Number=Sing	5	obj	_	Analysis=kufi(N)^[Abs.Sg]|Gloss=coffee|SpaceAfter=No
 11	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:1
+# sent_id = Jacobson.Ch11.gold:1
 # text = Naagpek sagnegha pagunghalighnaqaqa.
 # gloss = I am going to add crowberries in your mother's bowl.
 # labels = complete-dep anno-hayley
@@ -2735,7 +2735,7 @@
 9	qa	qa	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1	7	dep:infl	_	Analysis=[1Sg.3Sg]
 10	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:2
+# sent_id = Jacobson.Ch11.gold:2
 # text = Taghnughhaq qinuyulghii iitghumaaq apami mangteghaanun.
 # gloss = The sick child went into his grandfather's house.
 # labels = complete-dep anno-hayley
@@ -2756,7 +2756,7 @@
 11	anun	anun	X	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	dep:infl	_	Analysis=[All.3SgPoss.Sg]
 12	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:3
+# sent_id = Jacobson.Ch11.gold:3
 # text = Yugem inimakanga veglluk eslami.
 # gloss = The man hung the towel outdoors.
 # labels = complete-dep anno-hayley
@@ -2774,7 +2774,7 @@
 9	mi	mi	X	_	Case=Loc|Number=Sing	8	dep:infl	_	Analysis=[Loc.Sg]
 10	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:4
+# sent_id = Jacobson.Ch11.gold:4
 # text = Aqelqat aghulaqumalghiit Ungazimun.
 # gloss = The guest left to Chaplino.
 # labels = complete-dep anno-hayley
@@ -2791,7 +2791,7 @@
 8	mun	mun	X	_	Case=All|Number=Sing	7	dep:infl	_	Analysis=[All.Sg]
 9	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:5
+# sent_id = Jacobson.Ch11.gold:5
 # text = Aghnam avaqutaminun sangighqiisqumakangi sagneghet.
 # gloss = The woman let her children wash the dishes.
 # labels = complete-dep anno-hayley
@@ -2812,7 +2812,7 @@
 11	et	et	X	_	Case=Abs|Number=Plur	10	dep:infl	_	Analysis=[Abs.Pl]
 12	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:6
+# sent_id = Jacobson.Ch11.gold:6
 # text = Siqinghem ghevesimakanga veglluk kavilnguq.
 # gloss = The sun made the red towel fade.
 # labels = complete-dep anno-hayley
@@ -2831,7 +2831,7 @@
 10	nguq	nguq	NOUN	_	Case=Abs|Number=Sing	8	nmod	_	Analysis=@ngugh(V→N)^[Abs.Sg]|Gloss=one-that-is-V
 11	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:7
+# sent_id = Jacobson.Ch11.gold:7
 # text = Para ughugumaaq.
 # gloss = The butter melted.
 # labels = complete-dep anno-hayley
@@ -2843,7 +2843,7 @@
 5	q	q	X	_	Number[subj]=Sing|Person[subj]=3	3	dep:infl	_	Analysis=[3Sg]
 6	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:8
+# sent_id = Jacobson.Ch11.gold:8
 # text = Tengegkayuget sukalnguut nalugnaqut naayvam qaayngakun.
 # gloss = The fast plane is going to land on top of the lake.
 # labels = complete-dep anno-hayley
@@ -2867,7 +2867,7 @@
 13	ngakun	ngakun	X	_	Case=Per|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	dep:infl	_	Analysis=[Prl.3SgPoss.Sg]
 14	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:9
+# sent_id = Jacobson.Ch11.gold:9
 # text = Gaaghutaa ugini nanuum kemekraganeng.
 # gloss = She cooked polar bear meat for her husband.
 # labels = complete-dep anno-hayley
@@ -2887,7 +2887,7 @@
 10	aneng	aneng	X	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	dep:infl	_	Analysis=[Abl_Mod.3SgPoss.Sg]
 11	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:10
+# sent_id = Jacobson.Ch11.gold:10
 # text = Qergesek qelpeghsimaak.
 # gloss = The window has been opened.
 # labels = complete-dep anno-hayley
@@ -2901,7 +2901,7 @@
 6	k	k	X	_	Number[subj]=Dual|Person[subj]=3	4	dep:infl	_	Analysis=[3Du]
 7	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:11
+# sent_id = Jacobson.Ch11.gold:11
 # text = Quyillget mayuulleqiit salngaget naayghamun.
 # gloss = The Chukchis will climb up the mountain brining the boxes.
 # labels = complete-dep anno-hayley
@@ -2922,7 +2922,7 @@
 11	mun	mun	X	_	Case=All|Number=Sing	10	dep:infl	_	Analysis=[All.Sg]
 12	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:12
+# sent_id = Jacobson.Ch11.gold:12
 # text = Estugam eflugaa aallgumaaq.
 # gloss = The store's floor has been swept.
 # labels = complete-dep anno-hayley
@@ -2939,7 +2939,7 @@
 8	q	q	X	_	Number[subj]=Sing|Person[subj]=3	6	dep:infl	_	Analysis=[3Sg]
 9	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:13
+# sent_id = Jacobson.Ch11.gold:13
 # text = Siivanlleghem mekelghiighmun paaghtestii alquutat.
 # gloss = The elder let the boy lick clean the spoons.
 # labels = complete-dep anno-hayley
@@ -2959,7 +2959,7 @@
 10	t	t	X	_	Case=Abs|Number=Plur	9	dep:infl	_	Analysis=[Abs.Pl]
 11	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:14
+# sent_id = Jacobson.Ch11.gold:14
 # text = Esghaatunga Purekimeng teflilegmeng esnami.
 # gloss = I seen a black person with dirty mouth (food particles) at the beach.
 # labels = complete-dep anno-hayley
@@ -2979,7 +2979,7 @@
 10	mi	mi	X	_	Case=Loc|Number=Sing	9	dep:infl	_	Analysis=[Loc.Sg]
 11	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:15
+# sent_id = Jacobson.Ch11.gold:15
 # text = Awataghpak ghhuughumaken.
 # gloss = It turns out you had blown the float.
 # labels = complete-dep anno-hayley
@@ -2991,7 +2991,7 @@
 5	n	n	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	3	dep:infl	_	Analysis=[2Sg.3Sg]
 6	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:16
+# sent_id = Jacobson.Ch11.gold:16
 # text = Akitutaqukung igaghvigmi quunpeng.
 # gloss = We always answer each other at the school.
 # labels = complete-dep anno-hayley
@@ -3007,7 +3007,7 @@
 8	quunpeng	quunpeng	PART	_	_	1	advmod	_	Analysis=quunpeng(PTCL)|Gloss=always|SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:17
+# sent_id = Jacobson.Ch11.gold:17
 # text = Apeghtughistem tuunelleqii tuquuqat taaghtamun suflugalegmun naavngalghiimeng.
 # gloss = The teacher will give the nails to the doctor with a broken gun.
 # labels = complete-dep anno-hayley
@@ -3036,7 +3036,7 @@
 17	meng	meng	X	_	Case=Abl|Number=Sing	16	dep:infl	_	Analysis=[Abl_Mod.Sg]
 18	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:18
+# sent_id = Jacobson.Ch11.gold:18
 # text = Atiimaaq tukumtung eltughaa.
 # gloss = Our host's grandchild has been named.
 # labels = complete-dep anno-hayley
@@ -3053,7 +3053,7 @@
 8	a	a	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	dep:infl	_	Analysis=[Abs.3SgPoss.Sg]
 9	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:19
+# sent_id = Jacobson.Ch11.gold:19
 # text = Karakem Quyillegtilghiim neghyugaa nefkuuraq.
 # gloss = The Koryak who is speaking Chukchi wants to eat the dried meat.
 # labels = complete-dep anno-hayley
@@ -3072,7 +3072,7 @@
 10	nefkuuraq	nefkuuraq	NOUN	_	Case=Abs|Number=Sing	7	obj	_	Analysis=nefkuuragh(N)^[Abs.Sg]|Gloss=dried-meat|SpaceAfter=No
 11	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch11.gold:20
+# sent_id = Jacobson.Ch11.gold:20
 # text = Aghnaghaam aghmilghiim atuqnaqaa vegllugen.
 # gloss = The girl who is washing her face will use your towel.
 # labels = complete-dep anno-hayley
@@ -3093,7 +3093,7 @@
 11	en	en	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	10	dep:infl	_	Analysis=[Abs.2SgPoss.Sg]
 12	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch12.gold:1
+# sent_id = Jacobson.Ch12.gold:1
 # text = Allakaghmeng aanumalghiit mangteghameng.
 # gloss = They had gone out of the house separately.
 # labels = complete-dep anno-hayley
@@ -3110,7 +3110,7 @@
 8	meng	meng	X	_	Case=Abl|Number=Sing	7	dep:infl	_	Analysis=[Abl_Mod.Sg]
 9	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch12.gold:2
+# sent_id = Jacobson.Ch12.gold:2
 # text = Neghaqa perara ellnginaan.
 # gloss = I ate the meat aspic only.
 # labels = complete-dep anno-hayley
@@ -3124,7 +3124,7 @@
 6	an	an	X	_	Number[subj]=Sing|Person[subj]=3	5	dep:infl	_	Analysis=[3Sg]
 7	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch12.gold:3
+# sent_id = Jacobson.Ch12.gold:3
 # text = Sangavek atightughaqsin ingaghngaghpek eflugami?
 # gloss = Why are you reading laying on your back on the floor?
 # labels = complete-dep anno-hayley
@@ -3142,7 +3142,7 @@
 9	mi	mi	X	_	Case=Loc|Number=Sing	8	dep:infl	_	Analysis=[Loc.Sg]
 10	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch12.gold:4
+# sent_id = Jacobson.Ch12.gold:4
 # text = Aghnalqwaaghaq kakilghii atkugmeng avaqutami mangteghaanituq.
 # gloss = The old woman sewing a parka is in her child's house.
 # labels = complete-dep anno-hayley unsure-8-12
@@ -3164,7 +3164,7 @@
 12	q	q	X	_	Number[subj]=Sing|Person[subj]=3	10	dep:infl	_	Analysis=[3Sg]
 13	.	.	PUNCT	_	_	10	punct	_	Analysis=.
 
-# sent_id = Ch12.gold:5
+# sent_id = Jacobson.Ch12.gold:5
 # text = Qefliqelghiim yugem seghleghunii tanpeq atuqnaqegkeni.
 # gloss = The mad man said the dried walrus skin he was going to use is bad.
 # labels = complete-dep anno-hayley unsure-10-13
@@ -3187,7 +3187,7 @@
 13	ni	ni	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	12	dep:infl	_	Analysis=[Abs.4SgPoss.Sg]
 14	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch12.gold:6
+# sent_id = Jacobson.Ch12.gold:6
 # text = Ighneghma qughsatkumun qazigyat neghumaniit.
 # gloss = My sons said the king polar bear ate the spotted seals.
 # labels = complete-dep anno-hayley
@@ -3207,7 +3207,7 @@
 10	it	it	X	_	Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3	9	dep:infl	_	Analysis=[Ind.Trns]^[3Pl.3Pl]
 11	.	.	PUNCT	_	_	9	punct	_	Analysis=.
 
-# sent_id = Ch12.gold:7
+# sent_id = Jacobson.Ch12.gold:7
 # text = Ullghitak mumigngalghiik tukfighlleqagka.
 # gloss = I will buy the vehicle that is upside down.
 # labels = complete-dep anno-hayley
@@ -3226,7 +3226,7 @@
 10	gka	gka	X	_	Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=1	8	dep:infl	_	Analysis=[1Sg.3Du]
 11	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch12.gold:8
+# sent_id = Jacobson.Ch12.gold:8
 # text = Ilangquq salngagegnituq.
 # gloss = The fresh ice is in the box.
 # labels = complete-dep anno-hayley
@@ -3239,7 +3239,7 @@
 6	q	q	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch12.gold:9
+# sent_id = Jacobson.Ch12.gold:9
 # text = Atkugen kavilnguq whaantuq.
 # gloss = Your red parka is here.
 # labels = complete-dep anno-hayley
@@ -3255,7 +3255,7 @@
 7	q	q	X	_	Number[subj]=Sing|Person[subj]=3	5	dep:infl	_	Analysis=[3Sg]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch12.gold:10
+# sent_id = Jacobson.Ch12.gold:10
 # text = Naaka kakiiq ellnginaghmi.
 # gloss = My mother sewed alone.
 # labels = complete-dep anno-hayley
@@ -3271,7 +3271,7 @@
 7	mi	mi	X	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	6	dep:infl	_	Analysis=[4Sg]
 8	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch12.gold:11
+# sent_id = Jacobson.Ch12.gold:11
 # text = Qerngaghmeng mekelghiighet mataghmeng pugimaghaqut.
 # gloss = The boys are swimming together with their clothes off.
 # labels = complete-dep anno-hayley
@@ -3291,7 +3291,7 @@
 10	t	t	X	_	Number[subj]=Plur|Person[subj]=3	8	dep:infl	_	Analysis=[3Pl]
 11	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch12.gold:12
+# sent_id = Jacobson.Ch12.gold:12
 # text = Agniqelghii aghnaghumeng neghegkayuguuq.
 # gloss = The woman that is mad can eat sea apples.
 # labels = complete-dep anno-hayley
@@ -3308,7 +3308,7 @@
 8	q	q	X	_	Number[subj]=Sing|Person[subj]=3	6	dep:infl	_	Analysis=[3Sg]
 9	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch13.gold:1
+# sent_id = Jacobson.Ch13.gold:1
 # text = Neghtunga pangeghfagilgama.
 # gloss = I ate before I went to Chukotka.
 # labels = complete-dep anno-hayley
@@ -3322,7 +3322,7 @@
 6	ma	ma	X	_	Number[subj]=Sing|Person[subj]=1	4	dep:infl	_	Analysis=[1Sg]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch13.gold:2
+# sent_id = Jacobson.Ch13.gold:2
 # text = Sangavek iyataghsin negheghnaaghpek?
 # gloss = Why are you hungry even though you ate?
 # labels = complete-dep anno-hayley
@@ -3336,7 +3336,7 @@
 6	pek	pek	X	_	Number[subj]=Sing|Person[subj]=2	4	dep:infl	_	Analysis=[2Sg]
 7	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
-# sent_id = Ch13.gold:3
+# sent_id = Jacobson.Ch13.gold:3
 # text = Ungipaateghngaaghpenga puywaaqa nuliighpek aatgha.
 # gloss = Even though you told me, I forgot your wife's name.
 # labels = complete-dep anno-hayley
@@ -3356,7 +3356,7 @@
 10	a	a	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	dep:infl	_	Analysis=[Abs.3SgPoss.Sg]
 11	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch13.gold:4
+# sent_id = Jacobson.Ch13.gold:4
 # text = Quginakanka uyviinghet kaatfagilgata.
 # gloss = I am spooked out from the evil-doing shamans before they arrive.
 # labels = complete-dep anno-hayley
@@ -3374,7 +3374,7 @@
 9	ta	ta	X	_	Number[subj]=Plur|Person[subj]=3	7	dep:infl	_	Analysis=[3Pl]
 10	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch13.gold:5
+# sent_id = Jacobson.Ch13.gold:5
 # text = Esghaatunga retwhatmeng siilumeng.
 # gloss = I seen a brass canon.
 # labels = complete-dep anno-hayley
@@ -3390,7 +3390,7 @@
 7	meng	meng	X	_	Case=Abl|Number=Sing	6	dep:infl	_	Analysis=[Abl_Mod.Sg]
 8	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch13.gold:6
+# sent_id = Jacobson.Ch13.gold:6
 # text = Qikmilguyugtunga kalilmeng.
 # gloss = I want to have a dog of dalmation.
 # labels = complete-dep anno-hayley
@@ -3405,7 +3405,7 @@
 7	meng	meng	X	_	Case=Abl|Number=Sing	6	dep:infl	_	Analysis=[Abl_Mod.Sg]
 8	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch13.gold:7
+# sent_id = Jacobson.Ch13.gold:7
 # text = Qavngaq kiyaghtetsi Ungazimi?
 # gloss = When did you live at Chaplino?
 # labels = complete-dep anno-hayley
@@ -3418,7 +3418,7 @@
 5	mi	mi	X	_	Case=Loc|Number=Sing	4	dep:infl	_	Analysis=[Loc.Sg]
 6	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 
-# sent_id = Ch13.gold:8
+# sent_id = Jacobson.Ch13.gold:8
 # text = Mekelghiiq aanumalghii mangteghameng amsikaghngaghngaaghmi.
 # gloss = The boy apparently went out of the house even though he was naked.
 # labels = complete-dep anno-hayley
@@ -3437,7 +3437,7 @@
 10	mi	mi	X	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	8	dep:infl	_	Analysis=[4Sg]
 11	.	.	PUNCT	_	_	8	punct	_	Analysis=.
 
-# sent_id = Ch13.gold:9
+# sent_id = Jacobson.Ch13.gold:9
 # text = Sarigpek amqeghhneghitaanga qilugngaaghminga.
 # gloss = Your setter dog didn't bite me, even though it barked at me.
 # labels = complete-dep anno-hayley
@@ -3455,7 +3455,7 @@
 9	aghminga	aghminga	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Reflex[subj]=Yes	7	dep:infl	_	Analysis=[4Sg.1Sg]
 10	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:1
+# sent_id = Jacobson.Ch14.gold:1
 # text = Taghnughhaq qapragllequq aqumgamakuni.
 # gloss = The child will move around if he will remain sitting.
 # labels = complete-dep anno-hayley
@@ -3472,7 +3472,7 @@
 9	uni	uni	X	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	7	dep:infl	_	Analysis=[4Sg]
 10	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:2
+# sent_id = Jacobson.Ch14.gold:2
 # text = Ighneqa qiyaaq aghyuughyavgu.
 # gloss = My son cried when you scolded him.
 # labels = complete-dep anno-hayley
@@ -3489,7 +3489,7 @@
 8	vgu	vgu	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Reflex[obj]=Yes	6	dep:infl	_	Analysis=[2Sg.4Sg]
 9	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:3
+# sent_id = Jacobson.Ch14.gold:3
 # text = Iikwan elqwaaghniighhaakut.
 # gloss = Let's pick seaweed when it becomes low tide.
 # labels = complete-dep anno-hayley
@@ -3504,7 +3504,7 @@
 7	akut	akut	X	_	Number[subj]=Plur|Person[subj]=1	5	dep:infl	_	Analysis=[1Pl]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:4
+# sent_id = Jacobson.Ch14.gold:4
 # text = Avaqutanka naghaaghaqut eslami anuqlighngaan.
 # gloss = My children are playing out, outside even though it is windy.
 # labels = complete-dep anno-hayley
@@ -3525,7 +3525,7 @@
 11	an	an	X	_	Number[subj]=Sing|Person[subj]=3	9	dep:infl	_	Analysis=[3Sg]
 12	.	.	PUNCT	_	_	9	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:5
+# sent_id = Jacobson.Ch14.gold:5
 # text = Tagiiqngan alikaqa.
 # gloss = When he/she/it came, I was afraid of it.
 # labels = complete-dep anno-hayley
@@ -3539,7 +3539,7 @@
 6	qa	qa	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1	4	dep:infl	_	Analysis=[1Sg.3Sg]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:6
+# sent_id = Jacobson.Ch14.gold:6
 # text = Iyataamakuvek neghigu ighaluqaq.
 # gloss = If you are hungry, eat the aged auklet.
 # labels = complete-dep anno-hayley
@@ -3554,7 +3554,7 @@
 7	ighaluqaq	ighaluqaq	NOUN	_	Case=Abs|Number=Sing	5	obj	_	Analysis=ighaluqagh(N)^[Abs.Sg]|Gloss=the-aged-auklet|SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:7
+# sent_id = Jacobson.Ch14.gold:7
 # text = Piyugtukung eslallugughteghngaan qayughllak ullghitagpung naavumaftuk.
 # gloss = We walked even though it was raining, because it turns out our vehicle broke.
 # labels = complete-dep anno-hayley
@@ -3577,7 +3577,7 @@
 13	k	k	X	_	Number[subj]=Dual|Person[subj]=3	11	dep:infl	_	Analysis=[3Du]
 14	.	.	PUNCT	_	_	10	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:8
+# sent_id = Jacobson.Ch14.gold:8
 # text = Aghvightesugiinkut iikwan.
 # gloss = He wants us to cross when it becomes low tide.
 # labels = complete-dep anno-hayley
@@ -3592,7 +3592,7 @@
 7	an	an	X	_	Number[subj]=Sing|Person[subj]=3	5	dep:infl	_	Analysis=[3Sg]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:9
+# sent_id = Jacobson.Ch14.gold:9
 # text = Esghaghyagu quyaaq.
 # gloss = When he seen it, she became happy.
 # labels = complete-dep anno-hayley
@@ -3606,7 +3606,7 @@
 6	q	q	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:10
+# sent_id = Jacobson.Ch14.gold:10
 # text = Esghaghyamigu quyaaq.
 # gloss = When he seen her, he became happy.
 # labels = complete-dep anno-hayley
@@ -3620,7 +3620,7 @@
 6	q	q	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:11
+# sent_id = Jacobson.Ch14.gold:11
 # text = Esghaghyatni quyaaq.
 # gloss = When she seen him, he became happy.
 # labels = complete-dep anno-hayley
@@ -3634,7 +3634,7 @@
 6	q	q	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:12
+# sent_id = Jacobson.Ch14.gold:12
 # text = Qavaghniinga laalightaqngavnga.
 # gloss = I became sleepy while you were visiting me.
 # labels = complete-dep anno-hayley
@@ -3648,7 +3648,7 @@
 6	vnga	vnga	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=2	4	dep:infl	_	Analysis=[2Sg.1Sg]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:13
+# sent_id = Jacobson.Ch14.gold:13
 # text = Taghnughhaq qiyaaq naanga aanyan.
 # gloss = The child cried when her mother went out.
 # labels = complete-dep anno-hayley
@@ -3666,7 +3666,7 @@
 9	n	n	X	_	Number[subj]=Sing|Person[subj]=3	7	dep:infl	_	Analysis=[3Sg]
 10	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:14
+# sent_id = Jacobson.Ch14.gold:14
 # text = Neghenghilkuvek iyataghllequten.
 # gloss = If you don't eat, you will get hungy.
 # labels = complete-dep anno-hayley
@@ -3682,7 +3682,7 @@
 8	ten	ten	X	_	Number[subj]=Sing|Person[subj]=2	6	dep:infl	_	Analysis=[2Sg]
 9	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:15
+# sent_id = Jacobson.Ch14.gold:15
 # text = Qepghanghitunga iflayamkun repaka.
 # gloss = I didn't work, when I lost my hammer.
 # labels = complete-dep anno-hayley
@@ -3700,7 +3700,7 @@
 9	ka	ka	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	8	dep:infl	_	Analysis=[Abs.1SgPoss.Sg]
 10	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:16
+# sent_id = Jacobson.Ch14.gold:16
 # text = Quyallequnga kayusiquvnga.
 # gloss = I will be happy, if you help me.
 # labels = complete-dep anno-hayley
@@ -3715,7 +3715,7 @@
 7	uvnga	uvnga	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=2	5	dep:infl	_	Analysis=[2Sg.1Sg]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:17
+# sent_id = Jacobson.Ch14.gold:17
 # text = Taghnughhaat quyaat atangat kaasan.
 # gloss = The children became happy when their father arrived.
 # labels = complete-dep anno-hayley
@@ -3735,7 +3735,7 @@
 10	n	n	X	_	Number[subj]=Sing|Person[subj]=3	8	dep:infl	_	Analysis=[3Sg]
 11	.	.	PUNCT	_	_	8	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:18
+# sent_id = Jacobson.Ch14.gold:18
 # text = Esla seghleghuyan aanenghitunga.
 # gloss = When the weather was bad, I didn't go out.
 # labels = complete-dep anno-hayley
@@ -3751,7 +3751,7 @@
 8	nga	nga	X	_	Number[subj]=Sing|Person[subj]=1	6	dep:infl	_	Analysis=[1Sg]
 9	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:19
+# sent_id = Jacobson.Ch14.gold:19
 # text = Aanigatuq qayughllak alingelghii qikmimeng.
 # gloss = She hasn't gone out because she is afraid of dogs.
 # labels = complete-dep anno-hayley
@@ -3769,7 +3769,7 @@
 9	meng	meng	X	_	Case=Abl|Number=Sing	8	dep:infl	_	Analysis=[Abl_Mod.Sg]
 10	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:20
+# sent_id = Jacobson.Ch14.gold:20
 # text = Piyukuvek qergesek qelpeghtikek.
 # gloss = If you like, open the window.
 # labels = complete-dep anno-hayley
@@ -3786,7 +3786,7 @@
 8	kek	kek	X	_	Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	6	dep:infl	_	Analysis=[2Sg.3Du]
 9	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:21
+# sent_id = Jacobson.Ch14.gold:21
 # text = Qefliqutamken iflayavgu suflugaqa.
 # gloss = I got mad at you when you lost my gun.
 # labels = complete-dep anno-hayley
@@ -3804,7 +3804,7 @@
 9	qa	qa	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	8	dep:infl	_	Analysis=[Abs.1SgPoss.Sg]
 10	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:22
+# sent_id = Jacobson.Ch14.gold:22
 # text = Qaviigatukung qikmiten qilunghata.
 # gloss = We don't sleep whenever your dogs bark.
 # labels = complete-dep anno-hayley
@@ -3822,7 +3822,7 @@
 9	ata	ata	X	_	Number[subj]=Plur|Person[subj]=3	7	dep:infl	_	Analysis=[3Pl]
 10	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:23
+# sent_id = Jacobson.Ch14.gold:23
 # text = Aanegkufsi esghaallequsi ighaleqetaaghmeng.
 # gloss = If you all go out, you will all see stars.
 # labels = complete-dep anno-hayley
@@ -3840,7 +3840,7 @@
 9	meng	meng	X	_	Case=Abl|Number=Sing	8	dep:infl	_	Analysis=[Abl_Mod.Sg]
 10	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:24
+# sent_id = Jacobson.Ch14.gold:24
 # text = Iyataghyamta neghtukut ighaluqaghmengllu akuutamengllu.
 # gloss = When we became hungry, we ate aged auklet and berry mixture.
 # labels = complete-dep anno-hayley
@@ -3862,7 +3862,7 @@
 12	llu	llu	CCONJ	_	_	10	cc	_	Analysis=\=llu|Gloss=too
 13	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:25
+# sent_id = Jacobson.Ch14.gold:25
 # text = Akuzingigalkuvek Yupigestun ungipaatinga Laluramkestun.
 # gloss = If you don't speak in Yupik, tell me in English.
 # labels = complete-dep anno-hayley
@@ -3883,7 +3883,7 @@
 11	stun	stun	X	_	Case=Equ|Number=Plur	10	dep:infl	_	Analysis=[Equ.Pl]
 12	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:26
+# sent_id = Jacobson.Ch14.gold:26
 # text = Siivanlleghet nekevut aghulayugyameng.
 # gloss = The elders stood up when they wanted to dance.
 # labels = complete-dep anno-hayley
@@ -3901,7 +3901,7 @@
 9	meng	meng	X	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	7	dep:infl	_	Analysis=[4Pl]
 10	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:27
+# sent_id = Jacobson.Ch14.gold:27
 # text = Pinighsaghlleqagka eglluk naavumakagkenka.
 # gloss = I will fix the stove if it has broke.
 # labels = complete-dep anno-hayley
@@ -3919,7 +3919,7 @@
 9	agkenka	agkenka	X	_	Number[subj]=Dual|Person[subj]=3	7	dep:infl	_	Analysis=[3Du]
 10	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch14.gold:28
+# sent_id = Jacobson.Ch14.gold:28
 # text = Qepghaghaqunga qavaneghpek.
 # gloss = I work whenever you sleep.
 # labels = complete-dep anno-hayley
@@ -3934,7 +3934,7 @@
 7	pek	pek	X	_	Number[subj]=Sing|Person[subj]=2	5	dep:infl	_	Analysis=[2Sg]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch15.gold:1
+# sent_id = Jacobson.Ch15.gold:1
 # text = Aakaqa estugaghtuq yavluni tasluqluku tukfighinaluni laluwaaymeng.
 # gloss = My sister went to the store holding her boyfriend's hand in order to buy onions.
 # labels = complete-dep anno-hayley
@@ -3964,7 +3964,7 @@
 18	meng	meng	X	_	Case=Abl|Number=Sing	17	dep:infl	_	Analysis=[Abl_Mod.Sg]
 19	.	.	PUNCT	_	_	12	punct	_	Analysis=.
 
-# sent_id = Ch15.gold:2
+# sent_id = Jacobson.Ch15.gold:2
 # text = Nanevgaq piyugluni aghulaqumalghii naayvamun eltughani maliglluku.
 # gloss = The old man walked, then left to the lake following his grandchild.
 # labels = complete-dep anno-hayley
@@ -3989,7 +3989,7 @@
 14	ku	ku	X	_	Number[obj]=Sing|Person[obj]=3	12	dep:infl	_	Analysis=[_.3Sg]
 15	.	.	PUNCT	_	_	12	punct	_	Analysis=.
 
-# sent_id = Ch15.gold:3
+# sent_id = Jacobson.Ch15.gold:3
 # text = Iyataghyama neghaqa satelgam kemekraga gaaghpenaan.
 # gloss = When I got hunry, I ate the crane's meat without cooking it.
 # labels = complete-dep anno-hayley
@@ -4014,7 +4014,7 @@
 14	an	an	X	_	Number[obj]=Sing|Person[obj]=3	12	dep:infl	_	Analysis=[_.3Sg]
 15	.	.	PUNCT	_	_	11	punct	_	Analysis=.
 
-# sent_id = Ch15.gold:4
+# sent_id = Jacobson.Ch15.gold:4
 # text = Apama atanga kiyaghtaqngan Ungazimi yuget nenglulguftut mangteghangunateng.
 # gloss = While my grandfather's father was living in Chukotka, people had semisubterranean houses, not having (regular) houses.
 # labels = complete-dep anno-hayley
@@ -4047,7 +4047,7 @@
 20	teng	teng	X	_	Number[subj]=Plur|Person[subj]=3|Reflex=Yes	18	dep:infl	_	Analysis=[4Pl]
 21	.	.	PUNCT	_	_	18	punct	_	Analysis=.
 
-# sent_id = Ch15.gold:5
+# sent_id = Jacobson.Ch15.gold:5
 # text = Aghnalqwaaghem ungipaataanga an'gighniluten.
 # gloss = The old woman told me you had played outside.
 # labels = complete-dep anno-hayley
@@ -4065,7 +4065,7 @@
 9	ten	ten	X	_	Number[subj]=Sing|Person[subj]=2	7	dep:infl	_	Analysis=[2Sg]
 10	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch15.gold:6
+# sent_id = Jacobson.Ch15.gold:6
 # text = Aarragkiighluku atkuni taghnughhasqughhaq aanuq esghaghnaluki aqelqat kaallghiit tengegkayugteggun.
 # gloss = After quickly putting on his parka, the little child went out in order to see the guests arriving by plane.
 # labels = complete-dep anno-hayley
@@ -4101,7 +4101,7 @@
 22	teggun	teggun	X	_	Case=Per|Number=Plur	21	dep:infl	_	Analysis=[Prl.Pl]
 23	.	.	PUNCT	_	_	12	punct	_	Analysis=.
 
-# sent_id = Ch15.gold:7
+# sent_id = Jacobson.Ch15.gold:7
 # text = Meghnughngaaghmeng yuget igleghtaqut yaavumaluteng ivenruutek naavumayayek.
 # gloss = Even though they are tired, the men are going while rowing, when the outboard motor broke.
 # labels = complete-dep anno-hayley
@@ -4131,7 +4131,7 @@
 18	yek	yek	X	_	Number[subj]=Dual|Person[subj]=3	16	dep:infl	_	Analysis=[3Du]
 19	.	.	PUNCT	_	_	16	punct	_	Analysis=.
 
-# sent_id = Ch15.gold:8
+# sent_id = Jacobson.Ch15.gold:8
 # text = Naagpek tugusugii aatkaten eflugameng llilukillu aqumutagnun.
 # gloss = Your mom wants you to take your clothes from the floor and also placing them on chairs.
 # labels = complete-dep anno-hayley
@@ -4159,7 +4159,7 @@
 16	gnun	gnun	X	_	Case=All|Number=Dual	15	dep:infl	_	Analysis=[All.Du]
 17	.	.	PUNCT	_	_	11	punct	_	Analysis=.
 
-# sent_id = Ch15.gold:9
+# sent_id = Jacobson.Ch15.gold:9
 # text = Quyillget neghaqut quyngimeng Laluramket neghumaluki uukaghmeng.
 # gloss = The Chukchi people are eating reindeer while the Englishmen are eating cod.
 # labels = complete-dep anno-hayley
@@ -4187,7 +4187,7 @@
 16	meng	meng	X	_	Case=Abl|Number=Sing	15	dep:infl	_	Analysis=[Abl_Mod.Sg]
 17	.	.	PUNCT	_	_	11	punct	_	Analysis=.
 
-# sent_id = Ch15.gold:10
+# sent_id = Jacobson.Ch15.gold:10
 # text = Ungipaataanga yuget kiyaghhneghinniluki guyguni taghnughhaawaqngami.
 # gloss = He told me that they never lived in lumberhouses when he was being a child.
 # labels = complete-dep anno-hayley
@@ -4214,7 +4214,7 @@
 16	mi	mi	X	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes	14	dep:infl	_	Analysis=[4Sg]
 17	.	.	PUNCT	_	_	13	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:1
+# sent_id = Jacobson.Ch16.gold:1
 # text = Qawaak espagna guutigu.
 # gloss = Shoot the bird that is up there.
 # labels = complete-dep anno-hayley
@@ -4227,7 +4227,7 @@
 5	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Valency=2	4	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
 6	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:2
+# sent_id = Jacobson.Ch16.gold:2
 # text = Sangaawa pugimalghii un'gani?
 # gloss = What is the thing that swam down there in the water?
 # labels = complete-dep anno-hayley
@@ -4241,7 +4241,7 @@
 6	un'gani	un'gani	ADV	_	Case=Loc	4	advmod	_	Analysis=un'gani(DEM.ADV.Loc)|Gloss=down-there-at-the-water|SpaceAfter=No
 7	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
-# sent_id = Ch16.gold:3
+# sent_id = Jacobson.Ch16.gold:3
 # text = Tagitiki salngaget uugken llilukillu kiwavek.
 # gloss = Bring the boxes that are down toward exit, placing them in there.
 # labels = complete-dep anno-hayley
@@ -4261,7 +4261,7 @@
 11	kiwavek	kiwavek	ADV	_	Case=All	7	advmod	_	Analysis=kiwavek(DEM.ADV.All)|Gloss=the-one-in-there|SpaceAfter=No
 12	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:4
+# sent_id = Jacobson.Ch16.gold:4
 # text = Sangan whani aqlaghata?
 # gloss = Why is it cold here?
 # labels = complete-dep anno-hayley
@@ -4272,7 +4272,7 @@
 4	ta	ta	X	_	Number[subj]=Sing|Person[subj]=3	3	dep:infl	_	Analysis=[Intrg.Intr]^[3Sg]
 5	?	?	PUNCT	_	_	3	punct	_	Analysis=?
 
-# sent_id = Ch16.gold:5
+# sent_id = Jacobson.Ch16.gold:5
 # text = Qavanghitunga qayughllak paamna iglagtulghii.
 # gloss = I did not sleep because someone up there was noisy.
 # labels = complete-dep anno-hayley
@@ -4288,7 +4288,7 @@
 8	lghii	lghii	X	_	Number[subj]=Sing|Person[subj]=3	7	dep:infl	_	Analysis=[Ptcp.Intr]^[3Sg]
 9	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:6
+# sent_id = Jacobson.Ch16.gold:6
 # text = Naama ungipaataanga atanga esghaanniluku kayngemeng kiyaghtaqngami imani.
 # gloss = My mother told me, saying that her father saw brown bears while living here.
 # labels = complete-dep anno-hayley
@@ -4317,7 +4317,7 @@
 17	imani	imani	ADV	_	Case=Loc	14	advmod	_	Analysis=imani(DEM.ADV.Loc)|Gloss=here|SpaceAfter=No
 18	.	.	PUNCT	_	_	14	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:7
+# sent_id = Jacobson.Ch16.gold:7
 # text = Kitum qikmii qilugaqa pikani?
 # gloss = Whose dog is barking up there?
 # labels = complete-dep anno-hayley
@@ -4332,7 +4332,7 @@
 7	pikani	pikani	ADV	_	Case=Loc	4	advmod	_	Analysis=pikani(DEM.ADV.Loc)|Gloss=up-there|SpaceAfter=No
 8	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
-# sent_id = Ch16.gold:8
+# sent_id = Jacobson.Ch16.gold:8
 # text = Amaa aagken tagimalghii neghnaluku nefkuuraq.
 # gloss = The wolf over there came to me in order to eat the dried meat.
 # labels = complete-dep anno-hayley
@@ -4350,7 +4350,7 @@
 10	nefkuuraq	nefkuuraq	NOUN	_	Case=Abs|Number=Sing	6	obj	_	Analysis=nefkuuragh(N)^[Abs.Sg]|Gloss=the-dried-meat|SpaceAfter=No
 11	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:9
+# sent_id = Jacobson.Ch16.gold:9
 # text = Aqelqat aghulaqellequt sakmavek unaami.
 # gloss = The guests will leave down toward the exit tomorrow.
 # labels = complete-dep anno-hayley
@@ -4366,7 +4366,7 @@
 8	unaami	unaami	PART	_	_	3	advmod	_	Analysis=unaami(PTCL)|Gloss=tomorrow|SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:10
+# sent_id = Jacobson.Ch16.gold:10
 # text = Taakum amqeghhnaqaanga qiluglunga.
 # gloss = This one tried to bite me, barking at me.
 # labels = complete-dep anno-hayley
@@ -4384,7 +4384,7 @@
 9	nga	nga	X	_	Number[obj]=Sing|Person[obj]=1	7	dep:infl	_	Analysis=[_.1Sg]
 10	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:11
+# sent_id = Jacobson.Ch16.gold:11
 # text = Qagani taghnughhaat naghaaghaqut.
 # gloss = The children are playing outside.
 # labels = complete-dep anno-hayley
@@ -4399,7 +4399,7 @@
 7	t	t	X	_	Number[subj]=Plur|Person[subj]=3	5	dep:infl	_	Analysis=[3Pl]
 8	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:12
+# sent_id = Jacobson.Ch16.gold:12
 # text = Qaamna keniq qaamumalghii qergesek qelpeghsafkek.
 # gloss = When you opened the window, the light inside went out that inside. (keniq is probably a typo for keneq--light)
 # labels = complete-dep anno-hayley
@@ -4418,7 +4418,7 @@
 10	fkek	fkek	X	_	Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	8	dep:infl	_	Analysis=[2Sg.3Du]
 11	.	.	PUNCT	_	_	8	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:13
+# sent_id = Jacobson.Ch16.gold:13
 # text = Igleghtekuvek angyakun alingellequten.
 # gloss = If you travel by boat, you will be scared.
 # labels = complete-dep anno-hayley
@@ -4436,7 +4436,7 @@
 9	ten	ten	X	_	Number[subj]=Sing|Person[subj]=2	7	dep:infl	_	Analysis=[2Sg]
 10	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:14
+# sent_id = Jacobson.Ch16.gold:14
 # text = Ukigutigu nasaperaqa paamna.
 # gloss = Go down with my hat up there.
 # labels = complete-dep anno-hayley
@@ -4450,7 +4450,7 @@
 6	paamna	paamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	4	nmod	_	Analysis=paamna(DEM.PRO.Abs.Sg)|Gloss=that-one-up-there-not-in-sight'|SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:15
+# sent_id = Jacobson.Ch16.gold:15
 # text = Piyugeltung paaggun.
 # gloss = Let's walk up there.
 # labels = complete-dep anno-hayley
@@ -4461,7 +4461,7 @@
 4	paaggun	paaggun	ADV	_	Case=Per	1	advmod	_	Analysis=paaggun(DEM.ADV.Prl)|Gloss=up|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:16
+# sent_id = Jacobson.Ch16.gold:16
 # text = Naafqaqa suflugan tukfiqen estugameng tamaani.
 # gloss = I broke your gun, the one you bought from the store in this area.
 # labels = complete-dep anno-hayley
@@ -4484,7 +4484,7 @@
 12	maani	maani	ADV	_	Case=Loc	9	advmod	_	Analysis=maani(DEM.ADV.Loc)|Gloss=in-this-area
 13	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:17
+# sent_id = Jacobson.Ch16.gold:17
 # text = Espamani naayghani esghaatunga sikigmeng uglalghiimeng.
 # gloss = I saw many squirrels in the mountain up there.
 # labels = complete-dep anno-hayley
@@ -4507,7 +4507,7 @@
 12	meng	meng	X	_	Case=Abl|Number=Sing	11	dep:infl	_	Analysis=[Abl_Mod.Sg]
 13	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:18
+# sent_id = Jacobson.Ch16.gold:18
 # text = Tazingkut afsengaat papelguut takestaaghhaghneng.
 # gloss = The voles over there have a short tail.
 # labels = complete-dep anno-hayley
@@ -4528,7 +4528,7 @@
 11	neng	neng	X	_	Case=Abl|Number=Plur	10	dep:infl	_	Analysis=[Abl_Mod.Pl]
 12	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:19
+# sent_id = Jacobson.Ch16.gold:19
 # text = Iigna Quyillek kaallghii ighivgaq paamken kalileghrugllalguuq.
 # gloss = That Chukchi person over there, the one that arrived yesterday from that one up there, had a big dalmation dog.
 # labels = complete-dep anno-hayley
@@ -4547,7 +4547,7 @@
 11	q	q	X	_	Number[subj]=Sing|Person[subj]=3	9	dep:infl	_	Analysis=[3Sg]
 12	.	.	PUNCT	_	_	9	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:20
+# sent_id = Jacobson.Ch16.gold:20
 # text = Sangami taghnughhaq tagiiqa qiyamaluni taagken?
 # gloss = Why is the child coming to me, crying over there?
 # labels = complete-dep anno-hayley
@@ -4567,7 +4567,7 @@
 11	aagken	aagken	ADV	_	Case=Abl	6	advmod	_	Analysis=aagken(DEM.ADV.Abl_Mod)|Gloss=that-over-there
 12	?	?	PUNCT	_	_	6	punct	_	Analysis=?
 
-# sent_id = Ch16.gold:21
+# sent_id = Jacobson.Ch16.gold:21
 # text = Yugem pikum ungipaataanga whangkunnun kayusightesugniluten.
 # gloss = That man up there told me, saying that he wants us to help you.
 # labels = complete-dep anno-hayley
@@ -4590,7 +4590,7 @@
 13	ten	ten	X	_	Number[obj]=Sing|Person[obj]=2	11	dep:infl	_	Analysis=[_.2Sg]
 14	.	.	PUNCT	_	_	11	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:22
+# sent_id = Jacobson.Ch16.gold:22
 # text = Kaanyuq, naten mayughlleqsin whavek?
 # gloss = Hey you down there, how will you come up here?
 # labels = complete-dep anno-hayley
@@ -4604,7 +4604,7 @@
 7	whavek	whavek	ADV	_	Case=All	4	advmod	_	Analysis=whavek(DEM.ADV.All)|Gloss=here|SpaceAfter=No
 8	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
-# sent_id = Ch16.gold:23
+# sent_id = Jacobson.Ch16.gold:23
 # text = Taan'gani meq sikumalghii.
 # gloss = The water has frozen down there.
 # labels = complete-dep anno-hayley
@@ -4618,7 +4618,7 @@
 6	lghii	lghii	X	_	Number[subj]=Sing|Person[subj]=3	5	dep:infl	_	Analysis=[Ptcp.Intr]^[3Sg]
 7	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:24
+# sent_id = Jacobson.Ch16.gold:24
 # text = Naakallu nengyunllu pagavek aghulaquk inghunalutek pagunghaghmeng eslallugughteghngaan.
 # gloss = My mother and your grandmother left towards up there in order to pick crowberries even though it started to rain.
 # labels = complete-dep anno-hayley
@@ -4650,7 +4650,7 @@
 20	an	an	X	_	Number[subj]=Sing|Person[subj]=3	18	dep:infl	_	Analysis=[3Sg]
 21	.	.	PUNCT	_	_	18	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:25
+# sent_id = Jacobson.Ch16.gold:25
 # text = Awani esghaatukung riightemeng.
 # gloss = We saw an animal's den over there.
 # labels = complete-dep anno-hayley
@@ -4664,7 +4664,7 @@
 6	meng	meng	X	_	Case=Abl|Number=Sing	5	dep:infl	_	Analysis=[Abl_Mod.Sg]
 7	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:26
+# sent_id = Jacobson.Ch16.gold:26
 # text = Pikegken qayuusiq ifkaghtuq naavlunillu.
 # gloss = That cup up there dropped to the floor and broke.
 # labels = complete-dep anno-hayley
@@ -4681,7 +4681,7 @@
 9	llu	llu	ADV	_	_	6	advmod	_	Analysis=\=llu|Gloss=also
 10	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch16.gold:27
+# sent_id = Jacobson.Ch16.gold:27
 # text = Ingani inghwaaqngama manigneng naalkutunga.
 # gloss = While I was picking berries, I found some eggs.
 # labels = complete-dep anno-hayley
@@ -4699,7 +4699,7 @@
 9	nga	nga	X	_	Number[subj]=Sing|Person[subj]=1	7	dep:infl	_	Analysis=[1Sg]
 10	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
-# sent_id = Ch17.gold:1
+# sent_id = Jacobson.Ch17.gold:1
 # text = Tuunlakun qalqalima elpenun.
 # gloss = Let me give the ax to you.
 # labels = complete-dep anno-hayley
@@ -4711,7 +4711,7 @@
 5	elpenun	elpenun	PRON	_	Case=All|Number=Sing|Person=2	1	obl	_	Analysis=elpenun(PRO.All.2Sg)|Gloss=to-you|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch17.gold:2
+# sent_id = Jacobson.Ch17.gold:2
 # text = Yuqeghllanga.
 # gloss = Let me go outdoors.
 # labels = complete-dep anno-hayley
@@ -4721,7 +4721,7 @@
 3	nga	nga	X	_	Number[subj]=Sing|Person[subj]=1	1	dep:infl	_	Analysis=[1Sg]
 4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch17.gold:3
+# sent_id = Jacobson.Ch17.gold:3
 # text = Akmaneghpallut alingengigatut kamagrameng.
 # gloss = Camels don't become afraid of elephants.
 # labels = complete-dep anno-hayley
@@ -4738,7 +4738,7 @@
 8	meng	meng	X	_	Case=Abl|Number=Sing	7	dep:infl	_	Analysis=[Abl_Mod.Sg]
 9	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
-# sent_id = Ch17.gold:4
+# sent_id = Jacobson.Ch17.gold:4
 # text = Aapnaken aatghaneng piyukuvek kiyaghfiganun.
 # gloss = Ask for his/her name if you want to go to his/her place of living.
 # labels = complete-dep anno-hayley
@@ -4758,7 +4758,7 @@
 10	anun	anun	X	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	dep:infl	_	Analysis=[All.3SgPoss.Sg]
 11	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch17.gold:5
+# sent_id = Jacobson.Ch17.gold:5
 # text = Neghyaqunaan kukupak gaaghpenaan.
 # gloss = Don't eat the ribbon seal without cooking it.
 # labels = complete-dep anno-hayley
@@ -4774,7 +4774,7 @@
 8	an	an	X	_	Number[obj]=Sing|Person[obj]=3	6	dep:infl	_	Analysis=[_.3Sg]
 9	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch17.gold:6
+# sent_id = Jacobson.Ch17.gold:6
 # text = Ighneqa aanli esghaannaluni kiighwyameng.
 # gloss = Let my son out in order that he sees aurora borealis.
 # labels = complete-dep anno-hayley
@@ -4794,7 +4794,7 @@
 10	meng	meng	X	_	Case=Abl|Number=Sing	9	dep:infl	_	Analysis=[Abl_Mod.Sg]
 11	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
-# sent_id = Ch17.gold:7
+# sent_id = Jacobson.Ch17.gold:7
 # text = Aqfalangi yuwayut siqlugameng.
 # gloss = Let me get the loons from the underground meat cache.
 # labels = complete-dep anno-hayley
@@ -4810,7 +4810,7 @@
 7	meng	meng	X	_	Case=Abl|Number=Sing	6	dep:infl	_	Analysis=[Abl_Mod.Sg]
 8	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
-# sent_id = Ch17.gold:8
+# sent_id = Jacobson.Ch17.gold:8
 # text = Kitum pikakek iingkuk qallevagek?
 # gloss = Whose overalls are those over there?
 # labels = complete-dep anno-hayley
@@ -4830,7 +4830,7 @@
 10	ek	ek	X	_	Case=Abs|Number=Dual	9	dep:infl	_	Analysis=[Abs.Du]
 11	?	?	PUNCT	_	_	4	punct	_	Analysis=?
 
-# sent_id = Ch17.gold:9
+# sent_id = Jacobson.Ch17.gold:9
 # text = Ruuseghmiit aglaghtut esghaasameng quutmeng.
 # gloss = The Russians went home when they seen land.
 # labels = complete-dep anno-hayley
@@ -4850,7 +4850,7 @@
 10	meng	meng	X	_	Case=Abl|Number=Sing	9	dep:infl	_	Analysis=[Abl_Mod.Sg]
 11	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch17.gold:10
+# sent_id = Jacobson.Ch17.gold:10
 # text = Piyaalghaakut taghnughhaanka qavaqata.
 # gloss = Lets go hunting on the ice when my children sleep.
 # labels = complete-dep anno-hayley
@@ -4867,7 +4867,7 @@
 8	ata	ata	X	_	Number[subj]=Plur|Person[subj]=3	6	dep:infl	_	Analysis=[3Pl]
 9	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
-# sent_id = Ch17.gold:11
+# sent_id = Jacobson.Ch17.gold:11
 # text = Apaka maaghraghvinlegneng qikmilguuq.
 # gloss = My grandpa has seven dogs.
 # labels = complete-dep anno-hayleys
