@@ -2230,8 +2230,8 @@
 # labels = complete-dep anno-hayley
 1	Iyataghyamta	iyatagh	VERB	_	Mood=Cn1|Number[subj]=Plur|Person[subj]=1|Valency=1	2	advcl	_	Analysis=iyatagh(V)^[Cnsq1.Intr]^[1Pl]|Gloss=when-we-became-hungry
 2	neghtukut	negh	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Valency=1	0	root	_	Analysis=negh(V)^[Ind.Intr]^[1Pl]|Gloss=we-ate
-3	ighaluqaghmengllu	ighaluqagh	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=ighaluqagh*(N)^[Abl_Mod.Sg]^=llu|Gloss=by-the-means-of-aged-auklet
-4	akuutamengllu	akuuta	NOUN	_	Case=Abl|Number=Sing	3	conj	_	Analysis=akuutagh(N)^[Abl_Mod.Sg]^=llu|Gloss=by-the-means-of-berry-mixture-too|SpaceAfter=No
+3	ighaluqaghmengllu	ighaluqagh	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=ighaluqagh*(N)^[Abl_Mod.Sg]^\=llu|Gloss=by-the-means-of-aged-auklet
+4	akuutamengllu	akuuta	NOUN	_	Case=Abl|Number=Sing	3	conj	_	Analysis=akuutagh(N)^[Abl_Mod.Sg]^\=llu|Gloss=by-the-means-of-berry-mixture-too|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
 # sent_id = Ch14.gold:25
@@ -2669,7 +2669,7 @@
 # labels = complete-dep anno-hayley
 1	Tuunlakun	tuun	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Pres|Valency=2	0	root	_	Analysis=tuune(V)^[Opt.Pres.Trns]^[1Sg.3Sg]|Gloss=let-me-give-it
 2	qalqalima	qalqalima	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=qalqalima(N)^[Abs.Sg]|Gloss=the-axe
-3	elpenun	elpenun	PRON	_	_	1	obl	_	Analysis=elpenun(PRO.All.2Sg)|Gloss=to-you|SpaceAfter=No
+3	elpenun	elpenun	PRON	_	Case=All|Number=Sing|Person=2	1	obl	_	Analysis=elpenun(PRO.All.2Sg)|Gloss=to-you|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
 # sent_id = Ch17.gold:2

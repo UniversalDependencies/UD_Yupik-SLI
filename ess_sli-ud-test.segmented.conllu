@@ -3852,14 +3852,14 @@
 4	negh	negh	VERB	_	_	0	root	_	Analysis=negh(V)|Gloss=to-eat
 5	tu	tu	X	_	Mood=Ind|Valency=1	4	dep:infl	_	Analysis=[Ind.Intr]
 6	kut	kut	X	_	Number[subj]=Plur|Person[subj]=1	4	dep:infl	_	Analysis=[1Pl]
-7-9	ighaluqaghmengllu	_	_	_	_	_	_	_	Analysis=ighaluqagh*(N)^[Abl_Mod.Sg]^=llu|Gloss=by-the-means-of-aged-auklet
+7-9	ighaluqaghmengllu	_	_	_	_	_	_	_	Analysis=ighaluqagh*(N)^[Abl_Mod.Sg]^\=llu|Gloss=by-the-means-of-aged-auklet
 7	ighaluqagh	ighaluqagh	NOUN	_	_	4	obl:mod	_	Analysis=ighaluqagh*(N)|Gloss=aged-auklet
 8	meng	meng	X	_	Case=Abl|Number=Sing	7	dep:infl	_	Analysis=[Abl_Mod.Sg]
-9	llu	llu	CCONJ	_	_	7	cc	_	Analysis==llu|Gloss=and
-10-12	akuutamengllu	_	_	_	_	_	_	_	Analysis=akuutagh(N)^[Abl_Mod.Sg]^=llu|Gloss=by-the-means-of-berry-mixture-too|SpaceAfter=No
+9	llu	llu	CCONJ	_	_	7	cc	_	Analysis=\=llu|Gloss=and
+10-12	akuutamengllu	_	_	_	_	_	_	_	Analysis=akuutagh(N)^[Abl_Mod.Sg]^\=llu|Gloss=by-the-means-of-berry-mixture-too|SpaceAfter=No
 10	akuuta	akuuta	NOUN	_	_	7	conj	_	Analysis=akuutagh(N)|Gloss=berry-mixture
 11	meng	meng	X	_	Case=Abl|Number=Sing	10	dep:infl	_	Analysis=[Abl_Mod.Sg]
-12	llu	llu	CCONJ	_	_	10	cc	_	Analysis==llu|Gloss=too
+12	llu	llu	CCONJ	_	_	10	cc	_	Analysis=\=llu|Gloss=too
 13	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
 # sent_id = Ch14.gold:25
@@ -4708,7 +4708,7 @@
 2	la	la	X	_	Mood=Opt|Tense=Pres|Valency=2	1	dep:infl	_	Analysis=[Opt.Pres.Trns]
 3	kun	kun	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1	1	dep:infl	_	Analysis=[1Sg.3Sg]
 4	qalqalima	qalqalima	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=qalqalima(N)^[Abs.Sg]|Gloss=the-axe
-5	elpenun	elpenun	PRON	_	_	1	obl	_	Analysis=elpenun(PRO.All.2Sg)|Gloss=to-you|SpaceAfter=No
+5	elpenun	elpenun	PRON	_	Case=All|Number=Sing|Person=2	1	obl	_	Analysis=elpenun(PRO.All.2Sg)|Gloss=to-you|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
 # sent_id = Ch17.gold:2
