@@ -1498,7 +1498,7 @@
 1	esghagh	esghagh	VERB	_	_	0	root	_	Analysis=esghagh(V)|Gloss=to-see
 2	lleq	lleq	VERB	_	Tense=Fut	1	aux	_	Analysis=@lleqe(V→V)|Gloss=will-V
 3	a	a	X	_	Mood=Ind|Subcat=Tran	2	dep:infl	_	Analysis=[Ind.Trns]
-4	mken	mken	X	_	Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=2|Person[subj]=1	2	dep:infl	_	Analysis=[1Sg.2Sg]
+4	mken	mken	X	_	Number[obj]=Sing|Number[subj]=Dual,Plur,Sing|Person[obj]=2|Person[subj]=1	2	dep:infl	_	Analysis=[1Sg.2Sg]
 5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch7.gold:12
@@ -1621,7 +1621,7 @@
 1-3	Igamsiqayugvikamken	_	_	_	_	_	_	_	Analysis=igamsiqayugvike(V)^[Ind.Trns]^[1Sg.2Sg]|Gloss=I-am-thankful-for-you|SpaceAfter=No
 1	igamsiqayugvik	igamsiqayugvik	VERB	_	_	0	root	_	Analysis=igamsiqayugvike(V)|Gloss=to-feel-thankful-for
 2	a	a	X	_	Mood=Ind|Subcat=Tran	1	dep:infl	_	Analysis=[Ind.Trns]
-3	mken	mken	X	_	Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=2|Person[subj]=1	1	dep:infl	_	Analysis=[1Sg.2Sg]
+3	mken	mken	X	_	Number[obj]=Sing|Number[subj]=Dual,Plur,Sing|Person[obj]=2|Person[subj]=1	1	dep:infl	_	Analysis=[1Sg.2Sg]
 4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch7.gold:19
@@ -2549,7 +2549,7 @@
 2-4	kuuvefqaan	_	_	_	_	_	_	_	Analysis=kuuve(V)^[Opt.Neg.Pres.Trns]^[2Sg.3Sg]|Gloss=do-not-spill-it|SpaceAfter=No
 2	kuuve	kuuve	VERB	_	_	0	root	_	Analysis=kuuve(V)|Gloss=to-spill
 3	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Subcat=Tran|Tense=Pres	2	dep:infl	_	Analysis=[Opt.Neg.Pres.Trns]
-4	n	n	X	_	Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=3|Person[subj]=2	2	dep:infl	_	Analysis=[2Sg.3Sg]
+4	n	n	X	_	Number[obj]=Sing|Number[subj]=Dual,Plur,Sing|Person[obj]=3|Person[subj]=2	2	dep:infl	_	Analysis=[2Sg.3Sg]
 5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch10.gold:13
@@ -2562,7 +2562,7 @@
 3-5	atuqefqaagkenka	_	_	_	_	_	_	_	Analysis=atuqe(V)^[Opt.Neg.Pres.Trns]^[2Sg.3Du]|Gloss=do-not-use-them|SpaceAfter=No
 3	atuqe	atuqe	VERB	_	_	0	root	_	Analysis=atuqe(V)|Gloss=to-use
 4	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Subcat=Tran|Tense=Pres	3	dep:infl	_	Analysis=[Opt.Neg.Pres.Trns]
-5	gkenka	gkenka	X	_	Number[obj]=Dual|Number[subj]=Sing,Dual,Plur|Person[obj]=3|Person[subj]=2	3	dep:infl	_	Analysis=[2Sg.3Du]
+5	gkenka	gkenka	X	_	Number[obj]=Dual|Number[subj]=Dual,Plur,Sing|Person[obj]=3|Person[subj]=2	3	dep:infl	_	Analysis=[2Sg.3Du]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch10.gold:14
@@ -2572,7 +2572,7 @@
 1-3	Pumsufqaama	_	_	_	_	_	_	_	Analysis=pumsug(V)^[Opt.Neg.Pres.Trns]^[2Sg.1Sg]|Gloss=do-not-pinch-me|SpaceAfter=No
 1	pumsu	pumsu	VERB	_	_	0	root	_	Analysis=pumsug(V)|Gloss=to-pinch
 2	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Subcat=Tran|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Neg.Pres.Trns]
-3	ma	ma	X	_	Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=1|Person[subj]=2	1	dep:infl	_	Analysis=[2Sg.1Sg]
+3	ma	ma	X	_	Number[obj]=Sing|Number[subj]=Dual,Plur,Sing|Person[obj]=1|Person[subj]=2	1	dep:infl	_	Analysis=[2Sg.1Sg]
 4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch10.gold:15
@@ -2640,7 +2640,7 @@
 1-3	Tuqutefqaan	_	_	_	_	_	_	_	Analysis=tuqute(V)^[Opt.Neg.Pres.Trns]^[2Sg.3Sg]|Gloss=do-not-kill-it
 1	tuqute	tuqute	VERB	_	_	0	root	_	Analysis=tuqute(V)|Gloss=to-kill
 2	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Subcat=Tran|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Neg.Pres.Trns]
-3	n	n	X	_	Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=3|Person[subj]=2	1	dep:infl	_	Analysis=[2Sg.3Sg]
+3	n	n	X	_	Number[obj]=Sing|Number[subj]=Dual,Plur,Sing|Person[obj]=3|Person[subj]=2	1	dep:infl	_	Analysis=[2Sg.3Sg]
 4	puugzaq	puugzaq	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=puugzagh(N)^[Abs.Sg]|Gloss=the-beluga|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
@@ -3794,7 +3794,7 @@
 1	qefliq	qefliq	VERB	_	_	0	root	_	Analysis=qefliqe(V)|Gloss=to-be-mad
 2	ut	ut	VERB	_	_	1	aux	_	Analysis=@~:(u)te(V→V)|Gloss=to-V-each-other
 3	a	a	X	_	Mood=Ind|Subcat=Tran	2	dep:infl	_	Analysis=[Ind.Trns]
-4	mken	mken	X	_	Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=2|Person[subj]=1	2	dep:infl	_	Analysis=[1Sg.2Sg]
+4	mken	mken	X	_	Number[obj]=Sing|Number[subj]=Dual,Plur,Sing|Person[obj]=2|Person[subj]=1	2	dep:infl	_	Analysis=[1Sg.2Sg]
 5-7	iflayavgu	_	_	_	_	_	_	_	Analysis=ifla(V)^[Cnsq1.Trns]^[2Sg.3Sg]|Gloss=when-you-lost-it
 5	ifla	ifla	VERB	_	_	1	advcl	_	Analysis=ifla(V)|Gloss=to-lose
 6	ya	ya	X	_	Mood=Cn1|Subcat=Tran	5	dep:infl	_	Analysis=[Cnsq1.Trns]
@@ -4765,7 +4765,7 @@
 1-3	Neghyaqunaan	_	_	_	_	_	_	_	Analysis=negh(V)^[Opt.Neg.Fut.Trns]^[2Sg.3Sg]|Gloss=do-not-eat-it
 1	negh	negh	VERB	_	_	0	root	_	Analysis=negh(V)|Gloss=to-eat
 2	yaquna	yaquna	X	_	Mood=Opt|Polarity=Neg|Subcat=Tran|Tense=Fut	1	dep:infl	_	Analysis=[Opt.Neg.Fut.Trns]
-3	an	an	X	_	Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=3|Person[subj]=2	1	dep:infl	_	Analysis=[2Sg.3Sg]
+3	an	an	X	_	Number[obj]=Sing|Number[subj]=Dual,Plur,Sing|Person[obj]=3|Person[subj]=2	1	dep:infl	_	Analysis=[2Sg.3Sg]
 4	kukupak	kukupak	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=kukupag(N)^[Abs.Sg]|Gloss=ribbon-seal
 5-8	gaaghpenaan	_	_	_	_	_	_	_	Analysis=gaagh(V)^@–nghite(V→V)^[Sbrd.Trns]^[_.3Sg]|Gloss=without-cooking-it|SpaceAfter=No
 5	gaa	gaa	VERB	_	_	1	advcl	_	Analysis=gaagh(V)|Gloss=to-cook
