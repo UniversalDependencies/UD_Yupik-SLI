@@ -2413,7 +2413,7 @@
 1	Igaghyaghqaq	igaghyaghqaq	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=igaghyaghqagh(N)^[Abs.Sg]|Gloss=writing-paper
 2-3	egtigu	_	_	_	_	_	_	_	Analysis=egte(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=throw-it-away|SpaceAfter=No
 2	egt	egt	VERB	_	_	0	root	_	Analysis=egte(V)|Gloss=to-throw-away
-3	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Subcat=Tran	2	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
+3	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Pres	2	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
 4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch10.gold:2
@@ -2422,7 +2422,7 @@
 # labels = complete-dep anno-hayley
 1-2	Neghi	_	_	_	_	_	_	_	Analysis=negh(V)^[Opt.Pres.Intr.2Sg]|Gloss=eat-it
 1	negh	negh	VERB	_	_	0	root	_	Analysis=negh(V)|Gloss=to-eat
-2	i	i	X	_	Mood=Opt|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Subcat=Tran	1	dep:infl	_	Analysis=[Opt.Pres.Intr.2Sg]
+2	i	i	X	_	Mood=Opt|Number[subj]=Sing|Person[subj]=2|Subcat=Tran|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Pres.Intr.2Sg]
 3-4	ququngameng	_	_	_	_	_	_	_	Analysis=ququngagh(N)^[Abl_Mod.Sg]|Gloss=willow-leaves|SpaceAfter=No
 3	ququnga	ququnga	NOUN	_	_	1	obj	_	Analysis=ququngagh(N)|Gloss=willow-leaf
 4	meng	meng	X	_	Case=Abl|Number=Sing	3	dep:infl	_	Analysis=[Abl_Mod.Sg]
@@ -2434,7 +2434,7 @@
 # labels = complete-dep anno-hayley
 1-3	Pugimaaltung	_	_	_	_	_	_	_	Analysis=pugimagh(V)^[Opt.Pres.Intr]^[1Du]|Gloss=let's-swim
 1	pugimaa	Pugimaa	VERB	_	_	0	root	_	Analysis=pugimagh(V)|Gloss=to-swim
-2	lt	lt	X	_	Mood=Opt|Tense=Pres|Subcat=Intr	1	dep:infl	_	Analysis=[Opt.Pres.Intr]
+2	lt	lt	X	_	Mood=Opt|Subcat=Intr|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Pres.Intr]
 3	ung	ung	X	_	Number[subj]=Dual|Person[subj]=1	1	dep:infl	_	Analysis=[1Du]
 4-5	kiiwegni	_	_	_	_	_	_	_	Analysis=kiiw(N)^[Loc.Du]|Gloss=in-the-river|SpaceAfter=No
 4	kiiw	kiiw	NOUN	_	_	1	obl	_	Analysis=kiiw(N)|Gloss=river
@@ -2447,7 +2447,7 @@
 # labels = complete-dep anno-hayley
 1-2	Tugugu	_	_	_	_	_	_	_	Analysis=tugu(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=take-it
 1	tugu	tugu	VERB	_	_	0	root	_	Analysis=tugu(V)|Gloss=to-take
-2	gu	gu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Subcat=Tran	1	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
+2	gu	gu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
 3	qayuusiq	qayuusiq	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=qayuusigh(N)^[Abs.Sg]|Gloss=the-cup
 4-5	tipelegneng	_	_	_	_	_	_	_	Analysis=tipele(N)^[Abl_Mod.Du]|Gloss=from-the-table|SpaceAfter=No
 4	tipele	tipele	NOUN	_	_	1	obl	_	Analysis=tipele(N)|Gloss=table
@@ -2485,7 +2485,7 @@
 1	Unaami	unaami	PART	_	_	2	advmod	_	Analysis=unaami(PTCL)|Gloss=tomorrow
 2-4	aghviilta	_	_	_	_	_	_	_	Analysis=aghvigh(V)^[Opt.Pres.Intr]^[1Pl]|Gloss=let's-travel-out-of-the-island|SpaceAfter=No
 2	aghvi	aghvi	VERB	_	_	0	root	_	Analysis=aghvigh(V)|Gloss=to-cross-over
-3	ilt	ilt	X	_	Mood=Opt|Tense=Pres|Subcat=Intr	2	dep:infl	_	Analysis=[Opt.Pres.Intr]
+3	ilt	ilt	X	_	Mood=Opt|Subcat=Intr|Tense=Pres	2	dep:infl	_	Analysis=[Opt.Pres.Intr]
 4	a	a	X	_	Number[subj]=Plur|Person[subj]=1	2	dep:infl	_	Analysis=[1Pl]
 5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
@@ -2495,7 +2495,7 @@
 # labels = complete-dep anno-hayley
 1-3	Qayuulta	_	_	_	_	_	_	_	Analysis=qayugh(V)^[Opt.Pres.Intr]^[1Pl]|Gloss=let's-drink
 1	qayu	Qayu	VERB	_	_	0	root	_	Analysis=qayugh(V)|Gloss=to-drink
-2	ult	ult	X	_	Mood=Opt|Tense=Pres|Subcat=Intr	1	dep:infl	_	Analysis=[Opt.Pres.Intr]
+2	ult	ult	X	_	Mood=Opt|Subcat=Intr|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Pres.Intr]
 3	a	a	X	_	Number[subj]=Plur|Person[subj]=1	1	dep:infl	_	Analysis=[1Pl]
 4-5	kufimeng	_	_	_	_	_	_	_	Analysis=kufi(N)^[Abl_Mod.Sg]|Gloss=coffee|SpaceAfter=No
 4	kufi	kufi	NOUN	_	_	1	obj	_	Analysis=kufi(N)|Gloss=coffee
@@ -2508,7 +2508,7 @@
 # labels = complete-dep anno-hayley
 1-3	Tagitiki	_	_	_	_	_	_	_	Analysis=tagite(V)^[Opt.Pres.Trns]^[2Sg.3Pl]|Gloss=bring-them
 1	tagit	Tagit	VERB	_	_	0	root	_	Analysis=tagite(V)|Gloss=to-bring
-2	i	i	X	_	Mood=Opt|Tense=Pres|Subcat=Tran	1	dep:infl	_	Analysis=[Opt.Pres.Trns]
+2	i	i	X	_	Mood=Opt|Subcat=Tran|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Pres.Trns]
 3	ki	ki	X	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	1	dep:infl	_	Analysis=[2Sg.3Pl]
 4-5	nekreget	_	_	_	_	_	_	_	Analysis=nekreg(N)^[Abs.Pl]|Gloss=the-hooks
 4	nekreg	nekreg	NOUN	_	_	1	obj	_	Analysis=nekreg(N)|Gloss=hook
@@ -2524,7 +2524,7 @@
 # labels = complete-dep anno-hayley
 1-3	Neghefqaavek	_	_	_	_	_	_	_	Analysis=neghe(V)^[Opt.Neg.Pres.Intr]^[2Sg]|Gloss=do-not-eat
 1	neghe	neghe	VERB	_	_	0	root	_	Analysis=neghe(V)|Gloss=to-eat
-2	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Tense=Pres|Subcat=Intr	1	dep:infl	_	Analysis=[Opt.Neg.Pres.Intr]
+2	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Subcat=Intr|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Neg.Pres.Intr]
 3	vek	vek	X	_	Number[subj]=Sing|Person[subj]=2	1	dep:infl	_	Analysis=[2Sg]
 4-5	quugmeng	_	_	_	_	_	_	_	Analysis=quug(N)^[Abl_Mod.Sg]|Gloss=wood|SpaceAfter=No
 4	quug	quug	NOUN	_	_	1	obj	_	Analysis=quug(N)|Gloss=wood
@@ -2548,7 +2548,7 @@
 1	Aakw	aakw	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=aaw(N)^[Abs.Sg]|Gloss=blood
 2-4	kuuvefqaan	_	_	_	_	_	_	_	Analysis=kuuve(V)^[Opt.Neg.Pres.Trns]^[2Sg.3Sg]|Gloss=do-not-spill-it|SpaceAfter=No
 2	kuuve	kuuve	VERB	_	_	0	root	_	Analysis=kuuve(V)|Gloss=to-spill
-3	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Tense=Pres|Subcat=Tran	2	dep:infl	_	Analysis=[Opt.Neg.Pres.Trns]
+3	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Subcat=Tran|Tense=Pres	2	dep:infl	_	Analysis=[Opt.Neg.Pres.Trns]
 4	n	n	X	_	Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=3|Person[subj]=2	2	dep:infl	_	Analysis=[2Sg.3Sg]
 5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
@@ -2561,7 +2561,7 @@
 2	gka	gka	X	_	Case=Abs|Number=Dual|Number[psor]=Sing|Person[psor]=1	1	dep:infl	_	Analysis=[Abs.1SgPoss.Du]
 3-5	atuqefqaagkenka	_	_	_	_	_	_	_	Analysis=atuqe(V)^[Opt.Neg.Pres.Trns]^[2Sg.3Du]|Gloss=do-not-use-them|SpaceAfter=No
 3	atuqe	atuqe	VERB	_	_	0	root	_	Analysis=atuqe(V)|Gloss=to-use
-4	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Tense=Pres|Subcat=Tran	3	dep:infl	_	Analysis=[Opt.Neg.Pres.Trns]
+4	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Subcat=Tran|Tense=Pres	3	dep:infl	_	Analysis=[Opt.Neg.Pres.Trns]
 5	gkenka	gkenka	X	_	Number[obj]=Dual|Number[subj]=Sing,Dual,Plur|Person[obj]=3|Person[subj]=2	3	dep:infl	_	Analysis=[2Sg.3Du]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
@@ -2571,7 +2571,7 @@
 # labels = complete-dep anno-hayley
 1-3	Pumsufqaama	_	_	_	_	_	_	_	Analysis=pumsug(V)^[Opt.Neg.Pres.Trns]^[2Sg.1Sg]|Gloss=do-not-pinch-me|SpaceAfter=No
 1	pumsu	pumsu	VERB	_	_	0	root	_	Analysis=pumsug(V)|Gloss=to-pinch
-2	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Tense=Pres|Subcat=Tran	1	dep:infl	_	Analysis=[Opt.Neg.Pres.Trns]
+2	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Subcat=Tran|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Neg.Pres.Trns]
 3	ma	ma	X	_	Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=1|Person[subj]=2	1	dep:infl	_	Analysis=[2Sg.1Sg]
 4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
@@ -2581,7 +2581,7 @@
 # labels = complete-dep anno-hayley
 1-3	Ukigelta	_	_	_	_	_	_	_	Analysis=ukig(V)^[Opt.Pres.Intr]^[1Pl]|Gloss=let's-go-down
 1	ukig	Ukig	VERB	_	_	0	root	_	Analysis=ukig(V)|Gloss=to-go-down
-2	elt	elt	X	_	Mood=Opt|Tense=Pres|Subcat=Intr	1	dep:infl	_	Analysis=[Opt.Pres.Intr]
+2	elt	elt	X	_	Mood=Opt|Subcat=Intr|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Pres.Intr]
 3	a	a	X	_	Number[subj]=Plur|Person[subj]=1	1	dep:infl	_	Analysis=[1Pl]
 4-5	esnamun	_	_	_	_	_	_	_	Analysis=esnagh(N)^[All.Sg]|Gloss=to-the-beach|SpaceAfter=No
 4	esna	esna	NOUN	_	_	1	obl	_	Analysis=esnagh(N)|Gloss=beach
@@ -2595,7 +2595,7 @@
 1	Amaa	amaa	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=amaa(N)^[Abs.Sg]|Gloss=the-wolf
 2-3	guutigu	_	_	_	_	_	_	_	Analysis=guute(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=wolf|SpaceAfter=No
 2	guut	guut	VERB	_	_	0	root	_	Analysis=guute(V)|Gloss=to-shoot
-3	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Subcat=Tran	2	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
+3	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Pres	2	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
 4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch10.gold:17
@@ -2605,7 +2605,7 @@
 1	Keneq	keneq	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=kenegh(N)^[Abs.Sg]|Gloss=fire
 2-3	qaamtigu	_	_	_	_	_	_	_	Analysis=qaamte(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=extinguish-it|SpaceAfter=No
 2	qaamt	qaamt	VERB	_	_	0	root	_	Analysis=qaamte(V)|Gloss=to-extinguish
-3	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Subcat=Tran	2	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
+3	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Pres	2	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
 4	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch10.gold:18
@@ -2629,7 +2629,7 @@
 2	et	et	X	_	Case=Abs|Number=Plur	1	dep:infl	_	Analysis=[Abs.Pl]
 3-5	qelpeghtiki	_	_	_	_	_	_	_	Analysis=complete-dep anno-hayley(V)^[Opt.Pres.Trns]^[2Sg.3Pl]|Gloss=open-them|SpaceAfter=No
 3	qelpeght	qelpeght	VERB	_	_	0	root	_	Analysis=qelpeghte(V)|Gloss=to-open
-4	i	i	X	_	Mood=Opt|Tense=Pres|Subcat=Tran	3	dep:infl	_	Analysis=[Opt.Pres.Trns]
+4	i	i	X	_	Mood=Opt|Subcat=Tran|Tense=Pres	3	dep:infl	_	Analysis=[Opt.Pres.Trns]
 5	ki	ki	X	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	3	dep:infl	_	Analysis=[2Sg.3Pl]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
@@ -2639,7 +2639,7 @@
 # labels = complete-dep anno-hayley
 1-3	Tuqutefqaan	_	_	_	_	_	_	_	Analysis=tuqute(V)^[Opt.Neg.Pres.Trns]^[2Sg.3Sg]|Gloss=do-not-kill-it
 1	tuqute	tuqute	VERB	_	_	0	root	_	Analysis=tuqute(V)|Gloss=to-kill
-2	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Tense=Pres|Subcat=Tran	1	dep:infl	_	Analysis=[Opt.Neg.Pres.Trns]
+2	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Subcat=Tran|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Neg.Pres.Trns]
 3	n	n	X	_	Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=3|Person[subj]=2	1	dep:infl	_	Analysis=[2Sg.3Sg]
 4	puugzaq	puugzaq	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=puugzagh(N)^[Abs.Sg]|Gloss=the-beluga|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
@@ -2653,7 +2653,7 @@
 2	meng	meng	X	_	Case=Abl|Number=Sing	1	dep:infl	_	Analysis=[Abl_Mod.Sg]
 3-5	neghefqaavek	_	_	_	_	_	_	_	Analysis=neghe(V)^[Opt.Neg.Pres.Intr]^[2Sg]|Gloss=do-not-eat|SpaceAfter=No
 3	neghe	neghe	VERB	_	_	0	root	_	Analysis=neghe(V)|Gloss=to-eat
-4	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Tense=Pres|Subcat=Intr	3	dep:infl	_	Analysis=[Opt.Neg.Pres.Intr]
+4	fqaa	fqaa	X	_	Mood=Opt|Polarity=Neg|Subcat=Intr|Tense=Pres	3	dep:infl	_	Analysis=[Opt.Neg.Pres.Intr]
 5	vek	vek	X	_	Number[subj]=Sing|Person[subj]=2	3	dep:infl	_	Analysis=[2Sg]
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
@@ -2663,7 +2663,7 @@
 # labels = complete-dep anno-hayley
 1-3	Tagitiki	_	_	_	_	_	_	_	Analysis=tagite(V)^[Opt.Pres.Trns]^[2Sg.3Pl]|Gloss=bring-them
 1	tagit	Tagit	VERB	_	_	0	root	_	Analysis=tagite(V)|Gloss=to-bring
-2	i	i	X	_	Mood=Opt|Tense=Pres|Subcat=Tran	1	dep:infl	_	Analysis=[Opt.Pres.Trns]
+2	i	i	X	_	Mood=Opt|Subcat=Tran|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Pres.Trns]
 3	ki	ki	X	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	1	dep:infl	_	Analysis=[2Sg.3Pl]
 4-5	quuget	_	_	_	_	_	_	_	Analysis=quug(N)^[Abs.Pl]|Gloss=the-wood
 4	quug	quug	NOUN	_	_	1	obj	_	Analysis=quug(N)|Gloss=wood
@@ -3500,7 +3500,7 @@
 4-7	elqwaaghniighhaakut	_	_	_	_	_	_	_	Analysis=elqwaagh(N)^@~fniigh(N→V)^[Opt.Fut.Intr]^[1Pl]|Gloss=let's-pick-seaweed|SpaceAfter=No
 4	elqwaagh	elqwaagh	NOUN	_	_	5	obj	_	Analysis=elqwaagh(N)|Gloss=kelp
 5	nii	nii	VERB	_	_	0	root	_	Analysis=@~fniigh(N→V)|Gloss=to-hunt-for-N
-6	ghha	ghha	X	_	Mood=Opt|Tense=Fut|Subcat=Intr	5	dep:infl	_	Analysis=[Opt.Fut.Intr]
+6	ghha	ghha	X	_	Mood=Opt|Subcat=Intr|Tense=Fut	5	dep:infl	_	Analysis=[Opt.Fut.Intr]
 7	akut	akut	X	_	Number[subj]=Plur|Person[subj]=1	5	dep:infl	_	Analysis=[1Pl]
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
@@ -3550,7 +3550,7 @@
 4	uvek	uvek	X	_	Number[subj]=Sing|Person[subj]=2	2	dep:infl	_	Analysis=[2Sg]
 5-6	neghigu	_	_	_	_	_	_	_	Analysis=neghe(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=eat-it
 5	negh	negh	VERB	_	_	0	root	_	Analysis=neghe(V)|Gloss=to-eat
-6	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Subcat=Tran	5	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
+6	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Pres	5	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
 7	ighaluqaq	ighaluqaq	NOUN	_	Case=Abs|Number=Sing	5	obj	_	Analysis=ighaluqagh(N)^[Abs.Sg]|Gloss=the-aged-auklet|SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
@@ -3782,7 +3782,7 @@
 5	k	k	X	_	Case=Abs|Number=Dual	4	dep:infl	_	Analysis=[Abs.Du]
 6-8	qelpeghtikek	_	_	_	_	_	_	_	Analysis=qelpeghte(V)^[Opt.Pres.Trns]^[2Sg.3Du]|Gloss=open-them|SpaceAfter=No
 6	qelpeght	qelpeght	VERB	_	_	0	root	_	Analysis=qelpeghte(V)|Gloss=to-open
-7	i	i	X	_	Mood=Opt|Tense=Pres|Subcat=Tran	6	dep:infl	_	Analysis=[Opt.Pres.Trns]
+7	i	i	X	_	Mood=Opt|Subcat=Tran|Tense=Pres	6	dep:infl	_	Analysis=[Opt.Pres.Trns]
 8	kek	kek	X	_	Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	6	dep:infl	_	Analysis=[2Sg.3Du]
 9	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
@@ -3876,7 +3876,7 @@
 6	estun	estun	X	_	Case=Equ|Number=Plur	5	dep:infl	_	Analysis=[Equ.Pl]
 7-9	ungipaatinga	_	_	_	_	_	_	_	Analysis=ungipaate(V)^[Opt.Pres.Trns]^[2Sg.1Sg]|Gloss=tell-me
 7	ungipaat	ungipaat	VERB	_	_	0	root	_	Analysis=ungipaate(V)|Gloss=to-tell
-8	i	i	X	_	Mood=Opt|Tense=Pres|Subcat=Tran	7	dep:infl	_	Analysis=[Opt.Pres.Trns]
+8	i	i	X	_	Mood=Opt|Subcat=Tran|Tense=Pres	7	dep:infl	_	Analysis=[Opt.Pres.Trns]
 9	nga	nga	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=2	7	dep:infl	_	Analysis=[2Sg.1Sg]
 10-11	Laluramkestun	_	_	_	_	_	_	_	Analysis=Laluramke(N)^[Equ.Pl]|Gloss=in-English|SpaceAfter=No
 10	Laluramke	Laluramke	NOUN	_	_	7	obl	_	Analysis=Laluramke(N)|Gloss=white-person
@@ -4224,7 +4224,7 @@
 3	pagna	pagna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	1	nmod	_	Analysis=paagna(DEM.PRO.Abs.Sg)|Gloss=that-up-there
 4-5	guutigu	_	_	_	_	_	_	_	Analysis=guute(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=shoot-it|SpaceAfter=No
 4	guut	guut	VERB	_	_	0	root	_	Analysis=guute(V)|Gloss=to-shoot
-5	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Subcat=Tran	4	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
+5	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Pres	4	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
 6	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch16.gold:2
@@ -4247,7 +4247,7 @@
 # labels = complete-dep anno-hayley
 1-3	Tagitiki	_	_	_	_	_	_	_	Analysis=tagite(V)^[Opt.Pres.Trns]^[2Sg.3Pl]|Gloss=bring-them-to-me
 1	tagit	tagit	VERB	_	_	0	root	_	Analysis=tagite(V)|Gloss=to-bring
-2	i	i	X	_	Mood=Opt|Tense=Pres|Subcat=Tran	1	dep:infl	_	Analysis=[Opt.Pres.Trns]
+2	i	i	X	_	Mood=Opt|Subcat=Tran|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Pres.Trns]
 3	ki	ki	X	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	1	dep:infl	_	Analysis=[2Sg.3Pl]
 4-5	salngaget	_	_	_	_	_	_	_	Analysis=salngag(N)^[Abs.Pl]|Gloss=the-boxes
 4	salngag	salngag	NOUN	_	_	1	obj	_	Analysis=salngag(N)|Gloss=box
@@ -4443,7 +4443,7 @@
 1-3	Ukigutigu	_	_	_	_	_	_	_	Analysis=ukig(V)^@~:(u)te(V→V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=go-down-with-it
 1	ukig	ukig	VERB	_	_	0	root	_	Analysis=ukig(V)|Gloss=to-go-down
 2	ut	ut	VERB	_	_	1	aux	_	Analysis=@~:(u)te(V→V)|Gloss=to-V-together-with
-3	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|Subcat=Tran	2	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
+3	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Pres	2	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
 4-5	nasaperaqa	_	_	_	_	_	_	_	Analysis=nasaperagh(N)^[Abs.1SgPoss.Sg]|Gloss=my-hat
 4	nasapera	nasapera	NOUN	_	_	2	obj	_	Analysis=nasaperagh(N)|Gloss=hat
 5	qa	qa	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	dep:infl	_	Analysis=[Abs.1SgPoss.Sg]
@@ -4456,7 +4456,7 @@
 # labels = complete-dep anno-hayley
 1-3	Piyugeltung	_	_	_	_	_	_	_	Analysis=piyug(V)^[Opt.Pres.Intr]^[1Du]|Gloss=let's-walk
 1	piyug	piyug	VERB	_	_	0	root	_	Analysis=piyug(V)|Gloss=to-walk
-2	elt	elt	X	_	Mood=Opt|Tense=Pres|Subcat=Intr	1	dep:infl	_	Analysis=[Opt.Pres.Intr]
+2	elt	elt	X	_	Mood=Opt|Subcat=Intr|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Pres.Intr]
 3	ung	ung	X	_	Number[subj]=Dual|Person[subj]=1	1	dep:infl	_	Analysis=[1Du]
 4	paaggun	paaggun	ADV	_	Case=Per	1	advmod	_	Analysis=paaggun(DEM.ADV.Prl)|Gloss=up|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
@@ -4705,7 +4705,7 @@
 # labels = complete-dep anno-hayley
 1-3	Tuunlakun	_	_	_	_	_	_	_	Analysis=tuune(V)^[Opt.Pres.Trns]^[1Sg.3Sg]|Gloss=let-me-give-it
 1	tuun	tuun	VERB	_	_	0	root	_	Analysis=tuune(V)|Gloss=to-give
-2	la	la	X	_	Mood=Opt|Tense=Pres|Subcat=Tran	1	dep:infl	_	Analysis=[Opt.Pres.Trns]
+2	la	la	X	_	Mood=Opt|Subcat=Tran|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Pres.Trns]
 3	kun	kun	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1	1	dep:infl	_	Analysis=[1Sg.3Sg]
 4	qalqalima	qalqalima	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=qalqalima(N)^[Abs.Sg]|Gloss=the-axe
 5	elpenun	elpenun	PRON	_	Case=All|Number=Sing|Person=2	1	obl	_	Analysis=elpenun(PRO.All.2Sg)|Gloss=to-you|SpaceAfter=No
@@ -4717,7 +4717,7 @@
 # labels = complete-dep anno-hayley
 1-3	Yuqeghllanga	_	_	_	_	_	_	_	Analysis=yuqeghte(V)^[Opt.Pres.Intr]^[1Sg]|Gloss=let-me-go-outside|SpaceAfter=No
 1	yuqegh	yuqegh	VERB	_	_	0	root	_	Analysis=yuqeghte(V)|Gloss=to-go-outside
-2	lla	lla	X	_	Mood=Opt|Tense=Pres|Subcat=Intr	1	dep:infl	_	Analysis=[Opt.Pres.Intr]
+2	lla	lla	X	_	Mood=Opt|Subcat=Intr|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Pres.Intr]
 3	nga	nga	X	_	Number[subj]=Sing|Person[subj]=1	1	dep:infl	_	Analysis=[1Sg]
 4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
@@ -4744,7 +4744,7 @@
 # labels = complete-dep anno-hayley
 1-3	Aapnaken	_	_	_	_	_	_	_	Analysis=aapte(V)^[Opt.Fut.Trns]^[2Sg.3Sg]|Gloss=ask-him
 1	aap	aap	VERB	_	_	0	root	_	Analysis=aapte(V)|Gloss=to-ask
-2	nake	nake	X	_	Mood=Opt|Tense=Fut|Subcat=Tran	1	dep:infl	_	Analysis=[Opt.Fut.Trns]
+2	nake	nake	X	_	Mood=Opt|Subcat=Tran|Tense=Fut	1	dep:infl	_	Analysis=[Opt.Fut.Trns]
 3	n	n	X	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2	1	dep:infl	_	Analysis=[2Sg.3Sg]
 4-5	aatghaneng	_	_	_	_	_	_	_	Analysis=ategh(N)^[Abl_Mod.3SgPoss.Sg]|Gloss=by-the-means-of-his-name
 4	aatgh	aatgh	NOUN	_	_	1	obl:mod	_	Analysis=ategh(N)|Gloss=name
@@ -4764,7 +4764,7 @@
 # labels = complete-dep anno-hayley
 1-3	Neghyaqunaan	_	_	_	_	_	_	_	Analysis=negh(V)^[Opt.Neg.Fut.Trns]^[2Sg.3Sg]|Gloss=do-not-eat-it
 1	negh	negh	VERB	_	_	0	root	_	Analysis=negh(V)|Gloss=to-eat
-2	yaquna	yaquna	X	_	Mood=Opt|Polarity=Neg|Tense=Fut|Subcat=Tran	1	dep:infl	_	Analysis=[Opt.Neg.Fut.Trns]
+2	yaquna	yaquna	X	_	Mood=Opt|Polarity=Neg|Subcat=Tran|Tense=Fut	1	dep:infl	_	Analysis=[Opt.Neg.Fut.Trns]
 3	an	an	X	_	Number[obj]=Sing|Number[subj]=Sing,Dual,Plur|Person[obj]=3|Person[subj]=2	1	dep:infl	_	Analysis=[2Sg.3Sg]
 4	kukupak	kukupak	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=kukupag(N)^[Abs.Sg]|Gloss=ribbon-seal
 5-8	gaaghpenaan	_	_	_	_	_	_	_	Analysis=gaagh(V)^@–nghite(V→V)^[Sbrd.Trns]^[_.3Sg]|Gloss=without-cooking-it|SpaceAfter=No
@@ -4800,7 +4800,7 @@
 # labels = complete-dep anno-hayley
 1-3	Aqfalangi	_	_	_	_	_	_	_	Analysis=aqfa(V)^[Opt.Pres.Trns]^[1Sg.3Pl]|Gloss=let-me-fetch-them
 1	aqfa	aqfa	VERB	_	_	0	root	_	Analysis=aqfa(V)|Gloss=to-fetch
-2	la	la	X	_	Mood=Opt|Tense=Pres|Subcat=Tran	1	dep:infl	_	Analysis=[Opt.Pres.Trns]
+2	la	la	X	_	Mood=Opt|Subcat=Tran|Tense=Pres	1	dep:infl	_	Analysis=[Opt.Pres.Trns]
 3	ngi	ngi	X	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=1	1	dep:infl	_	Analysis=[1Sg.3Pl]
 4-5	yuwayut	_	_	_	_	_	_	_	Analysis=yuwayu(N)^[Abs.Pl]|Gloss=the-loons
 4	yuwayu	yuwayu	NOUN	_	_	1	obj	_	Analysis=yuwayu(N)|Gloss=loon
@@ -4856,7 +4856,7 @@
 # labels = complete-dep anno-hayley
 1-3	Piyaalghaakut	_	_	_	_	_	_	_	Analysis=piyaa(V)^[Opt.Fut.Intr]^[1Pl]|Gloss=lets-go-hunt-on-the-ice
 1	piyaa	piyaa	VERB	_	_	0	root	_	Analysis=piyaa(V)|Gloss=to-hunt-on-the-ice
-2	lgha	lgha	X	_	Mood=Opt|Tense=Fut|Subcat=Intr	1	dep:infl	_	Analysis=[Opt.Fut.Intr]
+2	lgha	lgha	X	_	Mood=Opt|Subcat=Intr|Tense=Fut	1	dep:infl	_	Analysis=[Opt.Fut.Intr]
 3	akut	akut	X	_	Number[subj]=Plur|Person[subj]=1	1	dep:infl	_	Analysis=[1Pl]
 4-5	taghnughhaanka	_	_	_	_	_	_	_	Analysis=taghnughhagh*(N)^[Abs.1SgPoss.Pl]|Gloss=my-children
 4	taghnughha	taghnughha	NOUN	_	_	6	nsubj	_	Analysis=taghnughhagh*(N)|Gloss=child
