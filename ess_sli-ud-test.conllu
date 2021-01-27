@@ -2136,7 +2136,7 @@
 
 # sent_id = Jacobson.Ch14.gold:14
 # text = Neghenghilkuvek iyataghllequten.
-# gloss = If you don't eat, you will get hungy.
+# gloss = If you don't eat, you will get hungry.
 # labels = complete-dep anno-hayley
 1	Neghenghilkuvek	neghe	VERB	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=2|Polarity=Neg|Subcat=Intr	2	advcl	_	Analysis=neghe(V)^@–nghite(V→V)^[Cond.Intr]^[2Sg]|Gloss=if-you-do-not-eat
 2	iyataghllequten	iyatagh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Fut	0	root	_	Analysis=iyatagh(V)^@lleqe(V→V)^[Ind.Intr]^[2Sg]|Gloss=you-will-be-hungry|SpaceAfter=No
