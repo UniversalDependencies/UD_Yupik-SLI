@@ -539,7 +539,7 @@
 2	ighneghi	ighnegh	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Analysis=ighnegh(N)^[Abs.3SgPoss.Pl]|Gloss=her-sons
 3	neghellequt	neghe	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Fut	0	root	_	Analysis=neghe(V)^@lleqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-will-eat
 4	akuutameng	akuuta	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=akuutagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-mixture
-5	aqavzilegmeng	aqavzi	NOUN	_	Case=Abl|Number=Sing	4	nmod:arg	_	Analysis=aqavzig(N)^–leg(N→N)^[Abl_Mod.Sg]|Gloss=the-one-having-cloudberry|SpaceAfter=No
+5	aqavzilegmeng	aqavzi	NOUN	_	Case=Abl|Number=Sing	4	nmod	_	Analysis=aqavzig(N)^–leg(N→N)^[Abl_Mod.Sg]|Gloss=the-one-having-cloudberry|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch6.gold:3
