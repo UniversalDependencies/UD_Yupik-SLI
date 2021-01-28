@@ -3121,7 +3121,7 @@
 4	perara	perara	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=perara(N)^[Abs.Sg]|Gloss=the-meat-aspic
 5-6	ellnginaan	_	_	_	_	_	_	_	Analysis=ellnginagh*(QUANTQUAL)^[3Sg]|Gloss=only|SpaceAfter=No
 5	ellngina	ellngina	ADV	_	_	1	advmod	_	Analysis=ellnginagh*(QUANTQUAL)|Gloss=only
-6	an	an	X	_	Number[subj]=Sing|Person[subj]=3	5	dep:infl	_	Analysis=[3Sg]
+6	an	an	X	_	Number=Sing|Person=3	5	dep:infl	_	Analysis=[3Sg]
 7	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch12.gold:3

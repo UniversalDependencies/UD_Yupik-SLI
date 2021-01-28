@@ -166,7 +166,7 @@
 # gloss = Your daughters are big girls.
 # labels = complete-dep anno-hayley
 1	Panigten	panig	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=2	2	nsubj	_	Analysis=panig(N)^[Abs.2SgPoss.Pl]|Gloss=your-daughters
-2	aghnaghaghllaguut	aghnagha	NOUN	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=aghnaghagh*(N)^–ghllag(N→N)^~:(ng)u(N→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-big-girls|SpaceAfter=No
+2	aghnaghaghllaguut	aghnagha	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=aghnaghagh*(N)^–ghllag(N→N)^~:(ng)u(N→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-big-girls|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch4.gold:6
@@ -313,7 +313,7 @@
 # text = Qikmiiguq.
 # gloss = It is a dog.
 # labels = complete-dep anno-hayley
-1	Qikmiiguq	qikmi	NOUN	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=qikmigh(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Sg]|Gloss=it-is-a-dog|SpaceAfter=No
+1	Qikmiiguq	qikmi	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=qikmigh(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Sg]|Gloss=it-is-a-dog|SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch4.gold:24
@@ -321,7 +321,7 @@
 # gloss = Chaplino is a land.
 # labels = complete-dep anno-hayley
 1	Ungaziq	Ungaziq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=Ungazigh(N)^[Abs.Sg]|Gloss=Chaplino
-2	nunanguuq	nuna	NOUN	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=nuna(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Sg]|Gloss=it-is-a-land|SpaceAfter=No
+2	nunanguuq	nuna	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=nuna(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Sg]|Gloss=it-is-a-land|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch4.gold:25
@@ -355,7 +355,7 @@
 # gloss = The guests are white people.
 # labels = complete-dep anno-hayley
 1	Aqelqat	aqelqa	NOUN	_	Case=Abs|Number=Plur	2	nsubj	_	Analysis=aqelqagh(N)^[Abs.Pl]|Gloss=the-guests
-2	Laluramkenguut	Laluramke	NOUN	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=Laluramke(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-white-people|SpaceAfter=No
+2	Laluramkenguut	Laluramke	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=Laluramke(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-white-people|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch4.gold:29
@@ -363,7 +363,7 @@
 # gloss = The man is a husband.
 # labels = complete-dep anno-hayley
 1	Yugllak	yu	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=yug(N)^–ghllag(N→N)^[Abs.Sg]|Gloss=the-big-man
-2	uginguuq	ugi	NOUN	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=ugi(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Sg]|Gloss=he-is-a-husband|SpaceAfter=No
+2	uginguuq	ugi	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=ugi(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Sg]|Gloss=he-is-a-husband|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch4.gold:30
@@ -1071,14 +1071,14 @@
 # text = Kinanguzin?
 # gloss = Who are you?
 # labels = complete-dep anno-hayley
-1	Kinanguzin	kina	PRON	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|PronType=Int|Subcat=Intr	0	root	_	Analysis=kina(WH)^~:(ng)u(N→V)^[Intrg.Intr.2Sg]|Gloss=who-are-you?|SpaceAfter=No
+1	Kinanguzin	kina	VERB	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|PronType=Int|Subcat=Intr	0	root	_	Analysis=kina(WH)^~:(ng)u(N→V)^[Intrg.Intr.2Sg]|Gloss=who-are-you?|SpaceAfter=No
 2	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
 # sent_id = Jacobson.Ch8.gold:16
 # text = Kinkungutsi?
 # gloss = Who are you all?
 # labels = complete-dep anno-hayley
-1	Kinkungutsi	kinku	PRON	_	Mood=Int|Number[subj]=Plur|Person[subj]=2|PronType=Int|Subcat=Intr	0	root	_	Analysis=kinku(WH)^~:(ng)u(N→V)^[Intrg.Intr.2Pl]|Gloss=who-are-you-all?|SpaceAfter=No
+1	Kinkungutsi	kinku	VERB	_	Mood=Int|Number[subj]=Plur|Person[subj]=2|PronType=Int|Subcat=Intr	0	root	_	Analysis=kinku(WH)^~:(ng)u(N→V)^[Intrg.Intr.2Pl]|Gloss=who-are-you-all?|SpaceAfter=No
 2	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
 # sent_id = Jacobson.Ch8.gold:17
@@ -1248,14 +1248,14 @@
 # text = Kinangaawa?
 # gloss = Who is he?
 # labels = complete-dep anno-hayley
-1	Kinangaawa	kina	PRON	_	Number[subj]=Sing|Person[subj]=3|PronType=Int	0	root	_	Analysis=kina(WH)^~:(ng)u(N→V)^[Intrg.Intr]^[3Sg]|Gloss=who-is-he?|SpaceAfter=No
+1	Kinangaawa	kina	VERB	_	Number[subj]=Sing|Person[subj]=3|PronType=Int	0	root	_	Analysis=kina(WH)^~:(ng)u(N→V)^[Intrg.Intr]^[3Sg]|Gloss=who-is-he?|SpaceAfter=No
 2	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
 # sent_id = Jacobson.Ch9.gold:3
 # text = Kinkungaawat aqelqat?
 # gloss = Who are the guests?
 # labels = complete-dep anno-hayley
-1	Kinkungaawat	kinku	PRON	_	Mood=Int|Number[subj]=Plur|Person[subj]=3|PronType=Int|Subcat=Intr	0	root	_	Analysis=kinku(WH)^~:(ng)u(N→V)^[Intrg.Intr]^[3Pl]|Gloss=who-are-they?
+1	Kinkungaawat	kinku	VERB	_	Mood=Int|Number[subj]=Plur|Person[subj]=3|PronType=Int|Subcat=Intr	0	root	_	Analysis=kinku(WH)^~:(ng)u(N→V)^[Intrg.Intr]^[3Pl]|Gloss=who-are-they?
 2	aqelqat	aqelqa	NOUN	_	Case=Abs|Number=Plur	1	nsubj	_	Analysis=aqelqagh(N)^[Abs.Pl]|Gloss=the-guests|SpaceAfter=No
 3	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
@@ -1390,7 +1390,7 @@
 # text = Sangaawa?
 # gloss = What is it?
 # labels = complete-dep anno-hayley
-1	Sangaawa	sa	NOUN	_	Number[subj]=Sing|Person[subj]=3	0	root	_	Analysis=sa(N)^~:(ng)u(N→V)^[Intrg.Intr]^[3Sg]|Gloss=what-is-it?|SpaceAfter=No
+1	Sangaawa	sa	VERB	_	Number[subj]=Sing|Person[subj]=3	0	root	_	Analysis=sa(N)^~:(ng)u(N→V)^[Intrg.Intr]^[3Sg]|Gloss=what-is-it?|SpaceAfter=No
 2	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
 # sent_id = Jacobson.Ch9.gold:19
@@ -1840,7 +1840,7 @@
 # labels = complete-dep anno-hayley
 1	Neghaqa	negh	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran	0	root	_	Analysis=negh(V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-ate-it
 2	perara	perara	NOUN	_	Case=Abs|Number=Sing	1	obj	_	Analysis=perara(N)^[Abs.Sg]|Gloss=the-meat-aspic
-3	ellnginaan	ellngina	ADV	_	Number[subj]=Sing|Person[subj]=3	1	advmod	_	Analysis=ellnginagh*(QUANTQUAL)^[3Sg]|Gloss=only|SpaceAfter=No
+3	ellnginaan	ellngina	ADV	_	Number=Sing|Person=3	1	advmod	_	Analysis=ellnginagh*(QUANTQUAL)^[3Sg]|Gloss=only|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch12.gold:3
@@ -1873,7 +1873,7 @@
 3	seghleghunii	ni	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	Analysis=seghleghu(V)^@~fni(CmpdVbl)^[Ind.Trns]^[3Sg.3Sg]|Gloss=he-said-it-was-bad
 4	tanpeq	tanpeq	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Analysis=tanpegh(N)^[Abs.Sg]|Gloss=the-dried-walrus
 5	atuqnaqegkeni	gke	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes|Tense=Fut	4	nmod	_	Analysis=atuqe(V)^@~fnaqe(V→V)^@~–(g)ke(V→N)^[Abs.4SgPoss.Sg]|Gloss=the-one-he-is-going-to-use|SpaceAfter=No
-6	.	.	PUNCT	_	_	3	root	_	Analysis=.
+6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch12.gold:6
 # text = Ighneghma qughsatkumun qazigyat neghumaniit.
@@ -2401,7 +2401,7 @@
 # text = Sangaawa pugimalghii un'gani?
 # gloss = What is the thing that swam down there in the water?
 # labels = complete-dep anno-hayley
-1	Sangaawa	sa	NOUN	_	Number[subj]=Sing|Person[subj]=3	0	root	_	Analysis=sa(N)^~:(ng)u(N→V)^[Intrg.Intr]^[3Sg]|Gloss=what-is-it?
+1	Sangaawa	sa	VERB	_	Number[subj]=Sing|Person[subj]=3	0	root	_	Analysis=sa(N)^~:(ng)u(N→V)^[Intrg.Intr]^[3Sg]|Gloss=what-is-it?
 2	pugimalghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	nmod	_	Analysis=pugimagh(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-swam
 3	un'gani	un'gani	ADV	_	Case=Loc	2	advmod	_	Analysis=un'gani(DEM.ADV.Loc)|Gloss=down-there-at-the-water|SpaceAfter=No
 4	?	?	PUNCT	_	_	1	punct	_	Analysis=?
@@ -2554,7 +2554,7 @@
 2	naayghani	naaygha	NOUN	_	Case=Loc|Number=Plur	3	obl	_	Analysis=naayghagh(N)^[Loc.Pl]|Gloss=in-the-mountain
 3	esghaatunga	esghaat	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr	0	root	_	Analysis=esghaate(V)^[Ind.Intr]^[1Sg]|Gloss=I-saw-something
 4	sikigmeng	sikig	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=sikig(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-squirrel
-5	uglalghiimeng	lghii	VERB	_	Case=Abl|Number=Sing	4	nmod	_	Analysis=uglagh(V)^@–lghii(V→N)^[Abl_Mod.Sg]|Gloss=many-of-them|SpaceAfter=No
+5	uglalghiimeng	lghii	NOUN	_	Case=Abl|Number=Sing	4	nmod	_	Analysis=uglagh(V)^@–lghii(V→N)^[Abl_Mod.Sg]|Gloss=many-of-them|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch16.gold:18
