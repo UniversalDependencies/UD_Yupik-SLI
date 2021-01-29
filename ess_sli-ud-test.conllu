@@ -539,7 +539,7 @@
 2	ighneghi	ighnegh	NOUN	_	Case=Abs|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	Analysis=ighnegh(N)^[Abs.3SgPoss.Pl]|Gloss=her-sons
 3	neghellequt	neghe	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Fut	0	root	_	Analysis=neghe(V)^@lleqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-will-eat
 4	akuutameng	akuuta	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=akuutagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-mixture
-5	aqavzilegmeng	aqavzi	NOUN	_	Case=Abl|Number=Sing	4	nmod	_	Analysis=aqavzig(N)^–leg(N→N)^[Abl_Mod.Sg]|Gloss=the-one-having-cloudberry|SpaceAfter=No
+5	aqavzilegmeng	aqavzi	NOUN	_	Case=Abl|Number=Sing	4	appos	_	Analysis=aqavzig(N)^–leg(N→N)^[Abl_Mod.Sg]|Gloss=the-one-having-cloudberry|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch6.gold:3
@@ -830,7 +830,7 @@
 
 # sent_id = Jacobson.Ch7.gold:8
 # text = Apeghtughistegpek liilleqii taghnughhaat aatghit.
-# gloss = Your teacher will learn the childrens' names.
+# gloss = Your teacher will learn the children's names.
 # labels = complete-dep anno-hayley
 1	Apeghtughistegpek	apeghtughiste	NOUN	_	Case=Erg|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	nsubj	_	Analysis=apeghtughiste(N)^[Rel.2SgPoss.Sg]|Gloss=your-teacher
 2	liilleqii	lii	VERB	_	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	0	root	_	Analysis=liite(V)^@lleqe(V→V)^[Ind.Trns]^[3Sg.3Pl]|Gloss=he-will-learn-them
@@ -1646,7 +1646,7 @@
 # gloss = The sick child went into his grandfather's house.
 # labels = complete-dep anno-hayley
 1	Taghnughhaq	taghnughhaq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Sg]|Gloss=the-child
-2	qinuyulghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	nmod	_	Analysis=qinuyug(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-is-sick
+2	qinuyulghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	appos	_	Analysis=qinuyug(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-is-sick
 3	iitghumaaq	iitgh	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=itegh(V)^@~:(i/u)ma(V→V)^[Ind.Intr]^[3Sg]|Gloss=she-went-in
 4	apami	apa	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	5	nmod	_	Analysis=apa(N)^[Rel.4SgPoss.Sg]|Gloss=his-grandfather's
 5	mangteghaanun	mangtegha	NOUN	_	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	Analysis=mangteghagh(N)^[All.3SgPoss.Sg]|Gloss=to-his-house|SpaceAfter=No
@@ -1688,7 +1688,7 @@
 1	Siqinghem	siqingh	NOUN	_	Case=Erg|Number=Sing	2	nsubj	_	Analysis=siqinegh(N)^[Rel.Sg]|Gloss=the-sun
 2	ghevesimakanga	sii	VERB	_	Mood=Ptc|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran	0	root	_	Analysis=gheve(V)^+sigh(V→V)^@~:(i/u)ma(V→V)^[Ptcp.Trns]^[3Sg.3Sg]|Gloss=it-caused-it-to-fade
 3	veglluk	veglluk	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Analysis=vegllug(N)^[Abs.Sg]|Gloss=the-towel
-4	kavilnguq	nguq	NOUN	_	Case=Abs|Number=Sing	3	nmod	_	Analysis=kavite(V)^@ngugh(V→N)^[Abs.Sg]|Gloss=one-that-is-red|SpaceAfter=No
+4	kavilnguq	nguq	NOUN	_	Case=Abs|Number=Sing	3	appos	_	Analysis=kavite(V)^@ngugh(V→N)^[Abs.Sg]|Gloss=one-that-is-red|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch11.gold:7
@@ -1704,9 +1704,9 @@
 # gloss = The fast plane is going to land on top of the lake.
 # labels = complete-dep anno-hayley
 1	Tengegkayuget	tengegkayug	NOUN	_	Case=Abs|Number=Plur	3	nsubj	_	Analysis=tengegkayug(N)^[Abs.Pl]|Gloss=the-airplane
-2	sukalnguut	ngu	NOUN	_	Case=Abs|Number=Plur	1	nmod	_	Analysis=sukate(V)^@ngugh(V→N)^[Abs.Pl]|Gloss=one-that-is-fast
+2	sukalnguut	ngu	NOUN	_	Case=Abs|Number=Plur	1	appos	_	Analysis=sukate(V)^@ngugh(V→N)^[Abs.Pl]|Gloss=one-that-is-fast
 3	nalugnaqut	nalug	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Fut	0	root	_	Analysis=nalug(V)^@~fnaqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-going-to-land
-4	naayvam	naayva	NOUN	_	Case=Erg|Number=Sing	5	nmod	_	Analysis=naayvagh(N)^[Rel.Sg]|Gloss=the-lake
+4	naayvam	naayva	NOUN	_	Case=Erg|Number=Sing	5	nmod	_	Analysis=naayvagh(N)^[Rel.Sg]|Gloss=the-lake's
 5	qaayngakun	qaay	NOUN	_	Case=Per|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	Analysis=qaye(N)^[Prl.3SgPoss.Sg]|Gloss=to-its-top|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
@@ -1716,7 +1716,7 @@
 # labels = complete-dep anno-hayley
 1	Gaaghutaa	gaagh	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran	0	root	_	Analysis=gaagh(V)^@~:(u)te(V→V)^[Ind.Trns]^[3Sg.3Sg]|Gloss=she-cooked-for-him
 2	ugini	ugi	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	1	obj	_	Analysis=ugi(N)^[Abs.4SgPoss.Sg]|Gloss=her-husband
-3	nanuum	nanu	NOUN	_	Case=Erg|Number=Sing	4	nmod	_	Analysis=nanugh*(N)^[Rel.Sg]|Gloss=polar-bear
+3	nanuum	nanu	NOUN	_	Case=Erg|Number=Sing	4	nmod	_	Analysis=nanugh*(N)^[Rel.Sg]|Gloss=polar-bear's
 4	kemekraganeng	kemekrag	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	obl:mod	_	Analysis=kemekrag(N)^[Abl_Mod.3SgPoss.Sg]|Gloss=by-the-means-of-its-meat|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
@@ -1763,7 +1763,7 @@
 # labels = complete-dep anno-hayley
 1	Esghaatunga	esghaat	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr	0	root	_	Analysis=esghaate(V)^[Ind.Intr]^[1Sg]|Gloss=I-saw-something
 2	Purekimeng	Pureki	NOUN	_	Case=Abl|Number=Sing	1	obl:mod	_	Analysis=Pureki(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-a-black-person
-3	teflilegmeng	leg	NOUN	_	Case=Abl|Number=Sing	2	nmod	_	Analysis=tefli(N)^–leg(N→N)^[Abl_Mod.Sg]|Gloss=the-one-with-food-particles
+3	teflilegmeng	leg	NOUN	_	Case=Abl|Number=Sing	2	appos	_	Analysis=tefli(N)^–leg(N→N)^[Abl_Mod.Sg]|Gloss=the-one-with-food-particles
 4	esnami	esna	NOUN	_	Case=Loc|Number=Sing	1	obl	_	Analysis=esnagh(N)^[Loc.Sg]|Gloss=at-the-beach|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
@@ -1792,8 +1792,8 @@
 2	tuunelleqii	tuune	VERB	_	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	0	root	_	Analysis=tuune(V)^@lleqe(V→V)^[Ind.Trns]^[3Sg.3Pl]|Gloss=he-will-give-them
 3	tuquuqat	tuquuqa	NOUN	_	Case=Abs|Number=Plur	2	obj	_	Analysis=tuquuqagh(N)^[Abs.Pl]|Gloss=the-nails
 4	taaghtamun	taaghta	NOUN	_	Case=All|Number=Sing	2	obl	_	Analysis=taaghta(N)^[All.Sg]|Gloss=to-the-doctor
-5	suflugalegmun	sufluga	NOUN	_	Case=All|Number=Sing	4	nmod	_	Analysis=suflugagh(N)^–leg(N→N)^[All.Sg]|Gloss=to-the-one-with-a-gun
-6	naavngalghiimeng	lghii	NOUN	_	Case=Abl|Number=Sing	5	nmod	_	Analysis=naave(V)^~fnga(V→V)^@–lghii(V→N)^[Abl_Mod.Sg]|Gloss=the-one-that-is-broken|SpaceAfter=No
+5	suflugalegmun	sufluga	NOUN	_	Case=All|Number=Sing	4	appos	_	Analysis=suflugagh(N)^–leg(N→N)^[All.Sg]|Gloss=to-the-one-with-a-gun
+6	naavngalghiimeng	lghii	NOUN	_	Case=Abl|Number=Sing	5	appos	_	Analysis=naave(V)^~fnga(V→V)^@–lghii(V→N)^[Abl_Mod.Sg]|Gloss=the-one-that-is-broken|SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch11.gold:18
@@ -1810,7 +1810,7 @@
 # gloss = The Koryak who is speaking Chukchi wants to eat the dried meat.
 # labels = complete-dep anno-hayley
 1	Karakem	Karake	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Analysis=Karake(N)^[Rel.Sg]|Gloss=the-Koryak
-2	Quyillegtilghiim	lghii	NOUN	_	Case=Erg|Number=Sing	1	nmod	_	Analysis=quyillegti(V)^@–lghii(V→N)^[Rel.Sg]|Gloss=the-one-that-is-speaking-Chukchi
+2	Quyillegtilghiim	lghii	NOUN	_	Case=Erg|Number=Sing	1	appos	_	Analysis=quyillegti(V)^@–lghii(V→N)^[Rel.Sg]|Gloss=the-one-that-is-speaking-Chukchi
 3	neghyugaa	yug	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran	0	root	_	Analysis=negh(V)^@~fyug(V→V)^[Ind.Trns]^[3Sg.3Sg]|Gloss=he-wants-to-eat-it
 4	nefkuuraq	nefkuuraq	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Analysis=nefkuuragh(N)^[Abs.Sg]|Gloss=dried-meat|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
@@ -1820,7 +1820,7 @@
 # gloss = The girl who is washing her face will use your towel.
 # labels = complete-dep anno-hayley
 1	Aghnaghaam	aghnagha	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Analysis=aghnaghagh*(N)^[Rel.Sg]|Gloss=the-girl
-2	aghmilghiim	lghii	NOUN	_	Case=Erg|Number=Sing	1	nmod	_	Analysis=aghmig(V)^@–lghii(V→N)^[Rel.Sg]|Gloss=the-one-that-is-washing-her-face
+2	aghmilghiim	lghii	NOUN	_	Case=Erg|Number=Sing	1	appos	_	Analysis=aghmig(V)^@–lghii(V→N)^[Rel.Sg]|Gloss=the-one-that-is-washing-her-face
 3	atuqnaqaa	atuq	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	0	root	_	Analysis=atuqe(V)^@~fnaqe(V→V)^[Ind.Trns]^[3Sg.3Sg]|Gloss=she-is-going-to-use-it
 4	vegllugen	vegllug	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	obj	_	Analysis=vegllug(N)^[Abs.2SgPoss.Sg]|Gloss=your-towel|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	Analysis=.
@@ -1858,7 +1858,7 @@
 # gloss = The old woman sewing a parka is in her child's house.
 # labels = complete-dep anno-hayley unsure-8-12
 1	Aghnalqwaaghaq	aghnalqwaaghaq	NOUN	_	Case=Abs|Number=Sing	5	nsubj	_	Analysis=aghnalqwaagh(N)^[Abs.Sg]|Gloss=the-old-lady
-2	kakilghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	nmod	_	Analysis=kaki(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-is-sewing
+2	kakilghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	appos	_	Analysis=kaki(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-is-sewing
 3	atkugmeng	atkug	NOUN	_	Case=Abl|Number=Sing	2	obl:mod	_	Analysis=atkug(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-a-parka
 4	avaqutami	avaquta	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	5	nmod	_	Analysis=avaqutagh(N)^[Rel.4SgPoss.Sg]|Gloss=her-child's
 5	mangteghaanituq	t	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=mangteghagh(N)^[Loc.3SgPoss.Sg]^ete^[Ind.Intr]^[3Sg]|Gloss=she-is-in-the-house|SpaceAfter=No
@@ -1868,11 +1868,11 @@
 # text = Qefliqelghiim yugem seghleghunii tanpeq atuqnaqegkeni.
 # gloss = The mad man said the dried walrus skin he was going to use is bad.
 # labels = complete-dep anno-hayley unsure-10-13
-1	Qefliqelghiim	lghii	NOUN	_	Case=Erg|Number=Sing	2	nmod	_	Analysis=qefliqe(V)^@–lghii(V→N)^[Rel.Sg]|Gloss=the-one-that-is-mad
+1	Qefliqelghiim	lghii	NOUN	_	Case=Erg|Number=Sing	2	appos	_	Analysis=qefliqe(V)^@–lghii(V→N)^[Rel.Sg]|Gloss=the-one-that-is-mad
 2	yugem	yug	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Analysis=yug(N)^[Rel.Sg]|Gloss=the-man
 3	seghleghunii	ni	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	Analysis=seghleghu(V)^@~fni(CmpdVbl)^[Ind.Trns]^[3Sg.3Sg]|Gloss=he-said-it-was-bad
 4	tanpeq	tanpeq	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Analysis=tanpegh(N)^[Abs.Sg]|Gloss=the-dried-walrus
-5	atuqnaqegkeni	gke	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes|Tense=Fut	4	nmod	_	Analysis=atuqe(V)^@~fnaqe(V→V)^@~–(g)ke(V→N)^[Abs.4SgPoss.Sg]|Gloss=the-one-he-is-going-to-use|SpaceAfter=No
+5	atuqnaqegkeni	gke	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes|Tense=Fut	4	appos	_	Analysis=atuqe(V)^@~fnaqe(V→V)^@~–(g)ke(V→N)^[Abs.4SgPoss.Sg]|Gloss=the-one-he-is-going-to-use|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch12.gold:6
@@ -1890,7 +1890,7 @@
 # gloss = I will buy the vehicle that is upside down.
 # labels = complete-dep anno-hayley
 1	Ullghitak	ullghita	NOUN	_	Case=Abs|Number=Dual	3	obj	_	Analysis=ullghitagh(N)^[Abs.Du]|Gloss=the-vehicle
-2	mumigngalghiik	lghii	NOUN	_	Case=Abs|Number=Dual	1	nmod	_	Analysis=mumig(POS)^~fnga(POS→STATIVE)^@–lghii(V→N)^[Abs.Du]|Gloss=the-one-that-is-turned-over
+2	mumigngalghiik	lghii	NOUN	_	Case=Abs|Number=Dual	1	appos	_	Analysis=mumig(POS)^~fnga(POS→STATIVE)^@–lghii(V→N)^[Abs.Du]|Gloss=the-one-that-is-turned-over
 3	tukfighlleqagka	tukfigh	VERB	_	Mood=Ind|Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Fut	0	root	_	Analysis=tukfigh(V)^@lleqe(V→V)^[Ind.Trns]^[1Sg.3Du]|Gloss=I-will-buy-them|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
@@ -1907,7 +1907,7 @@
 # gloss = Your red parka is here.
 # labels = complete-dep anno-hayley
 1	Atkugen	atkug	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	3	nsubj	_	Analysis=atkug(N)^[Abs.2SgPoss.Sg]|Gloss=your-parka
-2	kavilnguq	nguq	NOUN	_	Case=Abs|Number=Sing	1	acl	_	Analysis=kavite(V)^@ngugh(V→N)^[Abs.Sg]|Gloss=the-red-one
+2	kavilnguq	nguq	NOUN	_	Case=Abs|Number=Sing	1	appos	_	Analysis=kavite(V)^@ngugh(V→N)^[Abs.Sg]|Gloss=the-red-one
 3	whaantuq	whaant	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=whaante(V)^[Ind.Intr]^[3Sg]|Gloss=it-is-here|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
@@ -2337,7 +2337,7 @@
 4	aanuq	aan	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=aane(V)^[Ind.Intr]^[3Sg]|Gloss=he-went-out
 5	esghaghnaluki	esghagh	VERB	_	Mood=Sbr|Number[obj]=Plur|Person[obj]=3|Subcat=Tran	4	advcl	_	Analysis=esghagh(V)^@~fna(V→V)^[Sbrd.Trns]^[_.3Pl]|Gloss=in-order-to-see-them
 6	aqelqat	aqelqa	NOUN	_	Case=Abs|Number=Plur	5	obj	_	Analysis=aqelqagh(N)^[Abs.Pl]|Gloss=the-guests
-7	kaallghiit	llghii	NOUN	_	Case=Abs|Number=Plur	6	nmod	_	Analysis=kaate(V)^@–lghii(V→N)^[Abs.Pl]|Gloss=the-one-that-arrived
+7	kaallghiit	llghii	NOUN	_	Case=Abs|Number=Plur	6	appos	_	Analysis=kaate(V)^@–lghii(V→N)^[Abs.Pl]|Gloss=the-one-that-arrived
 8	tengegkayugteggun	tengegkayug	NOUN	_	Case=Per|Number=Plur	7	obl	_	Analysis=tengegkayug(N)^[Prl.Pl]|Gloss=by-plane|SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
@@ -2393,7 +2393,7 @@
 # gloss = Shoot the bird that is up there.
 # labels = complete-dep anno-hayley
 1	Qawaak	qawaak	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Analysis=qawaag(N)^[Abs.Sg]|Gloss=bird
-2	espagna	pagna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	1	nmod	_	Analysis=[Anaphor]^paagna(DEM.PRO.Abs.Sg)|Gloss=the-one-up-there
+2	espagna	pagna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	1	appos	_	Analysis=[Anaphor]^paagna(DEM.PRO.Abs.Sg)|Gloss=the-one-up-there
 3	guutigu	guut	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Pres	0	root	_	Analysis=guute(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=shoot-it|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
@@ -2402,7 +2402,7 @@
 # gloss = What is the thing that swam down there in the water?
 # labels = complete-dep anno-hayley
 1	Sangaawa	sa	VERB	_	Number[subj]=Sing|Person[subj]=3	0	root	_	Analysis=sa(N)^~:(ng)u(N→V)^[Intrg.Intr]^[3Sg]|Gloss=what-is-it?
-2	pugimalghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	nmod	_	Analysis=pugimagh(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-swam
+2	pugimalghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	nsubj	_	Analysis=pugimagh(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-swam
 3	un'gani	un'gani	ADV	_	Case=Loc	2	advmod	_	Analysis=un'gani(DEM.ADV.Loc)|Gloss=down-there-at-the-water|SpaceAfter=No
 4	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
@@ -2502,7 +2502,7 @@
 # text = Qaamna keniq qaamumalghii qergesek qelpeghsafkek.
 # gloss = When you opened the window, the light inside went out that inside. (keniq is probably a typo for keneq--light)
 # labels = complete-dep anno-hayley
-1	Qaamna	qaamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	nmod	_	Analysis=qaamna(DEM.PRO.Abs.Sg)|Gloss=that-inside
+1	Qaamna	qaamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	appos	_	Analysis=qaamna(DEM.PRO.Abs.Sg)|Gloss=that-inside
 2	keniq	keniq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=kenigh(N)^[Abs.Sg]|Gloss=the-skirt
 3	qaamumalghii	qaam	VERB	_	Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	Analysis=qaame(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=it-went-out
 4	qergesek	qergese	NOUN	_	Case=Abs|Number=Dual	5	obj	_	Analysis=qergese(N)^[Abs.Du]|Gloss=the-window
@@ -2524,7 +2524,7 @@
 # labels = complete-dep anno-hayley
 1	Ukigutigu	ukig	VERB	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Pres	0	root	_	Analysis=ukig(V)^@~:(u)te(V→V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=go-down-with-it
 2	nasaperaqa	nasapera	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	1	obj	_	Analysis=nasaperagh(N)^[Abs.1SgPoss.Sg]|Gloss=my-hat
-3	paamna	paamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	nmod	_	Analysis=paamna(DEM.PRO.Abs.Sg)|Gloss=that-one-up-there-not-in-sight'|SpaceAfter=No
+3	paamna	paamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	appos	_	Analysis=paamna(DEM.PRO.Abs.Sg)|Gloss=that-one-up-there-not-in-sight|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch16.gold:15
@@ -2541,7 +2541,7 @@
 # labels = complete-dep anno-hayley
 1	Naafqaqa	naafq	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran	0	root	_	Analysis=naafqe(V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-broke-it
 2	suflugan	sufluga	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	1	obj	_	Analysis=suflugagh(N)^[Abs.2SgPoss.Sg]|Gloss=your-gun
-3	tukfiqen	qe	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	nmod	_	Analysis=tukfigh(V)^@~–(g)ke(V→N)^[Abs.2SgPoss.Sg]|Gloss=the-one-you-bought
+3	tukfiqen	qe	NOUN	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	2	appos	_	Analysis=tukfigh(V)^@~–(g)ke(V→N)^[Abs.2SgPoss.Sg]|Gloss=the-one-you-bought
 4	estugameng	estuga	NOUN	_	Case=Abl|Number=Sing	3	obl	_	Analysis=estugagh(N)^[Abl_Mod.Sg]|Gloss=from-the-store
 5	tamaani	maani	ADV	_	Case=Loc	4	advmod	_	Analysis=[Anaphor]^maani(DEM.ADV.Loc)|Gloss=in-this-area|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Analysis=.
@@ -2554,14 +2554,14 @@
 2	naayghani	naaygha	NOUN	_	Case=Loc|Number=Plur	3	obl	_	Analysis=naayghagh(N)^[Loc.Pl]|Gloss=in-the-mountain
 3	esghaatunga	esghaat	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Intr	0	root	_	Analysis=esghaate(V)^[Ind.Intr]^[1Sg]|Gloss=I-saw-something
 4	sikigmeng	sikig	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=sikig(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-squirrel
-5	uglalghiimeng	lghii	NOUN	_	Case=Abl|Number=Sing	4	nmod	_	Analysis=uglagh(V)^@–lghii(V→N)^[Abl_Mod.Sg]|Gloss=many-of-them|SpaceAfter=No
+5	uglalghiimeng	lghii	NOUN	_	Case=Abl|Number=Sing	4	appos	_	Analysis=uglagh(V)^@–lghii(V→N)^[Abl_Mod.Sg]|Gloss=many-of-them|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch16.gold:18
 # text = Tazingkut afsengaat papelguut takestaaghhaghneng.
 # gloss = The voles over there have a short tail.
 # labels = complete-dep anno-hayley
-1	Tazingkut	ingku	PRON	_	Case=Abs,Erg|Number=Plur|PronType=Dem	2	nmod	_	Analysis=[Anaphor]^iingku(DEM.PRO)^[AbsRel.Pl]|Gloss=the-one-over-there
+1	Tazingkut	ingku	PRON	_	Case=Abs,Erg|Number=Plur|PronType=Dem	2	appos	_	Analysis=[Anaphor]^iingku(DEM.PRO)^[AbsRel.Pl]|Gloss=the-one-over-there
 2	afsengaat	afsenga	NOUN	_	Case=Abs|Number=Plur	3	nsubj	_	Analysis=afsengagh*(N)^[Abs.Pl]|Gloss=the-voles
 3	papelguut	lgu	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=papeg(N)^–lgu(N→V)^[Ind.Intr]^[3Pl]|Gloss=they-have-a-tail
 4	takestaaghhaghneng	takestaaghhagh	NOUN	_	Case=Abl|Number=Plur	3	obl:mod	_	Analysis=takestaaghhagh*(N)^[Abl_Mod.Pl]|Gloss=by-the-means-of-short-thing|SpaceAfter=No
@@ -2571,9 +2571,9 @@
 # text = Iigna Quyillek kaallghii ighivgaq paamken kalileghrugllalguuq.
 # gloss = That Chukchi person over there, the one that arrived yesterday from that one up there, had a big dalmation dog.
 # labels = complete-dep anno-hayley
-1	Iigna	iigna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	nmod	_	Analysis=iigna(DEM.PRO.Abs.Sg)|Gloss=that-one-over-there
+1	Iigna	iigna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	appos	_	Analysis=iigna(DEM.PRO.Abs.Sg)|Gloss=that-one-over-there
 2	Quyillek	Quyillek	NOUN	_	Case=Abs|Number=Sing	6	nsubj	_	Analysis=Quyilleg(N)^[Abs.Sg]|Gloss=Chukchi
-3	kaallghii	llghii	NOUN	_	Case=Abs|Number=Sing	2	nmod	_	Analysis=kaate(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-arrived
+3	kaallghii	llghii	NOUN	_	Case=Abs|Number=Sing	2	appos	_	Analysis=kaate(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-arrived
 4	ighivgaq	ighivgaq	PART	_	_	3	advmod	_	Analysis=ighivgaq(PTCL)|Gloss=yesterday
 5	paamken	paamken	ADV	_	Case=Abl	3	advmod	_	Analysis=paamken(DEM.ADV.Abl_Mod)|Gloss=from-that-one-up-there-not-in-sight
 6	kalileghrugllalguuq	lgu	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	_	Analysis=kalile(N)^–ghrugllag(N→N)^–lgu(N→V)^[Ind.Intr]^[3Sg]|Gloss=he-had-a-big-dalmation-dog|SpaceAfter=No
@@ -2595,7 +2595,7 @@
 # gloss = That man up there told me, saying that he wants us to help you.
 # labels = complete-dep anno-hayley
 1	Yugem	yug	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Analysis=yug(N)^[Rel.Sg]|Gloss=the-man
-2	pikum	piku	PRON	_	Case=Erg|Number=Sing|PronType=Dem	1	nmod	_	Analysis=piku(DEM.PRO)^[Rel.Sg]|Gloss=the-one-up-there
+2	pikum	piku	PRON	_	Case=Erg|Number=Sing|PronType=Dem	1	appos	_	Analysis=piku(DEM.PRO)^[Rel.Sg]|Gloss=the-one-up-there
 3	ungipaataanga	ungipaat	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Subcat=Tran	0	root	_	Analysis=ungipaate(V)^[Ind.Trns]^[3Sg.1Sg]|Gloss=he-told-me
 4	whangkunnun	whangkunnun	PRON	_	Case=All|Number=Plur|Person=1	3	nsubj	_	Analysis=whangkunnun(PRO.All.1Pl)|Gloss=to-us
 5	kayusightesugniluten	ni	VERB	_	Mood=Sbr|Number[obj]=Sing|Person[obj]=2|Subcat=Tran	3	advcl	_	Analysis=kayusigh(V)^+(te)sug(CmpdVbl)^@~fni(CmpdVbl)^[Sbrd.Trns]^[_.2Sg]|Gloss=saying-that-he-wants-one-to-help-you|SpaceAfter=No
@@ -2732,7 +2732,7 @@
 # labels = complete-dep anno-hayley
 1	Kitum	kitu	PRON	_	Case=Erg|Number=Sing|PronType=Int	2	nsubj	_	Analysis=kitu(WH)^[Rel.Sg]|Gloss=who
 2	pikakek	k	VERB	_	Mood=Int|Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran	0	root	_	Analysis=pi(N)^~–ke(N→V)^[Intrg.Trns]^[3Sg.3Du]|Gloss=does-he-have-them-as-his?
-3	iingkuk	iingku	PRON	_	Case=Abs,Erg|Number=Dual	4	nmod	_	Analysis=iingku(DEM.PRO)^[AbsRel.Du]|Gloss=the-ones-over-there
+3	iingkuk	iingku	PRON	_	Case=Abs,Erg|Number=Dual	4	appos	_	Analysis=iingku(DEM.PRO)^[AbsRel.Du]|Gloss=the-ones-over-there
 4	qallevagek	qallevag	NOUN	_	Case=Abs|Number=Dual	2	obj	_	Analysis=qallevag(N)^[Abs.Du]|Gloss=the-overalls|SpaceAfter=No
 5	?	?	PUNCT	_	_	2	punct	_	Analysis=?
 

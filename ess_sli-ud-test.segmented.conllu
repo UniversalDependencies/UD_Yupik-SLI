@@ -928,7 +928,7 @@
 11	meng	meng	X	_	Case=Abl|Number=Sing	10	dep:infl	_	Analysis=[Abl_Mod.Sg]
 12-14	aqavzilegmeng	_	_	_	_	_	_	_	Analysis=aqavzig(N)^–leg(N→N)^[Abl_Mod.Sg]|Gloss=the-one-having-cloudberry|SpaceAfter=No
 12	aqavzi	aqavzi	NOUN	_	_	13	nmod:arg	_	Analysis=aqavzig(N)|Gloss=cloudberry
-13	leg	leg	NOUN	_	_	10	nmod	_	Analysis=–leg(N→N)|Gloss=one-having-N
+13	leg	leg	NOUN	_	_	10	appos	_	Analysis=–leg(N→N)|Gloss=one-having-N
 14	meng	meng	X	_	Case=Abl|Number=Sing	13	dep:infl	_	Analysis=[Abl_Mod.Sg]
 15	.	.	PUNCT	_	_	6	punct	_	Analysis=.
 
@@ -1450,7 +1450,7 @@
 
 # sent_id = Jacobson.Ch7.gold:8
 # text = Apeghtughistegpek liilleqii taghnughhaat aatghit.
-# gloss = Your teacher will learn the childrens' names.
+# gloss = Your teacher will learn the children's names.
 # labels = complete-dep anno-hayley
 1-2	Apeghtughistegpek	_	_	_	_	_	_	_	Analysis=apeghtughiste(N)^[Rel.2SgPoss.Sg]|Gloss=your-teacher
 1	apeghtughiste	apeghtughiste	NOUN	_	_	3	nsubj	_	Analysis=apeghtughiste(N)|Gloss=teacher
@@ -2742,7 +2742,7 @@
 1	Taghnughhaq	taghnughhaq	NOUN	_	Case=Abs|Number=Sing	4	nsubj	_	Analysis=taghnughhagh*(N)^[Abs.Sg]|Gloss=the-child
 2-3	qinuyulghii	_	_	_	_	_	_	_	Analysis=qinuyug(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-is-sick
 2	qinuyu	qinuyu	VERB	_	_	3	acl	_	Analysis=qinuyug(V)|Gloss=to-get-sick
-3	lghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	nmod	_	Analysis=@–lghii(V→N)^[Abs.Sg]|Gloss=one-that-is-V-ing
+3	lghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	appos	_	Analysis=@–lghii(V→N)^[Abs.Sg]|Gloss=one-that-is-V-ing
 4-7	iitghumaaq	_	_	_	_	_	_	_	Analysis=itegh(V)^@~:(i/u)ma(V→V)^[Ind.Intr]^[3Sg]|Gloss=she-went-in
 4	iitgh	iitgh	VERB	_	_	0	root	_	Analysis=itegh(V)|Gloss=to-go-in
 5	uma	uma	VERB	_	_	4	aux	_	Analysis=@~:(i/u)ma(V→V)|Gloss=to-have-V-ed
@@ -2828,7 +2828,7 @@
 8	veglluk	veglluk	NOUN	_	Case=Abs|Number=Sing	4	obj	_	Analysis=vegllug(N)^[Abs.Sg]|Gloss=the-towel
 9-10	kavilnguq	_	_	_	_	_	_	_	Analysis=kavite(V)^@ngugh(V→N)^[Abs.Sg]|Gloss=one-that-is-red|SpaceAfter=No
 9	kavil	kavil	VERB	_	_	10	acl	_	Analysis=kavite(V)|Gloss=to-be-red
-10	nguq	nguq	NOUN	_	Case=Abs|Number=Sing	8	nmod	_	Analysis=@ngugh(V→N)^[Abs.Sg]|Gloss=one-that-is-V
+10	nguq	nguq	NOUN	_	Case=Abs|Number=Sing	8	appos	_	Analysis=@ngugh(V→N)^[Abs.Sg]|Gloss=one-that-is-V
 11	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch11.gold:7
@@ -2852,14 +2852,14 @@
 2	et	et	X	_	Case=Abs|Number=Plur	1	dep:infl	_	Analysis=[Abs.Pl]
 3-5	sukalnguut	_	_	_	_	_	_	_	Analysis=sukate(V)^@ngugh(V→N)^[Abs.Pl]|Gloss=one-that-is-fast
 3	sukal	sukal	VERB	_	_	4	acl	_	Analysis=sukate(V)|Gloss=to-be-fast
-4	ngu	ngu	NOUN	_	_	1	nmod	_	Analysis=@ngugh(V→N)|Gloss=one-that-is-V
+4	ngu	ngu	NOUN	_	_	1	appos	_	Analysis=@ngugh(V→N)|Gloss=one-that-is-V
 5	ut	ut	X	_	Case=Abs|Number=Plur	4	dep:infl	_	Analysis=[Abs.Pl]
 6-9	nalugnaqut	_	_	_	_	_	_	_	Analysis=nalug(V)^@~fnaqe(V→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-going-to-land
 6	nalug	nalug	VERB	_	_	0	root	_	Analysis=nalug(V)|Gloss=to-land
 7	naq	naq	VERB	_	Tense=Fut	6	aux	_	Analysis=@~fnaqe(V→V)|Gloss=Gloss=to-be-going-to-V
 8	u	u	X	_	Mood=Ind|Subcat=Intr	7	dep:infl	_	Analysis=[Ind.Intr]
 9	t	t	X	_	Number[subj]=Plur|Person[subj]=3	7	dep:infl	_	Analysis=[3Pl]
-10-11	naayvam	_	_	_	_	_	_	_	Analysis=naayvagh(N)^[Rel.Sg]|Gloss=the-lake
+10-11	naayvam	_	_	_	_	_	_	_	Analysis=naayvagh(N)^[Rel.Sg]|Gloss=the-lake's
 10	naayva	naayva	NOUN	_	_	12	nmod	_	Analysis=naayvagh(N)|Gloss=lake
 11	m	m	X	_	Case=Erg|Number=Sing	10	dep:infl	_	Analysis=[Rel.Sg]
 12-13	qaayngakun	_	_	_	_	_	_	_	Analysis=qaye(N)^[Prl.3SgPoss.Sg]|Gloss=to-its-top|SpaceAfter=No
@@ -2879,7 +2879,7 @@
 5-6	ugini	_	_	_	_	_	_	_	Analysis=ugi(N)^[Abs.4SgPoss.Sg]|Gloss=her-husband
 5	ugi	ugi	NOUN	_	_	1	obj	_	Analysis=ugi(N)|Gloss=husband
 6	ni	ni	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	5	dep:infl	_	Analysis=[Abs.4SgPoss.Sg]
-7-8	nanuum	_	_	_	_	_	_	_	Analysis=nanugh*(N)^[Rel.Sg]|Gloss=polar-bear
+7-8	nanuum	_	_	_	_	_	_	_	Analysis=nanugh*(N)^[Rel.Sg]|Gloss=polar-bear's
 7	nanu	nanu	NOUN	_	_	9	nmod	_	Analysis=nanugh*(N)|Gloss=polar-bear
 8	um	um	X	_	Case=Erg|Number=Sing	7	dep:infl	_	Analysis=[Rel.Sg]
 9-10	kemekraganeng	_	_	_	_	_	_	_	Analysis=kemekrag(N)^[Abl_Mod.3SgPoss.Sg]|Gloss=by-the-means-of-its-meat|SpaceAfter=No
@@ -2972,7 +2972,7 @@
 5	meng	meng	X	_	Case=Abl|Number=Sing	4	dep:infl	_	Analysis=[Abl_Mod.Sg]
 6-8	teflilegmeng	_	_	_	_	_	_	_	Analysis=tefli(N)^–leg(N→N)^[Abl_Mod.Sg]|Gloss=the-one-with-food-particles
 6	tefli	tefli	NOUN	_	_	7	nmod:arg	_	Analysis=tefli(N)|Gloss=food-particles
-7	leg	leg	NOUN	_	_	4	nmod	_	Analysis=–leg(N→N)|Gloss=one-with-N
+7	leg	leg	NOUN	_	_	4	appos	_	Analysis=–leg(N→N)|Gloss=one-with-N
 8	meng	meng	X	_	Case=Abl|Number=Sing	7	dep:infl	_	Analysis=[Abl_Mod.Sg]
 9-10	esnami	_	_	_	_	_	_	_	Analysis=esnagh(N)^[Loc.Sg]|Gloss=at-the-beach|SpaceAfter=No
 9	esna	esna	NOUN	_	_	1	obl	_	Analysis=esnagh(N)|Gloss=beach
@@ -3027,12 +3027,12 @@
 10	mun	mun	X	_	Case=All|Number=Sing	9	dep:infl	_	Analysis=[All.Sg]
 11-13	suflugalegmun	_	_	_	_	_	_	_	Analysis=suflugagh(N)^–leg(N→N)^[All.Sg]|Gloss=to-the-one-with-a-gun
 11	sufluga	sufluga	NOUN	_	_	12	nmod:arg	_	Analysis=suflugagh(N)|Gloss=gun
-12	leg	leg	NOUN	_	_	9	nmod	_	Analysis=–leg(N→N)|Gloss=one-with-N
+12	leg	leg	NOUN	_	_	9	appos	_	Analysis=–leg(N→N)|Gloss=one-with-N
 13	mun	mun	X	_	Case=All|Number=Sing	12	dep:infl	_	Analysis=[All.Sg]
 14-17	naavngalghiimeng	_	_	_	_	_	_	_	Analysis=naave(V)^~fnga(V→V)^@–lghii(V→N)^[Abl_Mod.Sg]|Gloss=the-one-that-is-broken|SpaceAfter=No
 14	naav	naav	VERB	_	_	15	xcomp	_	Analysis=naave(V)|Gloss=to-break
 15	nga	nga	VERB	_	_	16	xcomp	_	Analysis=~fnga(V→V)|Gloss=to-be-in-a-state-of-V
-16	lghii	lghii	NOUN	_	_	12	nmod	_	Analysis=@–lghii(V→N)|Gloss=one-that-is-V-ing
+16	lghii	lghii	NOUN	_	_	11	appos	_	Analysis=@–lghii(V→N)|Gloss=one-that-is-V-ing
 17	meng	meng	X	_	Case=Abl|Number=Sing	16	dep:infl	_	Analysis=[Abl_Mod.Sg]
 18	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
@@ -3062,7 +3062,7 @@
 2	m	m	X	_	Case=Erg|Number=Sing	1	dep:infl	_	Analysis=[Rel.Sg]
 3-5	Quyillegtilghiim	_	_	_	_	_	_	_	Analysis=quyillegti(V)^@–lghii(V→N)^[Rel.Sg]|Gloss=the-one-that-is-speaking-Chukchi
 3	quyillegti	quyillegti	VERB	_	_	4	acl	_	Analysis=quyillegti(V)|Gloss=to-speak-Chukchi
-4	lghii	lghii	NOUN	_	_	1	nmod	_	Analysis=@–lghii(V→N)|Gloss=one-that-is-V-ing
+4	lghii	lghii	NOUN	_	_	1	appos	_	Analysis=@–lghii(V→N)|Gloss=one-that-is-V-ing
 5	m	m	X	_	Case=Erg|Number=Sing	4	dep:infl	_	Analysis=[Rel.Sg]
 6-9	neghyugaa	_	_	_	_	_	_	_	Analysis=negh(V)^@~fyug(V→V)^[Ind.Trns]^[3Sg.3Sg]|Gloss=he-wants-to-eat-it
 6	negh	negh	VERB	_	_	7	xcomp	_	Analysis=negh(V)|Gloss=to-eat
@@ -3081,7 +3081,7 @@
 2	am	am	X	_	Case=Erg|Number=Sing	1	dep:infl	_	Analysis=[Rel.Sg]
 3-5	aghmilghiim	_	_	_	_	_	_	_	Analysis=aghmig(V)^@–lghii(V→N)^[Rel.Sg]|Gloss=the-one-that-is-washing-her-face
 3	aghmi	aghmi	VERB	_	_	4	acl	_	Analysis=aghmig(V)|Gloss=to-wash-one's-face
-4	lghii	lghii	NOUN	_	_	1	nmod	_	Analysis=@–lghii(V→N)|Gloss=one-that-is-V-ing
+4	lghii	lghii	NOUN	_	_	1	appos	_	Analysis=@–lghii(V→N)|Gloss=one-that-is-V-ing
 5	m	m	X	_	Case=Erg|Number=Sing	4	dep:infl	_	Analysis=[Rel.Sg]
 6-9	atuqnaqaa	_	_	_	_	_	_	_	Analysis=atuqe(V)^@~fnaqe(V→V)^[Ind.Trns]^[3Sg.3Sg]|Gloss=she-is-going-to-use-it
 6	atuq	atuq	VERB	_	_	0	root	_	Analysis=atuqe(V)|Gloss=to-use
@@ -3149,7 +3149,7 @@
 1	Aghnalqwaaghaq	aghnalqwaaghaq	NOUN	_	Case=Abs|Number=Sing	10	nsubj	_	Analysis=aghnalqwaagh(N)^[Abs.Sg]|Gloss=the-old-lady
 2-3	kakilghii	_	_	_	_	_	_	_	Analysis=kaki(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-is-sewing
 2	kaki	kaki	VERB	_	_	3	acl	_	Analysis=kaki(V)|Gloss=to-sew
-3	lghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	nmod	_	Analysis=@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-V-ed
+3	lghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	appos	_	Analysis=@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-V-ed
 4-5	atkugmeng	_	_	_	_	_	_	_	Analysis=atkug(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-a-parka
 4	atkug	atkug	NOUN	_	_	2	obl:mod	_	Analysis=atkug(N)|Gloss=parka
 5	meng	meng	X	_	Case=Abl|Number=Sing	4	dep:infl	_	Analysis=[Abl_Mod.Sg]
@@ -3170,7 +3170,7 @@
 # labels = complete-dep anno-hayley unsure-10-13
 1-3	Qefliqelghiim	_	_	_	_	_	_	_	Analysis=qefliqe(V)^@–lghii(V→N)^[Rel.Sg]|Gloss=the-one-that-is-mad
 1	qefliqe	qefliqe	VERB	_	_	2	acl	_	Analysis=qefliqe(V)|Gloss=to-be-mad
-2	lghii	lghii	NOUN	_	_	4	nmod	_	Analysis=@–lghii(V→N)|Gloss=the-one-that-V-ed
+2	lghii	lghii	NOUN	_	_	4	appos	_	Analysis=@–lghii(V→N)|Gloss=the-one-that-V-ed
 3	m	m	X	_	Case=Erg|Number=Sing	2	dep:infl	_	Analysis=[Rel.Sg]
 4-5	yugem	_	_	_	_	_	_	_	Analysis=yug(N)^[Rel.Sg]|Gloss=the-man
 4	yug	yug	NOUN	_	_	7	nsubj	_	Analysis=yug(N)|Gloss=man
@@ -3183,7 +3183,7 @@
 10-13	atuqnaqegkeni	_	_	_	_	_	_	_	Analysis=atuqe(V)^@~fnaqe(V→V)^@~–(g)ke(V→N)^[Abs.4SgPoss.Sg]|Gloss=the-one-he-is-going-to-use|SpaceAfter=No
 10	atuq	atuq	VERB	_	_	12	acl	_	Analysis=atuqe(V)|Gloss=to-use
 11	naqe	naqe	VERB	_	Tense=Fut	10	aux	_	Analysis=@~fnaqe(V→V)|Gloss=to-be-going-to-V
-12	gke	gke	NOUN	_	_	9	nmod	_	Analysis=@~–(g)ke(V→N)|Gloss=the-ones-possessor-is-V-ing
+12	gke	gke	NOUN	_	_	9	appos	_	Analysis=@~–(g)ke(V→N)|Gloss=the-ones-possessor-is-V-ing
 13	ni	ni	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3|Reflex=Yes	12	dep:infl	_	Analysis=[Abs.4SgPoss.Sg]
 14	.	.	PUNCT	_	_	7	punct	_	Analysis=.
 
@@ -3217,7 +3217,7 @@
 3-6	mumigngalghiik	_	_	_	_	_	_	_	Analysis=mumig(POS)^~fnga(POS→STATIVE)^@–lghii(V→N)^[Abs.Du]|Gloss=the-one-that-is-turned-over
 3	mumig	mumig	X	_	_	4	dep:pos	_	Analysis=mumig(POS)|Gloss=turned-over
 4	nga	nga	VERB	_	_	5	acl	_	Analysis=~fnga(POS→STATIVE)|Gloss=to-be-in-the-R-posture
-5	lghii	lghii	NOUN	_	_	1	nmod	_	Analysis=@–lghii(V→N)|Gloss=the-one-that-V-ed
+5	lghii	lghii	NOUN	_	_	1	appos	_	Analysis=@–lghii(V→N)|Gloss=the-one-that-V-ed
 6	k	k	X	_	Case=Abs|Number=Dual	5	dep:infl	_	Analysis=[Abs.Du]
 7-10	tukfighlleqagka	_	_	_	_	_	_	_	Analysis=tukfigh(V)^@lleqe(V→V)^[Ind.Trns]^[1Sg.3Du]|Gloss=I-will-buy-them|SpaceAfter=No
 7	tukfigh	tukfigh	VERB	_	_	0	root	_	Analysis=tukfigh(V)|Gloss=to-buy
@@ -3248,7 +3248,7 @@
 2	en	en	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	1	dep:infl	_	Analysis=[Abs.2SgPoss.Sg]
 3-4	kavilnguq	_	_	_	_	_	_	_	Analysis=kavite(V)^@ngugh(V→N)^[Abs.Sg]|Gloss=the-red-one
 3	kavil	kavil	VERB	_	_	4	acl	_	Analysis=kavite(V)|Gloss=to-be-red
-4	nguq	nguq	NOUN	_	Case=Abs|Number=Sing	1	nmod	_	Analysis=@ngugh(V→N)^[Abs.Sg]|Gloss=one-that-is-red
+4	nguq	nguq	NOUN	_	Case=Abs|Number=Sing	1	appos	_	Analysis=@ngugh(V→N)^[Abs.Sg]|Gloss=one-that-is-red
 5-7	whaantuq	_	_	_	_	_	_	_	Analysis=whaante(V)^[Ind.Intr]^[3Sg]|Gloss=it-is-here|SpaceAfter=No
 5	whaant	whaant	VERB	_	_	0	root	_	Analysis=whaante(V)|Gloss=to-be-here
 6	u	u	X	_	Mood=Ind|Subcat=Intr	5	dep:infl	_	Analysis=[Ind.Intr]
@@ -4094,7 +4094,7 @@
 17	t	t	X	_	Case=Abs|Number=Plur	16	dep:infl	_	Analysis=[Abs.Pl]
 18-20	kaallghiit	_	_	_	_	_	_	_	Analysis=kaate(V)^@–lghii(V→N)^[Abs.Pl]|Gloss=the-one-that-arrived
 18	kaa	kaa	VERB	_	_	19	acl	_	Analysis=kaate(V)|Gloss=to-arrive
-19	llghii	llghii	NOUN	_	_	16	nmod	_	Analysis=@–lghii(V→N)|Gloss=the-one-that-V-ed
+19	llghii	llghii	NOUN	_	_	16	appos	_	Analysis=@–lghii(V→N)|Gloss=the-one-that-V-ed
 20	t	t	X	_	Case=Abs|Number=Plur	19	dep:infl	_	Analysis=[Abs.Pl]
 21-22	tengegkayugteggun	_	_	_	_	_	_	_	Analysis=tengegkayug(N)^[Prl.Pl]|Gloss=by-plane|SpaceAfter=No
 21	tengegkayug	tengegkayug	NOUN	_	_	18	obl	_	Analysis=tengegkayug(N)|Gloss=airplane
@@ -4221,7 +4221,7 @@
 1	Qawaak	qawaak	NOUN	_	Case=Abs|Number=Sing	4	obj	_	Analysis=qawaag(N)^[Abs.Sg]|Gloss=bird
 2-3	espagna	_	_	_	_	_	_	_	Analysis=[Anaphor]^paagna(DEM.PRO.Abs.Sg)|Gloss=the-one-up-there
 2	es	es	X	_	_	3	dep:ana	_	Analysis=[Anaphor]
-3	pagna	pagna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	1	nmod	_	Analysis=paagna(DEM.PRO.Abs.Sg)|Gloss=that-up-there
+3	pagna	pagna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	1	appos	_	Analysis=paagna(DEM.PRO.Abs.Sg)|Gloss=that-up-there
 4-5	guutigu	_	_	_	_	_	_	_	Analysis=guute(V)^[Opt.Pres.Trns.2Sg.3Sg]|Gloss=shoot-it|SpaceAfter=No
 4	guut	guut	VERB	_	_	0	root	_	Analysis=guute(V)|Gloss=to-shoot
 5	igu	igu	X	_	Mood=Opt|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Pres	4	dep:infl	_	Analysis=[Opt.Pres.Trns.2Sg.3Sg]
@@ -4237,7 +4237,7 @@
 3	awa	awa	X	_	Number[subj]=Sing|Person[subj]=3	2	dep:infl	_	Analysis=[Intrg.Intr]^[3Sg]
 4-5	pugimalghii	_	_	_	_	_	_	_	Analysis=pugimagh(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-swam
 4	pugima	pugima	VERB	_	_	5	acl	_	Analysis=pugimagh(V)|Gloss=to-swim
-5	lghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	nmod	_	Analysis=@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-V-ed
+5	lghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	appos	_	Analysis=@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-V-ed
 6	un'gani	un'gani	ADV	_	Case=Loc	4	advmod	_	Analysis=un'gani(DEM.ADV.Loc)|Gloss=down-there-at-the-water|SpaceAfter=No
 7	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
@@ -4403,7 +4403,7 @@
 # text = Qaamna keniq qaamumalghii qergesek qelpeghsafkek.
 # gloss = When you opened the window, the light inside went out that inside. (keniq is probably a typo for keneq--light)
 # labels = complete-dep anno-hayley
-1	Qaamna	qaamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	nmod	_	Analysis=qaamna(DEM.PRO.Abs.Sg)|Gloss=that-inside
+1	Qaamna	qaamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	appos	_	Analysis=qaamna(DEM.PRO.Abs.Sg)|Gloss=that-inside
 2	keniq	keniq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=kenigh(N)^[Abs.Sg]|Gloss=the-skirt
 3-5	qaamumalghii	_	_	_	_	_	_	_	Analysis=qaame(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=it-went-out
 3	qaam	qaam	VERB	_	_	0	root	_	Analysis=qaame(V)|Gloss=to-go-out
@@ -4447,7 +4447,7 @@
 4-5	nasaperaqa	_	_	_	_	_	_	_	Analysis=nasaperagh(N)^[Abs.1SgPoss.Sg]|Gloss=my-hat
 4	nasapera	nasapera	NOUN	_	_	2	obj	_	Analysis=nasaperagh(N)|Gloss=hat
 5	qa	qa	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	dep:infl	_	Analysis=[Abs.1SgPoss.Sg]
-6	paamna	paamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	4	nmod	_	Analysis=paamna(DEM.PRO.Abs.Sg)|Gloss=that-one-up-there-not-in-sight'|SpaceAfter=No
+6	paamna	paamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	4	appos	_	Analysis=paamna(DEM.PRO.Abs.Sg)|Gloss=that-one-up-there-not-in-sight|SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch16.gold:15
@@ -4474,7 +4474,7 @@
 5	n	n	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	4	dep:infl	_	Analysis=[Abs.2SgPoss.Sg]
 6-8	tukfiqen	_	_	_	_	_	_	_	Analysis=tukfigh(V)^@~–(g)ke(V→N)^[Abs.2SgPoss.Sg]|Gloss=the-one-you-bought
 6	tukfi	tukfi	VERB	_	_	7	acl	_	Analysis=tukfigh(V)|Gloss=to-buy
-7	qe	qe	NOUN	_	_	4	nmod	_	Analysis=@~–(g)ke(V→N)|Gloss=the-one's-possessor-V-ed
+7	qe	qe	NOUN	_	_	4	appos	_	Analysis=@~–(g)ke(V→N)|Gloss=the-one's-possessor-V-ed
 8	n	n	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	7	dep:infl	_	Analysis=[Abs.2SgPoss.Sg]
 9-10	estugameng	_	_	_	_	_	_	_	Analysis=estugagh(N)^[Abl_Mod.Sg]|Gloss=from-the-store
 9	estuga	estuga	NOUN	_	_	6	obl	_	Analysis=estugagh(N)|Gloss=store
@@ -4503,7 +4503,7 @@
 9	meng	meng	X	_	Case=Abl|Number=Sing	8	dep:infl	_	Analysis=[Abl_Mod.Sg]
 10-12	uglalghiimeng	_	_	_	_	_	_	_	Analysis=uglagh(V)^@–lghii(V→N)^[Abl_Mod.Sg]|Gloss=many-of-them|SpaceAfter=No
 10	ugla	ugla	VERB	_	_	11	acl	_	Analysis=uglagh(V)|Gloss=to-be-many
-11	lghii	lghii	NOUN	_	_	8	nmod	_	Analysis=@–lghii(V→N)|Gloss=the-one-that-V-ed
+11	lghii	lghii	NOUN	_	_	8	appos	_	Analysis=@–lghii(V→N)|Gloss=the-one-that-V-ed
 12	meng	meng	X	_	Case=Abl|Number=Sing	11	dep:infl	_	Analysis=[Abl_Mod.Sg]
 13	.	.	PUNCT	_	_	5	punct	_	Analysis=.
 
@@ -4513,7 +4513,7 @@
 # labels = complete-dep anno-hayley
 1-3	Tazingkut	_	_	_	_	_	_	_	Analysis=[Anaphor]^iingku(DEM.PRO)^[AbsRel.Pl]|Gloss=the-one-over-there
 1	taz	taz	X	_	_	2	dep:ana	_	Analysis=[Anaphor]
-2	ingku	ingku	PRON	_	PronType=Dem	4	nmod	_	Analysis=iingku(DEM.PRO)|Gloss=the-one-over-there
+2	ingku	ingku	PRON	_	PronType=Dem	4	appos	_	Analysis=iingku(DEM.PRO)|Gloss=the-one-over-there
 3	t	t	X	_	Case=Abs,Erg|Number=Plur	2	dep:infl	_	Analysis=[AbsRel.Pl]
 4-5	afsengaat	_	_	_	_	_	_	_	Analysis=afsengagh*(N)^[Abs.Pl]|Gloss=the-voles
 4	afsenga	afsenga	NOUN	_	_	7	nsubj	_	Analysis=afsengagh*(N)|Gloss=vole
@@ -4532,11 +4532,11 @@
 # text = Iigna Quyillek kaallghii ighivgaq paamken kalileghrugllalguuq.
 # gloss = That Chukchi person over there, the one that arrived yesterday from that one up there, had a big dalmation dog.
 # labels = complete-dep anno-hayley
-1	Iigna	iigna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	nmod	_	Analysis=iigna(DEM.PRO.Abs.Sg)|Gloss=that-one-over-there
+1	Iigna	iigna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	appos	_	Analysis=iigna(DEM.PRO.Abs.Sg)|Gloss=that-one-over-there
 2	Quyillek	Quyillek	NOUN	_	Case=Abs|Number=Sing	9	nsubj	_	Analysis=Quyilleg(N)^[Abs.Sg]|Gloss=Chukchi
 3-4	kaallghii	_	_	_	_	_	_	_	Analysis=kaate(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-arrived
 3	kaa	kaa	VERB	_	_	4	acl	_	Analysis=kaate(V)|Gloss=to-arrive
-4	llghii	llghii	NOUN	_	Case=Abs|Number=Sing	2	nmod	_	Analysis=@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-V-ed
+4	llghii	llghii	NOUN	_	Case=Abs|Number=Sing	2	appos	_	Analysis=@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-V-ed
 5	ighivgaq	ighivgaq	PART	_	_	3	advmod	_	Analysis=ighivgaq(PTCL)|Gloss=yesterday
 6	paamken	paamken	ADV	_	Case=Abl	3	advmod	_	Analysis=paamken(DEM.ADV.Abl_Mod)|Gloss=from-that-one-up-there-not-in-sight
 7-11	kalileghrugllalguuq	_	_	_	_	_	_	_	Analysis=kalile(N)^–ghrugllag(N→N)^–lgu(N→V)^[Ind.Intr]^[3Sg]|Gloss=he-had-a-big-dalmation-dog|SpaceAfter=No
@@ -4575,7 +4575,7 @@
 1	yug	yug	NOUN	_	_	5	nsubj	_	Analysis=yug(N)|Gloss=man
 2	em	em	X	_	Case=Erg|Number=Sing	1	dep:infl	_	Analysis=[Rel.Sg]
 3-4	pikum	_	_	_	_	_	_	_	Analysis=piku(DEM.PRO)^[Rel.Sg]|Gloss=the-one-up-there
-3	piku	piku	PRON	_	PronType=Dem	1	nmod	_	Analysis=piku(DEM.PRO)|Gloss=the-one-up-there
+3	piku	piku	PRON	_	PronType=Dem	1	appos	_	Analysis=piku(DEM.PRO)|Gloss=the-one-up-there
 4	m	m	X	_	Case=Erg|Number=Sing	3	dep:infl	_	Analysis=[Rel.Sg]
 5-7	ungipaataanga	_	_	_	_	_	_	_	Analysis=ungipaate(V)^[Ind.Trns]^[3Sg.1Sg]|Gloss=he-told-me
 5	ungipaat	ungipaat	VERB	_	_	0	root	_	Analysis=ungipaate(V)|Gloss=to-tell
@@ -4823,7 +4823,7 @@
 5	a	a	X	_	Mood=Int|Subcat=Tran	4	dep:infl	_	Analysis=[Intrg.Trns]
 6	kek	kek	X	_	Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg.3Du]
 7-8	iingkuk	_	_	_	_	_	_	_	Analysis=iingku(DEM.PRO)^[AbsRel.Du]|Gloss=the-ones-over-there
-7	iingku	iingku	PRON	_	_	9	nmod	_	Analysis=iingku(DEM.PRO)|Gloss=the-one-over-there
+7	iingku	iingku	PRON	_	_	9	appos	_	Analysis=iingku(DEM.PRO)|Gloss=the-one-over-there
 8	k	k	X	_	Case=Abs,Erg|Number=Dual	7	dep:infl	_	Analysis=[AbsRel.Du]
 9-10	qallevagek	_	_	_	_	_	_	_	Analysis=qallevag(N)^[Abs.Du]|Gloss=the-overalls|SpaceAfter=No
 9	qallevag	qallevag	NOUN	_	_	4	obj	_	Analysis=qallevag(N)|Gloss=overalls
