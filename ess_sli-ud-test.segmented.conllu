@@ -1755,7 +1755,7 @@
 # gloss = How many sons do you have?
 # labels = complete-dep anno-hayley
 1-2	Qafsinaneng	_	_	_	_	_	_	_	Analysis=qafsina(WH)^[Abl_Mod.Pl]|Gloss=how-many
-1	qafsina	qafsina	DET	_	PronType=Int	3	nmod	_	Analysis=qafsina(WH)|Gloss=how-many
+1	qafsina	qafsina	DET	_	PronType=Int	3	det	_	Analysis=qafsina(WH)|Gloss=how-many
 2	neng	neng	X	_	Case=Abl|Number=Plur	1	dep:infl	_	Analysis=[Abl_Mod.Pl]
 3-5	ighnelguzin	_	_	_	_	_	_	_	Analysis=ighnegh(N)^–lgu(N→V)^[Intrg.Intr.2Sg]|Gloss=do-you-have-sons?|SpaceAfter=No
 3	ighne	ighne	NOUN	_	_	4	obj	_	Analysis=ighnegh(N)|Gloss=son
@@ -2067,7 +2067,7 @@
 # gloss = How many polar bears did you all see?
 # labels = complete-dep anno-hayley
 1-2	Qafsinaneng	_	_	_	_	_	_	_	Analysis=qafsina(WH)^[Abl_Mod.Pl]|Gloss=how-many
-1	qafsina	qafsina	DET	_	PronType=Int	3	nmod	_	Analysis=qafsina(WH)|Gloss=how-many
+1	qafsina	qafsina	DET	_	PronType=Int	3	det	_	Analysis=qafsina(WH)|Gloss=how-many
 2	neng	neng	X	_	Case=Abl|Number=Plur	1	dep:infl	_	Analysis=[Abl_Mod.Pl]
 3-4	nanughmeng	_	_	_	_	_	_	_	Analysis=nanugh*(N)^[Abl_Mod.Pl]|Gloss=by-the-means-of-polar-bears
 3	nanugh	nanugh	NOUN	_	_	5	obl	_	Analysis=nanugh*(N)|Gloss=polar-bear
@@ -2189,7 +2189,7 @@
 # gloss = Which one of my dogs bit you?
 # labels = complete-dep anno-hayley
 1-2	Naliita	_	_	_	_	_	_	_	Analysis=naligh(WH)^[Rel.3PlPoss.Sg]|Gloss=which-one-of-them
-1	nali	nali	DET	_	PronType=Int	3	nmod	_	Analysis=naligh(WH)|Gloss=which-one
+1	nali	nali	DET	_	PronType=Int	3	det	_	Analysis=naligh(WH)|Gloss=which-one
 2	ita	ita	X	_	Case=Erg|Number=Sing|Number[psor]=Plur|Person[psor]=3	1	dep:infl	_	Analysis=[Rel.3PlPoss.Sg]
 3-4	qikmima	_	_	_	_	_	_	_	Analysis=qikmigh(N)^[Rel.1SgPoss.Pl]|Gloss=my-dogs
 3	qikmi	qikmi	NOUN	_	_	5	nsubj	_	Analysis=qikmigh(N)|Gloss=dog
@@ -2280,7 +2280,7 @@
 # gloss = Which of your children extinguish the fire?
 # labels = complete-dep anno-hayley
 1-2	Naliita	_	_	_	_	_	_	_	Analysis=naligh(WH)^[Rel.3PlPoss.Sg]|Gloss=which-one-of-them
-1	nali	nali	DET	_	PronType=Int	3	nmod	_	Analysis=naligh(WH)|Gloss=which-one
+1	nali	nali	DET	_	PronType=Int	3	det	_	Analysis=naligh(WH)|Gloss=which-one
 2	ita	ita	X	_	Case=Erg|Number=Sing|Number[psor]=Plur|Person[psor]=3	1	dep:infl	_	Analysis=[Rel.3PlPoss.Sg]
 3-4	taghnughhaghpek	_	_	_	_	_	_	_	Analysis=taghnughhagh*(N)^[Rel.2SgPoss.Pl]|Gloss=your-children
 3	taghnughha	taghnughha	NOUN	_	_	5	nsubj	_	Analysis=taghnughhagh*(N)|Gloss=child
@@ -2359,7 +2359,7 @@
 # gloss = Which of my spoons did he find?
 # labels = complete-dep anno-hayley
 1-2	Naliit	_	_	_	_	_	_	_	Analysis=naligh(WH)^[Abs.3PlPoss.Sg]|Gloss=which-one-of-them
-1	nali	nali	DET	_	PronType=Int	3	nmod	_	Analysis=naligh(WH)|Gloss=which-one
+1	nali	nali	DET	_	PronType=Int	3	det	_	Analysis=naligh(WH)|Gloss=which-one
 2	it	it	X	_	Case=Abs|Number=Sing|Number[psor]=Plur|Person[psor]=3	1	dep:infl	_	Analysis=[Abs.3PlPoss.Sg]
 3-4	alquutama	_	_	_	_	_	_	_	Analysis=alquutagh(N)^[Rel.1SgPoss.Pl]|Gloss=my-spoons
 3	alquuta	alquuta	NOUN	_	_	5	nsubj	_	Analysis=alquutagh(N)|Gloss=spoon
