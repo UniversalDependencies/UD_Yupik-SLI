@@ -2499,11 +2499,11 @@
 4	.	.	PUNCT	_	_	3	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch16.gold:12
-# text = Qaamna keniq qaamumalghii qergesek qelpeghsafkek.
-# gloss = When you opened the window, the light inside went out that inside. (keniq is probably a typo for keneq--light)
+# text = Qaamna keneq qaamumalghii qergesek qelpeghsafkek.
+# gloss = When you opened the window, the light inside went out that inside.
 # labels = complete-dep anno-hayley
 1	Qaamna	qaamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	appos	_	Analysis=qaamna(DEM.PRO.Abs.Sg)|Gloss=that-inside
-2	keniq	keniq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=kenigh(N)^[Abs.Sg]|Gloss=the-skirt
+2	keneq	keneq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=kenegh(N)^[Abs.Sg]|Gloss=the-light
 3	qaamumalghii	qaam	VERB	_	Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	Analysis=qaame(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=it-went-out
 4	qergesek	qergese	NOUN	_	Case=Abs|Number=Dual	5	obj	_	Analysis=qergese(N)^[Abs.Du]|Gloss=the-window
 5	qelpeghsafkek	qelpegh	VERB	_	Mood=Cn1|Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran	3	advcl	_	Analysis=qelpeghte(V)^[Cnsq1.Trns]^[2Sg.3Du]|Gloss=when-you-opened-them|SpaceAfter=No

@@ -4401,10 +4401,10 @@
 
 # sent_id = Jacobson.Ch16.gold:12
 # text = Qaamna keniq qaamumalghii qergesek qelpeghsafkek.
-# gloss = When you opened the window, the light inside went out that inside. (keniq is probably a typo for keneq--light)
+# gloss = When you opened the window, the light inside went out that inside.
 # labels = complete-dep anno-hayley
 1	Qaamna	qaamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	appos	_	Analysis=qaamna(DEM.PRO.Abs.Sg)|Gloss=that-inside
-2	keniq	keniq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=kenigh(N)^[Abs.Sg]|Gloss=the-skirt
+2	keneq	keneq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=kenegh(N)^[Abs.Sg]|Gloss=the-light
 3-5	qaamumalghii	_	_	_	_	_	_	_	Analysis=qaame(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=it-went-out
 3	qaam	qaam	VERB	_	_	0	root	_	Analysis=qaame(V)|Gloss=to-go-out
 4	uma	uma	VERB	_	Tense=Past	3	aux	_	Analysis=@~:(i/u)ma(V→V)|Gloss=to-have-V-ed
