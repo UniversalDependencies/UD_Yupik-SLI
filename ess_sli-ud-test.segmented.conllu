@@ -4400,7 +4400,7 @@
 8	.	.	PUNCT	_	_	4	punct	_	Analysis=.
 
 # sent_id = Jacobson.Ch16.gold:12
-# text = Qaamna keniq qaamumalghii qergesek qelpeghsafkek.
+# text = Qaamna keneq qaamumalghii qergesek qelpeghsafkek.
 # gloss = When you opened the window, the light inside went out that inside.
 # labels = complete-dep anno-hayley
 1	Qaamna	qaamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	appos	_	Analysis=qaamna(DEM.PRO.Abs.Sg)|Gloss=that-inside
