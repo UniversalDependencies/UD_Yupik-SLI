@@ -3170,7 +3170,7 @@
 # labels = complete-dep anno-hayley unsure-10-13
 1-3	Qefliqelghiim	_	_	_	_	_	_	_	Analysis=qefliqe(V)^@–lghii(V→N)^[Rel.Sg]|Gloss=the-one-that-is-mad
 1	qefliqe	qefliqe	VERB	_	_	2	acl	_	Analysis=qefliqe(V)|Gloss=to-be-mad
-2	lghii	lghii	NOUN	_	_	4	appos	_	Analysis=@–lghii(V→N)|Gloss=the-one-that-V-ed
+2	lghii	lghii	NOUN	_	_	4	nmod	_	Analysis=@–lghii(V→N)|Gloss=the-one-that-V-ed
 3	m	m	X	_	Case=Erg|Number=Sing	2	dep:infl	_	Analysis=[Rel.Sg]
 4-5	yugem	_	_	_	_	_	_	_	Analysis=yug(N)^[Rel.Sg]|Gloss=the-man
 4	yug	yug	NOUN	_	_	7	nsubj	_	Analysis=yug(N)|Gloss=man
@@ -4403,7 +4403,7 @@
 # text = Qaamna keneq qaamumalghii qergesek qelpeghsafkek.
 # gloss = When you opened the window, the light inside went out that inside.
 # labels = complete-dep anno-hayley
-1	Qaamna	qaamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	appos	_	Analysis=qaamna(DEM.PRO.Abs.Sg)|Gloss=that-inside
+1	Qaamna	qaamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	nmod	_	Analysis=qaamna(DEM.PRO.Abs.Sg)|Gloss=that-inside
 2	keneq	keneq	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Analysis=kenegh(N)^[Abs.Sg]|Gloss=the-light
 3-5	qaamumalghii	_	_	_	_	_	_	_	Analysis=qaame(V)^@~:(i/u)ma(V→V)^[Ptcp.Intr]^[3Sg]|Gloss=it-went-out
 3	qaam	qaam	VERB	_	_	0	root	_	Analysis=qaame(V)|Gloss=to-go-out
@@ -4513,7 +4513,7 @@
 # labels = complete-dep anno-hayley
 1-3	Tazingkut	_	_	_	_	_	_	_	Analysis=[Anaphor]^iingku(DEM.PRO)^[AbsRel.Pl]|Gloss=the-one-over-there
 1	taz	taz	X	_	_	2	dep:ana	_	Analysis=[Anaphor]
-2	ingku	ingku	PRON	_	PronType=Dem	4	appos	_	Analysis=iingku(DEM.PRO)|Gloss=the-one-over-there
+2	ingku	ingku	PRON	_	PronType=Dem	4	nmod	_	Analysis=iingku(DEM.PRO)|Gloss=the-one-over-there
 3	t	t	X	_	Case=Abs,Erg|Number=Plur	2	dep:infl	_	Analysis=[AbsRel.Pl]
 4-5	afsengaat	_	_	_	_	_	_	_	Analysis=afsengagh*(N)^[Abs.Pl]|Gloss=the-voles
 4	afsenga	afsenga	NOUN	_	_	7	nsubj	_	Analysis=afsengagh*(N)|Gloss=vole
@@ -4823,7 +4823,7 @@
 5	a	a	X	_	Mood=Int|Subcat=Tran	4	dep:infl	_	Analysis=[Intrg.Trns]
 6	kek	kek	X	_	Number[obj]=Dual|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg.3Du]
 7-8	iingkuk	_	_	_	_	_	_	_	Analysis=iingku(DEM.PRO)^[AbsRel.Du]|Gloss=the-ones-over-there
-7	iingku	iingku	PRON	_	_	9	appos	_	Analysis=iingku(DEM.PRO)|Gloss=the-one-over-there
+7	iingku	iingku	PRON	_	_	9	nmod	_	Analysis=iingku(DEM.PRO)|Gloss=the-one-over-there
 8	k	k	X	_	Case=Abs,Erg|Number=Dual	7	dep:infl	_	Analysis=[AbsRel.Du]
 9-10	qallevagek	_	_	_	_	_	_	_	Analysis=qallevag(N)^[Abs.Du]|Gloss=the-overalls|SpaceAfter=No
 9	qallevag	qallevag	NOUN	_	_	4	obj	_	Analysis=qallevag(N)|Gloss=overalls
