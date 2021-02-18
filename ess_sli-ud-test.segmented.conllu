@@ -271,7 +271,7 @@
 3-7	aghnaghaghllaguut	_	_	_	_	_	_	_	Analysis=aghnaghagh*(N)^–ghllag(N→N)^~:(ng)u(N→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-big-girls|SpaceAfter=No
 3	aghnagha	aghnagha	NOUN	_	_	0	root	_	Analysis=aghnaghagh*(N)|Gloss=girl
 4	ghllag	ghllag	NOUN	_	_	3	nmod	_	Analysis=–ghllag(N→N)|Gloss=big-N
-5	u	u	VERB	_	_	3	cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
+5	u	u	VERB	_	_	3	dep:cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
 6	u	u	X	_	Mood=Ind|Subcat=Intr	5	dep:infl	_	Analysis=[Ind.Intr]
 7	t	t	X	_	Number[subj]=Plur|Person[subj]=3	5	dep:infl	_	Analysis=[3Pl]
 8	.	.	PUNCT	_	_	3	punct	_	Analysis=.
@@ -524,7 +524,7 @@
 # labels = complete-dep anno-hayley
 1-4	Qikmiiguq	_	_	_	_	_	_	_	Analysis=qikmigh(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Sg]|Gloss=it-is-a-dog|SpaceAfter=No
 1	qikmi	qikmi	NOUN	_	_	0	root	_	Analysis=qikmigh(N)|Gloss=dog
-2	i	i	VERB	_	_	1	cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
+2	i	i	VERB	_	_	1	dep:cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
 3	gu	gu	X	_	Mood=Ind|Subcat=Intr	2	dep:infl	_	Analysis=[Ind.Intr]
 4	q	q	X	_	Number[subj]=Sing|Person[subj]=3	2	dep:infl	_	Analysis=[3Sg]
 5	.	.	PUNCT	_	_	1	punct	_	Analysis=.
@@ -536,7 +536,7 @@
 1	Ungaziq	Ungaziq	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Analysis=Ungazigh(N)^[Abs.Sg]|Gloss=Chaplino
 2-5	nunanguuq	_	_	_	_	_	_	_	Analysis=nuna(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Sg]|Gloss=it-is-a-land|SpaceAfter=No
 2	nuna	nuna	NOUN	_	_	0	root	_	Analysis=nuna(N)|Gloss=land
-3	ngu	ngu	VERB	_	_	2	cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
+3	ngu	ngu	VERB	_	_	2	dep:cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
 4	u	u	X	_	Mood=Ind|Subcat=Intr	3	dep:infl	_	Analysis=[Ind.Intr]
 5	q	q	X	_	Number[subj]=Sing|Person[subj]=3	3	dep:infl	_	Analysis=[3Sg]
 6	.	.	PUNCT	_	_	2	punct	_	Analysis=.
@@ -594,7 +594,7 @@
 2	t	t	X	_	Case=Abs|Number=Plur	1	dep:infl	_	Analysis=[Abs.Pl]
 3-6	Laluramkenguut	_	_	_	_	_	_	_	Analysis=Laluramke(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Pl]|Gloss=they-are-white-people|SpaceAfter=No
 3	Laluramke	Laluramke	NOUN	_	_	0	root	_	Analysis=Laluramke(N)|Gloss=white-person
-4	ngu	ngu	VERB	_	_	3	cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
+4	ngu	ngu	VERB	_	_	3	dep:cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
 5	u	u	X	_	Mood=Ind|Subcat=Intr	4	dep:infl	_	Analysis=[Ind.Intr]
 6	t	t	X	_	Number[subj]=Plur|Person[subj]=3	4	dep:infl	_	Analysis=[3Pl]
 7	.	.	PUNCT	_	_	3	punct	_	Analysis=.
@@ -608,7 +608,7 @@
 2	gllak	gllak	X	_	Case=Abs|Number=Sing	1	dep:infl	_	Analysis=–ghllag(N→N)^[Abs.Sg]|Gloss=big-N
 3-6	uginguuq	_	_	_	_	_	_	_	Analysis=ugi(N)^~:(ng)u(N→V)^[Ind.Intr]^[3Sg]|Gloss=he-is-a-husband|SpaceAfter=No
 3	ugi	ugi	NOUN	_	_	0	root	_	Analysis=ugi(N)|Gloss=husband
-4	ngu	ngu	VERB	_	_	3	cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
+4	ngu	ngu	VERB	_	_	3	dep:cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
 5	u	u	X	_	Mood=Ind|Subcat=Intr	4	dep:infl	_	Analysis=[Ind.Intr]
 6	q	q	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg]
 7	.	.	PUNCT	_	_	3	punct	_	Analysis=.
@@ -1842,7 +1842,7 @@
 # labels = complete-dep anno-hayley
 1-3	Kinanguzin	_	_	_	_	_	_	_	Analysis=kina(WH)^~:(ng)u(N→V)^[Intrg.Intr.2Sg]|Gloss=who-are-you?|SpaceAfter=No
 1	kina	kina	PRON	_	PronType=Int	0	root	_	Analysis=kina(WH)|Gloss=who
-2	ngu	ngu	VERB	_	_	1	cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
+2	ngu	ngu	VERB	_	_	1	dep:cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
 3	zin	zin	X	_	Mood=Int|Number[subj]=Sing|Person[subj]=2|Subcat=Intr	2	dep:infl	_	Analysis=[Intrg.Intr.2Sg]
 4	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
@@ -1852,7 +1852,7 @@
 # labels = complete-dep anno-hayley
 1-3	Kinkungutsi	_	_	_	_	_	_	_	Analysis=kinku(WH)^~:(ng)u(N→V)^[Intrg.Intr.2Pl]|Gloss=who-are-you-all?|SpaceAfter=No
 1	kinku	kinku	PRON	_	PronType=Int	0	root	_	Analysis=kinku(WH)|Gloss=who
-2	ngu	ngu	VERB	_	_	1	cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
+2	ngu	ngu	VERB	_	_	1	dep:cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
 3	tsi	tsi	X	_	Mood=Int|Number[subj]=Plur|Person[subj]=2|Subcat=Intr	2	dep:infl	_	Analysis=[Intrg.Intr.2Pl]
 4	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
@@ -2108,7 +2108,7 @@
 # labels = complete-dep anno-hayley
 1-3	Kinangaawa	_	_	_	_	_	_	_	Analysis=kina(WH)^~:(ng)u(N→V)^[Intrg.Intr]^[3Sg]|Gloss=who-is-he?|SpaceAfter=No
 1	kina	kina	PRON	_	PronType=Int	0	root	_	Analysis=kina(WH)|Gloss=who
-2	nga	nga	VERB	_	_	1	cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
+2	nga	nga	VERB	_	_	1	dep:cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
 3	awa	awa	X	_	Number[subj]=Sing|Person[subj]=3	2	dep:infl	_	Analysis=[Intrg.Intr]^[3Sg]
 4	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
@@ -2118,7 +2118,7 @@
 # labels = complete-dep anno-hayley
 1-4	Kinkungaawat	_	_	_	_	_	_	_	Analysis=kinku(WH)^~:(ng)u(N→V)^[Intrg.Intr]^[3Pl]|Gloss=who-are-they?
 1	kinku	kinku	PRON	_	PronType=Int	0	root	_	Analysis=kinku(WH)|Gloss=who
-2	nga	nga	VERB	_	_	1	cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
+2	nga	nga	VERB	_	_	1	dep:cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
 3	awa	awa	X	_	Mood=Int|Subcat=Intr	2	dep:infl	_	Analysis=[Intrg.Intr]
 4	t	t	X	_	Number[subj]=Plur|Person[subj]=3	2	dep:infl	_	Analysis=[3Pl]
 5-6	aqelqat	_	_	_	_	_	_	_	Analysis=aqelqagh(N)^[Abs.Pl]|Gloss=the-guests|SpaceAfter=No
@@ -2340,7 +2340,7 @@
 # labels = complete-dep anno-hayley
 1-3	Sangaawa	_	_	_	_	_	_	_	Analysis=sa(N)^~:(ng)u(N→V)^[Intrg.Intr]^[3Sg]|Gloss=what-is-it?|SpaceAfter=No
 1	sa	sa	NOUN	_	_	0	root	_	Analysis=sa(N)|Gloss=thing
-2	ngaa	ngaa	VERB	_	_	1	cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
+2	ngaa	ngaa	VERB	_	_	1	dep:cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
 3	wa	wa	X	_	Number[subj]=Sing|Person[subj]=3	2	dep:infl	_	Analysis=[Intrg.Intr]^[3Sg]
 4	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
@@ -4209,7 +4209,7 @@
 12	ni	ni	X	_	Case=Loc|Number=Plur	11	dep:infl	_	Analysis=[Loc.Pl]
 13-16	taghnughhaawaqngami	_	_	_	_	_	_	_	Analysis=taghnughhagh*(N)^~:(ng)u(N→V)^[Cnsq2.Intr]^[4Sg]|Gloss=while-he-was-a-child|SpaceAfter=No
 13	taghnughha	taghnughha	NOUN	_	_	8	advcl	_	Analysis=taghnughhagh*(N)|Gloss=child
-14	u	u	VERB	_	_	13	cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
+14	u	u	VERB	_	_	13	dep:cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
 15	gaqnga	gaqnga	X	_	Mood=Cn2|Subcat=Intr	14	dep:infl	_	Analysis=[Cnsq2.Intr]
 16	mi	mi	X	_	Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes	14	dep:infl	_	Analysis=[4Sg]
 17	.	.	PUNCT	_	_	13	punct	_	Analysis=.
@@ -4233,7 +4233,7 @@
 # labels = complete-dep anno-hayley
 1-3	Sangaawa	_	_	_	_	_	_	_	Analysis=sa(N)^~:(ng)u(N→V)^[Intrg.Intr]^[3Sg]|Gloss=what-is-it?
 1	sa	sa	NOUN	_	_	0	root	_	Analysis=sa(N)|Gloss=thing
-2	nga	nga	VERB	_	_	1	cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
+2	nga	nga	VERB	_	_	1	dep:cop	_	Analysis=~:(ng)u(N→V)|Gloss=to-be-N
 3	awa	awa	X	_	Number[subj]=Sing|Person[subj]=3	2	dep:infl	_	Analysis=[Intrg.Intr]^[3Sg]
 4-5	pugimalghii	_	_	_	_	_	_	_	Analysis=pugimagh(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-swam
 4	pugima	pugima	VERB	_	_	5	acl	_	Analysis=pugimagh(V)|Gloss=to-swim
