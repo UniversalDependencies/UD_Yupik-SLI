@@ -3566,7 +3566,7 @@
 4	eslallugughte	eslallugughte	VERB	_	_	1	advcl	_	Analysis=eslallugughte(V)|Gloss=for-it-to-rain
 5	ghnga	ghnga	X	_	Mood=Cnc|Subcat=Intr	4	dep:infl	_	Analysis=[Conc.Intr]
 6	an	an	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg]
-7	qayughllak	qayughllak	PART	_	_	10	mark	_	Analysis=qayughllak(PTCL)|Gloss=because
+7	qayughllak	qayughllak	PART	_	_	10	dep:mark	_	Analysis=qayughllak(PTCL)|Gloss=because
 8-9	ullghitagpung	_	_	_	_	_	_	_	Analysis=ullghitagh(N)^[Abs.1DuPoss.Du]|Gloss=our-vehicle
 8	ullghita	ullghita	NOUN	_	_	10	nsubj	_	Analysis=ullghitagh(N)|Gloss=vehicle
 9	gpung	gpung	X	_	Case=Abs|Number=Dual|Number[psor]=Dual|Person[psor]=1	8	dep:infl	_	Analysis=[Abs.1DuPoss.Du]
@@ -3956,7 +3956,7 @@
 12-16	tukfighinaluni	_	_	_	_	_	_	_	Analysis=tukfigh(V)^~i(V→V)^@~fna(V→V)^[Sbrd.Intr]^[4Sg]|Gloss=in-order-to-buy-something
 12	tukfigh	tukfigh	VERB	_	_	4	advcl	_	Analysis=tukfigh(V)|Gloss=to-buy
 13	i	i	VERB	_	_	12	dep:aux	_	Analysis=~i(V→V)|Gloss=to-V-something
-14	na	na	VERB	_	_	13	mark	_	Analysis=@~fna(V→V)|Gloss=in-order-to-V
+14	na	na	VERB	_	_	13	dep:mark	_	Analysis=@~fna(V→V)|Gloss=in-order-to-V
 15	lu	lu	X	_	Mood=Sbr|Subcat=Intr	14	dep:infl	_	Analysis=[Sbrd.Intr]
 16	ni	ni	X	_	Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes	14	dep:infl	_	Analysis=[4Sg]
 17-18	laluwaaymeng	_	_	_	_	_	_	_	Analysis=laluwaaye(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-dried-onion|SpaceAfter=No
@@ -4086,7 +4086,7 @@
 11	q	q	X	_	Number[subj]=Sing|Person[subj]=3	9	dep:infl	_	Analysis=[3Sg]
 12-15	esghaghnaluki	_	_	_	_	_	_	_	Analysis=esghagh(V)^@~fna(V→V)^[Sbrd.Trns]^[_.3Pl]|Gloss=in-order-to-see-them
 12	esghagh	esghagh	VERB	_	_	9	advcl	_	Analysis=esghagh(V)|Gloss=to-see
-13	na	na	VERB	_	_	12	mark	_	Analysis=@~fna(V→V)|Gloss=in-order-to-V
+13	na	na	VERB	_	_	12	dep:mark	_	Analysis=@~fna(V→V)|Gloss=in-order-to-V
 14	lu	lu	X	_	Mood=Sbr|Subcat=Tran	13	dep:infl	_	Analysis=[Sbrd.Trns]
 15	ki	ki	X	_	Number[obj]=Plur|Person[obj]=3	13	dep:infl	_	Analysis=[_.3Pl]
 16-17	aqelqat	_	_	_	_	_	_	_	Analysis=aqelqagh(N)^[Abs.Pl]|Gloss=the-guests
@@ -4281,7 +4281,7 @@
 2	nghit	nghit	VERB	_	Polarity=Neg	1	dep:aux	_	Analysis=@–nghite(V→V)|Gloss=to-not-V
 3	u	u	X	_	Mood=Ind|Subcat=Intr	2	dep:infl	_	Analysis=[Ind.Intr]
 4	nga	nga	X	_	Number[subj]=Sing|Person[subj]=1	2	dep:infl	_	Analysis=[1Sg]
-5	qayughllak	qayughllak	PART	_	_	7	mark	_	Analysis=qayughllak(PTCL)|Gloss=because
+5	qayughllak	qayughllak	PART	_	_	7	dep:mark	_	Analysis=qayughllak(PTCL)|Gloss=because
 6	paamna	paamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	7	nsubj	_	Analysis=paamna(DEM.PRO.Abs.Sg)|Gloss=that-one-up-there-not-in-sight'
 7-8	iglagtulghii	_	_	_	_	_	_	_	Analysis=iglagtu(V)^[Ptcp.Intr]^[3Sg]|Gloss=he-used-a-loud-voice|SpaceAfter=No
 7	iglagtu	iglagtu	VERB	_	_	1	advcl	_	Analysis=iglagtu(V)|Gloss=to-use-a-loud-voice
@@ -4344,7 +4344,7 @@
 5	lghii	lghii	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[Ptcp.Intr]^[3Sg]
 6-9	neghnaluku	_	_	_	_	_	_	_	Analysis=negh(V)^@~fna(V→V)^[Sbrd.Trns]^[_.3Sg]|Gloss=in-order-to-eat-it
 6	negh	negh	VERB	_	_	3	advcl	_	Analysis=negh(V)|Gloss=to-eat
-7	na	na	VERB	_	_	6	mark	_	Analysis=@~fna(V→V)|Gloss=in-order-to-V
+7	na	na	VERB	_	_	6	dep:mark	_	Analysis=@~fna(V→V)|Gloss=in-order-to-V
 8	lu	lu	X	_	Mood=Sbr|Subcat=Tran	7	dep:infl	_	Analysis=[Sbrd.Trns]
 9	ku	ku	X	_	Number[obj]=Sing|Person[obj]=3	7	dep:infl	_	Analysis=[_.3Sg]
 10	nefkuuraq	nefkuuraq	NOUN	_	Case=Abs|Number=Sing	6	obj	_	Analysis=nefkuuragh(N)^[Abs.Sg]|Gloss=the-dried-meat|SpaceAfter=No
@@ -4637,7 +4637,7 @@
 10	k	k	X	_	Number[subj]=Dual|Person[subj]=3	8	dep:infl	_	Analysis=[3Du]
 11-14	inghunalutek	_	_	_	_	_	_	_	Analysis=inghu(V)^@~fna(V→V)^[Sbrd.Intr]^[4Du]|Gloss=picking-berries
 11	inghu	inghu	VERB	_	_	8	advcl	_	Analysis=inghu(V)|Gloss=to-pick-berries
-12	na	na	VERB	_	_	11	mark	_	Analysis=@~fna(V→V)|Gloss=in-order-to-V
+12	na	na	VERB	_	_	11	dep:mark	_	Analysis=@~fna(V→V)|Gloss=in-order-to-V
 13	lu	lu	X	_	Mood=Sbr|Subcat=Intr	12	dep:infl	_	Analysis=[Sbrd.Intr]
 14	tek	tek	X	_	Number[subj]=Dual|Person[subj]=3|Reflex[subj]=Yes	12	dep:infl	_	Analysis=[4Du]
 15-16	pagunghaghmeng	_	_	_	_	_	_	_	Analysis=pagunghagh*(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-crowberry
@@ -4786,7 +4786,7 @@
 4	li	li	X	_	Number[subj]=Sing|Person[subj]=3	3	dep:infl	_	Analysis=[Opt.Pres.Intr]^[3Sg]
 5-8	esghaannaluni	_	_	_	_	_	_	_	Analysis=esghaate(V)^@~fna(V→V)^[Sbrd.Intr]^[4Sg]|Gloss=in-order-that-he-see-something
 5	esghaan	esghaan	VERB	_	_	3	advcl	_	Analysis=esghaate(V)|Gloss=to-see-something
-6	na	na	VERB	_	_	5	mark	_	Analysis=@~fna(V→V)|Gloss=in-order-to-V
+6	na	na	VERB	_	_	5	dep:mark	_	Analysis=@~fna(V→V)|Gloss=in-order-to-V
 7	lu	lu	X	_	Mood=Sbr|Subcat=Intr	6	dep:infl	_	Analysis=[Sbrd.Intr]
 8	ni	ni	X	_	Number[subj]=Sing|Person[subj]=3|Reflex[subj]=Yes	6	dep:infl	_	Analysis=[4Sg]
 9-10	kiighwyameng	_	_	_	_	_	_	_	Analysis=kiighwyagh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-aurora|SpaceAfter=No
