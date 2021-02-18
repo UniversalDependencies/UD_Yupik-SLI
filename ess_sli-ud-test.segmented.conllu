@@ -4532,7 +4532,7 @@
 # text = Iigna Quyillek kaallghii ighivgaq paamken kalileghrugllalguuq.
 # gloss = That Chukchi person over there, the one that arrived yesterday from that one up there, had a big dalmation dog.
 # labels = complete-dep anno-hayley
-1	Iigna	iigna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	appos	_	Analysis=iigna(DEM.PRO.Abs.Sg)|Gloss=that-one-over-there
+1	Iigna	iigna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	2	nmod	_	Analysis=iigna(DEM.PRO.Abs.Sg)|Gloss=that-one-over-there
 2	Quyillek	Quyillek	NOUN	_	Case=Abs|Number=Sing	9	nsubj	_	Analysis=Quyilleg(N)^[Abs.Sg]|Gloss=Chukchi
 3-4	kaallghii	_	_	_	_	_	_	_	Analysis=kaate(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-arrived
 3	kaa	kaa	VERB	_	_	4	acl	_	Analysis=kaate(V)|Gloss=to-arrive
