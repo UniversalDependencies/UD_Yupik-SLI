@@ -3566,7 +3566,7 @@
 4	eslallugughte	eslallugughte	VERB	_	_	1	advcl	_	Analysis=eslallugughte(V)|Gloss=for-it-to-rain
 5	ghnga	ghnga	X	_	Mood=Cnc|Subcat=Intr	4	dep:infl	_	Analysis=[Conc.Intr]
 6	an	an	X	_	Number[subj]=Sing|Person[subj]=3	4	dep:infl	_	Analysis=[3Sg]
-7	qayughllak	qayughllak	PART	_	_	10	dep:mark	_	Analysis=qayughllak(PTCL)|Gloss=because
+7	qayughllak	qayughllak	PART	_	_	10	mark	_	Analysis=qayughllak(PTCL)|Gloss=because
 8-9	ullghitagpung	_	_	_	_	_	_	_	Analysis=ullghitagh(N)^[Abs.1DuPoss.Du]|Gloss=our-vehicle
 8	ullghita	ullghita	NOUN	_	_	10	nsubj	_	Analysis=ullghitagh(N)|Gloss=vehicle
 9	gpung	gpung	X	_	Case=Abs|Number=Dual|Number[psor]=Dual|Person[psor]=1	8	dep:infl	_	Analysis=[Abs.1DuPoss.Du]
@@ -4281,7 +4281,7 @@
 2	nghit	nghit	VERB	_	Polarity=Neg	1	dep:aux	_	Analysis=@–nghite(V→V)|Gloss=to-not-V
 3	u	u	X	_	Mood=Ind|Subcat=Intr	2	dep:infl	_	Analysis=[Ind.Intr]
 4	nga	nga	X	_	Number[subj]=Sing|Person[subj]=1	2	dep:infl	_	Analysis=[1Sg]
-5	qayughllak	qayughllak	PART	_	_	7	dep:mark	_	Analysis=qayughllak(PTCL)|Gloss=because
+5	qayughllak	qayughllak	PART	_	_	7	mark	_	Analysis=qayughllak(PTCL)|Gloss=because
 6	paamna	paamna	PRON	_	Case=Abs|Number=Sing|PronType=Dem	7	nsubj	_	Analysis=paamna(DEM.PRO.Abs.Sg)|Gloss=that-one-up-there-not-in-sight'
 7-8	iglagtulghii	_	_	_	_	_	_	_	Analysis=iglagtu(V)^[Ptcp.Intr]^[3Sg]|Gloss=he-used-a-loud-voice|SpaceAfter=No
 7	iglagtu	iglagtu	VERB	_	_	1	advcl	_	Analysis=iglagtu(V)|Gloss=to-use-a-loud-voice
