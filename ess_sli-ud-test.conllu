@@ -2183,7 +2183,7 @@
 # gloss = She hasn't gone out because she is afraid of dogs.
 # labels = complete-dep anno-hayley
 1	Aanigatuq	aan	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Subcat=Intr|Tense=Pres	0	root	_	Analysis=aane(V)^@~:(ng)igate(V→V)^[Ind.Intr]^[3Sg]|Gloss=she-has-not-gone-out
-2	qayughllak	qayughllak	PART	_	_	3	advmod	_	Analysis=qayughllak(PTCL)|Gloss=because
+2	qayughllak	qayughllak	PART	_	_	3	mark	_	Analysis=qayughllak(PTCL)|Gloss=because
 3	alingelghii	alinge	VERB	_	Number[subj]=Sing|Person[subj]=3	1	advcl	_	Analysis=alinge(V)^[Ptcp.Intr]^[3Sg]|Gloss=she-is-afraid
 4	qikmimeng	qikmi	NOUN	_	Case=Abl|Number=Sing	3	obl:mod	_	Analysis=qikmigh(N)^[Abl_Mod.Sg]|Gloss=by-the-means-of-dogs|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	Analysis=.

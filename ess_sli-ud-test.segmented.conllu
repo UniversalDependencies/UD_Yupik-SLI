@@ -3760,7 +3760,7 @@
 2	igat	igat	VERB	_	Polarity=Neg|Tense=Pres	1	dep:aux	_	Analysis=@~:(ng)igate(V→V)|Gloss=to-never-V
 3	u	u	X	_	Mood=Ind|Subcat=Intr	2	dep:infl	_	Analysis=[Ind.Intr]
 4	q	q	X	_	Number[subj]=Sing|Person[subj]=3	2	dep:infl	_	Analysis=[3Sg]
-5	qayughllak	qayughllak	PART	_	_	6	advmod	_	Analysis=qayughllak(PTCL)|Gloss=because
+5	qayughllak	qayughllak	PART	_	_	6	mark	_	Analysis=qayughllak(PTCL)|Gloss=because
 6-7	alingelghii	_	_	_	_	_	_	_	Analysis=alinge(V)^[Ptcp.Intr]^[3Sg]|Gloss=she-is-afraid
 6	alinge	alinge	VERB	_	_	1	advcl	_	Analysis=alinge(V)|Gloss=to-be-afraid
 7	lghii	lghii	X	_	Number[subj]=Sing|Person[subj]=3	6	dep:infl	_	Analysis=[Ptcp.Intr]^[3Sg]
