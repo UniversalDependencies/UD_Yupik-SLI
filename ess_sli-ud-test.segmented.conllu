@@ -2728,7 +2728,7 @@
 3	sagnegh	sagnegh	NOUN	_	_	6	obj	_	Analysis=sagnegh(N)|Gloss=bowl
 4	a	a	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	dep:infl	_	Analysis=[Abs.3SgPoss.Sg]
 5-9	pagunghalighnaqaqa	_	_	_	_	_	_	_	Analysis=pagunghagh*(N)^–ligh(N→V)^@~fnaqe(V→V)^[Ind.Trns]^[1Sg.3Sg]|Gloss=I-am-going-to-put-crowberries-in-it|SpaceAfter=No
-5	pagungha	pagungha	NOUN	_	_	6	nmod:arg	_	Analysis=pagunghagh*(N)|Gloss=crowberry
+5	pagungha	pagungha	NOUN	_	_	6	obj	_	Analysis=pagunghagh*(N)|Gloss=crowberry
 6	ligh	ligh	VERB	_	_	0	root	_	Analysis=–ligh(N→V)|Gloss=to-put-N-in
 7	naq	naq	VERB	_	Tense=Fut	6	dep:aux	_	Analysis=@~fnaqe(V→V)|Gloss=to-be-going-to-V
 8	a	a	X	_	Mood=Ind|Subcat=Tran	7	dep:infl	_	Analysis=[Ind.Trns]
@@ -4644,7 +4644,7 @@
 15	pagunghagh	pagunghagh	NOUN	_	_	11	obl:mod	_	Analysis=pagunghagh*(N)|Gloss=crowberry
 16	meng	meng	X	_	Case=Abl|Number=Sing	15	dep:infl	_	Analysis=[Abl_Mod.Sg]
 17-20	eslallugughteghngaan	_	_	_	_	_	_	_	Analysis=eslallug(N)^~:(ng)ughte(N→V)^[Conc.Intr]^[3Sg]|Gloss=even-though-it-started-to-rain|SpaceAfter=No
-17	eslallug	eslallug	NOUN	_	_	18	nmod:arg	_	Analysis=eslallug(N)|Gloss=rain
+17	eslallug	eslallug	NOUN	_	_	18	obj	_	Analysis=eslallug(N)|Gloss=rain
 18	ughte	ughte	VERB	_	_	8	advcl	_	Analysis=~:(ng)ughte(N→V)|Gloss=for-there-to-start-to-be-N
 19	ghnga	ghnga	X	_	Mood=Cnc|Subcat=Intr	18	dep:infl	_	Analysis=[Conc.Intr]
 20	an	an	X	_	Number[subj]=Sing|Person[subj]=3	18	dep:infl	_	Analysis=[3Sg]
