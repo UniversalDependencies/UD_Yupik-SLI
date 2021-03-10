@@ -3061,7 +3061,7 @@
 1	Karake	Karake	NOUN	_	_	7	nsubj	_	Analysis=Karake(N)|Gloss=Koryak
 2	m	m	X	_	Case=Erg|Number=Sing	1	dep:infl	_	Analysis=[Rel.Sg]
 3-5	Quyillegtilghiim	_	_	_	_	_	_	_	Analysis=quyillegti(V)^@–lghii(V→N)^[Rel.Sg]|Gloss=the-one-that-is-speaking-Chukchi
-3	quyillegti	quyillegti	VERB	_	_	4	acl	_	Analysis=quyillegti(V)|Gloss=to-speak-Chukchi
+3	Quyillegti	quyillegti	VERB	_	_	4	acl	_	Analysis=quyillegti(V)|Gloss=to-speak-Chukchi
 4	lghii	lghii	NOUN	_	_	1	appos	_	Analysis=@–lghii(V→N)|Gloss=one-that-is-V-ing
 5	m	m	X	_	Case=Erg|Number=Sing	4	dep:infl	_	Analysis=[Rel.Sg]
 6-9	neghyugaa	_	_	_	_	_	_	_	Analysis=negh(V)^@~fyug(V→V)^[Ind.Trns]^[3Sg.3Sg]|Gloss=he-wants-to-eat-it
