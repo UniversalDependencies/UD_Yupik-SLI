@@ -2402,7 +2402,7 @@
 # gloss = What is the thing that swam down there in the water?
 # labels = complete-dep anno-hayley
 1	Sangaawa	sa	VERB	_	Number[subj]=Sing|Person[subj]=3	0	root	_	Analysis=sa(N)^~:(ng)u(N→V)^[Intrg.Intr]^[3Sg]|Gloss=what-is-it?
-2	pugimalghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	nsubj	_	Analysis=pugimagh(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-swam
+2	pugimalghii	lghii	NOUN	_	Case=Abs|Number=Sing	1	appos	_	Analysis=pugimagh(V)^@–lghii(V→N)^[Abs.Sg]|Gloss=the-one-that-swam
 3	un'gani	un'gani	ADV	_	Case=Loc	2	advmod	_	Analysis=un'gani(DEM.ADV.Loc)|Gloss=down-there-at-the-water|SpaceAfter=No
 4	?	?	PUNCT	_	_	1	punct	_	Analysis=?
 
