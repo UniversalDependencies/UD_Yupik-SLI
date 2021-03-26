@@ -1,6 +1,6 @@
 # Summary
 
-UD_Yupik-SLI is a treebank of St. Lawrence Island Yupik (ISO 639-3: ess) that has been manually annotated 1) at the word level and also 2) at the morpheme level. The morphological segmentation and annotation is based on a finite-state morphological analyzer by [Chen et al., 2020](https://www.aclweb.org/anthology/2020.lrec-1.326).
+UD_Yupik-SLI is a treebank of St. Lawrence Island Yupik (ISO 639-3: ess) that has been manually annotated at the morpheme level, based on a finite-state morphological analyzer by [Chen et al., 2020](https://www.aclweb.org/anthology/2020.lrec-1.326).
 
 # Introduction
 
