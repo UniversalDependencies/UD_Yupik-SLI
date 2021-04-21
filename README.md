@@ -1,6 +1,8 @@
 # Summary
 
 UD_Yupik-SLI is a treebank of St. Lawrence Island Yupik (ISO 639-3: ess) that has been manually annotated at the morpheme level, based on a finite-state morphological analyzer by [Chen et al., 2020](https://www.aclweb.org/anthology/2020.lrec-1.326).
+The word-level annotation, merging multiword expressions, is provided in not-to-release/ess_sli-ud-test.merged.conllu.
+More information about the treebank can be found in our publication (AmericasNLP, 2021).
 
 # Introduction
 
@@ -13,6 +15,18 @@ The current version contains dependency annotations for end-of-chapter exercises
 ## References
 
 ```
+@inproceedings{park-etal-2021-expanding,
+    title = "Expanding Universal Dependencies for Polysynthetic Languages: A Case of St.~Lawrence Island Yupik",
+    author = "Park, Hyunji Hayley  and
+      Schwartz, Lane and
+      Tyers, Francis M.",
+    booktitle = "Proceedings of the 1st Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics"
+}
+
 @inproceedings{chen-etal-2020-improved,
     title = "Improved Finite-State Morphological Analysis for {S}t. {L}awrence {I}sland {Y}upik Using Paradigm Function Morphology",
     author = "Chen, Emily  and
