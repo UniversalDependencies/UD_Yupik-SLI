@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>309</sentences><tokens>1221</tokens><words>2568</words><fused>773</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>309</sentences><tokens>1221</tokens><words>2568</words><fused>773</fused></test>
+  </size>
+  <lemmas unique="638" /><!-- ., u, a, meng, t, ?, q, nga, k, i, et, lleq, qa, tu, gu -->
+  <forms unique="638" /><!-- ., u, a, meng, t, ?, q, nga, k, i, et, lleq, qa, tu, gu -->
+  <fusions unique="650" /><!-- aqelqat, yugem, qergesek, Kitum, esghaatunga, iflaak, mangteghameng, naagpek, taghnughhaat, ungipaataanga, yuget, Sivuqaghmeng, Tagitiki, aatgha, aatghit -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="10">
+    <tag name="ADV">65</tag><!-- qakun, sangavek, qavngaq, navek, sangan, llu, naken, nani, aagken, naten -->
+    <tag name="CCONJ">4</tag><!-- llu -->
+    <tag name="DET">5</tag><!-- nali, qafsina -->
+    <tag name="NOUN">486</tag><!-- qikmi, yug, lghii, mangtegha, naa, ghllag, taghnughha, aatgh, apa, apeghtughiste -->
+    <tag name="NUM">1</tag><!-- maaghraghvinleg -->
+    <tag name="PART">16</tag><!-- unaami, ighivgaq, qayughllak, elngaatall, quunpeng -->
+    <tag name="PRON">23</tag><!-- kitu, kina, kinku, paamna, sameng, elpenun, iigna, iingku, ingku, kaanyuq -->
+    <tag name="PUNCT">310</tag><!-- ., ?, , -->
+    <tag name="VERB">556</tag><!-- lleq, aq, negh, lgu, naq, uma, neghe, yug, aan, esghagh -->
+    <tag name="X">1102</tag><!-- u, a, meng, t, q, nga, k, i, et, qa -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="59">
+    <feat name="Aspect" value="Hab" upos="VERB">2</feat><!-- aq -->
+    <feat name="Aspect" value="Prog" upos="VERB">25</feat><!-- aq, iq, gaq -->
+    <feat name="Case" value="Abl" upos="ADV,X">85</feat><!-- meng, neng, aagken, aneng, Pikegken, gneng, paamken -->
+    <feat name="Case" value="Abs" upos="NOUN,PRON,X">237</feat><!-- et, t, ka, a, k, n, qa, nga, at, ten -->
+    <feat name="Case" value="Abs,Erg" upos="X">2</feat><!-- k, t -->
+    <feat name="Case" value="All" upos="ADV,PRON,X">32</feat><!-- mun, anun, gnun, -emun, elpenun, kiwavek, minun, nun, pagavek, sakmavek -->
+    <feat name="Case" value="Equ" upos="X">3</feat><!-- estun, stun -->
+    <feat name="Case" value="Erg" upos="PRON,X">40</feat><!-- m, em, ma, gpek, ghpek, ita, am, an, et, um -->
+    <feat name="Case" value="Gen" upos="NOUN,X">37</feat><!-- em, m, ma, gpek, mi, t, an, at, et, ghpek -->
+    <feat name="Case" value="Loc" upos="ADV,X">27</feat><!-- mi, ni, Awani, Ingani, Qagani, an'gani, egn, egni, imani, maani -->
+    <feat name="Case" value="Per" upos="ADV,X">4</feat><!-- kun, ngakun, paaggun, teggun -->
+    <feat name="Case" value="Voc" upos="PRON">1</feat><!-- Kaanyuq -->
+    <feat name="Mood" value="Cn1" upos="X">15</feat><!-- ya, sa -->
+    <feat name="Mood" value="Cn2" upos="X">6</feat><!-- aqnga, gaqnga, iqnga -->
+    <feat name="Mood" value="Cnc" upos="X">8</feat><!-- ghngaagh, ghnga, nga -->
+    <feat name="Mood" value="Cnd" upos="X">13</feat><!-- k, kw, q, gk -->
+    <feat name="Mood" value="Ctm" upos="X">2</feat><!-- negh, ngh -->
+    <feat name="Mood" value="Ind" upos="X">196</feat><!-- u, a, tu, i, gu -->
+    <feat name="Mood" value="Int" upos="X">54</feat><!-- sin, si, a, tsi, estek, ta, zin, st, zi, awa -->
+    <feat name="Mood" value="Opt" upos="X">32</feat><!-- i, fqaa, igu, elt, la, ghha, gu, ilt, lgha, lla -->
+    <feat name="Mood" value="Prc" upos="X">2</feat><!-- fagilga -->
+    <feat name="Mood" value="Ptc" upos="X">6</feat><!-- ka, lghii, ke -->
+    <feat name="Mood" value="Sbr" upos="X">23</feat><!-- lu, na, llu -->
+    <feat name="Number" value="Dual" upos="X">30</feat><!-- k, ek, gka, egka, gnun, kek, egken, egn, egni, gneng -->
+    <feat name="Number" value="Plur" upos="PRON,X">101</feat><!-- et, t, at, ten, neng, it, ma, meng, anka, enka -->
+    <feat name="Number" value="Sing" upos="NOUN,PRON,X">323</feat><!-- meng, m, mun, em, mi, ka, a, n, qa, nga -->
+    <feat name="Number[obj]" value="Dual" upos="X">13</feat><!-- kek, gka, k, fkek, gkenka, kung -->
+    <feat name="Number[obj]" value="Plur" upos="X">29</feat><!-- ki, i, inkut, it, ngi, nka -->
+    <feat name="Number[obj]" value="Sing" upos="X">85</feat><!-- qa, gu, a, nga, anga, igu, ku, n, an, mken -->
+    <feat name="Number[psor]" value="Dual" upos="X">2</feat><!-- gpung, mtung -->
+    <feat name="Number[psor]" value="Plur" upos="X">10</feat><!-- it, ita, ngat, taghnughhiit -->
+    <feat name="Number[psor]" value="Sing" upos="NOUN,X">127</feat><!-- ka, a, n, ma, qa, nga, gpek, ten, ni, an -->
+    <feat name="Number[subj]" value="Dual" upos="X">27</feat><!-- k, kung, estek, ung, agkenka, tek, yek -->
+    <feat name="Number[subj]" value="Dual,Plur,Sing" upos="X">8</feat><!-- mken, n, an, gkenka, ma -->
+    <feat name="Number[subj]" value="Plur" upos="X">78</feat><!-- t, a, tsi, kut, meng, akut, ata, it, si, teng -->
+    <feat name="Number[subj]" value="Sing" upos="X">255</feat><!-- q, nga, qa, gu, sin, ki, a, i, lghii, n -->
+    <feat name="Person" value="1" upos="PRON">1</feat><!-- whangkunnun -->
+    <feat name="Person" value="2" upos="PRON">1</feat><!-- elpenun -->
+    <feat name="Person" value="3" upos="X">5</feat><!-- meng, an, mi -->
+    <feat name="Person[obj]" value="1" upos="X">19</feat><!-- anga, nga, inkut, aghminga, kung, ma, penga, uvnga, vnga -->
+    <feat name="Person[obj]" value="2" upos="X">6</feat><!-- mken, ten -->
+    <feat name="Person[obj]" value="3" upos="X">102</feat><!-- ki, qa, gu, a, i, igu, kek, ku, n, an -->
+    <feat name="Person[psor]" value="1" upos="X">48</feat><!-- ka, ma, qa, gka, anka, egka, enka, nka, gpung, mtung -->
+    <feat name="Person[psor]" value="2" upos="X">35</feat><!-- n, gpek, ten, ghpek, an, en, egken, pek -->
+    <feat name="Person[psor]" value="3" upos="NOUN,X">56</feat><!-- a, nga, it, ni, an, aneng, anun, i, ita, kek -->
+    <feat name="Person[subj]" value="1" upos="X">68</feat><!-- nga, qa, kung, a, kut, ma, mken, ung, akut, gka -->
+    <feat name="Person[subj]" value="2" upos="X">86</feat><!-- sin, ki, gu, igu, uvek, kek, n, tsi, estek, nga -->
+    <feat name="Person[subj]" value="3" upos="X">214</feat><!-- q, t, k, a, gu, lghii, anga, i, an, n -->
+    <feat name="Polarity" value="Neg" upos="VERB,X">24</feat><!-- fqaa, nghit, igat, ghpe, neghin, neghit, nghil, nghite, ngigal, nneghi -->
+    <feat name="PronType" value="Dem" upos="PRON">9</feat><!-- paamna, Iigna, Kaanyuq, Qaamna, ingku, m, pagna, piku -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">53</feat><!-- Qakun, Sangavek, Qavngaq, Kitu, Navek, Sangan, Naken, Nali, Nani, Kina -->
+    <feat name="Reflex" value="Yes" upos="X">12</feat><!-- ni, meng, mi, minun -->
+    <feat name="Reflex[obj]" value="Yes" upos="X">2</feat><!-- tni, vgu -->
+    <feat name="Reflex[subj]" value="Yes" upos="X">17</feat><!-- ni, meng, mi, teng, aghminga, migu, tek, uni -->
+    <feat name="Subcat" value="Intr" upos="X">235</feat><!-- u, tu, a, sin, gu, k, lu, ya, i, tsi -->
+    <feat name="Subcat" value="Tran" upos="X">122</feat><!-- a, i, si, lu, igu, ya, fqaa, ka, ta, la -->
+    <feat name="Tense" value="Fut" upos="VERB,X">46</feat><!-- lleq, naq, nnaq, lleqe, ghha, lgha, nake, naqe, yaquna -->
+    <feat name="Tense" value="Past" upos="VERB">12</feat><!-- uma, ma, ama -->
+    <feat name="Tense" value="Pres" upos="VERB,X">59</feat><!-- aq, i, fqaa, igu, iq, igat, elt, la, gaq, gu -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="25">
+    <dep name="acl">17</dep>
+    <dep name="advcl">73</dep>
+    <dep name="advmod">76</dep>
+    <dep name="appos">21</dep>
+    <dep name="cc">4</dep>
+    <dep name="conj">2</dep>
+    <dep name="dep:ana">7</dep>
+    <dep name="dep:aux">120</dep>
+    <dep name="dep:cop">12</dep>
+    <dep name="dep:emo">1</dep>
+    <dep name="dep:infl">1087</dep>
+    <dep name="dep:mark">5</dep>
+    <dep name="dep:pos">3</dep>
+    <dep name="det">5</dep>
+    <dep name="mark">3</dep>
+    <dep name="nmod">68</dep>
+    <dep name="nmod:arg">3</dep>
+    <dep name="nsubj">173</dep>
+    <dep name="nummod">1</dep>
+    <dep name="obj">121</dep>
+    <dep name="obl">69</dep>
+    <dep name="obl:mod">44</dep>
+    <dep name="punct">310</dep>
+    <dep name="root">309</dep>
+    <dep name="xcomp">34</dep>
+  </deps>
+</treebank>
