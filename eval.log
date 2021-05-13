@@ -1,0 +1,40 @@
+Running the following version of UD tools:
+commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Thu May 6 20:16:19 2021 +0200
+Evaluating the following revision of UD_Yupik-SLI:
+commit db1290c1bab8a7a8b9cf9d91b9a8ccba1cbb15b7
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed May 12 21:20:14 2021 +0200
+Size: counted 2568 of 2568 words (nodes).
+Size: min(0, log((N/1000)**2)) = 1.88625477165543.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 10 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 1333 out of 2568 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 17 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Udapi:
+               TOTAL        562
+Udapi: found 562 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 2568 words.
+Genres: found 1 out of 17 known.
+validate.py --lang ess --max-err=10 UD_Yupik-SLI/ess_sli-ud-test.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
+(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
+(weight=0.256410256410256) * (score{size}=0.136531673132272) = 0.0350081213159672
+(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
+(weight=0.0769230769230769) * (score{tags}=0.588235294117647) = 0.0452488687782805
+(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.0769230769230769) * (score{udeprels}=0.459459459459459) = 0.0353430353430353
+(TOTAL score=0.277560809751008) * (availability=1) * (validity=1) = 0.277560809751008
+STARS = 1.5
+UD_Yupik-SLI	0.277560809751008	1.5
