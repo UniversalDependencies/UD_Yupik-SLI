@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Yupik-SLI:
-commit b2a395b8b02cef7359214c89f875c800e462d62c
+commit 44b288ba57e087058ba9e14ac0b4c526ce4210a7
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 13 10:04:07 2021 +0200
+Date:   Wed Nov 3 17:09:52 2021 +0100
 Size: counted 2568 of 2568 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.88625477165543.
 Size: maximum value 13.815511 is for 1000000 words or more.
