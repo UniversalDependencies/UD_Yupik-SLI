@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Yupik-SLI:
-commit a292abb6ee68950452e659522cee6917adf69603
+commit 32baeb7bf0595ce2e1a32536e80da938d6a1e9f2
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 13:14:47 2023 +0100
+Date:   Sun May 5 13:40:55 2024 +0200
 Size: counted 2568 of 2568 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.88625477165543.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,6 +25,12 @@ Udapi: found 562 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 2568 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ess --max-err=10 UD_Yupik-SLI/ess_sli-ud-test.conllu
+[Line 1759 Sent Jacobson.Ch8.gold:8 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:Qafsina:det --> 2:neng:dep)
+[Line 2071 Sent Jacobson.Ch8.gold:33 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:Qafsina:det --> 2:neng:dep)
+[Line 2193 Sent Jacobson.Ch9.gold:8 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:Nali:det --> 2:ita:dep)
+[Line 2284 Sent Jacobson.Ch9.gold:14 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:Nali:det --> 2:ita:dep)
+[Line 2363 Sent Jacobson.Ch9.gold:20 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:Nali:det --> 2:it:dep)
+Warnings: 5
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
