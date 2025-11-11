@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Yupik-SLI:
-commit ecac5eaf182208ce09eb7d661078bc94769fd611
+commit 1fffbe1b8eb4b4d879c95af1e4c64d061b5fd3d4
+Merge: 024d00d eeb6035
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 11 16:50:50 2024 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'ess_sli'
+Language code (from CoNLL-U file name) = 'ess'
+Found the following data files: ess_sli-ud-test.conllu
 Size: counted 2568 of 2568 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.88625477165543.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,29 +23,30 @@ Features: 1333 out of 2568 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 17 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL        562
-Udapi: found 562 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 2568 words.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ess --max-err=10 UD_Yupik-SLI/ess_sli-ud-test.conllu
-[Line 1759 Sent Jacobson.Ch8.gold:8 Node 1]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Qafsina:det --> 2:neng:dep)
-[Line 2071 Sent Jacobson.Ch8.gold:33 Node 1]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Qafsina:det --> 2:neng:dep)
-[Line 2193 Sent Jacobson.Ch9.gold:8 Node 1]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Nali:det --> 2:ita:dep)
-[Line 2284 Sent Jacobson.Ch9.gold:14 Node 1]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Nali:det --> 2:ita:dep)
-[Line 2363 Sent Jacobson.Ch9.gold:20 Node 1]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Nali:det --> 2:it:dep)
-Syntax errors: 5
-*** FAILED *** with 5 errors
+[Line 1759 Sent Jacobson.Ch8.gold:8]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Qafsina:det --> 2:neng:dep)
+[Line 2071 Sent Jacobson.Ch8.gold:33]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Qafsina:det --> 2:neng:dep)
+[Line 2193 Sent Jacobson.Ch9.gold:8]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Nali:det --> 2:ita:dep)
+[Line 2284 Sent Jacobson.Ch9.gold:14]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Nali:det --> 2:ita:dep)
+[Line 2363 Sent Jacobson.Ch9.gold:20]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Nali:det --> 2:it:dep)
+[Line 2732 Sent Jacobson.Ch11.gold:1]: [L3 Syntax too-many-objects] Multiple direct objects [3, 5] ('sagnegh', 'pagungha') under the predicate 'ligh'.
+[Line 4584 Sent Jacobson.Ch16.gold:21]: [L3 Warning pron-det-without-prontype] The word 'whangkunnun' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 4711 Sent Jacobson.Ch17.gold:1]: [L3 Warning pron-det-without-prontype] The word 'elpenun' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 4822 Sent Jacobson.Ch17.gold:8]: [L3 Syntax too-many-objects] Multiple direct objects [3, 9] ('pi', 'qallevag') under the predicate 'k'.
+[Line 4826 Sent Jacobson.Ch17.gold:8]: [L3 Warning pron-det-without-prontype] The word 'iingku' is tagged 'PRON' but it lacks the 'PronType' feature
+Syntax errors: 7
+Warnings: 3
+*** FAILED *** with 7 errors
 Exit code: 1
 Validity: 0.01
-(weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
-(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.136531673132272) = 0.0350081213159672
-(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.588235294117647) = 0.0452488687782805
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.459459459459459) = 0.0353430353430353
-(TOTAL score=0.277309427146685) * (availability=1) * (validity=0.01) = 0.00277309427146685
+(weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.136531673132272) = 0.0505672863452859
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.588235294117647) = 0.065359477124183
+(weight=0.111111111111111) * (score{udeprels}=0.459459459459459) = 0.0510510510510511
+(TOTAL score=0.396113616989656) * (availability=1) * (validity=0.01) = 0.00396113616989656
 STARS = 0
-UD_Yupik-SLI	0.00277309427146685	0
+UD_Yupik-SLI	0.00396113616989656	0
