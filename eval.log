@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Yupik-SLI:
-commit 1fffbe1b8eb4b4d879c95af1e4c64d061b5fd3d4
-Merge: 024d00d eeb6035
+commit 04c287103c752fe0bcd7512b4136dc8d007f074d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 21:03:02 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'ess_sli'
 Language code (from CoNLL-U file name) = 'ess'
@@ -25,18 +25,18 @@ Universal relations: 17 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang ess --max-err=10 UD_Yupik-SLI/ess_sli-ud-test.conllu
-[Line 1759 Sent Jacobson.Ch8.gold:8]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Qafsina:det --> 2:neng:dep)
-[Line 2071 Sent Jacobson.Ch8.gold:33]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Qafsina:det --> 2:neng:dep)
-[Line 2193 Sent Jacobson.Ch9.gold:8]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Nali:det --> 2:ita:dep)
-[Line 2284 Sent Jacobson.Ch9.gold:14]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Nali:det --> 2:ita:dep)
-[Line 2363 Sent Jacobson.Ch9.gold:20]: [L3 Syntax leaf-det] 'det' not expected to have children (1:Nali:det --> 2:it:dep)
-[Line 2732 Sent Jacobson.Ch11.gold:1]: [L3 Syntax too-many-objects] Multiple direct objects [3, 5] ('sagnegh', 'pagungha') under the predicate 'ligh'.
-[Line 4584 Sent Jacobson.Ch16.gold:21]: [L3 Warning pron-det-without-prontype] The word 'whangkunnun' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 4711 Sent Jacobson.Ch17.gold:1]: [L3 Warning pron-det-without-prontype] The word 'elpenun' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 4822 Sent Jacobson.Ch17.gold:8]: [L3 Syntax too-many-objects] Multiple direct objects [3, 9] ('pi', 'qallevag') under the predicate 'k'.
-[Line 4826 Sent Jacobson.Ch17.gold:8]: [L3 Warning pron-det-without-prontype] The word 'iingku' is tagged 'PRON' but it lacks the 'PronType' feature
-Syntax errors: 7
+[Line 1759 Sent Jacobson.Ch8.gold:8]: [L3 SYNTAX leaf-det] 'det' not expected to have children (1:Qafsina:det --> 2:neng:dep)
+[Line 2071 Sent Jacobson.Ch8.gold:33]: [L3 SYNTAX leaf-det] 'det' not expected to have children (1:Qafsina:det --> 2:neng:dep)
+[Line 2193 Sent Jacobson.Ch9.gold:8]: [L3 SYNTAX leaf-det] 'det' not expected to have children (1:Nali:det --> 2:ita:dep)
+[Line 2284 Sent Jacobson.Ch9.gold:14]: [L3 SYNTAX leaf-det] 'det' not expected to have children (1:Nali:det --> 2:ita:dep)
+[Line 2363 Sent Jacobson.Ch9.gold:20]: [L3 SYNTAX leaf-det] 'det' not expected to have children (1:Nali:det --> 2:it:dep)
+[Line 2732 Sent Jacobson.Ch11.gold:1]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 5] ('sagnegh', 'pagungha') under the predicate 'ligh'.
+[Line 4584 Sent Jacobson.Ch16.gold:21]: [L3 WARNING pron-det-without-prontype] The word 'whangkunnun' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 4711 Sent Jacobson.Ch17.gold:1]: [L3 WARNING pron-det-without-prontype] The word 'elpenun' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 4822 Sent Jacobson.Ch17.gold:8]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 9] ('pi', 'qallevag') under the predicate 'k'.
+[Line 4826 Sent Jacobson.Ch17.gold:8]: [L3 WARNING pron-det-without-prontype] The word 'iingku' is tagged 'PRON' but it lacks the 'PronType' feature
 Warnings: 3
+SYNTAX errors: 7
 *** FAILED *** with 7 errors
 Exit code: 1
 Validity: 0.01
